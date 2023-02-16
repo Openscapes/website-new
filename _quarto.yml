@@ -2,17 +2,49 @@ project:
   type: website
 
 website:
-  title: "website-new"
+  favicon: images/favicon_fullres.png
   navbar:
-    left:
+    title: false
+    logo: images/logo.png
+    logo-alt: "The Openscapes logo -- orange text that reads 'openscapes' sitting above small berry 'data points'"
+    right:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: HOME
+      - sidebar:about
+      - sidebar:initiatives
+      - blog.qmd
+      - connect.qmd
+  page-footer:    
+    background: light
+    left: 
+      - "Openscapes is licensed under a [Creative Commons Attributions 4.0 International License](https://creativecommons.org/licenses/by/4.0/)." # hyperlink not working
+    right:
+      - "This website is built with ❤️ and [Quarto](https://quarto.org/)." # hyperlink not working
 
+sidebar:
+  - id: about
+    title: "about"
+    style: docked
+    background: light
+    collapse-level: 2
+    contents: 
+      - media.qmd
+    
+  - id: initiatives
+    title: "initiatives"
+    style: docked
+    background: light
+    collapse-level: 2
+    contents: 
+      - champions_program.qmd
+      
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    page-layout: full
+    #title-block-banner: images/horst_openscapes_grassland_big-text.png
+    theme: 
+      - styles.scss
+    mainfont: Sen
     toc: true
 
 

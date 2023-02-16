@@ -9,39 +9,29 @@ website:
     logo-alt: "The Openscapes logo -- orange text that reads 'openscapes' sitting above small berry 'data points'"
     right:
       - href: index.qmd
-        text: HOME
-      - sidebar:about
-      - sidebar:initiatives
-      - blog.qmd
-      - connect.qmd
+        text: "HOME"
+      - href: about.qmd
+        text: "ABOUT"
+        menu:
+          - text: "MEDIA"
+            href: media.qmd
+      - href: initiatives.qmd
+        text: "INITIATIVES"
+        menu:
+         - text: "CHAMPIONS PROGRAM"
+           href: champions-program.qmd
+      - href: blog.qmd
+        text: "BLOG"
+      - href: connect.qmd
+        text: "CONNECT"
   page-footer:    
     background: light
-    left: 
-      - "Openscapes is licensed under a [Creative Commons Attributions 4.0 International License](https://creativecommons.org/licenses/by/4.0/)." # hyperlink not working
-    right:
-      - "This website is built with ❤️ and [Quarto](https://quarto.org/)." # hyperlink not working
-
-sidebar:
-  - id: about
-    title: "about"
-    style: docked
-    background: light
-    collapse-level: 2
-    contents: 
-      - media.qmd
-    
-  - id: initiatives
-    title: "initiatives"
-    style: docked
-    background: light
-    collapse-level: 2
-    contents: 
-      - champions_program.qmd
+    left: Openscapes is licensed under a [Creative Commons Attributions 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+    right: This website is built with ❤️ and [Quarto](https://quarto.org/)
       
 format:
   html:
     page-layout: full
-    #title-block-banner: images/horst_openscapes_grassland_big-text.png
     theme: 
       - styles.scss
     mainfont: Sen

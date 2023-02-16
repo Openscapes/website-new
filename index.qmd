@@ -1,6 +1,12 @@
 ---
-#title: "website-new"
-#title-block-banner: images/horst_openscapes_grassland_big-text.png
+sidebar: false
+toc: false
+page-layout: full
+format:
+  html:
+    template-partials:
+      - html/landing-page/title-block.html
+  
 ---
 
 <!-- <div id="wrapper"> -->
@@ -11,17 +17,12 @@
 
 ::: {.grid}
 
-<!-- ::: {.g-col-12 .g-col-md-10 .g-start-md-2} -->
-
-<!-- ::: -->
-
 ::: {.g-col-12 .g-col-md-10 .g-start-md-2}
 
-::: {.h1 #what-we-do}
-WHAT WE DO
-:::
 
-At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster. Regardless of research question, environmental scientists are united by the need to analyze data — and to do so in a way that is efficient, reproducible, and easily communicated. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. [Our approach](https://www.openscapes.org/approach/):
+<h1 class="blue-underline center-text">**WHAT WE DO**</h1>
+
+**At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster.** Regardless of research question, environmental scientists are united by the need to analyze data — and to do so in a way that is efficient, reproducible, and easily communicated. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. [Our approach](https://www.openscapes.org/approach/):
 
 :::
 

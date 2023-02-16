@@ -1,14 +1,13 @@
 /*-- scss:defaults --*/
 
 // Import fonts
-@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap'); // similar to Avenir?
-//font-family: "Avenir", Helvetica, Arial, sans-serif; (from inspecting site)
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap'); // Sen is similar to Avenir?
 
 // Colors
 $white: #FFFFFF;
 $light-gray: #EEEEEE;
 $medium-gray: #555555;
-$dark-gray: #333333; // bottom-most footer, text
+$dark-gray: #333333; 
 $blue: #38A7BB;
 
 // Base document colors
@@ -24,30 +23,48 @@ $link-color: $blue;
 
 // Code blocks
 
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+
 /*-- scss:rules --*/
 
-// Element selectors
+/////////////////////////// Element selectors ///////////////////////////
+
+//h1 {
+  //color: $dark-gray;
+  //text-decoration: underline $blue;
+  //text-decoration-color: $blue;
+  //text-align: center;
+//}
 
 // ID selectors
-#wrapper, img{
+/*-- #wrapper, img{
     width:100%;
     height: 100%;
+} --*/ // NOT WORKING
+
+/////////////////////////// Class selectors (self-defined) ///////////////////////////
+
+.blue-underline {
+  text-decoration: underline $blue;
 }
 
-// Class selectors (self-defined)
+.center-text {
+  text-align: center;
+}
 
-// Class selectors (identified by "Inspect"ing the site)
+/////////////////////////// Class selectors (identified by "Inspect"ing the site) ///////////////////////////
 
-// 
+// navbar hover color
 .navbar-dark .navbar-nav .show>.nav-link, .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active {
     background-color: #38a7bb;
 }
 
-// openscapes logo top left; ee https://github.com/robertmitchellv/robertmitchellv.github.io/blob/main/custom-dark.scss
+// openscapes logo size/position (navbar top left); see https://github.com/robertmitchellv/robertmitchellv.github.io/blob/main/custom-dark.scss
 .navbar-brand img { 
   max-height: 200px;
   width: auto;
-  padding-right: 6px;
+  padding-left: 50px;
 }
 
 .quarto-title-block .quarto-title-banner {

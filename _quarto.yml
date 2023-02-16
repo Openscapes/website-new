@@ -24,6 +24,12 @@ website:
         text: "BLOG"
       - href: connect.qmd
         text: "CONNECT"
+      - icon: github
+        href: https://github.com/openscapes
+      - icon: twitter
+        href: https://twitter.com/openscapes
+      - icon: envelope
+        href: mailto:hello@openscapes.org
   page-footer:    
     background: light
     left: Openscapes is licensed under a [Creative Commons Attributions 4.0 International License](https://creativecommons.org/licenses/by/4.0/)

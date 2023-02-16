@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 
 // Import fonts
-@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap'); // Sen is similar to Avenir?
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap'); // Sen is similar to Avenir? Imported Regular, Bold, Extra Bold -- can only specify font weights that exist in this Google font set and are imported here
 
 // Colors
 $white: #FFFFFF;
@@ -51,6 +51,11 @@ $link-color: $blue;
 
 .center-text {
   text-align: center;
+}
+
+
+.bold { // NOT WORKING
+  font-weight: 800;
 }
 
 /////////////////////////// Class selectors (identified by "Inspect"ing the site) ///////////////////////////

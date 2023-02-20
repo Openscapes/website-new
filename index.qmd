@@ -9,17 +9,35 @@ format:
   
 ---
 
-![](images/horst_openscapes_grassland_big-text.png)
+::: column-screen
+![](images/banner_imgs/horst_openscapes_grassland_big-text.png)
+:::
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-10 .g-start-md-2}
-
+<!-- ::: {.g-col-12 .g-col-md-10 .g-start-md-2} -->
 
 <h1 class="blue-underline center-text">**WHAT WE DO**</h1>
 
-<span class="bold">At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster.</span> Regardless of research question, environmental scientists are united by the need to analyze data — and to do so in a way that is efficient, reproducible, and easily communicated. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. [Our approach](https://www.openscapes.org/approach/):
+<span class="bold">At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster.</span> Regardless of research question, environmental scientists are united by the need to analyze data — and to do so in a way that is efficient, reproducible, and easily communicated. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. [Our approach]():
+<!-- ::: -->
 
+<br>
+
+::: column-screen
+<div class="gray-div">
+<h1 class="blue-underline center-text">**CHAMPIONS PROGRAM**</h1>
+[Openscapes Champions]() is a mentorship program that empowers science teams with open data science tools and grows the community of practice in the research group, organization, and beyond. Read how the 2019 Openscapes Champions have [supercharged their research](), and [contact us]() about participating in the Champions program.
+</div>
 :::
 
-::: 
+<br>
+
+<h1 class="blue-underline center-text">INCUBATED BY MOZILLA AND NCEAS</h1>
+
+Openscapes bridges data-intensive environmental science with the open movement. Learn more [about us]().
+
+<div class="column">
+<img src="images/clients/mozilla.png" alt="Snow" style="width:100%">
+</div>
+<div class="column">
+<img src="images/clients/nceas.png" alt="Snow" style="width:100%">
+</div>

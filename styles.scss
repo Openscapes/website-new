@@ -5,7 +5,8 @@
 
 // Colors
 $white: #FFFFFF;
-$light-gray: #EEEEEE;
+$light-gray: #EEEEEE; 
+$light-med-gray: #DBDBDA;
 $medium-gray: #555555;
 $dark-gray: #333333; 
 $blue: #38A7BB;
@@ -53,10 +54,43 @@ $link-color: $blue;
   text-align: center;
 }
 
-
-.bold { // NOT WORKING
+.bold { 
   font-weight: 800;
 }
+
+.gray-div {
+  background-color: $light-med-gray;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 8px;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/*.inner-div {
+  display: inline-block;
+  margin: 0 auto;
+  padding: 3px;
+}*/
+/*.button-styling {
+  background: $white;
+  border-color: $blue;
+  color: $blue;
+  border-radius: 50%;
+  border-width: thin;
+  font-size: 35px;
+  letter-spacing: 3px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  transition-duration: 0.4s;
+} */
 
 /////////////////////////// Class selectors (identified by "Inspect"ing the site) ///////////////////////////
 

@@ -2,10 +2,10 @@ project:
   type: website
 
 website:
-  favicon: images/favicon_fullres.png
+  favicon: images/favicon/favicon_fullres.png
   navbar:
     title: false
-    logo: images/logo.png
+    logo: images/logo/logo.png
     logo-alt: "The Openscapes logo -- orange text that reads 'openscapes' sitting above small berry 'data points'"
     right:
       - href: index.qmd

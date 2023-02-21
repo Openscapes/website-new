@@ -1,0 +1,14 @@
+---
+title: ""
+# title-block-banner: images/banner_imgs/horst_openscapes_arctic_1500px.png
+---
+
+::: column-screen
+![](images/banner_imgs/horst_openscapes_arctic_1500px.png)
+:::
+
+<!-- <br> -->
+<!-- <br> -->
+
+Add text on top of banner image ("Who Are We?" / "What is Openscapes?") <br>
+Add current website's [About page](https://www.openscapes.org/about/) here

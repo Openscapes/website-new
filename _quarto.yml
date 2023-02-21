@@ -2,17 +2,47 @@ project:
   type: website
 
 website:
-  title: "website-new"
+  favicon: images/favicon/favicon_fullres.png
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+    title: false
+    logo: images/logo/logo.png
+    logo-alt: "The Openscapes logo -- orange text that reads 'openscapes' sitting above small berry 'data points'"
+    right:
+      - text: "HOME"
+        href: index.qmd
+      - text: "ABOUT"
+        menu:
+          - text: "WHO ARE WE?"
+            href: who_are_we.qmd
+          - text: "OUR APPROACH"
+            href: approach.qmd
+          - text: "MEDIA"
+            href: media.qmd
+      - text: "INITIATIVES"
+        menu:
+         - text: "CHAMPIONS PROGRAM"
+           href: champions_program.qmd
+      - text: "BLOG"
+        href: blog.qmd
+      - text: "CONNECT"
+        href: connect.qmd
+      - icon: github
+        href: https://github.com/openscapes
+      - icon: twitter
+        href: https://twitter.com/openscapes
+      - icon: envelope
+        href: mailto:hello@openscapes.org
+  page-footer:    
+    background: light
+    left: Openscapes is licensed under a [Creative Commons Attributions 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+    right: This website is built with ❤️ and [Quarto](https://quarto.org/)
+      
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    page-layout: full
+    theme: 
+      - styles.scss
+    mainfont: Sen
     toc: true
 
 

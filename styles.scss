@@ -1,0 +1,131 @@
+/*-- scss:defaults --*/
+
+// Import fonts
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap'); // Sen is similar to Avenir? Imported Regular, Bold, Extra Bold -- can only specify font weights that exist in this Google font set and are imported here
+
+// Colors
+$white: #FFFFFF;
+$light-gray: #EEEEEE; 
+$light-med-gray: #DBDBDA;
+$medium-gray: #555555;
+$dark-gray: #333333; 
+$blue: #38A7BB;
+
+// Base document colors
+$navbar-bg: $white;
+$navbar-fg: $dark-gray; 
+$navbar-hl: $dark-gray; 
+$body-bg: $white;
+$body-color: $dark-gray;
+$footer-bg: $medium-gray; 
+$link-color: $blue;
+
+// Inline code
+
+// Code blocks
+
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+
+/*-- scss:rules --*/
+
+/////////////////////////// Element selectors ///////////////////////////
+
+body { // set body text size & line height
+  line-height: 1.5; // min 1.5 suggested for assistive tech
+  font-size: 17px;
+}
+
+/////////////////////////// Class selectors (self-defined) ///////////////////////////
+
+.blue-underline { // underline text blue
+  text-decoration: underline $blue;
+}
+
+.large-body-text {
+  font-size: 50px;
+}
+
+.center-text { // center text
+  text-align: center;
+}
+
+.bold800 { // extra bold
+  font-weight: 800;
+}
+
+.bold700 { // bold
+  font-weight: 700;
+}
+
+.white-div { // used to create white div 
+  background-color: $white;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  padding-right: 160px;
+  padding-left: 160px;
+}
+
+/*.child-div {
+  display: flex;
+  justify-content: center;
+}*/
+
+.gray-div { // used to create gray div
+  background-color: $light-med-gray;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  padding-right: 160px;
+  padding-left: 160px;
+}
+
+/*.container { // arrange mozilla & nceas logos side-by-side; SC NOTE: NOT CENTERED
+  display: flex;
+}*/
+
+.center-img { // center mozilla & nceas logos side-by-side: SC NOTE: NOT CENTERED 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.column { // Create three equal columns that floats next to each other 
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+
+.row:after { // Clear floats after the columns
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) { // Responsive layout - makes the three columns stack on top of each other instead of next to each other 
+  .column {
+    width: 100%;
+  }
+}
+
+/////////////////////////// Class selectors (identified by "Inspect"ing the site) ///////////////////////////
+
+// navbar hover color
+.navbar-dark .navbar-nav .show>.nav-link, .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active {
+    background-color: #38a7bb;
+}
+
+// openscapes logo size/position (navbar top left); see https://github.com/robertmitchellv/robertmitchellv.github.io/blob/main/custom-dark.scss
+.navbar-brand img { 
+  max-height: 200px;
+  width: auto;
+  padding-left: 50px;
+}
+
+h1.title, .title.h1 { // banner text white
+  color: $white;
+}
+
+/*.quarto-title-block .quarto-title-banner { // changes title-block-banner height (set in yaml)
+  height: 160%; 
+}*/

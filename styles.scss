@@ -31,66 +31,82 @@ $link-color: $blue;
 
 /////////////////////////// Element selectors ///////////////////////////
 
-//h1 {
-  //color: $dark-gray;
-  //text-decoration: underline $blue;
-  //text-decoration-color: $blue;
-  //text-align: center;
-//}
-
-// ID selectors
-/*-- #wrapper, img{
-    width:100%;
-    height: 100%;
-} --*/ // NOT WORKING
+body { // set body text size & line height
+  line-height: 1.5; // min 1.5 suggested for assistive tech
+  font-size: 17px;
+}
 
 /////////////////////////// Class selectors (self-defined) ///////////////////////////
 
-.blue-underline {
+.blue-underline { // underline text blue
   text-decoration: underline $blue;
 }
 
-.center-text {
+.large-body-text {
+  font-size: 50px;
+}
+
+.center-text { // center text
   text-align: center;
 }
 
-.bold { 
+.bold800 { // extra bold
   font-weight: 800;
 }
 
-.gray-div {
+.bold700 { // bold
+  font-weight: 700;
+}
+
+.white-div { // used to create white div 
+  background-color: $white;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  padding-right: 160px;
+  padding-left: 160px;
+}
+
+/*.child-div {
+  display: flex;
+  justify-content: center;
+}*/
+
+.gray-div { // used to create gray div
   background-color: $light-med-gray;
   padding-top: 5px;
-  padding-bottom: 5px;
-  padding-right: 5px;
-  padding-left: 8px;
+  padding-bottom: 15px;
+  padding-right: 160px;
+  padding-left: 160px;
 }
 
-.column {
+/*.container { // arrange mozilla & nceas logos side-by-side; SC NOTE: NOT CENTERED
+  display: flex;
+}*/
+
+.center-img { // center mozilla & nceas logos side-by-side: SC NOTE: NOT CENTERED 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.column { // Create three equal columns that floats next to each other 
   float: left;
   width: 33.33%;
-  padding: 5px;
+  padding: 10px;
 }
 
-/*.inner-div {
-  display: inline-block;
-  margin: 0 auto;
-  padding: 3px;
-}*/
-/*.button-styling {
-  background: $white;
-  border-color: $blue;
-  color: $blue;
-  border-radius: 50%;
-  border-width: thin;
-  font-size: 35px;
-  letter-spacing: 3px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-right: 10px;
-  padding-left: 10px;
-  transition-duration: 0.4s;
-} */
+.row:after { // Clear floats after the columns
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) { // Responsive layout - makes the three columns stack on top of each other instead of next to each other 
+  .column {
+    width: 100%;
+  }
+}
 
 /////////////////////////// Class selectors (identified by "Inspect"ing the site) ///////////////////////////
 
@@ -106,6 +122,10 @@ $link-color: $blue;
   padding-left: 50px;
 }
 
-.quarto-title-block .quarto-title-banner {
-  height: 160%;
+h1.title, .title.h1 { // banner text white
+  color: $white;
 }
+
+/*.quarto-title-block .quarto-title-banner { // changes title-block-banner height (set in yaml)
+  height: 160%; 
+}*/

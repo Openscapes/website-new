@@ -1,0 +1,10 @@
+---
+title: ""
+---
+
+::: column-screen
+![](images/banner_imgs/horst_openscapes_desert_breadcrumbs.png)
+:::
+
+Add text on top of banner image ("Our Approach") <br>
+Add current website's [Our Approach page](https://www.openscapes.org/approach/) here

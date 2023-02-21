@@ -1,3 +1,20 @@
 ---
 title: "BLOG"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  image-align: right
+  max-description-length: 175
+  date-format: medium
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: images/banner_imgs/horst_openscapes_desert_1500px.png #
 ---
+
+<!-- SC NOTE: adding banner image below hides categories, but also renders banner full-size (unlike than `title-block-banner) -->
+<!-- ::: column-screen -->
+<!-- ![](images/banner_imgs/horst_openscapes_desert_1500px.png) -->
+<!-- ::: -->

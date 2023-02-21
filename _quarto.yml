@@ -8,22 +8,24 @@ website:
     logo: images/logo/logo.png
     logo-alt: "The Openscapes logo -- orange text that reads 'openscapes' sitting above small berry 'data points'"
     right:
-      - href: index.qmd
-        text: "HOME"
-      - href: about.qmd
-        text: "ABOUT"
+      - text: "HOME"
+        href: index.qmd
+      - text: "ABOUT"
         menu:
+          - text: "WHO ARE WE?"
+            href: who_are_we.qmd
+          - text: "OUR APPROACH"
+            href: approach.qmd
           - text: "MEDIA"
             href: media.qmd
-      - href: initiatives.qmd
-        text: "INITIATIVES"
+      - text: "INITIATIVES"
         menu:
          - text: "CHAMPIONS PROGRAM"
-           href: champions-program.qmd
-      - href: blog.qmd
-        text: "BLOG"
-      - href: connect.qmd
-        text: "CONNECT"
+           href: champions_program.qmd
+      - text: "BLOG"
+        href: blog.qmd
+      - text: "CONNECT"
+        href: connect.qmd
       - icon: github
         href: https://github.com/openscapes
       - icon: twitter

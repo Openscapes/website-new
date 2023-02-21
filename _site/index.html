@@ -75,12 +75,32 @@ ul.task-list{list-style: none;}
   <li class="nav-item">
     <a class="nav-link active" href="./index.html" aria-current="page">HOME</a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./about.html">ABOUT</a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">ABOUT</a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="./who_are_we.html">
+ <span class="dropdown-text">WHO ARE WE?</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./initiatives.html">INITIATIVES</a>
+        <li>
+    <a class="dropdown-item" href="./approach.html">
+ <span class="dropdown-text">OUR APPROACH</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./media.html">
+ <span class="dropdown-text">MEDIA</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false">INITIATIVES</a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
+        <li>
+    <a class="dropdown-item" href="./champions_program.html">
+ <span class="dropdown-text">CHAMPIONS PROGRAM</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./blog.html">BLOG</a>
   </li>  
@@ -121,30 +141,58 @@ ul.task-list{list-style: none;}
 <div class="column-screen">
 <p><img src="images/banner_imgs/horst_openscapes_grassland_big-text.png" class="img-fluid"></p>
 </div>
-<!-- ::: {.g-col-12 .g-col-md-10 .g-start-md-2} -->
+<div class="column-screen">
+<div class="white-div">
 <h1 class="blue-underline center-text">
 <strong>WHAT WE DO</strong>
 </h1>
-<p><span class="bold">At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster.</span> Regardless of research question, environmental scientists are united by the need to analyze data — and to do so in a way that is efficient, reproducible, and easily communicated. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. <a href="">Our approach</a>: <!-- ::: --></p>
+<p>
+<span class="bold700">At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster.</span> Regardless of research question, environmental scientists are united by the need to analyze data — and to do so in a way that is efficient, reproducible, and easily communicated. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. <a href="">Our approach</a>:
+</p>
+</div>
+</div>
+<div class="white-div">
+<div class="column">
+<p class="large-body-text">
+<svg aria-label="Users" role="img" viewbox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#38A7BB;overflow:visible;position:relative;"><title>Users</title><path d="M144 160c-44.2 0-80-35.8-80-80S99.8 0 144 0s80 35.8 80 80s-35.8 80-80 80zm368 0c-44.2 0-80-35.8-80-80s35.8-80 80-80s80 35.8 80 80s-35.8 80-80 80zM0 298.7C0 239.8 47.8 192 106.7 192h42.7c15.9 0 31 3.5 44.6 9.7c-1.3 7.2-1.9 14.7-1.9 22.3c0 38.2 16.8 72.5 43.3 96c-.2 0-.4 0-.7 0H21.3C9.6 320 0 310.4 0 298.7zM405.3 320c-.2 0-.4 0-.7 0c26.6-23.5 43.3-57.8 43.3-96c0-7.6-.7-15-1.9-22.3c13.6-6.3 28.7-9.7 44.6-9.7h42.7C592.2 192 640 239.8 640 298.7c0 11.8-9.6 21.3-21.3 21.3H405.3zM416 224c0 53-43 96-96 96s-96-43-96-96s43-96 96-96s96 43 96 96zM128 485.3C128 411.7 187.7 352 261.3 352H378.7C452.3 352 512 411.7 512 485.3c0 14.7-11.9 26.7-26.7 26.7H154.7c-14.7 0-26.7-11.9-26.7-26.7z"></path></svg>
+</p>
+</div>
+<div class="column">
+<p class="large-body-text">
+<svg aria-label="Lightbulb" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#38A7BB;overflow:visible;position:relative;"><title>Lightbulb</title><path d="M112.1 454.3c0 6.297 1.816 12.44 5.284 17.69l17.14 25.69c5.25 7.875 17.17 14.28 26.64 14.28h61.67c9.438 0 21.36-6.401 26.61-14.28l17.08-25.68c2.938-4.438 5.348-12.37 5.348-17.7L272 415.1h-160L112.1 454.3zM192 0C90.02 .3203 16 82.97 16 175.1c0 44.38 16.44 84.84 43.56 115.8c16.53 18.84 42.34 58.23 52.22 91.45c.0313 .25 .0938 .5166 .125 .7823h160.2c.0313-.2656 .0938-.5166 .125-.7823c9.875-33.22 35.69-72.61 52.22-91.45C351.6 260.8 368 220.4 368 175.1C368 78.8 289.2 .0039 192 0zM288.4 260.1c-15.66 17.85-35.04 46.3-49.05 75.89h-94.61c-14.01-29.59-33.39-58.04-49.04-75.88C75.24 236.8 64 206.1 64 175.1C64 113.3 112.1 48.25 191.1 48C262.6 48 320 105.4 320 175.1C320 206.1 308.8 236.8 288.4 260.1zM176 80C131.9 80 96 115.9 96 160c0 8.844 7.156 16 16 16S128 168.8 128 160c0-26.47 21.53-48 48-48c8.844 0 16-7.148 16-15.99S184.8 80 176 80z"></path></svg>
+</p>
+</div>
+<div class="column">
+<p class="large-body-text">
+<svg aria-label="Earth americas" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#38A7BB;overflow:visible;position:relative;"><title>Earth americas</title><path d="M57.7 193l9.4 16.4c8.3 14.5 21.9 25.2 38 29.8L163 255.7c17.2 4.9 29 20.6 29 38.5v39.9c0 11 6.2 21 16 25.9s16 14.9 16 25.9v39c0 15.6 14.9 26.9 29.9 22.6c16.1-4.6 28.6-17.5 32.7-33.8l2.8-11.2c4.2-16.9 15.2-31.4 30.3-40l8.1-4.6c15-8.5 24.2-24.5 24.2-41.7v-8.3c0-12.7-5.1-24.9-14.1-33.9l-3.9-3.9c-9-9-21.2-14.1-33.9-14.1H257c-11.1 0-22.1-2.9-31.8-8.4l-34.5-19.7c-4.3-2.5-7.6-6.5-9.2-11.2c-3.2-9.6 1.1-20 10.2-24.5l5.9-3c6.6-3.3 14.3-3.9 21.3-1.5l23.2 7.7c8.2 2.7 17.2-.4 21.9-7.5c4.7-7 4.2-16.3-1.2-22.8l-13.6-16.3c-10-12-9.9-29.5 .3-41.3l15.7-18.3c8.8-10.3 10.2-25 3.5-36.7l-2.4-4.2c-3.5-.2-6.9-.3-10.4-.3C163.1 48 84.4 108.9 57.7 193zM464 256c0-36.8-9.6-71.4-26.4-101.5L412 164.8c-15.7 6.3-23.8 23.8-18.5 39.8l16.9 50.7c3.5 10.4 12 18.3 22.6 20.9l29.1 7.3c1.2-9 1.8-18.2 1.8-27.5zm48 0c0 141.4-114.6 256-256 256S0 397.4 0 256S114.6 0 256 0S512 114.6 512 256z"></path></svg>
+</p>
+</div>
+</div>
 <p><br></p>
 <div class="column-screen">
 <div class="gray-div">
 <h1 class="blue-underline center-text">
 <strong>CHAMPIONS PROGRAM</strong>
 </h1>
-<p><a href="">Openscapes Champions</a> is a mentorship program that empowers science teams with open data science tools and grows the community of practice in the research group, organization, and beyond. Read how the 2019 Openscapes Champions have <a href="">supercharged their research</a>, and <a href="">contact us</a> about participating in the Champions program.</p>
+<p>
+<a href="">Openscapes Champions</a> is a mentorship program that empowers science teams with open data science tools and grows the community of practice in the research group, organization, and beyond. Read how the 2019 Openscapes Champions have <a href="">supercharged their research</a>, and <a href="">contact us</a> about participating in the Champions program.
+</p>
 </div>
 </div>
 <p><br></p>
+<div class="column-screen">
+<div class="white-div">
 <h1 class="blue-underline center-text">
-INCUBATED BY MOZILLA AND NCEAS
+<strong>INCUBATED BY MOZILLA AND NCEAS</strong>
 </h1>
-<p>Openscapes bridges data-intensive environmental science with the open movement. Learn more <a href="">about us</a>.</p>
-<div class="column">
-<p><img src="images/clients/mozilla.png" alt="Snow" style="width:100%"></p>
+<p class="center-text">
+Openscapes bridges data-intensive environmental science with the open movement. Learn more <a href="">about us</a>.
+</p>
+<br>
+<div class="center-img">
+<p><img src="images/clients/mozilla.png" alt="Mozilla logo, printed in white text on black background as, 'moz://a'." style="width:35%"> <img src="images/clients/nceas.png" alt="NCEAS logo, printed in white text on black background." style="width:35%"></p>
 </div>
-<div class="column">
-<p><img src="images/clients/nceas.png" alt="Snow" style="width:100%"></p>
+</div>
 </div>
 
 

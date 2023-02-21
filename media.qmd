@@ -1,3 +1,10 @@
 ---
-title: "media"
+title: ""
 ---
+
+::: column-screen
+![](images/banner_imgs/horst_openscapes_desert_breadcrumbs.png)
+:::
+
+Add text on top of banner image ("Media") <br>
+Add current website's [Media page](https://www.openscapes.org/media/) here

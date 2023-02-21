@@ -1,3 +1,11 @@
 ---
-title: "CONNECT"
+title: ""
 ---
+
+::: column-screen
+![](images/banner_imgs/horst_openscapes_mountains_1500px.png)
+:::
+
+
+Add text on top of banner image ("Get Involved") <br>
+Add current website's [Get Involved page](https://www.openscapes.org/contact/) here

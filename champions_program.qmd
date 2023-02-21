@@ -1,3 +1,20 @@
 ---
-title: "CHAMPIONS PROGRAM"
+title: "OPENSCAPES CHAMPIONS PROGRAM"
+title-block-banner: images/banner_imgs/horst_openscapes_desert_breadcrumbs.png
 ---
+
+<!-- ::: column-screen -->
+<!-- ![](images/banner_imgs/horst_openscapes_desert_breadcrumbs.png) -->
+<!-- ::: -->
+<!-- <br> -->
+<!-- <br> -->
+
+TODO: <br>
+Add text on top of banner image ("Champions Program") <br>
+Add current website's [Champions Program page](https://www.openscapes.org/champions/) here
+
+<span class="bold700">Openscapes Champions is an open data science mentorship program for science teams.</span> We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skill-sets and mindsets for modern data-intensive science. Learn these Champions’ stories through our [blog](), [media](), as well as steps for you to [supercharge your research]().
+
+<span class="bold700">“Openscapes isn’t just about coding and GitHub, it’s about changing how we do science”</span> — Dr. Malin Pinsky, Rutgers University
+
+![](images/page_imgs/horst_openscapes_champions.jpg)

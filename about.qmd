@@ -1,8 +1,0 @@
----
-title: ""
----
-
-::: column-screen
-![](images/banner_imgs/horst_openscapes_arctic_1500px.png)
-:::
-

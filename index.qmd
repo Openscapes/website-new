@@ -1,4 +1,5 @@
 ---
+title: "Openscapes"
 sidebar: false
 toc: false
 page-layout: full

@@ -10,6 +10,7 @@ $light-med-gray: #DBDBDA;
 $medium-gray: #555555;
 $dark-gray: #333333; 
 $blue: #38A7BB;
+$light-orange: #FFEFE1;
 
 // Base document colors
 $navbar-bg: $white;
@@ -77,6 +78,15 @@ body { // set body text size & line height
 
 .gray-bg {
   background-color: $light-gray;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 8px;
+  border-radius: 15px;
+}
+
+.orange-bg {
+  background-color: $light-orange;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-right: 5px;

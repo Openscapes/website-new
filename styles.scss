@@ -46,6 +46,15 @@ body { // set body text size & line height
   font-size: 50px;
 }
 
+.medium-body-text {
+  font-size: 25px;
+}
+
+.small-gray-text {
+  font-size: 15px;
+  color: $medium-gray;
+}
+
 .center-text { // center text
   text-align: center;
 }
@@ -64,6 +73,15 @@ body { // set body text size & line height
   padding-bottom: 15px;
   padding-right: 160px;
   padding-left: 160px;
+}
+
+.gray-bg {
+  background-color: $light-gray;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 8px;
+  border-radius: 15px;
 }
 
 /*.child-div {

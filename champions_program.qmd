@@ -49,7 +49,7 @@ The remote- and cohort-nature of the program is designed to reinforce each other
 
 <div class="white-div">
 <h2>CHAMPIONS COHORTS</h2>
-Explore previous [Openscapes Champions Cohorts](https://openscapes.github.io/events/#category=Champions%20Cohort) to learn about these inspiring teams’ research and open data science momentum.
+Explore previous [Openscapes Champions Cohorts]() to learn about these inspiring teams’ research and open data science momentum.
 
 <p class="gray-bg"><span class="bold700">*“This program has honestly completely re-made how I think about my science. Openscapes is a supportive training course for moving your lab toward open science, that meets you where you are.”*</span> — Dr. Chelsea Wood, University of Washington</p>
 

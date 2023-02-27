@@ -42,7 +42,7 @@ We are excited to continue learning and iterating with the open movement towards
 
 ## OUR TEAM
 
-Learn about our [**our team**]() who are helping grow and improve Openscapes!
+Learn about our [**our team**](team.qmd) who are helping grow and improve Openscapes!
 
 <br>
 
@@ -95,7 +95,7 @@ Our logo designed by Allison Horst represents both the open landscapes and the d
 
 ## OUR FUNDING
 
-We thank our funders for supporting open science tools, people, and communities. Openscapes was originally created with support from [Mozilla](https://www.mozilla.org/), which also sponsored the [first Champions Cohort](https://openscapes.github.io/events/). In 2019 we received additional support from the [Gordon and Betty Moore Foundation](https://www.moore.org/) to develop a strategic growth plan for Openscapes.
+We thank our funders for supporting open science tools, people, and communities. Openscapes was originally created with support from [Mozilla](https://www.mozilla.org/), which also sponsored the [first Champions Cohort](). In 2019 we received additional support from the [Gordon and Betty Moore Foundation](https://www.moore.org/) to develop a strategic growth plan for Openscapes.
 
 <br>
 

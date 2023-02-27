@@ -19,7 +19,7 @@ title: ""
 
 -  [NASA Openscapes Framework](https://nasa-openscapes.github.io/) — We support researchers using NASA Earthdata served from the Distributed Active Archive Centers (DAACs) as they migrate workflows to the cloud
 
--  [Openscapes Champions Cohorts]() — We aim to lead Champions Cohorts each year while also developing Mentors who can lead Cohorts for their own communities as part of their jobs
+-  [Openscapes Champions Cohorts](champions_program.qmd) — We aim to lead Champions Cohorts each year while also developing Mentors who can lead Cohorts for their own communities as part of their jobs
 
 <center><img src="images/animals/horst_openscapes_mountains_salmon.png" width="100"></center> <!-- SC NOTE: want css centering here (not html) -->
 
@@ -35,7 +35,7 @@ Sign up for our [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3
 
 ## `r fontawesome::fa("chalkboard-user", fill = "#333333", a11y = "sem")` Join an upcoming event
 
-Please see our [events page](https://openscapes.github.io/events/) for **Openscapes Community Calls, conference talks and seminars/webinars**, and opportunities through the **Champions Program**.
+Please see our [events page](events.qmd) for **Openscapes Community Calls, conference talks and seminars/webinars**, and opportunities through the **Champions Program**.
 
 ## `r fontawesome::fa("users", fill = "#333333", a11y = "sem")` Book a Champions Cohort
 
@@ -51,7 +51,7 @@ Share your enthusiasm with others! Open data science is so powerful and empoweri
 
 ## `r fontawesome::fa("bullhorn", fill = "#333333", a11y = "sem")` Amplify through media and events
 
-In your next presentations and publications, include a slide or sentence about open data science — what you have done and/or why it’s important. You’re welcome to use/remix slides from our [presentations]().
+In your next presentations and publications, include a slide or sentence about open data science — what you have done and/or why it’s important. You’re welcome to use/remix slides from our [presentations](media.qmd).
 
 As you plan department seminar series, conferences, or webinar series, consider inviting Openscapes or others from the open data science community as a speaker!
 

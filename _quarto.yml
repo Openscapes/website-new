@@ -24,8 +24,12 @@ website:
            href: champions_program.qmd
       - text: "BLOG"
         href: blog.qmd
-      - text: "CONNECT"
-        href: connect.qmd
+      - text: "GET INVOLVED"
+        menu: 
+          - text: "CONNECT WITH US"
+            href: connect.qmd
+          - text: "ATTEND AN EVENT"
+            href: events.qmd
       - icon: github
         href: https://github.com/openscapes
       - icon: twitter

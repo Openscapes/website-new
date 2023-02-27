@@ -1,0 +1,16 @@
+---
+title: "EVENTS"
+listing:
+  contents: events
+  sort: "date desc"
+  type: grid
+  grid-item-border: true
+  grid-item-align: left
+  max-description-length: 175
+  date-format: medium
+  categories: numbered
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+title-block-banner: images/banner_imgs/horst_openscapes_desert_1500px.png 
+---

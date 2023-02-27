@@ -9,16 +9,20 @@ title: ""
 <br>
 
 <div class="white-div">
-<p class="medium-body-text bold700 center-text">Openscapes is an approach for doing better science for future us.</p>
+
+<p class="medium-body-text center-text">**Openscapes is an approach for doing better science for future us.**</p>
+ 
 <p class="center-text">We offer mentorship, teaching, coaching and community organizing centered around open data science: we help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind.</p>
 
 <br>
+
 <center><img src="images/animals/horst_openscapes_arctic_squid.png" width="100"></center> <!-- SC NOTE: want css centering here (not html) -->
+
 </div>
 
-
 <div class="white-div">
-<h2>OUR STORY</h2>
+
+## OUR STORY
 
 The Openscapes story starts with file names like “data_analysis_final_v2b.xls” — you know the ones. It is a story about reimagining what’s possible when we modernize how we collaborate as part of the open movement.
 
@@ -29,62 +33,86 @@ Erin joined in 2020 and together they created the Openscapes Framework that supp
 We are excited to continue learning and iterating with the open movement towards kinder, better science for future us.
 
 <br>
+
 <center><img src="images/animals/horst_openscapes_arctic_urchins.png" width="100"></center> <!-- SC NOTE: want css centering here (not html) -->
+
 </div>
 
 <div class="white-div">
-<h2>OUR TEAM</h2>
+
+## OUR TEAM
+
 Learn about our [**our team**]() who are helping grow and improve Openscapes!
 
 <br>
+
 <center><img src="images/animals/horst_openscapes_arctic_crab.png" width="100"></center> <!-- SC NOTE: want css centering here (not html) -->
+
 </div>
 
 <div class="white-div">
-<h2>OUR CODE OF CONDUCT</h2>
+
+## OUR CODE OF CONDUCT
+
 Openscapes is committed to providing a welcoming, safe, inclusive, and harassment-free experience for everyone.
 
 We expect all participants to adhere to our [Code of Conduct](), which was influenced and adapted from [rOpenSci](https://ropensci.org/code-of-conduct/) and [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/).
 
 <br>
+
 <center><img src="images/animals/horst_openscapes_arctic_humpback.png" width="100"></center> <!-- SC NOTE: want css centering here (not html) -->
+
 </div>
 
 <div class="white-div">
-<h2>OUR ART</h2>
+
+## OUR ART
+
 [Allison Horst](https://allisonhorst.github.io/) creates original art for Openscapes, beginning as an artist in residence at NCEAS. Formerly an Assistant Teaching Professor at the Bren School of Environmental Science & Management at the University of California at Santa Barbara, currently a Data Scientist Advocate at [Observable](https://observablehq.com/), Allison is also one of the inaugural Openscapes Champions. With a background in the fine arts, she also works digitally -- explore her [stats illustrations](https://allisonhorst.com/) and follow her on [Twitter](https://twitter.com/allison_horst).
 
 See all of Allison’s open landscapes on the [gallery page]().
 
 <br>
+
 <center><img src="images/animals/horst_openscapes_arctic_narwhal.png" width="100"></center> <!-- SC NOTE: want css centering here (not html) -->
+
 </div>
 
 
 <div class="white-div">
-<h2>OUR LOGO</h2>
+
+## OUR LOGO
+
 Our logo designed by Allison Horst represents both the open landscapes and the data within them.
 
 <br>
+
 <center><img src="images/logo/openscapes_hex_design_final_correct_dimensions.png" width="200"></center> <!-- SC NOTE: want css centering here (not html) -->
+
 </div>
 
-
 <div class="white-div">
-<h2>OUR FUNDING</h2>
+
+## OUR FUNDING
+
 We thank our funders for supporting open science tools, people, and communities. Openscapes was originally created with support from [Mozilla](https://www.mozilla.org/), which also sponsored the [first Champions Cohort](https://openscapes.github.io/events/). In 2019 we received additional support from the [Gordon and Betty Moore Foundation](https://www.moore.org/) to develop a strategic growth plan for Openscapes.
 
 <br>
+
 <center><img src="images/animals/horst_openscapes_arctic_puffins.png" width="100"></center> <!-- SC NOTE: want css centering here (not html) -->
+
 </div>
 
-
 <div class="white-div">
-<h2>OUR WEBSITE</h2>
+
+## OUR WEBSITE
+
 updated language here
+
 <br>
-<center><img src="images/animals/horst_openscapes_arctic_ship.png" width="100"></center> 
+
+<center><img src="images/animals/horst_openscapes_arctic_ship.png" width="100"></center> <!-- SC NOTE: want css centering here (not html) -->
+
 </div>
 
 :::
-

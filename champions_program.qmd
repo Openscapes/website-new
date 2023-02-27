@@ -1,13 +1,12 @@
 ---
-title: "OPENSCAPES CHAMPIONS PROGRAM"
-title-block-banner: images/banner_imgs/horst_openscapes_desert_breadcrumbs.png
+title: ""
+# title-block-banner: images/banner_imgs/horst_openscapes_desert_breadcrumbs.png
 ---
 
-<!-- ::: column-screen -->
-<!-- ![](images/banner_imgs/horst_openscapes_desert_breadcrumbs.png) -->
-<!-- ::: -->
-<!-- <br> -->
-<!-- <br> -->
+::: column-screen
+![](images/banner_imgs/horst_openscapes_desert_breadcrumbs.png)
+:::
+<br>
 
 ::: column-screen
 <div class="white-div">

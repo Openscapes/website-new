@@ -10,40 +10,75 @@ format: html
 ![](images/banner_imgs/horst_openscapes_grassland_big-text.png)
 :::
 
-
 ::: column-screen
-<div class="white-div">
-<h1 class="blue-underline center-text">**WHAT WE DO**</h1>
-<p><span class="bold700">At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster.</span> Regardless of research question, environmental scientists are united by the need to analyze data — and to do so in a way that is efficient, reproducible, and easily communicated. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. [Our approach]():</p>
-</div>
+::: white-div
+::: {.blue-underline .center-text}
+# **WHAT WE DO**
 :::
 
-
-<div class="white-div">
- <div class="column"><p class="large-body-text">`r fontawesome::fa("users", fill = "#38A7BB", a11y = "sem")`</p></div>
- <div class="column"><p class="large-body-text">`r fontawesome::fa("lightbulb", fill = "#38A7BB", a11y = "sem")`</p></div>
- <div class="column"><p class="large-body-text">`r fontawesome::fa("earth-americas", fill = "#38A7BB", a11y = "sem")`</p></div>
-</div>
-
-<br>
+[At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster.]{.bold700} Regardless of research question, environmental scientists are united by the need to analyze data --- and to do so in a way that is efficient, reproducible, and easily communicated. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. [Our approach]():
+:::
+:::
 
 ::: column-screen
-<div class="gray-div">
-<h1 class="blue-underline center-text">**CHAMPIONS PROGRAM**</h1>
-<p>[Openscapes Champions]() is a mentorship program that empowers science teams with open data science tools and grows the community of practice in the research group, organization, and beyond. Read how the 2019 Openscapes Champions have [supercharged their research](), and [contact us]() about participating in the Champions program.</p>
-</div>
+
+::: column
+<p class="large-body-text">
+
+`r fontawesome::fa("users", fill = "#38A7BB", a11y = "sem")`
+
+</p>
+:::
+
+::: column
+<p class="large-body-text">
+
+`r fontawesome::fa("lightbulb", fill = "#38A7BB", a11y = "sem")`
+
+</p>
+:::
+
+::: column
+<p class="large-body-text">
+
+`r fontawesome::fa("earth-americas", fill = "#38A7BB", a11y = "sem")`
+
+</p>
+:::
 :::
 
 <br>
 
 ::: column-screen
-<div class="white-div">
-<h1 class="blue-underline center-text">**INCUBATED BY MOZILLA AND NCEAS**</h1>
-<p class="center-text">Openscapes bridges data-intensive environmental science with the open movement. Learn more [about us]().</p>
+::: gray-div
+::: {.blue-underline .center-text}
+# **CHAMPIONS PROGRAM**
+:::
+
+Openscapes Champions is a mentorship program that empowers science teams with open data science tools and grows the community of practice in the research group, organization, and beyond. Read how the 2019 Openscapes Champions have supercharged their research, and contact us about participating in the Champions program.
+:::
+:::
+
 <br>
-<div class="center-img">
-<img src="images/clients/mozilla.png" alt="Mozilla logo, printed in white text on black background as, 'moz://a'." style="width:35%">
-<img src="images/clients/nceas.png" alt="NCEAS logo, printed in white text on black background." style="width:35%">
+
+::: column-screen
+::: white-div
+::: {.blue-underline .center-text}
+# **INCUBATED BY MOZILLA AND NCEAS**
+:::
+
+::: center-text
+Openscapes bridges data-intensive environmental science with the open movement. Learn more [about us]().
+:::
+
+<br>
+
+<div>
+
+![](images/clients/mozilla.png){fig-align="center" width="35%"} ![](images/clients/nceas.png){fig-align="center" width="35%"}
+
+<!-- <img src="images/clients/mozilla.png" alt="Mozilla logo, printed in white text on black background as, &apos;moz://a&apos;." style="width:35%"/> <img src="images/clients/nceas.png" alt="NCEAS logo, printed in white text on black background." style="width:35%"/> -->
+
 </div>
-</div>
+:::
 :::

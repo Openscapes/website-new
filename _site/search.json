@@ -116,7 +116,7 @@
     "href": "team.html#openscapes-core-team",
     "title": "",
     "section": "Openscapes Core Team",
-    "text": "Openscapes Core Team\n\n\n\n\n\n\nJulia Stewart Lowndes launched and directs Openscapes. She is a marine ecologist working at the intersection of actionable environmental science, data science, and open science. She is a Mozilla Fellow and Senior Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California Santa Barbara, having earned her PhD from Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate.\n\n\n\n\n\nErin Robinson is a core Openscapes team member and advisor. She co-leads the NASA Framework project with Julie and has been instrumental in scaling Openscapes with lessons learned from their NASA work. Erin works at the intersection of community informatics, Earth science and non-profit management.\n\n\n\n\n\n\n\n\n\n\n\nIleana Fenwick is a core Openscapes team member; she is an open science advocate and Marine Sciences Ph.D. Student at UNC Chapel Hill. Ileana’s research focuses on evaluating how marine communities respond to climate change and human impacts. Her work uses innovative quantitative methods to improve our ocean management outcomes. In addition to her research, Ileana is also a fierce advocate for HBCU engagement and equity in open science and marine science through her consulting and volunteer work.\n\n\n\n\n\nStefanie Butland is a core Openscapes team member and co-leads Champions Cohorts. She is a research scientist by training and an open science and tech community builder by passion. Stefanie is a Fellow of the Center for Scientific Collaboration and Community Engagement."
+    "text": "Openscapes Core Team\n\n\n\n\n\n\n\nJulia Stewart Lowndes launched and directs Openscapes. She is a marine ecologist working at the intersection of actionable environmental science, data science, and open science. She is a Mozilla Fellow and Senior Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California Santa Barbara, having earned her PhD from Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate.\n\n\n\n\n\n\n\nErin Robinson is a core Openscapes team member and advisor. She co-leads the NASA Framework project with Julie and has been instrumental in scaling Openscapes with lessons learned from their NASA work. Erin works at the intersection of community informatics, Earth science and non-profit management.\n\n\n\n\n\n\n\n\n\n\n\n\n\nIleana Fenwick is a core Openscapes team member; she is an open science advocate and Marine Sciences Ph.D. Student at UNC Chapel Hill. Ileana’s research focuses on evaluating how marine communities respond to climate change and human impacts. Her work uses innovative quantitative methods to improve our ocean management outcomes. In addition to her research, Ileana is also a fierce advocate for HBCU engagement and equity in open science and marine science through her consulting and volunteer work.\n\n\n\n\n\n\n\nStefanie Butland is a core Openscapes team member and co-leads Champions Cohorts. She is a research scientist by training and an open science and tech community builder by passion. Stefanie is a Fellow of the Center for Scientific Collaboration and Community Engagement."
   },
   {
     "objectID": "team.html#incubators",
@@ -124,5 +124,54 @@
     "title": "",
     "section": "Incubators",
     "text": "Incubators\nThe National Center for Ecological Analysis and Synthesis (NCEAS) helped incubate Openscapes. It conducts transformational science focused on informing solutions that will allow people and nature to thrive. Through data synthesis, collaborations, and open science, NCEAS accelerates scientific discoveries and generates big-picture insights to help solve environmental challenges. Established in 1995, NCEAS is an independent research affiliate of the University of California at Santa Barbara with a global network and impact.\nMozilla helped incubate Openscapes. It believes the internet must always remain a global public resource, open and accessible to all. Its work is guided by the Mozilla Manifesto. Mozilla focuses on fueling the movement for a healthy internet by supporting a diverse group of fellows working on key internet issues; by connecting open internet leaders at events like MozFest; by publishing critical research in the Internet Health Report; and by rallying citizens around advocacy issues that connect the well being of the internet directly to everyday life."
+  },
+  {
+    "objectID": "who_are_we.html#our-story",
+    "href": "who_are_we.html#our-story",
+    "title": "",
+    "section": "OUR STORY",
+    "text": "OUR STORY\nThe Openscapes story starts with file names like “data_analysis_final_v2b.xls” — you know the ones. It is a story about reimagining what’s possible when we modernize how we collaborate as part of the open movement.\nOpenscapes has been co-developed by Julia Lowndes and Erin Robinson, combining their expertise of open data science and open data stewardship, community and program building, teaching and coaching, as well as their lived experience as researchers. Together, they built the Openscapes as a value-based initiative that builds momentum like a flywheel and sustainably supports research teams with open science. With the Openscapes Champions flagship program and the first cohort of research teams, Openscapes was initially launched by Julia through a Mozilla Fellowship in 2018.\nErin joined in 2020 and together they created the Openscapes Framework that supports scaling Openscapes into a movement with the Openscapes mentor community. Openscapes mentors are people embedded in science organizations that learn to lead Openscapes Champions programs for their organization. This framework was developed through a NASA grant that Julia and Erin lead. Beyond NASA, the Framework has supported mentors at several other organizations like NOAA, and the California Water Boards.\nWe are excited to continue learning and iterating with the open movement towards kinder, better science for future us.\n\n :::"
+  },
+  {
+    "objectID": "who_are_we.html#our-team",
+    "href": "who_are_we.html#our-team",
+    "title": "",
+    "section": "OUR TEAM",
+    "text": "OUR TEAM\nLearn about our our team who are helping grow and improve Openscapes!"
+  },
+  {
+    "objectID": "who_are_we.html#our-code-of-conduct",
+    "href": "who_are_we.html#our-code-of-conduct",
+    "title": "",
+    "section": "OUR CODE OF CONDUCT",
+    "text": "OUR CODE OF CONDUCT\nOpenscapes is committed to providing a welcoming, safe, inclusive, and harassment-free experience for everyone.\nWe expect all participants to adhere to our Code of Conduct, which was influenced and adapted from rOpenSci and Mozilla."
+  },
+  {
+    "objectID": "who_are_we.html#our-art",
+    "href": "who_are_we.html#our-art",
+    "title": "",
+    "section": "OUR ART",
+    "text": "OUR ART\nAllison Horst creates original art for Openscapes, beginning as an artist in residence at NCEAS. Formerly an Assistant Teaching Professor at the Bren School of Environmental Science & Management at the University of California at Santa Barbara, currently a Data Scientist Advocate at Observable, Allison is also one of the inaugural Openscapes Champions. With a background in the fine arts, she also works digitally – explore her stats illustrations and follow her on Twitter.\nSee all of Allison’s open landscapes on the gallery page."
+  },
+  {
+    "objectID": "who_are_we.html#our-logo",
+    "href": "who_are_we.html#our-logo",
+    "title": "",
+    "section": "OUR LOGO",
+    "text": "OUR LOGO\nOur logo designed by Allison Horst represents both the open landscapes and the data within them."
+  },
+  {
+    "objectID": "who_are_we.html#our-funding",
+    "href": "who_are_we.html#our-funding",
+    "title": "",
+    "section": "OUR FUNDING",
+    "text": "OUR FUNDING\nWe thank our funders for supporting open science tools, people, and communities. Openscapes was originally created with support from Mozilla, which also sponsored the first Champions Cohort. In 2019 we received additional support from the Gordon and Betty Moore Foundation to develop a strategic growth plan for Openscapes."
+  },
+  {
+    "objectID": "who_are_we.html#our-website",
+    "href": "who_are_we.html#our-website",
+    "title": "",
+    "section": "OUR WEBSITE",
+    "text": "OUR WEBSITE\nupdated language here"
   }
 ]

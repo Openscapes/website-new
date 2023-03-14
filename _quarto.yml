@@ -18,6 +18,8 @@ website:
             href: approach.qmd
           - text: "MEDIA"
             href: media.qmd
+          - text: "OUR TEAM"
+            href: team.qmd
       - text: "INITIATIVES"
         menu:
          - text: "CHAMPIONS PROGRAM"
@@ -47,7 +49,7 @@ format:
     theme: 
       - styles.scss
     mainfont: Sen
-    toc: true
+    #toc: true
 
 
 

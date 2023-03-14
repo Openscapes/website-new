@@ -76,6 +76,22 @@ body { // set body text size & line height
   padding-left: 160px;
 }
 
+.light-gray-div { // used to create light gray div
+  background-color: $light-med-gray;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  padding-right: 160px;
+  padding-left: 160px;
+}
+
+.dark-gray-div { // used to create dark gray div 
+  background-color: $dark-gray;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  padding-right: 160px;
+  padding-left: 160px;
+}
+
 .gray-bg {
   background-color: $light-gray;
   padding-top: 5px;
@@ -98,14 +114,6 @@ body { // set body text size & line height
   display: flex;
   justify-content: center;
 }*/
-
-.gray-div { // used to create gray div
-  background-color: $light-med-gray;
-  padding-top: 5px;
-  padding-bottom: 15px;
-  padding-right: 160px;
-  padding-left: 160px;
-}
 
 /*.container { // arrange mozilla & nceas logos side-by-side; SC NOTE: NOT CENTERED
   display: flex;
@@ -134,6 +142,26 @@ body { // set body text size & line height
   .column {
     width: 100%;
   }
+}
+
+.button-styling { // button styling
+  background: $white;
+  border-color: $blue;
+  color: $blue;
+  //border-radius: 0.6rem;
+  border-width: thin;
+  font-size: 18px;
+  //letter-spacing: 3px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-right: 6px;
+  padding-left: 6px;
+  transition-duration: 0.4s;
+}
+
+.button-styling:hover { // button hover styling
+  background-color: $blue; 
+  color: $white;
 }
 
 /////////////////////////// Class selectors (identified by "Inspect"ing the site) ///////////////////////////

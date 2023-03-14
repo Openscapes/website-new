@@ -11,13 +11,16 @@ format: html
 :::
 
 ::: column-screen
+
 ::: white-div
+
 ::: {.blue-underline .center-text}
 # **WHAT WE DO**
 :::
 
 [At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster.]{.bold700} Regardless of research question, environmental scientists are united by the need to analyze data --- and to do so in a way that is efficient, reproducible, and easily communicated. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. [Our approach]():
 :::
+
 :::
 
 ::: column-screen
@@ -45,24 +48,30 @@ format: html
 
 </p>
 :::
+
 :::
 
 <br>
 
 ::: column-screen
-::: gray-div
+
+::: light-gray-div
+
 ::: {.blue-underline .center-text}
 # **CHAMPIONS PROGRAM**
 :::
 
 Openscapes Champions is a mentorship program that empowers science teams with open data science tools and grows the community of practice in the research group, organization, and beyond. Read how the 2019 Openscapes Champions have supercharged their research, and contact us about participating in the Champions program.
 :::
+
 :::
 
 <br>
 
 ::: column-screen
+
 ::: white-div
+
 ::: {.blue-underline .center-text}
 # **INCUBATED BY MOZILLA AND NCEAS**
 :::
@@ -81,4 +90,57 @@ Openscapes bridges data-intensive environmental science with the open movement. 
 
 </div>
 :::
+
+<br>
+
+:::
+
+::: column-screen
+
+::: light-gray-div
+recent blog listings here, if possible?
+:::
+
+:::
+
+::: column-screen
+
+::: white-div
+
+:::: {.columns}
+
+::: {.column width="45%"}
+
+#### About
+Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster. Openscapes was incubated by NCEAS and a Mozilla Fellowship awarded to Julia Stewart Lowndes.
+
+<button type="button" class="button-styling" onclick=window.location.href='who_are_we.qmd'>Learn More</button>
+
+<!-- [Learn More](who_are_we.qmd) -->
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="45%"}
+
+#### Contact
+
+**Openscapes**   
+California, USA
+
+---
+
+hello @ openscapes.org   
+Twitter & GitHub: @openscapes
+
+<button type="button" class="button-styling" onclick=window.location.href='connect.qmd'>Get Involved</button>
+
+:::
+
+::::
+
+:::
+
 :::

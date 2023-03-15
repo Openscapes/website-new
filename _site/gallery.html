@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.0.37">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title></title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./images/favicon/favicon_fullres.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <a class="navbar-brand" href="./index.html">
+    <img src="./images/logo/logo.png" alt="">
+  </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html">HOME</a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">ABOUT</a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="./who_are_we.html">
+ <span class="dropdown-text">WHO ARE WE?</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./approach.html">
+ <span class="dropdown-text">OUR APPROACH</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./media.html">
+ <span class="dropdown-text">MEDIA</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./team.html">
+ <span class="dropdown-text">OUR TEAM</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false">INITIATIVES</a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
+        <li>
+    <a class="dropdown-item" href="./champions_program.html">
+ <span class="dropdown-text">CHAMPIONS PROGRAM</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./blog.html">BLOG</a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-get-involved" role="button" data-bs-toggle="dropdown" aria-expanded="false">GET INVOLVED</a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-get-involved">    
+        <li>
+    <a class="dropdown-item" href="./connect.html">
+ <span class="dropdown-text">CONNECT WITH US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./events.html">
+ <span class="dropdown-text">ATTEND AN EVENT</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/openscapes"><i class="bi bi-github" role="img">
+</i> 
+ </a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/openscapes"><i class="bi bi-twitter" role="img">
+</i> 
+ </a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:hello@openscapes.org"><i class="bi bi-envelope" role="img">
+</i> 
+ </a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content page-columns page-full column-body" id="quarto-document-content">
+
+
+
+<div class="column-screen">
+<p><img src="images/banner_imgs/horst_openscapes_desert_breadcrumbs.png" class="img-fluid"></p>
+<p><br></p>
+<div class="white-div">
+<div class="medium-body-text center-text">
+<p><strong>Original artwork by <a href="https://allisonhorst.com/">Dr.&nbsp;Allison Horst</a> helps bring Openscapes ideas and feelings to life.</strong></p>
+</div>
+<div class="center-text">
+<p><em>We are so grateful to work with her.</em></p>
+</div>
+<section id="open-landscapes" class="level2">
+<h2 class="anchored" data-anchor-id="open-landscapes">Open landscapes</h2>
+<p><em>Click on an image to open at high resolution in a new tab.</em></p>
+<p><a href="images/banner_imgs/horst_openscapes_grassland_1500px.png" target="_blank"> <img src="images/banner_imgs/horst_openscapes_grassland_1500px.png" class="img-fluid" data-fig-align="center" style="width:100.0%"> </a></p>
+<p><br></p>
+<p><a href="images/banner_imgs/horst_openscapes_desert_1500px.png" target="_blank"> <img src="images/banner_imgs/horst_openscapes_desert_1500px.png" class="img-fluid" data-fig-align="center" style="width:100.0%"> </a></p>
+<p><br></p>
+<p><a href="images/banner_imgs/horst_openscapes_arctic_1500px.png" target="_blank"> <img src="images/banner_imgs/horst_openscapes_arctic_1500px.png" class="img-fluid" data-fig-align="center" style="width:100.0%"> </a></p>
+<p><br></p>
+<p><a href="images/banner_imgs/horst_openscapes_mountains_1500px.png" target="_blank"> <img src="images/banner_imgs/horst_openscapes_mountains_1500px.png" class="img-fluid" data-fig-align="center" style="width:100.0%"> </a></p>
+<p><br></p>
+</section>
+<section id="openscapes-logo" class="level2">
+<h2 class="anchored" data-anchor-id="openscapes-logo">Openscapes logo</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/logo/openscapes_hex_badge.png" class="img-fluid figure-img" style="width:25.0%"></p>
+</figure>
+</div>
+<p><br></p>
+</section>
+<section id="openscapes-champions" class="level2">
+<h2 class="anchored" data-anchor-id="openscapes-champions">Openscapes Champions</h2>
+<p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/page_imgs/horst_openscapes_champions.jpg" class="img-fluid figure-img" style="width:85.0%"></p>
+</figure>
+</div>
+<div class="small-gray-text center-text">
+<p><em>Learn more about the behind-the-scenes creation of this piece in our 2021 CascadiaR keynote <a href="https://docs.google.com/presentation/d/11-flAlM33E7GwkzlJuuzbs8icfTgYnG7UmDwDkgD49k/edit#slide=id.p">Open science as a movement and the art of Openscapes</a></em></p>
+</div>
+<p><br></p>
+</section>
+<section id="openscapes-theory-of-change" class="level2">
+<h2 class="anchored" data-anchor-id="openscapes-theory-of-change">Openscapes Theory of Change</h2>
+<p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/diagrams/horst_pew_tools_practice_mindset.jpg" class="img-fluid figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<p><br></p>
+</section>
+<section id="seaside-chat-illustration" class="level2">
+<h2 class="anchored" data-anchor-id="seaside-chat-illustration">Seaside Chat illustration</h2>
+<p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/seaside_chats/horst-seaside-chats.png" class="img-fluid figure-img" style="width:60.0%"></p>
+</figure>
+</div>
+<div class="small-gray-text center-text">
+<p><em>Let’s normalize talking about data (analysis &amp; stewardship)!</em></p>
+</div>
+<p><br></p>
+</section>
+<section id="julia-lowndes-user-2019-keynote-illustrations" class="level2">
+<h2 class="anchored" data-anchor-id="julia-lowndes-user-2019-keynote-illustrations">Julia Lowndes useR! 2019 keynote illustrations</h2>
+<p>From Allison’s <a href="https://github.com/allisonhorst/stats-illustrations/tree/main/openscapes">openscapes artwork on github</a>:</p>
+<blockquote class="blockquote">
+<p>This folder contains artwork that was conceived of, and presented by, Dr.&nbsp;Julia Lowndes (<span class="citation" data-cites="jules32">@jules32</span>) - director of <a href="https://www.openscapes.org/">Openscapes</a> for talks including her opening <a href="https://www.youtube.com/watch?v=Z8PqwFPqn6Y&amp;feature=youtu.be&amp;start=2710">keynote</a> at the <a href="http://user2019.r-project.org/program_overview/">useR! 2019 conference</a>. (<a href="https://jules32.github.io/useR-2019-keynote/#1">Slides are here</a>).</p>
+<p><strong>Please credit this Openscapes artwork with:</strong> “Artwork from <a href="https://twitter.com/juliesquid"><span class="citation" data-cites="juliesquid">@juliesquid</span></a> for <a href="https://twitter.com/openscapes"><span class="citation" data-cites="openscapes">@openscapes</span></a> (illustrated by <a href="https://twitter.com/allison_horst"><span class="citation" data-cites="allison_horst">@allison_horst</span></a>).”</p>
+<p>This work is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+</blockquote>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/useR_2019_illustrations/horst-eco-r4ds.png" class="img-fluid figure-img" style="width:75.0%"></p>
+</figure>
+</div>
+<div class="small-gray-text center-text">
+<p><em>An extended version of the classic <a href="https://r4ds.had.co.nz/">R4DS</a> schematic from Grolemund &amp; Wickham, with environmental data science, communities, and communication added</em></p>
+</div>
+<p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/useR_2019_illustrations/horst-lowndes-loop.png" class="img-fluid figure-img" style="width:75.0%"></p>
+</figure>
+</div>
+<div class="small-gray-text center-text">
+<p><em>Data science &amp; teamwork feedback loop</em></p>
+</div>
+<p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/useR_2019_illustrations/horst-starwars-luke.png" class="img-fluid figure-img" style="width:75.0%"></p>
+</figure>
+</div>
+<div class="small-gray-text center-text">
+<p><em>Luke doesn’t have the tools when he crashes on Dagobah…</em></p>
+</div>
+<p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/useR_2019_illustrations/horst-starwars-yoda.png" class="img-fluid figure-img" style="width:75.0%"></p>
+</figure>
+</div>
+<div class="small-gray-text center-text">
+<p><em>…but Yoda shows him what’s possible with the foRce.</em></p>
+</div>
+<p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/useR_2019_illustrations/horst-starwars-rey.png" class="img-fluid figure-img" style="width:75.0%"></p>
+</figure>
+</div>
+<div class="small-gray-text center-text">
+<p><em>Which is so powerful!</em></p>
+</div>
+<p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/useR_2019_illustrations/horst-starwars-hands.png" class="img-fluid figure-img" style="width:75.0%"></p>
+</figure>
+</div>
+<div class="small-gray-text center-text">
+<p><em>But even if you become a Jedi, you still need your community to defeat the Empire</em></p>
+</div>
+<p><br></p>
+</section>
+<section id="tidy-data-illustrated-series" class="level2">
+<h2 class="anchored" data-anchor-id="tidy-data-illustrated-series">Tidy Data Illustrated Series</h2>
+<p><a href="">Tidy data for efficiency, reproducibility, and collaboration</a> — an illustrated series as a blog and slides for reuse in the classroom and beyond.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/tidydata/tidydata_7.jpg" class="img-fluid figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</section>
+</div>
+</div>
+
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Openscapes is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attributions 4.0 International License</a></div>   
+    <div class="nav-footer-right">This website is built with ❤️ and <a href="https://quarto.org/">Quarto</a></div>
+  </div>
+</footer>
+
+
+
+</body></html>

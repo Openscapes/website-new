@@ -9,7 +9,6 @@ title: ""
 <br>
 
 ::: white-div
-
 ::: {.medium-body-text .center-text}
 **Openscapes is an approach for doing better science for future us.**
 :::
@@ -54,7 +53,7 @@ Learn about our [**our team**](team.qmd) who are helping grow and improve Opensc
 
 Openscapes is committed to providing a welcoming, safe, inclusive, and harassment-free experience for everyone.
 
-We expect all participants to adhere to our [Code of Conduct](), which was influenced and adapted from [rOpenSci](https://ropensci.org/code-of-conduct/) and [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+We expect all participants to adhere to our [Code of Conduct](code_of_conduct.qmd), which was influenced and adapted from [rOpenSci](https://ropensci.org/code-of-conduct/) and [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/).
 
 <br>
 
@@ -64,9 +63,9 @@ We expect all participants to adhere to our [Code of Conduct](), which was influ
 ::: white-div
 ## OUR ART
 
-[Allison Horst](https://allisonhorst.github.io/) creates original art for Openscapes, beginning as an artist in residence at NCEAS. Formerly an Assistant Teaching Professor at the Bren School of Environmental Science & Management at the University of California at Santa Barbara, currently a Data Scientist Advocate at [Observable](https://observablehq.com/), Allison is also one of the inaugural Openscapes Champions. With a background in the fine arts, she also works digitally -- explore her [stats illustrations](https://allisonhorst.com/) and follow her on [Twitter](https://twitter.com/allison_horst).
+[Allison Horst](https://allisonhorst.github.io/) creates original art for Openscapes. Formerly an artist in residence at NCEAS and Assistant Teaching Professor at the Bren School of Environmental Science & Management at the University of California, Santa Barbara, Allison now works as a Data Scientist Advocate at [Observable](https://observablehq.com/). She is also one of the inaugural Openscapes Champions. Allison has a background in the fine arts, and in recent years, began creating digital open artwork for data science and statistics education -- explore her [stats illustrations](https://allisonhorst.com/) and follow her on [Twitter](https://twitter.com/allison_horst).
 
-See all of Allison's open landscapes on the [gallery page]().
+See all of Allison's open landscapes on the [gallery page](gallery.qmd).
 
 <br>
 

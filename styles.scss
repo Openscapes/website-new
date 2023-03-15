@@ -84,23 +84,6 @@ body { // set body text size & line height
   padding-left: 160px;
 }
 
-.dark-gray-div { // used to create dark gray div 
-  background-color: $dark-gray;
-  padding-top: 5px;
-  padding-bottom: 15px;
-  padding-right: 160px;
-  padding-left: 160px;
-}
-
-.gray-bg {
-  background-color: $light-gray;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-right: 5px;
-  padding-left: 8px;
-  border-radius: 15px;
-}
-
 .orange-bg {
   background-color: $light-orange;
   padding-top: 5px;
@@ -110,7 +93,7 @@ body { // set body text size & line height
   border-radius: 15px;
 }
 
-blockquote { // want to use this for blockquotes but vertical line not appearing (using .gray-bg for now)
+blockquote { 
   background: $white;
   border-left: 3px solid $blue;
   margin: 1.5em 10px;
@@ -136,7 +119,7 @@ blockquote p {
   width: 80%;
 }
 
-.column { // Create three equal columns that floats next to each other 
+.column { // Create three equal columns that floats next to each other NOT WORKING
   float: left;
   width: 33.33%;
   padding: 10px;
@@ -158,7 +141,6 @@ blockquote p {
   background: $white;
   border-color: $blue;
   color: $blue;
-  //border-radius: 0.6rem;
   border-width: thin;
   border-style: solid; // get rid of black border on bottom half
   border: 2px, $blue; // get rid of black border on bottom half

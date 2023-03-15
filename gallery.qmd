@@ -1,0 +1,152 @@
+---
+title: ""
+---
+
+::: column-screen
+![](images/banner_imgs/horst_openscapes_desert_breadcrumbs.png)
+
+<br>
+
+::: white-div
+
+::: {.medium-body-text .center-text}
+**Original artwork by [Dr. Allison Horst](https://allisonhorst.com/) helps bring Openscapes ideas and feelings to life.** 
+:::
+
+::: {.center-text}
+*We are so grateful to work with her.*
+:::
+
+## Open landscapes
+
+*Click on an image to open at high resolution in a new tab.*
+
+<a href="images/banner_imgs/horst_openscapes_grassland_1500px.png" target="_blank">
+![](images/banner_imgs/horst_openscapes_grassland_1500px.png){fig-align="center" width="100%"}
+</a>
+
+<br>
+
+<a href="images/banner_imgs/horst_openscapes_desert_1500px.png" target="_blank">
+![](images/banner_imgs/horst_openscapes_desert_1500px.png){fig-align="center" width="100%"}
+</a>
+
+<br>
+
+<a href="images/banner_imgs/horst_openscapes_arctic_1500px.png" target="_blank">
+![](images/banner_imgs/horst_openscapes_arctic_1500px.png){fig-align="center" width="100%"}
+</a>
+
+<br>
+
+<a href="images/banner_imgs/horst_openscapes_mountains_1500px.png" target="_blank">
+![](images/banner_imgs/horst_openscapes_mountains_1500px.png){fig-align="center" width="100%"}
+</a>
+
+<br>
+
+## Openscapes logo
+
+![](images/logo/openscapes_hex_badge.png){fig-align="center" width="25%"}
+
+<br>
+
+## Openscapes Champions
+
+<br>
+
+![](images/page_imgs/horst_openscapes_champions.jpg){fig-align="center" width="85%"}
+
+::: {.small-gray-text .center-text}
+*Learn more about the behind-the-scenes creation of this piece in our 2021 CascadiaR keynote [Open science as a movement and the art of Openscapes](https://docs.google.com/presentation/d/11-flAlM33E7GwkzlJuuzbs8icfTgYnG7UmDwDkgD49k/edit#slide=id.p)*
+:::
+
+<br>
+
+## Openscapes Theory of Change
+
+<br>
+
+![](images/diagrams/horst_pew_tools_practice_mindset.jpg){fig-align="center" width="50%"}
+
+<br>
+
+## Seaside Chat illustration
+
+<br>
+
+![](images/seaside_chats/horst-seaside-chats.png){fig-align="center" width="60%"}
+
+::: {.small-gray-text .center-text}
+*Let’s normalize talking about data (analysis & stewardship)!*
+:::
+
+<br>
+
+## Julia Lowndes useR! 2019 keynote illustrations
+
+From Allison’s [openscapes artwork on github](https://github.com/allisonhorst/stats-illustrations/tree/main/openscapes):
+
+> This folder contains artwork that was conceived of, and presented by, Dr. Julia Lowndes (@jules32) - director of [Openscapes](https://www.openscapes.org/) for talks including her opening [keynote](https://www.youtube.com/watch?v=Z8PqwFPqn6Y&feature=youtu.be&start=2710) at the [useR! 2019 conference](http://user2019.r-project.org/program_overview/). ([Slides are here](https://jules32.github.io/useR-2019-keynote/#1)). 
+>
+> **Please credit this Openscapes artwork with:** "Artwork from [@juliesquid](https://twitter.com/juliesquid) for [@openscapes](https://twitter.com/openscapes) (illustrated by [@allison_horst](https://twitter.com/allison_horst))."
+>
+> This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 
+
+![](images/useR_2019_illustrations/horst-eco-r4ds.png){fig-align="center" width="75%"}
+
+::: {.small-gray-text .center-text}
+*An extended version of the classic [R4DS](https://r4ds.had.co.nz/) schematic from Grolemund & Wickham, with environmental data science, communities, and communication added*
+:::
+
+<br>
+
+![](images/useR_2019_illustrations/horst-lowndes-loop.png){fig-align="center" width="75%"}
+
+::: {.small-gray-text .center-text}
+*Data science & teamwork feedback loop*
+:::
+
+<br>
+
+![](images/useR_2019_illustrations/horst-starwars-luke.png){fig-align="center" width="75%"}
+
+::: {.small-gray-text .center-text}
+*Luke doesn’t have the tools when he crashes on Dagobah…*
+:::
+
+<br>
+
+![](images/useR_2019_illustrations/horst-starwars-yoda.png){fig-align="center" width="75%"}
+
+::: {.small-gray-text .center-text}
+*…but Yoda shows him what’s possible with the foRce.*
+:::
+
+<br>
+
+![](images/useR_2019_illustrations/horst-starwars-rey.png){fig-align="center" width="75%"}
+
+::: {.small-gray-text .center-text}
+*Which is so powerful!*
+:::
+
+<br>
+
+![](images/useR_2019_illustrations/horst-starwars-hands.png){fig-align="center" width="75%"}
+
+::: {.small-gray-text .center-text}
+*But even if you become a Jedi, you still need your community to defeat the Empire*
+:::
+
+<br>
+
+## Tidy Data Illustrated Series
+
+[Tidy data for efficiency, reproducibility, and collaboration]() — an illustrated series as a blog and slides for reuse in the classroom and beyond.
+
+![](images/tidydata/tidydata_7.jpg){fig-align="center" width="100%"}
+
+:::
+
+:::

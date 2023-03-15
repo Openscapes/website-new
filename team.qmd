@@ -8,7 +8,9 @@ title: ""
 
 <br>
 
-<p class="medium-body-text center-text">**Meet the many folks behind Openscapes!**</p>
+::: {.medium-body-text .center-text}
+**Meet the many folks behind Openscapes!**
+:::
 
 ## Openscapes Core Team
 
@@ -102,7 +104,7 @@ title: ""
 
 ## Advisors & Collaborators
 
-[**Allison Horst**](https://allisonhorst.github.io/) is a long-time Openscapes advisor and collaborator. She is a data scientist, teacher, and artist. With a background in the fine arts, she also works digitally; see her Openscapes open landscapes in the [gallery](), her [stats illustrations](https://allisonhorst.com/) and follow her on [Twitter](https://twitter.com/allison_horst).
+[**Allison Horst**](https://allisonhorst.github.io/) is a long-time Openscapes advisor and collaborator. She is a data scientist, teacher, and artist. With a background in the fine arts, she also works digitally; see her Openscapes open landscapes in the [gallery](gallery.qmd), her [stats illustrations](https://allisonhorst.com/) and follow her on [Twitter](https://twitter.com/allison_horst).
 
 [**Sean Kross**](https://seankross.com/) is a long-time Openscapes collaborator and created the [`{kyber}` R package](https://openscapes.github.io/kyber/) to automate Openscapes cohort infrastructure. His interests are centered around understanding challenges that people doing data science face in the real world, expanding online educational opportunities to new audiences, and building tools to make the future of work and learning possible. Sean is also a frequent consultant for data analysis and software development projects, in addition to being an advocate for open data and a maintainer of several popular open source software repositories.
 

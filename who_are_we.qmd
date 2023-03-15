@@ -9,6 +9,7 @@ title: ""
 <br>
 
 ::: white-div
+
 ::: {.medium-body-text .center-text}
 **Openscapes is an approach for doing better science for future us.**
 :::
@@ -19,7 +20,7 @@ We offer mentorship, teaching, coaching and community organizing centered around
 
 <br>
 
-![](images/animals/horst_openscapes_arctic_squid.png){fig-align="center" width="100"}
+![](images/minis/horst_openscapes_arctic_squid.png){fig-align="center" width="100"}
 :::
 
 ::: white-div
@@ -35,7 +36,7 @@ We are excited to continue learning and iterating with the open movement towards
 
 <br>
 
-![](images/animals/horst_openscapes_arctic_urchins.png){fig-align="center" width="100"}
+![](images/minis/horst_openscapes_arctic_urchins.png){fig-align="center" width="100"}
 :::
 
 ::: white-div
@@ -45,7 +46,7 @@ Learn about our [**our team**](team.qmd) who are helping grow and improve Opensc
 
 <br>
 
-![](images/animals/horst_openscapes_arctic_crab.png){fig-align="center" width="100"}
+![](images/minis/horst_openscapes_arctic_crab.png){fig-align="center" width="100"}
 :::
 
 ::: white-div
@@ -57,7 +58,7 @@ We expect all participants to adhere to our [Code of Conduct](), which was influ
 
 <br>
 
-![](images/animals/horst_openscapes_arctic_humpback.png){fig-align="center" width="100"}
+![](images/minis/horst_openscapes_arctic_humpback.png){fig-align="center" width="100"}
 :::
 
 ::: white-div
@@ -69,7 +70,7 @@ See all of Allison's open landscapes on the [gallery page]().
 
 <br>
 
-![](images/animals/horst_openscapes_arctic_narwhal.png){fig-align="center" width="100"}
+![](images/minis/horst_openscapes_arctic_narwhal.png){fig-align="center" width="100"}
 :::
 
 ::: white-div
@@ -89,7 +90,7 @@ We thank our funders for supporting open science tools, people, and communities.
 
 <br>
 
-![](images/animals/horst_openscapes_arctic_puffins.png){fig-align="center" width="100"}
+![](images/minis/horst_openscapes_arctic_puffins.png){fig-align="center" width="100"}
 :::
 
 ::: white-div
@@ -99,6 +100,6 @@ updated language here
 
 <br>
 
-![](images/animals/horst_openscapes_arctic_ship.png){fig-align="center" width="100"}
+![](images/minis/horst_openscapes_arctic_ship.png){fig-align="center" width="100"}
 :::
 :::

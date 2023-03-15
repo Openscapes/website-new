@@ -110,6 +110,16 @@ body { // set body text size & line height
   border-radius: 15px;
 }
 
+blockquote { // want to use this for blockquotes but vertical line not appearing (using .gray-bg for now)
+  background: $white;
+  border-left: 3px solid $blue;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+}
+blockquote p {
+  display: inline-block;
+}
+
 /*.child-div {
   display: flex;
   justify-content: center;
@@ -150,8 +160,9 @@ body { // set body text size & line height
   color: $blue;
   //border-radius: 0.6rem;
   border-width: thin;
+  border-style: solid; // get rid of black border on bottom half
+  border: 2px, $blue; // get rid of black border on bottom half
   font-size: 18px;
-  //letter-spacing: 3px;
   padding-top: 2px;
   padding-bottom: 2px;
   padding-right: 6px;

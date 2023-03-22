@@ -26,6 +26,8 @@ ul.task-list{list-style: none;}
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/favicon/favicon_fullres.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -54,7 +56,37 @@ ul.task-list{list-style: none;}
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-recent-blog-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-image','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-recent-blog-listing'] = new List('listing-recent-blog-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
@@ -93,6 +125,10 @@ ul.task-list{list-style: none;}
         <li>
     <a class="dropdown-item" href="./team.html">
  <span class="dropdown-text">OUR TEAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./code_of_conduct.html">
+ <span class="dropdown-text">CODE OF CONDUCT</span></a>
   </li>  
     </ul>
   </li>
@@ -160,24 +196,48 @@ ul.task-list{list-style: none;}
 <section id="what-we-do" class="level1 blue-underline center-text">
 <h1><strong>WHAT WE DO</strong></h1>
 </section>
-<p><span class="bold700">At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster.</span> Regardless of research question, environmental scientists are united by the need to analyze data — and to do so in a way that is efficient, reproducible, and easily communicated. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. <a href="">Our approach</a>:</p>
+<p><strong>At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster.</strong> Regardless of research question, environmental scientists are united by the need to analyze data — and to do so in a way that is efficient, reproducible, and easily communicated. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. <a href="./approach.html">Our approach</a>:</p>
 </div>
 </div>
 <div class="column-screen">
-<div class="column">
-<p class="large-body-text">
-</p><p><svg aria-label="Users" role="img" viewbox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#38A7BB;overflow:visible;position:relative;"><title>Users</title><path d="M144 160c-44.2 0-80-35.8-80-80S99.8 0 144 0s80 35.8 80 80s-35.8 80-80 80zm368 0c-44.2 0-80-35.8-80-80s35.8-80 80-80s80 35.8 80 80s-35.8 80-80 80zM0 298.7C0 239.8 47.8 192 106.7 192h42.7c15.9 0 31 3.5 44.6 9.7c-1.3 7.2-1.9 14.7-1.9 22.3c0 38.2 16.8 72.5 43.3 96c-.2 0-.4 0-.7 0H21.3C9.6 320 0 310.4 0 298.7zM405.3 320c-.2 0-.4 0-.7 0c26.6-23.5 43.3-57.8 43.3-96c0-7.6-.7-15-1.9-22.3c13.6-6.3 28.7-9.7 44.6-9.7h42.7C592.2 192 640 239.8 640 298.7c0 11.8-9.6 21.3-21.3 21.3H405.3zM416 224c0 53-43 96-96 96s-96-43-96-96s43-96 96-96s96 43 96 96zM128 485.3C128 411.7 187.7 352 261.3 352H378.7C452.3 352 512 411.7 512 485.3c0 14.7-11.9 26.7-26.7 26.7H154.7c-14.7 0-26.7-11.9-26.7-26.7z"></path></svg></p>
-<p></p>
+<div class="white-div">
+<div class="columns">
+<div class="column" style="width:30%;">
+<div class="large-body-text center-text">
+<p><svg aria-label="Users" role="img" viewbox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#38A7BB;overflow:visible;position:relative;"><title>Users</title><path d="M144 160c-44.2 0-80-35.8-80-80S99.8 0 144 0s80 35.8 80 80s-35.8 80-80 80zm368 0c-44.2 0-80-35.8-80-80s35.8-80 80-80s80 35.8 80 80s-35.8 80-80 80zM0 298.7C0 239.8 47.8 192 106.7 192h42.7c15.9 0 31 3.5 44.6 9.7c-1.3 7.2-1.9 14.7-1.9 22.3c0 38.2 16.8 72.5 43.3 96c-.2 0-.4 0-.7 0H21.3C9.6 320 0 310.4 0 298.7zM405.3 320c-.2 0-.4 0-.7 0c26.6-23.5 43.3-57.8 43.3-96c0-7.6-.7-15-1.9-22.3c13.6-6.3 28.7-9.7 44.6-9.7h42.7C592.2 192 640 239.8 640 298.7c0 11.8-9.6 21.3-21.3 21.3H405.3zM416 224c0 53-43 96-96 96s-96-43-96-96s43-96 96-96s96 43 96 96zM128 485.3C128 411.7 187.7 352 261.3 352H378.7C452.3 352 512 411.7 512 485.3c0 14.7-11.9 26.7-26.7 26.7H154.7c-14.7 0-26.7-11.9-26.7-26.7z"></path></svg></p>
 </div>
-<div class="column">
-<p class="large-body-text">
-</p><p><svg aria-label="Lightbulb" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#38A7BB;overflow:visible;position:relative;"><title>Lightbulb</title><path d="M112.1 454.3c0 6.297 1.816 12.44 5.284 17.69l17.14 25.69c5.25 7.875 17.17 14.28 26.64 14.28h61.67c9.438 0 21.36-6.401 26.61-14.28l17.08-25.68c2.938-4.438 5.348-12.37 5.348-17.7L272 415.1h-160L112.1 454.3zM192 0C90.02 .3203 16 82.97 16 175.1c0 44.38 16.44 84.84 43.56 115.8c16.53 18.84 42.34 58.23 52.22 91.45c.0313 .25 .0938 .5166 .125 .7823h160.2c.0313-.2656 .0938-.5166 .125-.7823c9.875-33.22 35.69-72.61 52.22-91.45C351.6 260.8 368 220.4 368 175.1C368 78.8 289.2 .0039 192 0zM288.4 260.1c-15.66 17.85-35.04 46.3-49.05 75.89h-94.61c-14.01-29.59-33.39-58.04-49.04-75.88C75.24 236.8 64 206.1 64 175.1C64 113.3 112.1 48.25 191.1 48C262.6 48 320 105.4 320 175.1C320 206.1 308.8 236.8 288.4 260.1zM176 80C131.9 80 96 115.9 96 160c0 8.844 7.156 16 16 16S128 168.8 128 160c0-26.47 21.53-48 48-48c8.844 0 16-7.148 16-15.99S184.8 80 176 80z"></path></svg></p>
-<p></p>
+<div class="blue-text medium-body-text center-text">
+<p><strong>ENGAGE</strong></p>
 </div>
-<div class="column">
-<p class="large-body-text">
-</p><p><svg aria-label="Earth americas" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#38A7BB;overflow:visible;position:relative;"><title>Earth americas</title><path d="M57.7 193l9.4 16.4c8.3 14.5 21.9 25.2 38 29.8L163 255.7c17.2 4.9 29 20.6 29 38.5v39.9c0 11 6.2 21 16 25.9s16 14.9 16 25.9v39c0 15.6 14.9 26.9 29.9 22.6c16.1-4.6 28.6-17.5 32.7-33.8l2.8-11.2c4.2-16.9 15.2-31.4 30.3-40l8.1-4.6c15-8.5 24.2-24.5 24.2-41.7v-8.3c0-12.7-5.1-24.9-14.1-33.9l-3.9-3.9c-9-9-21.2-14.1-33.9-14.1H257c-11.1 0-22.1-2.9-31.8-8.4l-34.5-19.7c-4.3-2.5-7.6-6.5-9.2-11.2c-3.2-9.6 1.1-20 10.2-24.5l5.9-3c6.6-3.3 14.3-3.9 21.3-1.5l23.2 7.7c8.2 2.7 17.2-.4 21.9-7.5c4.7-7 4.2-16.3-1.2-22.8l-13.6-16.3c-10-12-9.9-29.5 .3-41.3l15.7-18.3c8.8-10.3 10.2-25 3.5-36.7l-2.4-4.2c-3.5-.2-6.9-.3-10.4-.3C163.1 48 84.4 108.9 57.7 193zM464 256c0-36.8-9.6-71.4-26.4-101.5L412 164.8c-15.7 6.3-23.8 23.8-18.5 39.8l16.9 50.7c3.5 10.4 12 18.3 22.6 20.9l29.1 7.3c1.2-9 1.8-18.2 1.8-27.5zm48 0c0 141.4-114.6 256-256 256S0 397.4 0 256S114.6 0 256 0S512 114.6 512 256z"></path></svg></p>
-<p></p>
+<div class="medium-gray1-text small-body-text center-text">
+<p><strong>We build awareness and excitement.</strong> We engage scientists with the possibilities of open data science with empathy, art, and storytelling, using narratives like our own <a href="https://www.nature.com/articles/s41559-017-0160">path to better science in less time</a></p>
+</div>
+</div><div class="column" style="width:5%;">
+
+</div><div class="column" style="width:30%;">
+<div class="large-body-text center-text">
+<p><svg aria-label="Lightbulb" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#38A7BB;overflow:visible;position:relative;"><title>Lightbulb</title><path d="M112.1 454.3c0 6.297 1.816 12.44 5.284 17.69l17.14 25.69c5.25 7.875 17.17 14.28 26.64 14.28h61.67c9.438 0 21.36-6.401 26.61-14.28l17.08-25.68c2.938-4.438 5.348-12.37 5.348-17.7L272 415.1h-160L112.1 454.3zM192 0C90.02 .3203 16 82.97 16 175.1c0 44.38 16.44 84.84 43.56 115.8c16.53 18.84 42.34 58.23 52.22 91.45c.0313 .25 .0938 .5166 .125 .7823h160.2c.0313-.2656 .0938-.5166 .125-.7823c9.875-33.22 35.69-72.61 52.22-91.45C351.6 260.8 368 220.4 368 175.1C368 78.8 289.2 .0039 192 0zM288.4 260.1c-15.66 17.85-35.04 46.3-49.05 75.89h-94.61c-14.01-29.59-33.39-58.04-49.04-75.88C75.24 236.8 64 206.1 64 175.1C64 113.3 112.1 48.25 191.1 48C262.6 48 320 105.4 320 175.1C320 206.1 308.8 236.8 288.4 260.1zM176 80C131.9 80 96 115.9 96 160c0 8.844 7.156 16 16 16S128 168.8 128 160c0-26.47 21.53-48 48-48c8.844 0 16-7.148 16-15.99S184.8 80 176 80z"></path></svg></p>
+</div>
+<div class="blue-text medium-body-text center-text">
+<p><strong>EMPOWER</strong></p>
+</div>
+<div class="medium-gray1-text small-body-text center-text">
+<p><strong>We help build confidence and skills.</strong> We empower scientists by connecting them with existing open software and communities that meet them where they are so they can develop the skills they need.</p>
+</div>
+</div><div class="column" style="width:5%;">
+
+</div><div class="column" style="width:30%;">
+<div class="large-body-text center-text">
+<p><svg aria-label="Earth americas" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#38A7BB;overflow:visible;position:relative;"><title>Earth americas</title><path d="M57.7 193l9.4 16.4c8.3 14.5 21.9 25.2 38 29.8L163 255.7c17.2 4.9 29 20.6 29 38.5v39.9c0 11 6.2 21 16 25.9s16 14.9 16 25.9v39c0 15.6 14.9 26.9 29.9 22.6c16.1-4.6 28.6-17.5 32.7-33.8l2.8-11.2c4.2-16.9 15.2-31.4 30.3-40l8.1-4.6c15-8.5 24.2-24.5 24.2-41.7v-8.3c0-12.7-5.1-24.9-14.1-33.9l-3.9-3.9c-9-9-21.2-14.1-33.9-14.1H257c-11.1 0-22.1-2.9-31.8-8.4l-34.5-19.7c-4.3-2.5-7.6-6.5-9.2-11.2c-3.2-9.6 1.1-20 10.2-24.5l5.9-3c6.6-3.3 14.3-3.9 21.3-1.5l23.2 7.7c8.2 2.7 17.2-.4 21.9-7.5c4.7-7 4.2-16.3-1.2-22.8l-13.6-16.3c-10-12-9.9-29.5 .3-41.3l15.7-18.3c8.8-10.3 10.2-25 3.5-36.7l-2.4-4.2c-3.5-.2-6.9-.3-10.4-.3C163.1 48 84.4 108.9 57.7 193zM464 256c0-36.8-9.6-71.4-26.4-101.5L412 164.8c-15.7 6.3-23.8 23.8-18.5 39.8l16.9 50.7c3.5 10.4 12 18.3 22.6 20.9l29.1 7.3c1.2-9 1.8-18.2 1.8-27.5zm48 0c0 141.4-114.6 256-256 256S0 397.4 0 256S114.6 0 256 0S512 114.6 512 256z"></path></svg></p>
+</div>
+<div class="blue-text medium-body-text center-text">
+<p><strong>AMPLIFY</strong></p>
+</div>
+<div class="medium-gray1-text small-body-text center-text">
+<p><strong>We build champions and communities.</strong> We amplify scientists’ efforts through academic seminars as well as blogs and social media to increase the visibility of open practices on campus and online.</p>
+</div>
+</div>
+</div>
 </div>
 </div>
 <p><br></p>
@@ -186,7 +246,7 @@ ul.task-list{list-style: none;}
 <section id="champions-program" class="level1 blue-underline center-text">
 <h1><strong>CHAMPIONS PROGRAM</strong></h1>
 </section>
-<p>Openscapes Champions is a mentorship program that empowers science teams with open data science tools and grows the community of practice in the research group, organization, and beyond. Read how the 2019 Openscapes Champions have supercharged their research, and contact us about participating in the Champions program.</p>
+<p><a href="./champions_program.html">Openscapes Champions</a> is a mentorship program that empowers science teams with open data science tools and grows the community of practice in the research group, organization, and beyond. Read how the 2019 Openscapes Champions have <a href="">supercharged their research</a>, and <a href="./connect.html">contact us</a> about participating in the Champions program.</p>
 </div>
 </div>
 <p><br></p>
@@ -196,19 +256,51 @@ ul.task-list{list-style: none;}
 <h1><strong>INCUBATED BY MOZILLA AND NCEAS</strong></h1>
 </section>
 <div class="center-text">
-<p>Openscapes bridges data-intensive environmental science with the open movement. Learn more <a href="">about us</a>.</p>
+<p>Openscapes bridges data-intensive environmental science with the open movement. Learn more <a href="./who_are_we.html">about us</a>.</p>
 </div>
 <p><br></p>
-<div>
-<p><img src="images/clients/mozilla.png" class="img-fluid" data-fig-align="center" style="width:35.0%"> <img src="images/clients/nceas.png" class="img-fluid" data-fig-align="center" style="width:35.0%"></p>
-<!-- <img src="images/clients/mozilla.png" alt="Mozilla logo, printed in white text on black background as, &apos;moz://a&apos;." style="width:35%"/> <img src="images/clients/nceas.png" alt="NCEAS logo, printed in white text on black background." style="width:35%"/> -->
+<!-- ::: white-div -->
+<!-- ::: {.center-text} -->
+<p><img src="images/clients/mozilla.png" class="img-fluid" data-fig-align="center" style="width:35.0%"> <img src="images/clients/nceas.png" class="img-fluid" data-fig-align="center" style="width:35.0%"> <!-- ::: --> <!-- ::: --></p>
 </div>
 </div>
 <p><br></p>
-</div>
 <div class="column-screen">
 <div class="light-gray-div">
-<p>recent blog listings here, if possible?</p>
+<section id="from-our-blog" class="level1 blue-underline center-text">
+<h1><strong>FROM OUR BLOG</strong></h1>
+</section>
+<p><a href="./blog.html">Blog posts</a> are both Openscapes stories and advice snippets for the community. Some are cross-posted on <a href="https://medium.com/@openscapes">Medium.com</a>. Also, see our <a href="./media.html">media page</a> for media, presentation slide decks, and publications.</p>
+<div id="listing-recent-blog-listing" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="test" data-listing-date-sort="1679382000000" data-listing-file-modified-sort="1679441527768" data-listing-reading-time-sort="0.02">
+<a href="./blog/2023-03-21-test/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blog/2023-03-21-test/horst_openscapes_grassland_1500px.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Test Post
+</h5>
+<div class="card-text listing-description">
+<p>testing description</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 21, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<!-- see Garrick Aden-Buie's site: https://github.com/gadenbuie/garrickadenbuie-com/blob/quarto/index.qmd -->
 </div>
 </div>
 <div class="column-screen">
@@ -218,10 +310,9 @@ ul.task-list{list-style: none;}
 <section id="about" class="level4">
 <h4 class="anchored" data-anchor-id="about">About</h4>
 <p>Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster. Openscapes was incubated by NCEAS and a Mozilla Fellowship awarded to Julia Stewart Lowndes.</p>
-<button type="button" class="button-styling" onclick="window.location.href='who_are_we.qmd'">
+<button type="button" class="button-styling" onclick="window.location.href='https://www.openscapes.org/about/'">
 Learn More
 </button>
-<!-- [Learn More](who_are_we.qmd) -->
 </section>
 </div><div class="column" style="width:5%;">
 
@@ -233,7 +324,7 @@ California, USA</p>
 <hr>
 <p>hello @ openscapes.org<br>
 Twitter &amp; GitHub: <span class="citation" data-cites="openscapes">@openscapes</span></p>
-<button type="button" class="button-styling" onclick="window.location.href='connect.qmd'">
+<button type="button" class="button-styling" onclick="window.location.href='https://www.openscapes.org/contact/'">
 Get Involved
 </button>
 </section>
@@ -241,6 +332,7 @@ Get Involved
 </div>
 </div>
 </div>
+
 
 
 

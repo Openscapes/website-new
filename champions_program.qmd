@@ -21,7 +21,7 @@ We support researchers to reimagine data analysis & stewardship as a collaborati
 
 ![](images/page_imgs/horst_openscapes_champions.jpg){fig-align="center" width="85%"}
 
-::: {.small-gray-text .center-text}
+::: {.caption-text .center-text}
 *In the the open data science landscape, there are many paths forward. Through the Champions program we help researchers move from lonely research to team science with community through exploring and navigating pathways together. Artwork by [Allison Horst](https://twitter.com/allison_horst).*
 :::
 

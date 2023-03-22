@@ -36,7 +36,7 @@ We know that daily demands leave little time for researchers to transition to be
 
 <br>
 
-::: {.small-gray-text .center-text}
+::: {.caption-text .center-text}
 *Openscapes Flywheel (Robinson & Lowndes 2022; preprint). The Flywheel concept was developed by Jim Collins in the book Good to Great. No matter how dramatic the end result, good-to-great transformations never happen in one fell swoop. Rather, the process resembles relentlessly pushing a giant, heavy flywheel, turn upon turn, building momentum until a point of breakthrough, and beyond.*
 :::
 

@@ -1,10 +1,18 @@
 [
   {
     "listing": "/blog.html",
-    "items": []
+    "items": [
+      "/blog/2023-03-21-test/index.html"
+    ]
   },
   {
     "listing": "/events.html",
     "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/blog/2023-03-21-test/index.html"
+    ]
   }
 ]

@@ -5,12 +5,14 @@
 
 // Colors
 $white: #FFFFFF;
-$light-gray: #EEEEEE; 
-$light-med-gray: #DBDBDA;
-$medium-gray: #555555;
+$light-gray1: #EEEEEE; 
+$light-gray2: #DBDBDA; 
+$medium-gray1: #999999;
+$medium-gray2: #555555; 
 $dark-gray: #333333; 
 $blue: #38A7BB;
 $light-orange: #FFEFE1;
+$yellow: #F8D98F;
 
 // Base document colors
 $navbar-bg: $white;
@@ -18,7 +20,7 @@ $navbar-fg: $dark-gray;
 $navbar-hl: $dark-gray; 
 $body-bg: $white;
 $body-color: $dark-gray;
-$footer-bg: $medium-gray; 
+$footer-bg: $medium-gray2; 
 $link-color: $blue;
 
 // Inline code
@@ -51,21 +53,29 @@ body { // set body text size & line height
   font-size: 25px;
 }
 
-.small-gray-text {
+.small-body-text {
   font-size: 15px;
-  color: $medium-gray;
 }
+
+.caption-text { 
+  font-size: 15px;
+  color: $medium-gray2;
+}
+
+.blue-text{
+  color: $blue;
+}
+
+.medium-gray1-text{
+  color: $medium-gray1;
+}
+
+/*.dark-gray-text{
+  color: $medium-gray2//$dark-gray;
+} */
 
 .center-text { // center text
   text-align: center;
-}
-
-.bold800 { // extra bold
-  font-weight: 800;
-}
-
-.bold700 { // bold
-  font-weight: 700;
 }
 
 .white-div { // used to create white div 
@@ -76,15 +86,21 @@ body { // set body text size & line height
   padding-left: 160px;
 }
 
-.light-gray-div { // used to create light gray div
-  background-color: $light-med-gray;
-  padding-top: 5px;
+.light-gray-div { // used to create light gray div 
+  background-color: $light-gray2;
+  padding-top: 25px;
   padding-bottom: 15px;
   padding-right: 160px;
   padding-left: 160px;
 }
 
-.orange-bg {
+.imageColumn { // NOT WORKING
+   float: left;
+   width: 25%;
+   padding: 10px;
+}
+
+.orange-bg { // orange background color (see bottom of Our Approach for example)
   background-color: $light-orange;
   padding-top: 5px;
   padding-bottom: 5px;
@@ -93,13 +109,14 @@ body { // set body text size & line height
   border-radius: 15px;
 }
 
-blockquote { 
+blockquote { // style blockquotes
   background: $white;
   border-left: 3px solid $blue;
   margin: 1.5em 10px;
   padding: 0.5em 10px;
 }
-blockquote p {
+
+blockquote p { // align blockquotes
   display: inline-block;
 }
 
@@ -113,7 +130,7 @@ blockquote p {
 }*/
 
 .center-img { // center mozilla & nceas logos side-by-side: SC NOTE: NOT CENTERED 
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
@@ -125,13 +142,13 @@ blockquote p {
   padding: 10px;
 }
 
-.row:after { // Clear floats after the columns
+.row:after { // Clear floats after the columns NOT WORKING IDK?
   content: "";
   display: table;
   clear: both;
 }
 
-@media screen and (max-width: 600px) { // Responsive layout - makes the three columns stack on top of each other instead of next to each other 
+@media screen and (max-width: 600px) { // Responsive layout - makes the three columns stack on top of each other instead of next to each other NOT WORKING IDK?
   .column {
     width: 100%;
   }
@@ -171,9 +188,13 @@ blockquote p {
   padding-left: 50px;
 }
 
-h1.title, .title.h1 { // banner text white
-  color: $white;
+.card {
+  background-color: $light-gray1;
 }
+
+/*h1.title, .title.h1 { // banner text white
+  color: $white;
+} */
 
 /*.quarto-title-block .quarto-title-banner { // changes title-block-banner height (set in yaml)
   height: 160%; 

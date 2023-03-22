@@ -4,6 +4,19 @@ sidebar: false
 toc: false
 page-layout: full
 format: html
+
+listing:
+  - id: recent-blog-listing
+    contents:
+      - "blog/*/index.qmd"
+    sort: "date desc"
+    type: grid
+    max-items: 9
+    page-size: 3
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [title, image, description, date]
 ---
 
 ::: column-screen
@@ -11,112 +24,135 @@ format: html
 :::
 
 ::: column-screen
-
 ::: white-div
-
 ::: {.blue-underline .center-text}
 # **WHAT WE DO**
 :::
 
-[At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster.]{.bold700} Regardless of research question, environmental scientists are united by the need to analyze data --- and to do so in a way that is efficient, reproducible, and easily communicated. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. [Our approach]():
+**At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster.** Regardless of research question, environmental scientists are united by the need to analyze data --- and to do so in a way that is efficient, reproducible, and easily communicated. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. [Our approach](approach.qmd):
 :::
-
 :::
 
 ::: column-screen
+::: white-div
+:::: columns
+::: {.column width="30%"}
 
-::: column
-<p class="large-body-text">
-
-`r fontawesome::fa("users", fill = "#38A7BB", a11y = "sem")`
-
-</p>
+::: {.large-body-text .center-text}
+`r fontawesome::fa("users", fill = "#38A7BB", a11y = "sem")` 
 :::
 
-::: column
-<p class="large-body-text">
-
-`r fontawesome::fa("lightbulb", fill = "#38A7BB", a11y = "sem")`
-
-</p>
+::: {.blue-text .medium-body-text .center-text}
+**ENGAGE**
 :::
 
-::: column
-<p class="large-body-text">
-
-`r fontawesome::fa("earth-americas", fill = "#38A7BB", a11y = "sem")`
-
-</p>
+:::{.medium-gray1-text .small-body-text .center-text}
+**We build awareness and excitement.** We engage scientists with the possibilities of open data science with empathy, art, and storytelling, using narratives like our own [path to better science in less time](https://www.nature.com/articles/s41559-017-0160)
 :::
 
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+
+::: {.large-body-text .center-text}
+`r fontawesome::fa("lightbulb", fill = "#38A7BB", a11y = "sem")` 
+:::
+
+::: {.blue-text .medium-body-text .center-text}
+**EMPOWER**
+:::
+
+::: {.medium-gray1-text .small-body-text .center-text}
+**We help build confidence and skills.** We empower scientists by connecting them with existing open software and communities that meet them where they are so they can develop the skills they need.
+:::
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+
+::: {.large-body-text .center-text}
+`r fontawesome::fa("earth-americas", fill = "#38A7BB", a11y = "sem")` 
+:::
+
+::: {.blue-text .medium-body-text .center-text}
+**AMPLIFY**
+:::
+
+::: {.medium-gray1-text .small-body-text .center-text}
+**We build champions and communities.** We amplify scientists’ efforts through academic seminars as well as blogs and social media to increase the visibility of open practices on campus and online.
+:::
+
+:::
+::::
+:::
 :::
 
 <br>
 
 ::: column-screen
-
 ::: light-gray-div
-
 ::: {.blue-underline .center-text}
 # **CHAMPIONS PROGRAM**
 :::
 
-Openscapes Champions is a mentorship program that empowers science teams with open data science tools and grows the community of practice in the research group, organization, and beyond. Read how the 2019 Openscapes Champions have supercharged their research, and contact us about participating in the Champions program.
+[Openscapes Champions](champions_program.qmd) is a mentorship program that empowers science teams with open data science tools and grows the community of practice in the research group, organization, and beyond. Read how the 2019 Openscapes Champions have [supercharged their research](), and [contact us](connect.qmd) about participating in the Champions program.
 :::
-
 :::
 
 <br>
 
 ::: column-screen
-
 ::: white-div
-
 ::: {.blue-underline .center-text}
 # **INCUBATED BY MOZILLA AND NCEAS**
 :::
 
-::: center-text
-Openscapes bridges data-intensive environmental science with the open movement. Learn more [about us]().
+::: {.center-text}
+Openscapes bridges data-intensive environmental science with the open movement. Learn more [about us](who_are_we.qmd).
 :::
 
 <br>
 
-<div>
-
+<!-- ::: white-div -->
+<!-- ::: {.center-text} -->
 ![](images/clients/mozilla.png){fig-align="center" width="35%"} ![](images/clients/nceas.png){fig-align="center" width="35%"}
+<!-- ::: -->
+<!-- ::: -->
 
-<!-- <img src="images/clients/mozilla.png" alt="Mozilla logo, printed in white text on black background as, &apos;moz://a&apos;." style="width:35%"/> <img src="images/clients/nceas.png" alt="NCEAS logo, printed in white text on black background." style="width:35%"/> -->
-
-</div>
+::: 
 :::
 
 <br>
 
-:::
-
 ::: column-screen
-
 ::: light-gray-div
-recent blog listings here, if possible?
+::: {.blue-underline .center-text}
+# **FROM OUR BLOG**
+:::
+[Blog posts](blog.qmd) are both Openscapes stories and advice snippets for the community. Some are cross-posted on [Medium.com](https://medium.com/@openscapes). Also, see our [media page](media.qmd) for media, presentation slide decks, and publications.
+
+::: {#recent-blog-listing}
 :::
 
+<!-- see Garrick Aden-Buie's site: https://github.com/gadenbuie/garrickadenbuie-com/blob/quarto/index.qmd -->
+:::
 :::
 
 ::: column-screen
-
 ::: white-div
-
-:::: {.columns}
-
+::: columns
 ::: {.column width="45%"}
-
 #### About
+
 Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster. Openscapes was incubated by NCEAS and a Mozilla Fellowship awarded to Julia Stewart Lowndes.
 
-<button type="button" class="button-styling" onclick=window.location.href='who_are_we.qmd'>Learn More</button>
-
-<!-- [Learn More](who_are_we.qmd) -->
+<button type="button" class="button-styling" onclick=window.location.href='https://www.openscapes.org/about/'>Learn More</button>
 
 :::
 
@@ -124,23 +160,19 @@ Our vision is a scientific culture that is more efficient and collaborative, and
 :::
 
 ::: {.column width="45%"}
-
 #### Contact
 
-**Openscapes**   
+**Openscapes**\
 California, USA
 
----
+------------------------------------------------------------------------
 
-hello @ openscapes.org   
+hello \@ openscapes.org\
 Twitter & GitHub: @openscapes
 
-<button type="button" class="button-styling" onclick=window.location.href='connect.qmd'>Get Involved</button>
+<button type="button" class="button-styling" onclick=window.location.href='https://www.openscapes.org/contact/'>Get Involved</button>
 
 :::
-
-::::
-
 :::
-
+:::
 :::

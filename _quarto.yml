@@ -20,6 +20,8 @@ website:
             href: media.qmd
           - text: "OUR TEAM"
             href: team.qmd
+          - text: "CODE OF CONDUCT"
+            href: code_of_conduct.qmd
       - text: "INITIATIVES"
         menu:
          - text: "CHAMPIONS PROGRAM"

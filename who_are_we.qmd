@@ -75,7 +75,7 @@ See all of Allison's open landscapes on the [gallery page](gallery.qmd).
 ::: white-div
 ## OUR LOGO
 
-Our logo designed by Allison Horst represents both the open landscapes and the data within them.
+Our logo, designed by Allison Horst, represents both the open landscapes and the data within them.
 
 <br>
 
@@ -95,7 +95,7 @@ We thank our funders for supporting open science tools, people, and communities.
 ::: white-div
 ## OUR WEBSITE
 
-updated language here
+The Openscapes website was originally built by [Julia Lowndes](https://jules32.github.io/) in [`{blogdown}`](https://pkgs.rstudio.com/blogdown/) using the same open data science workflows that she uses for research and promotes through Openscapes. The website was rebuilt by [Samantha Csik](https://samanthacsik.github.io/) in spring 2023 using [Quarto](https://quarto.org/), an open-source scientific publishing tool used by many of the current Openscapes champions.
 
 <br>
 

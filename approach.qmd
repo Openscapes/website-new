@@ -62,7 +62,7 @@ We are iterating [our theory of change](https://docs.google.com/spreadsheets/d/e
 
 <br>
 
-::: {.small-gray-text .center-text}
+::: {.caption-text .center-text}
 *Openscapes Theory of Change: As teams tackle research questions (blue), their approaches (grey) can be accelerated through open data science practices (green), which are underpinned by existing open source tools (orange). Art by [Allison Horst](https://twitter.com/allison_horst).*
 :::
 

@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/blog/2023-03-22-new-test/index.html",
       "/blog/2023-03-21-test/index.html"
     ]
   },
@@ -12,6 +13,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/blog/2023-03-22-new-test/index.html",
       "/blog/2023-03-21-test/index.html"
     ]
   }

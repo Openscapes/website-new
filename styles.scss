@@ -88,7 +88,7 @@ body { // set body text size & line height
 
 .light-gray-div { // used to create light gray div 
   background-color: $light-gray2;
-  padding-top: 25px;
+  padding-top: 15px;
   padding-bottom: 15px;
   padding-right: 160px;
   padding-left: 160px;
@@ -154,7 +154,7 @@ blockquote p { // align blockquotes
   }
 }
 
-.button-styling { // button styling
+/*.button-styling { // button styling
   background: $white;
   border-color: $blue;
   color: $blue;
@@ -167,12 +167,12 @@ blockquote p { // align blockquotes
   padding-right: 6px;
   padding-left: 6px;
   transition-duration: 0.4s;
-}
+}*/
 
-.button-styling:hover { // button hover styling
+/*.button-styling:hover { // button hover styling
   background-color: $blue; 
   color: $white;
-}
+}*/
 
 /////////////////////////// Class selectors (identified by "Inspect"ing the site) ///////////////////////////
 
@@ -192,6 +192,10 @@ blockquote p { // align blockquotes
   background-color: $light-gray1;
 }
 
+.btn-primary{ // can delete if we don't end up using buttons at bottom of index page
+  color: $white;
+}
+
 /*h1.title, .title.h1 { // banner text white
   color: $white;
 } */
@@ -199,3 +203,34 @@ blockquote p { // align blockquotes
 /*.quarto-title-block .quarto-title-banner { // changes title-block-banner height (set in yaml)
   height: 160%; 
 }*/
+
+.features {
+  padding-bottom: 2em;
+  height: calc(100% + 250px);
+}
+
+.feature {
+  margin-top: 20px;
+}
+
+.feature-top {
+  height: 75%;
+}
+
+.feature-bottom {
+  height: 25%;
+}
+
+@include media-breakpoint-up(sm) { 
+.features {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  //margin: 0 0 0 0px;
+  //width: calc(100% + 30px);
+}
+.feature {
+  //width: calc(33% - 30px);
+  //margin: 20px 0 0 30px;
+}
+}

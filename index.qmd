@@ -140,27 +140,76 @@ Openscapes bridges data-intensive environmental science with the open movement. 
 ::: {#recent-blog-listing}
 :::
 
-<!-- see Garrick Aden-Buie's site: https://github.com/gadenbuie/garrickadenbuie-com/blob/quarto/index.qmd -->
+<!-- blog listing: see Garrick Aden-Buie's site: https://github.com/gadenbuie/garrickadenbuie-com/blob/quarto/index.qmd  & Robert Mitchell's blog post: https://robertmitchellv.com/blog/2022-08-building-with-quarto/building-with-quarto.html -->
 :::
 :::
+
+<!-- ::: column-screen -->
+<!-- ::: white-div -->
+<!-- ::: columns -->
+<!-- ::: {.column width="45%"} -->
+<!-- #### About -->
+
+<!-- Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster. Openscapes was incubated by NCEAS and a Mozilla Fellowship awarded to Julia Stewart Lowndes. -->
+
+<!-- <button type="button" class="button-styling" onclick=window.location.href='https://www.openscapes.org/about/'>Learn More</button> -->
+
+<!-- ::: -->
+
+<!-- ::: {.column width="5%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column width="45%"} -->
+<!-- #### Contact -->
+
+<!-- **Openscapes**\ -->
+<!-- California, USA -->
+
+<!-- ------------------------------------------------------------------------ -->
+
+<!-- hello \@ openscapes.org\ -->
+<!-- Twitter & GitHub: @openscapes -->
+
+<!-- <button type="button" class="button-styling" onclick=window.location.href='https://www.openscapes.org/contact/'>Get Involved</button> -->
+
+<!-- ::: -->
+<!-- ::: -->
+<!-- ::: -->
+<!-- ::: -->
+
+<br>
 
 ::: column-screen
 ::: white-div
-::: columns
-::: {.column width="45%"}
-#### About
+
+::: {.container}
+<!-- ::: {.row} -->
+::: {.column}
+<!-- ::: {.content-block} -->
+::: {.features}
+::: {.feature}
+::: {.feature-top}
+### About
 
 Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster. Openscapes was incubated by NCEAS and a Mozilla Fellowship awarded to Julia Stewart Lowndes.
-
-<button type="button" class="button-styling" onclick=window.location.href='https://www.openscapes.org/about/'>Learn More</button>
-
 :::
 
-::: {.column width="5%"}
+<!-- ::: {.learn-more} -->
+::: {.feature-bottom}
+[Learn more »](https://www.openscapes.org/about/)
+<!-- ::: -->
+:::
+:::
+:::
 :::
 
-::: {.column width="45%"}
-#### Contact
+<!-- ::: {.column} -->
+<!-- ::: -->
+
+::: {.column}
+::: {.feature}
+::: {.feature-top}
+### Contact
 
 **Openscapes**\
 California, USA
@@ -169,10 +218,21 @@ California, USA
 
 hello \@ openscapes.org\
 Twitter & GitHub: @openscapes
+:::
 
-<button type="button" class="button-styling" onclick=window.location.href='https://www.openscapes.org/contact/'>Get Involved</button>
+<!-- ::: {.learn-more} -->
+::: {.feature-bottom}
+[Get Involved »](https://www.openscapes.org/contact/)
+<!-- [Get Involved](https://www.openscapes.org/contact/){.btn .btn-primary role="button"} -->
+:::
+<!-- ::: -->
+:::
+:::
+<!-- ::: -->
+<!-- ::: -->
+<!-- ::: -->
+:::
 
 :::
 :::
-:::
-:::
+

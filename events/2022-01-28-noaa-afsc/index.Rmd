@@ -1,0 +1,25 @@
+---
+title: "Openscapes Champions: NOAA AFSC Cohort"
+description: "Openscapes Champions Cohort for the NOAA Alaska Fisheries Science Center (AFSC)"
+author:
+  - name: Openscapes and AFSC
+    url: {}
+date: 2022-01-28
+categories:
+  - Champions Cohort
+  - NOAA Fisheries
+image: "NOAA_logo.png"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This is a mentorship and professional development opportunity for research teams; please see [**openscapes.github.io/2022-noaa-afsc**](https://openscapes.github.io/2022-noaa-afsc) for details.
+
+<br>
+
+```{r, out.width="40%", fig.align='center', preview=TRUE}
+knitr::include_graphics("NOAA_logo.png")  
+```

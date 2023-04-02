@@ -1,0 +1,32 @@
+---
+title: "R Markdown Chat with Alison Hill"
+description: |
+  Dr. Alison Hill is the product manager for data science communication at RStudio
+author:
+  - name: Openscapes and RStudio
+    url: {}
+date: 2021-09-30
+categories: 
+  - community call
+image: "apreshill.jpg"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**[View event summary and video](https://www.openscapes.org/blog/2021/10/01/alison-hill/)**  
+**Date: September 30, 2021**\
+**Time: 12:00pm PT** (UTC-7)\
+**Where: Zoom**\
+**Free event.**
+
+Please join us for a conversation with Dr. Alison Hill ([\@apreshill](https://twitter.com/apreshill)) about why we are so enthused with R Markdown, and why we think it is so transformative for scientists. We'll invite others to share their R Markdown stories and questions, whether you are curious about using R Markdown for research or have examples of how you're already using it.
+
+
+```{r, out.width="45%", fig.align='center', preview=TRUE}
+knitr::include_graphics("apreshill.jpg")  
+```
+
+[Dr. Alison Hill](https://www.apreshill.com/) is a data scientist, behavioral scientist, and award-winning educator. She works on products that make it easier and more delightful for data scientists to communicate. She is also a co-developer of the palmerpenguins, distill, and blogdown R packages, as well an author and international keynote speaker.

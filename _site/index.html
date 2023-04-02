@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.37">
+<meta name="generator" content="quarto-1.2.335">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 </style>
 
 
@@ -96,19 +101,24 @@ ul.task-list{list-style: none;}
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <a class="navbar-brand" href="./index.html">
-    <img src="./images/logo/logo.png" alt="">
-  </a>
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/logo/logo.png" alt="The Openscapes logo -- orange text that reads 'openscapes' sitting above small berry 'data points'" class="navbar-logo">
+    </a>
+  </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page">HOME</a>
+    <a class="nav-link active" href="./index.html" aria-current="page">
+ <span class="menu-text">HOME</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">ABOUT</a>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">ABOUT</span>
+    </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
         <li>
     <a class="dropdown-item" href="./who_are_we.html">
@@ -133,7 +143,9 @@ ul.task-list{list-style: none;}
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false">INITIATIVES</a>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">INITIATIVES</span>
+    </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
         <li>
     <a class="dropdown-item" href="./champions_program.html">
@@ -142,10 +154,13 @@ ul.task-list{list-style: none;}
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./blog.html">BLOG</a>
+    <a class="nav-link" href="./blog.html">
+ <span class="menu-text">BLOG</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-get-involved" role="button" data-bs-toggle="dropdown" aria-expanded="false">GET INVOLVED</a>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-get-involved" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">GET INVOLVED</span>
+    </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-get-involved">    
         <li>
     <a class="dropdown-item" href="./connect.html">
@@ -160,17 +175,17 @@ ul.task-list{list-style: none;}
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/openscapes"><i class="bi bi-github" role="img">
 </i> 
- </a>
+ <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://twitter.com/openscapes"><i class="bi bi-twitter" role="img">
 </i> 
- </a>
+ <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="mailto:hello@openscapes.org"><i class="bi bi-envelope" role="img">
 </i> 
- </a>
+ <span class="menu-text"></span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -201,45 +216,88 @@ ul.task-list{list-style: none;}
 </div>
 <div class="column-screen">
 <div class="white-div">
-<div class="columns">
-<div class="column" style="width:30%;">
-<div class="large-body-text center-text">
+<div class="center-text">
+<div class="grid">
+<div class="g-col-4">
+<div class="large-body-text">
 <p><svg aria-label="Users" role="img" viewbox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#38A7BB;overflow:visible;position:relative;"><title>Users</title><path d="M144 160c-44.2 0-80-35.8-80-80S99.8 0 144 0s80 35.8 80 80s-35.8 80-80 80zm368 0c-44.2 0-80-35.8-80-80s35.8-80 80-80s80 35.8 80 80s-35.8 80-80 80zM0 298.7C0 239.8 47.8 192 106.7 192h42.7c15.9 0 31 3.5 44.6 9.7c-1.3 7.2-1.9 14.7-1.9 22.3c0 38.2 16.8 72.5 43.3 96c-.2 0-.4 0-.7 0H21.3C9.6 320 0 310.4 0 298.7zM405.3 320c-.2 0-.4 0-.7 0c26.6-23.5 43.3-57.8 43.3-96c0-7.6-.7-15-1.9-22.3c13.6-6.3 28.7-9.7 44.6-9.7h42.7C592.2 192 640 239.8 640 298.7c0 11.8-9.6 21.3-21.3 21.3H405.3zM416 224c0 53-43 96-96 96s-96-43-96-96s43-96 96-96s96 43 96 96zM128 485.3C128 411.7 187.7 352 261.3 352H378.7C452.3 352 512 411.7 512 485.3c0 14.7-11.9 26.7-26.7 26.7H154.7c-14.7 0-26.7-11.9-26.7-26.7z"></path></svg></p>
 </div>
-<div class="blue-text medium-body-text center-text">
+<div class="blue-text medium-body-text">
 <p><strong>ENGAGE</strong></p>
 </div>
-<div class="medium-gray1-text small-body-text center-text">
+<div class="medium-gray1-text small-body-text">
 <p><strong>We build awareness and excitement.</strong> We engage scientists with the possibilities of open data science with empathy, art, and storytelling, using narratives like our own <a href="https://www.nature.com/articles/s41559-017-0160">path to better science in less time</a></p>
 </div>
-</div><div class="column" style="width:5%;">
-
-</div><div class="column" style="width:30%;">
-<div class="large-body-text center-text">
+</div>
+<div class="g-col-4">
+<div class="large-body-text">
 <p><svg aria-label="Lightbulb" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#38A7BB;overflow:visible;position:relative;"><title>Lightbulb</title><path d="M112.1 454.3c0 6.297 1.816 12.44 5.284 17.69l17.14 25.69c5.25 7.875 17.17 14.28 26.64 14.28h61.67c9.438 0 21.36-6.401 26.61-14.28l17.08-25.68c2.938-4.438 5.348-12.37 5.348-17.7L272 415.1h-160L112.1 454.3zM192 0C90.02 .3203 16 82.97 16 175.1c0 44.38 16.44 84.84 43.56 115.8c16.53 18.84 42.34 58.23 52.22 91.45c.0313 .25 .0938 .5166 .125 .7823h160.2c.0313-.2656 .0938-.5166 .125-.7823c9.875-33.22 35.69-72.61 52.22-91.45C351.6 260.8 368 220.4 368 175.1C368 78.8 289.2 .0039 192 0zM288.4 260.1c-15.66 17.85-35.04 46.3-49.05 75.89h-94.61c-14.01-29.59-33.39-58.04-49.04-75.88C75.24 236.8 64 206.1 64 175.1C64 113.3 112.1 48.25 191.1 48C262.6 48 320 105.4 320 175.1C320 206.1 308.8 236.8 288.4 260.1zM176 80C131.9 80 96 115.9 96 160c0 8.844 7.156 16 16 16S128 168.8 128 160c0-26.47 21.53-48 48-48c8.844 0 16-7.148 16-15.99S184.8 80 176 80z"></path></svg></p>
 </div>
-<div class="blue-text medium-body-text center-text">
+<div class="blue-text medium-body-text">
 <p><strong>EMPOWER</strong></p>
 </div>
-<div class="medium-gray1-text small-body-text center-text">
+<div class="medium-gray1-text small-body-text">
 <p><strong>We help build confidence and skills.</strong> We empower scientists by connecting them with existing open software and communities that meet them where they are so they can develop the skills they need.</p>
 </div>
-</div><div class="column" style="width:5%;">
-
-</div><div class="column" style="width:30%;">
-<div class="large-body-text center-text">
+</div>
+<div class="g-col-4">
+<div class="large-body-text">
 <p><svg aria-label="Earth americas" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#38A7BB;overflow:visible;position:relative;"><title>Earth americas</title><path d="M57.7 193l9.4 16.4c8.3 14.5 21.9 25.2 38 29.8L163 255.7c17.2 4.9 29 20.6 29 38.5v39.9c0 11 6.2 21 16 25.9s16 14.9 16 25.9v39c0 15.6 14.9 26.9 29.9 22.6c16.1-4.6 28.6-17.5 32.7-33.8l2.8-11.2c4.2-16.9 15.2-31.4 30.3-40l8.1-4.6c15-8.5 24.2-24.5 24.2-41.7v-8.3c0-12.7-5.1-24.9-14.1-33.9l-3.9-3.9c-9-9-21.2-14.1-33.9-14.1H257c-11.1 0-22.1-2.9-31.8-8.4l-34.5-19.7c-4.3-2.5-7.6-6.5-9.2-11.2c-3.2-9.6 1.1-20 10.2-24.5l5.9-3c6.6-3.3 14.3-3.9 21.3-1.5l23.2 7.7c8.2 2.7 17.2-.4 21.9-7.5c4.7-7 4.2-16.3-1.2-22.8l-13.6-16.3c-10-12-9.9-29.5 .3-41.3l15.7-18.3c8.8-10.3 10.2-25 3.5-36.7l-2.4-4.2c-3.5-.2-6.9-.3-10.4-.3C163.1 48 84.4 108.9 57.7 193zM464 256c0-36.8-9.6-71.4-26.4-101.5L412 164.8c-15.7 6.3-23.8 23.8-18.5 39.8l16.9 50.7c3.5 10.4 12 18.3 22.6 20.9l29.1 7.3c1.2-9 1.8-18.2 1.8-27.5zm48 0c0 141.4-114.6 256-256 256S0 397.4 0 256S114.6 0 256 0S512 114.6 512 256z"></path></svg></p>
 </div>
-<div class="blue-text medium-body-text center-text">
+<div class="blue-text medium-body-text">
 <p><strong>AMPLIFY</strong></p>
 </div>
-<div class="medium-gray1-text small-body-text center-text">
+<div class="medium-gray1-text small-body-text">
 <p><strong>We build champions and communities.</strong> We amplify scientists’ efforts through academic seminars as well as blogs and social media to increase the visibility of open practices on campus and online.</p>
 </div>
 </div>
 </div>
 </div>
 </div>
+</div>
+<!-- ::: column-screen -->
+<!-- ::: white-div -->
+<!-- :::: columns -->
+<!-- ::: {.column width="30%"} -->
+<!-- ::: {.large-body-text .center-text} -->
+<!-- `<svg aria-label="Users" role="img" viewBox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#38A7BB;overflow:visible;position:relative;"><title>Users</title><path d="M144 160c-44.2 0-80-35.8-80-80S99.8 0 144 0s80 35.8 80 80s-35.8 80-80 80zm368 0c-44.2 0-80-35.8-80-80s35.8-80 80-80s80 35.8 80 80s-35.8 80-80 80zM0 298.7C0 239.8 47.8 192 106.7 192h42.7c15.9 0 31 3.5 44.6 9.7c-1.3 7.2-1.9 14.7-1.9 22.3c0 38.2 16.8 72.5 43.3 96c-.2 0-.4 0-.7 0H21.3C9.6 320 0 310.4 0 298.7zM405.3 320c-.2 0-.4 0-.7 0c26.6-23.5 43.3-57.8 43.3-96c0-7.6-.7-15-1.9-22.3c13.6-6.3 28.7-9.7 44.6-9.7h42.7C592.2 192 640 239.8 640 298.7c0 11.8-9.6 21.3-21.3 21.3H405.3zM416 224c0 53-43 96-96 96s-96-43-96-96s43-96 96-96s96 43 96 96zM128 485.3C128 411.7 187.7 352 261.3 352H378.7C452.3 352 512 411.7 512 485.3c0 14.7-11.9 26.7-26.7 26.7H154.7c-14.7 0-26.7-11.9-26.7-26.7z"/></svg>`{=html}  -->
+<!-- ::: -->
+<!-- ::: {.blue-text .medium-body-text .center-text} -->
+<!-- **ENGAGE** -->
+<!-- ::: -->
+<!-- :::{.medium-gray1-text .small-body-text .center-text} -->
+<!-- **We build awareness and excitement.** We engage scientists with the possibilities of open data science with empathy, art, and storytelling, using narratives like our own [path to better science in less time](https://www.nature.com/articles/s41559-017-0160) -->
+<!-- ::: -->
+<!-- ::: -->
+<!-- ::: {.column width="5%"} -->
+<!-- ::: -->
+<!-- ::: {.column width="30%"} -->
+<!-- ::: {.large-body-text .center-text} -->
+<!-- `<svg aria-label="Lightbulb" role="img" viewBox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#38A7BB;overflow:visible;position:relative;"><title>Lightbulb</title><path d="M112.1 454.3c0 6.297 1.816 12.44 5.284 17.69l17.14 25.69c5.25 7.875 17.17 14.28 26.64 14.28h61.67c9.438 0 21.36-6.401 26.61-14.28l17.08-25.68c2.938-4.438 5.348-12.37 5.348-17.7L272 415.1h-160L112.1 454.3zM192 0C90.02 .3203 16 82.97 16 175.1c0 44.38 16.44 84.84 43.56 115.8c16.53 18.84 42.34 58.23 52.22 91.45c.0313 .25 .0938 .5166 .125 .7823h160.2c.0313-.2656 .0938-.5166 .125-.7823c9.875-33.22 35.69-72.61 52.22-91.45C351.6 260.8 368 220.4 368 175.1C368 78.8 289.2 .0039 192 0zM288.4 260.1c-15.66 17.85-35.04 46.3-49.05 75.89h-94.61c-14.01-29.59-33.39-58.04-49.04-75.88C75.24 236.8 64 206.1 64 175.1C64 113.3 112.1 48.25 191.1 48C262.6 48 320 105.4 320 175.1C320 206.1 308.8 236.8 288.4 260.1zM176 80C131.9 80 96 115.9 96 160c0 8.844 7.156 16 16 16S128 168.8 128 160c0-26.47 21.53-48 48-48c8.844 0 16-7.148 16-15.99S184.8 80 176 80z"/></svg>`{=html}  -->
+<!-- ::: -->
+<!-- ::: {.blue-text .medium-body-text .center-text} -->
+<!-- **EMPOWER** -->
+<!-- ::: -->
+<!-- ::: {.medium-gray1-text .small-body-text .center-text} -->
+<!-- **We help build confidence and skills.** We empower scientists by connecting them with existing open software and communities that meet them where they are so they can develop the skills they need. -->
+<!-- ::: -->
+<!-- ::: -->
+<!-- ::: {.column width="5%"} -->
+<!-- ::: -->
+<!-- ::: {.column width="30%"} -->
+<!-- ::: {.large-body-text .center-text} -->
+<!-- `<svg aria-label="Earth americas" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#38A7BB;overflow:visible;position:relative;"><title>Earth americas</title><path d="M57.7 193l9.4 16.4c8.3 14.5 21.9 25.2 38 29.8L163 255.7c17.2 4.9 29 20.6 29 38.5v39.9c0 11 6.2 21 16 25.9s16 14.9 16 25.9v39c0 15.6 14.9 26.9 29.9 22.6c16.1-4.6 28.6-17.5 32.7-33.8l2.8-11.2c4.2-16.9 15.2-31.4 30.3-40l8.1-4.6c15-8.5 24.2-24.5 24.2-41.7v-8.3c0-12.7-5.1-24.9-14.1-33.9l-3.9-3.9c-9-9-21.2-14.1-33.9-14.1H257c-11.1 0-22.1-2.9-31.8-8.4l-34.5-19.7c-4.3-2.5-7.6-6.5-9.2-11.2c-3.2-9.6 1.1-20 10.2-24.5l5.9-3c6.6-3.3 14.3-3.9 21.3-1.5l23.2 7.7c8.2 2.7 17.2-.4 21.9-7.5c4.7-7 4.2-16.3-1.2-22.8l-13.6-16.3c-10-12-9.9-29.5 .3-41.3l15.7-18.3c8.8-10.3 10.2-25 3.5-36.7l-2.4-4.2c-3.5-.2-6.9-.3-10.4-.3C163.1 48 84.4 108.9 57.7 193zM464 256c0-36.8-9.6-71.4-26.4-101.5L412 164.8c-15.7 6.3-23.8 23.8-18.5 39.8l16.9 50.7c3.5 10.4 12 18.3 22.6 20.9l29.1 7.3c1.2-9 1.8-18.2 1.8-27.5zm48 0c0 141.4-114.6 256-256 256S0 397.4 0 256S114.6 0 256 0S512 114.6 512 256z"/></svg>`{=html}  -->
+<!-- ::: -->
+<!-- ::: {.blue-text .medium-body-text .center-text} -->
+<!-- **AMPLIFY** -->
+<!-- ::: -->
+<!-- ::: {.medium-gray1-text .small-body-text .center-text} -->
+<!-- **We build champions and communities.** We amplify scientists’ efforts through academic seminars as well as blogs and social media to increase the visibility of open practices on campus and online. -->
+<!-- ::: -->
+<!-- ::: -->
+<!-- :::: -->
+<!-- ::: -->
+<!-- ::: -->
 <p><br></p>
 <div class="column-screen">
 <div class="light-gray-div">
@@ -259,9 +317,22 @@ ul.task-list{list-style: none;}
 <p>Openscapes bridges data-intensive environmental science with the open movement. Learn more <a href="./who_are_we.html">about us</a>.</p>
 </div>
 <p><br></p>
-<!-- ::: white-div -->
-<!-- ::: {.center-text} -->
-<p><img src="images/clients/mozilla.png" class="img-fluid" data-fig-align="center" style="width:35.0%"> <img src="images/clients/nceas.png" class="img-fluid" data-fig-align="center" style="width:35.0%"> <!-- ::: --> <!-- ::: --></p>
+<div class="grid">
+<div class="g-col-6">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/clients/mozilla.png" class="img-fluid figure-img" style="width:80.0%"></p>
+</figure>
+</div>
+</div>
+<div class="g-col-6">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/clients/nceas.png" class="img-fluid figure-img" style="width:80.0%"></p>
+</figure>
+</div>
+</div>
+</div>
 </div>
 </div>
 <p><br></p>
@@ -325,70 +396,24 @@ No matching items
 <!-- blog listing: see Garrick Aden-Buie's site: https://github.com/gadenbuie/garrickadenbuie-com/blob/quarto/index.qmd  & Robert Mitchell's blog post: https://robertmitchellv.com/blog/2022-08-building-with-quarto/building-with-quarto.html -->
 </div>
 </div>
-<!-- ::: column-screen -->
-<!-- ::: white-div -->
-<!-- ::: columns -->
-<!-- ::: {.column width="45%"} -->
-<!-- #### About -->
-<!-- Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster. Openscapes was incubated by NCEAS and a Mozilla Fellowship awarded to Julia Stewart Lowndes. -->
-<!-- <button type="button" class="button-styling" onclick=window.location.href='https://www.openscapes.org/about/'>Learn More</button> -->
-<!-- ::: -->
-<!-- ::: {.column width="5%"} -->
-<!-- ::: -->
-<!-- ::: {.column width="45%"} -->
-<!-- #### Contact -->
-<!-- **Openscapes**\ -->
-<!-- California, USA -->
-<!-- ------------------------------------------------------------------------ -->
-<!-- hello \@ openscapes.org\ -->
-<!-- Twitter & GitHub: @openscapes -->
-<!-- <button type="button" class="button-styling" onclick=window.location.href='https://www.openscapes.org/contact/'>Get Involved</button> -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: -->
 <p><br></p>
 <div class="column-screen">
 <div class="white-div">
-<div class="container">
-<!-- ::: {.row} -->
-<div class="column">
-<!-- ::: {.content-block} -->
-<div class="features">
-<div class="feature">
-<section id="about" class="level3 feature-top">
+<div class="grid">
+<section id="about" class="level3 g-col-6">
 <h3 class="anchored" data-anchor-id="about">About</h3>
 <p>Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster. Openscapes was incubated by NCEAS and a Mozilla Fellowship awarded to Julia Stewart Lowndes.</p>
+<p><a href="https://www.openscapes.org/about/">Learn more »</a></p>
 </section>
-<!-- ::: {.learn-more} -->
-<div class="feature-bottom">
-<p><a href="https://www.openscapes.org/about/">Learn more »</a> <!-- ::: --></p>
-</div>
-</div>
-</div>
-</div>
-<!-- ::: {.column} -->
-<!-- ::: -->
-<div class="column">
-<div class="feature">
-<section id="contact" class="level3 feature-top">
+<section id="contact" class="level3 g-col-6">
 <h3 class="anchored" data-anchor-id="contact">Contact</h3>
 <p><strong>Openscapes</strong><br>
 California, USA</p>
 <hr>
 <p>hello @ openscapes.org<br>
 Twitter &amp; GitHub: <span class="citation" data-cites="openscapes">@openscapes</span></p>
+<p><a href="https://www.openscapes.org/contact/">Get Involved »</a></p>
 </section>
-<!-- ::: {.learn-more} -->
-<div class="feature-bottom">
-<p><a href="https://www.openscapes.org/contact/">Get Involved »</a> <!-- [Get Involved](https://www.openscapes.org/contact/){.btn .btn-primary role="button"} --></p>
-</div>
-<!-- ::: -->
-</div>
-</div>
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: -->
 </div>
 </div>
 </div>
@@ -438,7 +463,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -466,31 +508,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>

@@ -1,0 +1,33 @@
+# options specified here will apply to all posts in this folder
+
+# Freeze computed outputs (SC NOTE 2023-04-01: changed to false while troubleshooting)
+freeze: false
+
+# Enable banner style title blocks
+# title-block-banner: true
+
+# Enable banner style title blocks
+title-block-banner: "#38A7BB"
+title-block-banner-color: "#FFFFFF"
+
+# Enable CC licence appendix
+license: "CC BY"
+
+# Default for table of contents
+toc: true
+toc-title: Table of contents
+toc-location: left
+
+# Default knitr options
+execute:
+  echo: true
+  message: true
+  warning: true
+
+# Default author
+author:
+  - name: Openscapes
+    url: https://openscapes.org
+
+# Default fields for citation
+citation: true

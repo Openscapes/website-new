@@ -1,0 +1,38 @@
+---
+title: "CascadiaR Conference"
+description: |
+  "Open science as a movement and the art of Openscapes" keynote by Julie Lowndes and Allison Horst
+author:
+  - name: CascadiaR
+    url: {}
+date: 2021-06-05
+categories:
+  - conference
+image: "cascadiar_2021.png"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**Date: June 5, 2021**\
+**CascadiaR website: [cascadiarconf.com](https://cascadiarconf.com/)**  
+**Register: [CascadiaR Eventbrite](https://www.eventbrite.com/e/cascadia-r-conf-2021-tickets-149156317561)**
+
+CascadiaR Conference is a regional R conference for the Pacific Northwest on June 4-5 2021. Julie Lowndes and Allison Horst will be co-presenting a keynote talk on June 5. There is a great lineup of speakers and we are excited to be a part of it! 
+
+Slides available at [openscapes.org/media](https://openscapes.org/media).
+
+```{r, out.width="65%", out.extra='style="background-color: white; padding:2px; display: inline-block;"', preview=TRUE}
+knitr::include_graphics("cascadiar_2021.png")  
+```
+
+**Title:** Open science as a movement and the art of Openscapes
+
+**Abstract:** The open science movement is “a collaborative culture enabled by technology that empowers the open sharing of data, information and knowledge within the scientific community and the wider public to accelerate scientific research and understanding” ([Ramachandran et al 2021](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020EA001562)). We’ve felt included in this movement through the #rstats community, and argue that data science is a powerful entryway to welcome researchers to open science – one that transforms open science from an aspirational idea to a tangible daily benefit for efficiency, reproducibility, and collaboration. We will share how Openscapes is helping to onboard more research teams to the open science movement, in part through artwork to represent and develop ideas to make open science more inclusive and kind. 
+
+**Julia Stewart Lowndes** [\@juliesquid](https://twitter.com/juliesquid) is a marine data scientist and Senior Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS). As founding director of Openscapes (created during her Mozilla Fellowship) she champions kinder, better science in less time and empowers science teams with skillsets and mindsets for open, reproducible research. She earned her PhD at Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate. She is a Carpentries instructor and co-founder of Eco-Data-Science and R-Ladies Santa Barbara. 
+
+**Allison Horst** [\@allison_horst](https://twitter.com/allison_horst) is an Assistant Teaching Professor at the Bren School of Environmental Science and Management at UC Santa Barbara, where she has been teaching environmental data science, math and data analysis courses since 2012. Through her artwork, Allison illustrates data science concepts, R packages and functions, workflows and mindsets to welcome and support R learners, and was RStudio's Artist-in-Residence from 2019 - 2020. She co-founded and is an active member of the UCSB TidyTuesday coding club and R-Ladies Santa Barbara. She has also created all artwork for Openscapes and was a mentee in the inaugural Champions Cohort!
+

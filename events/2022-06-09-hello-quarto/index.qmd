@@ -1,0 +1,42 @@
+---
+title: "Hello Quarto!"
+description: |
+  A Quarto Chat with NASA Openscapes, co-hosted with R-Ladies Santa Barbara
+date: "2022-06-09"
+categories: [community call]
+image: nasa-openscapes-rladies-quarto.png
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**[View event summary and video](https://www.openscapes.org/blog/2022/06/22/hello-quarto/)**  
+**Date: June 9, 2022**\
+**Time: 3:30-5:00 PT** (UTC-7)\
+**Where: Zoom**\
+**Free event**
+
+<!---[**Video Recording**]() --->
+
+Please join us for a chat about [Quarto](http://quarto.org/). Quarto is an open-source scientific and technical publishing system built on Pandoc. What does it look like? How do you use it? What can it do? How does it compare to RMarkdown? What does it mean for Python and Jupyter Notebooks? What about for open science, reproducibility, interoperability, and publishing?
+
+Folks from [NASA Openscapes](https://nasa-openscapes.github.io) will share their experiences using Quarto to enable data-intensive open science in the cloud, in conversation with R-Ladies Santa Barbara. Following an hour of conversation, demoing, and community Q&A, we'll have another 20 minutes of informal chat and breakout rooms.
+
+**Panelists**
+
+Julie Lowndes is founder of Openscapes, and co-lead of NASA Openscapes with Erin Robinson. Julie is a marine ecologist turned open data scientist because she was so empowered by the R community.
+
+Aaron Friesz is the Science Coordination Lead at NASA's Land Processes Distributed Active Archive Center (LP DAAC). Aaron provides user needs insights and technical support for archive and distribution, service development, and outreach activities, including developing tutorials, scripts, and presentations.
+
+Catalina Oaida Taglialatela is an Applied Science System Engineer at NASA's JPL (and PO.DAAC). Catalina is focused on increasing the number of researchers who use NASA data by helping identify and reduce barriers to science when data and services are in the cloud.
+
+Amy Steiker is the Data Services Engineer at National Snow and Ice Data Center (NSIDC). Amy specializes in creating data education resources, tools, and data transformation services.
+
+J.J. Allaire is the lead developer of Quarto. He is focused on supporting technical publishing and data science, and does this in many ways at RStudio.
+
+This event is co-hosted by [Openscapes](https://openscapes.org) and [R-Ladies Santa Barbara](https://twitter.com/RLadiesSB).
+
+```{r, out.width="45%", fig.align='center', preview=TRUE}
+knitr::include_graphics("nasa-openscapes-rladies-quarto.png")  
+```

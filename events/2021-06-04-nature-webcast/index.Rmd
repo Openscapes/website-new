@@ -1,0 +1,28 @@
+---
+title: "Nature Webcast"
+description: |
+  "How to start learning to code in research" with Jeff Perkel, Julie Lowndes, and JooYoung Seo
+author:
+  - name: Nature
+date: 2021-06-04
+categories:
+  - community talk
+image: "nature-webcast.png"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**Date: June 4, 2021**  
+**Time: 7am PT / 10am EDT / 3pm BST / 4pm CEST**  
+**Register: [nature.com/webcasts](https://www.nature.com/webcasts/event/how-to-start-learning-to-code-in-research/)**  
+
+"This introductory webcast, from Nature Careers, will aim to help attendees who are interested in learning computer programming, but aren’t sure where to start. Speakers will share tips and advice from their own careers, as well as advice to find more resources." 
+
+Julie Lowndes will be sharing her experience and motivation for Openscapes alongside Jeff Perkel (Springer Nature) and JooYoung Seo (Penn State University and upcoming prof at the Illinois iSchool).
+
+```{r, out.width="65%", out.extra='style="background-color: white; padding:2px; display: inline-block;"', preview=TRUE}
+knitr::include_graphics("nature-webcast.png")  
+```

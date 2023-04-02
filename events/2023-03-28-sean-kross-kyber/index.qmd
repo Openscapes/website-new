@@ -1,0 +1,31 @@
+---
+title: "Designing automated workflows with Dr. Sean Kross"
+description: |
+  How the kyber R package connects Google Sheets, RMarkdown, GitHub, and Agenda docs for open education
+#author:
+#  - name: Openscapes
+#    url: {}
+date: "2023-03-28"
+categories: 
+  - community call
+image: sean-kross.jpg  
+---
+
+**Date: March 28, 2023**\
+**Time: 10:00 - 11:55 am PT** (UTC-7)\
+**Where: Zoom**\
+**Free event. [Registration open](https://www.eventbrite.com/e/community-call-designing-automated-workflows-with-dr-sean-kross-tickets-546294911787)** 
+
+<!---[**Video Recording**]() --->
+
+Join us for a conversation and demo’s with Sean Kross, Data Staff Scientist at the Fred Hutch Data Science Lab and developer of the kyber R package. At Openscapes, we use kyber to automate several key workflows for creating and populating GitHub repos with READMEs and creating detailed lesson agendas from RMarkdown content that is referenced in Google Sheets. This saves us time and reduces errors that can be introduced by repetitive copy-pasting. Come learn some of the nuts and bolts of how kyber works, imagine what’s possible for your own workflows, and get Sean’s expert advice about engaging in this kind of tool-development project.
+
+Bring your own questions. We always save time for audience discussion!
+
+### Guest bio
+
+[**Sean Kross**](https://seankross.com/) is a Data Staff Scientist at the [Fred Hutch Data Science Lab](https://hutchdatascience.org/). His work is focused on understanding [data science as a practice](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf), building a better [developer experience](https://future.a16z.com/the-case-for-developer-experience/) for data scientists, and creating better outcomes in [digital education](https://youtu.be/GG5Vl7N5vCo). He approaches these challenges with computational, statistical, ethnographic, and design-driven methods.
+
+Previously Sean earned his PhD in Human-Computer Interaction at the University of California San Diego where he was advised by [Philip Guo](https://pg.ucsd.edu/). During his PhD he interned at the [Research in Software Engineering Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/) and the [Computational Social Science Group](https://www.microsoft.com/en-us/research/theme/computational-social-science/) at Microsoft Research. Before he started graduate school Sean was the Chief Technology Officer at the [Johns Hopkins Data Science Lab](https://jhudatascience.org/). He is also a frequent consultant for data analysis and software development projects, in addition to being a maintainer of several open source software projects.
+
+![](sean-kross.jpg){width="150px"}

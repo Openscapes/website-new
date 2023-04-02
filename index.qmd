@@ -35,63 +35,112 @@ listing:
 
 ::: column-screen
 ::: white-div
-:::: columns
-::: {.column width="30%"}
+::: {.center-text}
+::: {.grid}
 
-::: {.large-body-text .center-text}
+::: {.g-col-4}
+::: {.large-body-text}
 `r fontawesome::fa("users", fill = "#38A7BB", a11y = "sem")` 
 :::
-
-::: {.blue-text .medium-body-text .center-text}
+::: {.blue-text .medium-body-text}
 **ENGAGE**
 :::
-
-:::{.medium-gray1-text .small-body-text .center-text}
+:::{.medium-gray1-text .small-body-text} 
 **We build awareness and excitement.** We engage scientists with the possibilities of open data science with empathy, art, and storytelling, using narratives like our own [path to better science in less time](https://www.nature.com/articles/s41559-017-0160)
 :::
-
 :::
 
-::: {.column width="5%"}
-:::
-
-::: {.column width="30%"}
-
-::: {.large-body-text .center-text}
+::: {.g-col-4}
+::: {.large-body-text}
 `r fontawesome::fa("lightbulb", fill = "#38A7BB", a11y = "sem")` 
 :::
-
-::: {.blue-text .medium-body-text .center-text}
+::: {.blue-text .medium-body-text}
 **EMPOWER**
 :::
-
-::: {.medium-gray1-text .small-body-text .center-text}
+:::{.medium-gray1-text .small-body-text} 
 **We help build confidence and skills.** We empower scientists by connecting them with existing open software and communities that meet them where they are so they can develop the skills they need.
 :::
-
 :::
 
-::: {.column width="5%"}
-:::
-
-::: {.column width="30%"}
-
-::: {.large-body-text .center-text}
+::: {.g-col-4}
+::: {.large-body-text}
 `r fontawesome::fa("earth-americas", fill = "#38A7BB", a11y = "sem")` 
 :::
-
-::: {.blue-text .medium-body-text .center-text}
+::: {.blue-text .medium-body-text}
 **AMPLIFY**
 :::
-
-::: {.medium-gray1-text .small-body-text .center-text}
+:::{.medium-gray1-text .small-body-text} 
 **We build champions and communities.** We amplify scientists’ efforts through academic seminars as well as blogs and social media to increase the visibility of open practices on campus and online.
 :::
+:::
 
 :::
-::::
 :::
 :::
+:::
+
+
+
+
+<!-- ::: column-screen -->
+<!-- ::: white-div -->
+<!-- :::: columns -->
+<!-- ::: {.column width="30%"} -->
+
+<!-- ::: {.large-body-text .center-text} -->
+<!-- `r fontawesome::fa("users", fill = "#38A7BB", a11y = "sem")`  -->
+<!-- ::: -->
+
+<!-- ::: {.blue-text .medium-body-text .center-text} -->
+<!-- **ENGAGE** -->
+<!-- ::: -->
+
+<!-- :::{.medium-gray1-text .small-body-text .center-text} -->
+<!-- **We build awareness and excitement.** We engage scientists with the possibilities of open data science with empathy, art, and storytelling, using narratives like our own [path to better science in less time](https://www.nature.com/articles/s41559-017-0160) -->
+<!-- ::: -->
+
+<!-- ::: -->
+
+<!-- ::: {.column width="5%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column width="30%"} -->
+
+<!-- ::: {.large-body-text .center-text} -->
+<!-- `r fontawesome::fa("lightbulb", fill = "#38A7BB", a11y = "sem")`  -->
+<!-- ::: -->
+
+<!-- ::: {.blue-text .medium-body-text .center-text} -->
+<!-- **EMPOWER** -->
+<!-- ::: -->
+
+<!-- ::: {.medium-gray1-text .small-body-text .center-text} -->
+<!-- **We help build confidence and skills.** We empower scientists by connecting them with existing open software and communities that meet them where they are so they can develop the skills they need. -->
+<!-- ::: -->
+
+<!-- ::: -->
+
+<!-- ::: {.column width="5%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column width="30%"} -->
+
+<!-- ::: {.large-body-text .center-text} -->
+<!-- `r fontawesome::fa("earth-americas", fill = "#38A7BB", a11y = "sem")`  -->
+<!-- ::: -->
+
+<!-- ::: {.blue-text .medium-body-text .center-text} -->
+<!-- **AMPLIFY** -->
+<!-- ::: -->
+
+<!-- ::: {.medium-gray1-text .small-body-text .center-text} -->
+<!-- **We build champions and communities.** We amplify scientists’ efforts through academic seminars as well as blogs and social media to increase the visibility of open practices on campus and online. -->
+<!-- ::: -->
+
+<!-- ::: -->
+<!-- :::: -->
+<!-- ::: -->
+<!-- ::: -->
 
 <br>
 
@@ -119,11 +168,14 @@ Openscapes bridges data-intensive environmental science with the open movement. 
 
 <br>
 
-<!-- ::: white-div -->
-<!-- ::: {.center-text} -->
-![](images/clients/mozilla.png){fig-align="center" width="35%"} ![](images/clients/nceas.png){fig-align="center" width="35%"}
-<!-- ::: -->
-<!-- ::: -->
+::: {.grid}
+::: {.g-col-6}
+![](images/clients/mozilla.png){fig-align="center" width="80%"} 
+:::
+:::{.g-col-6}
+![](images/clients/nceas.png){fig-align="center" width="80%"}
+:::
+:::
 
 ::: 
 :::
@@ -144,71 +196,21 @@ Openscapes bridges data-intensive environmental science with the open movement. 
 :::
 :::
 
-<!-- ::: column-screen -->
-<!-- ::: white-div -->
-<!-- ::: columns -->
-<!-- ::: {.column width="45%"} -->
-<!-- #### About -->
-
-<!-- Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster. Openscapes was incubated by NCEAS and a Mozilla Fellowship awarded to Julia Stewart Lowndes. -->
-
-<!-- <button type="button" class="button-styling" onclick=window.location.href='https://www.openscapes.org/about/'>Learn More</button> -->
-
-<!-- ::: -->
-
-<!-- ::: {.column width="5%"} -->
-<!-- ::: -->
-
-<!-- ::: {.column width="45%"} -->
-<!-- #### Contact -->
-
-<!-- **Openscapes**\ -->
-<!-- California, USA -->
-
-<!-- ------------------------------------------------------------------------ -->
-
-<!-- hello \@ openscapes.org\ -->
-<!-- Twitter & GitHub: @openscapes -->
-
-<!-- <button type="button" class="button-styling" onclick=window.location.href='https://www.openscapes.org/contact/'>Get Involved</button> -->
-
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: -->
-
 <br>
 
 ::: column-screen
 ::: white-div
+::: {.grid}
 
-::: {.container}
-<!-- ::: {.row} -->
-::: {.column}
-<!-- ::: {.content-block} -->
-::: {.features}
-::: {.feature}
-::: {.feature-top}
+::: {.g-col-6}
 ### About
 
 Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster. Openscapes was incubated by NCEAS and a Mozilla Fellowship awarded to Julia Stewart Lowndes.
-:::
 
-<!-- ::: {.learn-more} -->
-::: {.feature-bottom}
 [Learn more »](https://www.openscapes.org/about/)
-<!-- ::: -->
-:::
-:::
-:::
 :::
 
-<!-- ::: {.column} -->
-<!-- ::: -->
-
-::: {.column}
-::: {.feature}
-::: {.feature-top}
+::: {.g-col-6}
 ### Contact
 
 **Openscapes**\
@@ -218,21 +220,12 @@ California, USA
 
 hello \@ openscapes.org\
 Twitter & GitHub: @openscapes
-:::
 
-<!-- ::: {.learn-more} -->
-::: {.feature-bottom}
 [Get Involved »](https://www.openscapes.org/contact/)
-<!-- [Get Involved](https://www.openscapes.org/contact/){.btn .btn-primary role="button"} -->
-:::
-<!-- ::: -->
-:::
-:::
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: -->
 :::
 
 :::
 :::
+:::
+
 

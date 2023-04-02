@@ -39,6 +39,17 @@ body { // set body text size & line height
   font-size: 17px;
 }
 
+blockquote { // style blockquotes
+  background: $white;
+  border-left: 3px solid $blue;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+}
+
+blockquote p { // align blockquotes
+  display: inline-block;
+}
+
 /////////////////////////// Class selectors (self-defined) ///////////////////////////
 
 .blue-underline { // underline text blue
@@ -94,11 +105,11 @@ body { // set body text size & line height
   padding-left: 160px;
 }
 
-.imageColumn { // NOT WORKING
+/*.imageColumn { // NOT WORKING
    float: left;
    width: 25%;
    padding: 10px;
-}
+}*/
 
 .orange-bg { // orange background color (see bottom of Our Approach for example)
   background-color: $light-orange;
@@ -109,25 +120,11 @@ body { // set body text size & line height
   border-radius: 15px;
 }
 
-blockquote { // style blockquotes
-  background: $white;
-  border-left: 3px solid $blue;
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
-}
-
-blockquote p { // align blockquotes
-  display: inline-block;
-}
-
-/*.child-div {
+.container { // create flexbox container (https://www.youtube.com/watch?v=phWxA89Dy94)
   display: flex;
-  justify-content: center;
-}*/
-
-/*.container { // arrange mozilla & nceas logos side-by-side; SC NOTE: NOT CENTERED
-  display: flex;
-}*/
+  flex-direction: row; // default
+  justify-content: space-around; //center, space-between
+}
 
 .center-img { // center mozilla & nceas logos side-by-side: SC NOTE: NOT CENTERED 
   display: flex;
@@ -136,23 +133,23 @@ blockquote p { // align blockquotes
   width: 80%;
 }
 
-.column { // Create three equal columns that floats next to each other NOT WORKING
+/*.column { // Create three equal columns that floats next to each other NOT WORKING
   float: left;
   width: 33.33%;
   padding: 10px;
-}
+}*/
 
-.row:after { // Clear floats after the columns NOT WORKING IDK?
+/*.row:after { // Clear floats after the columns NOT WORKING IDK?
   content: "";
   display: table;
   clear: both;
-}
+}*/
 
-@media screen and (max-width: 600px) { // Responsive layout - makes the three columns stack on top of each other instead of next to each other NOT WORKING IDK?
+/*@media screen and (max-width: 600px) { // Responsive layout - makes the three columns stack on top of each other instead of next to each other NOT WORKING IDK?
   .column {
     width: 100%;
   }
-}
+}*/
 
 /*.button-styling { // button styling
   background: $white;
@@ -188,13 +185,13 @@ blockquote p { // align blockquotes
   padding-left: 50px;
 }
 
-.card {
+.card { // blog listing card color on landing page
   background-color: $light-gray1;
 }
 
-.btn-primary{ // can delete if we don't end up using buttons at bottom of index page
+/*.btn-primary{ // can delete if we don't end up using buttons at bottom of index page
   color: $white;
-}
+}*/
 
 /*h1.title, .title.h1 { // banner text white
   color: $white;
@@ -204,7 +201,7 @@ blockquote p { // align blockquotes
   height: 160%; 
 }*/
 
-.features {
+/*.features {
   padding-bottom: 2em;
   height: calc(100% + 250px);
 }
@@ -219,18 +216,5 @@ blockquote p { // align blockquotes
 
 .feature-bottom {
   height: 25%;
-}
+}*/
 
-@include media-breakpoint-up(sm) { 
-.features {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  //margin: 0 0 0 0px;
-  //width: calc(100% + 30px);
-}
-.feature {
-  //width: calc(33% - 30px);
-  //margin: 20px 0 0 30px;
-}
-}

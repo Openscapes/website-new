@@ -1,0 +1,26 @@
+---
+title: "NASA Openscapes Champions Cohort"
+description: |
+  Openscapes Champions Cohort for research teams using data from NASA Distributed Active Archive Centers (DAACs) and interested in open science and migrating their analytical workflows to the cloud.
+author:
+  - name: Openscapes and NASA
+    url: {}
+date: 2022-03-04
+categories:
+  - Champions Cohort
+  - NASA Openscapes Framework
+image: "nasa-openscapes.png"   
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This is a mentorship and professional development opportunity for research teams; please see [**nasa-openscapes.github.io/champions**](https://nasa-openscapes.github.io/champions) for details.
+
+<br>
+
+```{r, out.width="40%", fig.align='center', preview=TRUE}
+knitr::include_graphics("nasa-openscapes.png")  
+```

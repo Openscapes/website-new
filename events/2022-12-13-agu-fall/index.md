@@ -1,0 +1,27 @@
+---
+title: "AGU: The Future is Open"
+description: |
+  Openscapes presentations at the American Geophysical Union (AGU) fall 2022 conference
+author:
+  - name: AGU and Openscapes
+    url: {}
+date: 2022-12-13
+categories: 
+  - conference
+  - NASA Openscapes Framework
+image: "agu-fall-2022.png"
+---
+
+We presented three posters and a plenary lightning talk at the [AGU Fall 2022 meeting](https://www.agu.org/Fall-Meeting).
+
+![](agu-fall-2022.png){fig-alt="AGU Fall 2022 meeting logo white text on blue background says \"AGU Fall Meeting. Science Leads the Future. Chicago, Il & online everywhere\"" fig-align="center" width="234"}
+
+**Supporting open science as a daily practice** - December 16, 2022 - Julie Lowndes, Erin Robinson, Openscapes Mentors. AGU Fall Conference Talk, "The Future is Open" session
+
+**earthaccess: A Python Library for NASA Earthdata** - December 13, 2022 - Luis López, Andrew P. Barrett, Julie Lowndes, Joseph H. Kennedy, Erin Robinson, Amy Steiker, Jessica Scheick, The NASA Openscapes mentors team. Poster.
+
+**NASA Openscapes: Lessons Learned supporting Cross-DAAC User Services to migrate to the Cloud** - December 13, 2022, Aaron Friesz, Alexis Hunzinger, Amy Steiker, Catalina Oaida Taglialatela, Luis López, Cassandra Nickles, Bri Lind, Mahsa Jami, Celia Ou, Julia Stewart Lowndes, Erin Robinson, NASA Openscapes DAAC Mentor Community. Poster.
+
+**Curating information to guide NASA Earthdata users into the cloud with workflow diagrams and cheatsheets** - December 13, 2022 - Cassandra Nickles, Catalina Oaida Taglialatela, Julie Stewart Lowndes, Amy Steiker, Alexis Hunzinger, Aaron Friesz. Poster.
+
+[Details](https://nasa-openscapes.github.io/about.html#slides) with links to slides

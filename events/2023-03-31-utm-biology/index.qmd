@@ -1,0 +1,20 @@
+---
+title: "Openscapes: supporting kinder science for future us"
+description: |
+  Julie Lowndes and Ileana Fenwick speaking in University of Toronto Missisauga Biology Seminar Series
+date: "2023-03-31"
+author: Openscapes
+categories: 
+  - community talk
+image: "utm-biology.png"
+---
+
+*Every Friday during the academic year, the University of Toronto Missisauga Department of Biology hosts an exciting seminar given by a guest speaker. Topics cover every aspect of biology, from whole organisms to molecular biology. Julie and Ileana were selected and invited by grad students.*
+
+![](utm-biology.png){fig-alt="white drawing of a tree, on black background. Brances have different biological entities and tools, like lungs, fly, molecule, DNA, microscope. Trunk of tree shaped like a neuronal synapse with bottom labeled Biology." fig-align="center" width="40%"}
+
+**Abstract**: At Openscapes, we believe open science can accelerate interoperable, data-driven solutions and increase diversity, equity, inclusion, and belonging in research and beyond. Our main activity is mentoring environmental and Earth science teams in open science, and connecting and elevating them both through tech like R, Python, Quarto, and JupyterHubs and communities like RLadies, Black Women in Ecology Evolution, and Marine Science, Ladies of Landsat, and NASA. We'll share stories and approaches about supporting open science as a daily practice -- better science for future us -- and welcome you to join the movement.
+
+[Julia Stewart Lowndes](https://jules32.github.io/), PhD, Director of Openscapes is a marine ecologist working at the intersection of actionable environmental science, data science, and open science. Julia's main focus is mentoring teams to develop technical and leadership mindsets and skills for data-intensive research, grounded in climate solutions, inclusion, and kindness. She founded Openscapes in 2018 as a Mozilla Fellow and Senior Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California Santa Barbara (UCSB), having earned her PhD from Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate.
+
+[**Ileana Fenwick**](https://twitter.com/_ileanaf) is a core Openscapes team member; she is an open science advocate and Marine Sciences Ph.D. Student at UNC Chapel Hill. Ileana's research focuses on evaluating how marine communities respond to climate change and human impacts. Her work uses innovative quantitative methods to improve our ocean management outcomes. In addition to her research, Ileana is also a fierce advocate for HBCU engagement and equity in open science and marine science through her consulting and volunteer work.

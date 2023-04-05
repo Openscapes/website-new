@@ -1,0 +1,36 @@
+---
+title: "Pathways to Open Science with HBCU Research Teams"
+description: |
+  Convening Black environmental and marine researchers to build community for the future of data intensive science
+date: "2023-01-26"
+categories: [mentorship opportunity]
+author: "Openscapes"
+image: "openscapes-bims-bweems.png"
+---
+
+**Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. Led by Ileana Fenwick of [Openscapes](https://openscapes.org) in partnership with [Black in Marine Science (BIMS)](https://www.blackinmarinescience.org/) and [Black Women in Ecology, Evolution, and Marine Science (BWEEMS)](https://www.bweems.org/), the series will begin on January 26, 2023!
+
+<center>[![](openscapes_hex.png){width="78"}](https://openscapes.org) [![](bweems-logo.png){width="262"}](https://www.bweems.org/) [![](bims-logo.png){width="86"}](https://www.blackinmarinescience.org/)</center>
+
+## Program Details
+
+This remote event series will convene Black environmental and marine researcher community members with the goal of developing a mindset for Open Data Science: the tools and practices enabling reproducible, transparent, and inclusive practices for data intensive science. If you're feeling bogged down by folders full of files with names like "analysis_final_v5.xlsx" and/or like empowering others, we welcome you to join us!
+
+**This 6-part remote event series runs on Thursdays from 5-6:30pm ET, January 26 - March 2.** Event format will alternate weekly (all virtual):
+
+-   3 community calls: 1.5 hour calls with facilitated discussion, mini-lectures and community conversations with Black data scientists, data science leaders and students
+    -   January 26, February 9, 23
+-   3 coworking sessions: 1.5 hour calls structured for folks to bring their own work, practice skill building, screenshare, and ask questions.
+    -   February 2, 16, March 2
+
+The event series builds from our work at [Openscapes](https://openscapes.org), where we believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science. Since 2019 we have mentored \>100 research teams, meeting them where they are as they develop enduring habits and community. All Openscapes events abide by our [Code of Conduct](https://www.openscapes.org/code-of-conduct/).
+
+Meet the **planning team** and find more details on the [Pathways to Open Science website](https://openscapes.github.io/pathways-to-open-science/).
+
+## Registration
+
+[**Register via Eventbrite**](https://www.eventbrite.com/e/pathways-to-open-science-tickets-499833333957). If you are a Black marine scientist and/or an HBCU student, we would love to have you! We hope you are able to attend all six events, however, you are welcome to register for and join as many as you are able to. And please invite others to join you! If you are an ally, please help us amplify Black voices; we suggest allies do not sign up for this particular series.
+
+## Funding
+
+This event is free, thanks to funding from [Code for Science & Society](https://eventfund.codeforscience.org/event-fund-grantees/) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/).

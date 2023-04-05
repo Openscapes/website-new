@@ -1,0 +1,47 @@
+---
+title: "ESIP 2023: Opening Doors to Open Science"
+description: |
+  "Better science for future us: Openscapes stories and approaches for the Year of Open Science"
+author:
+  - name: ESIP and Openscapes
+    url: {}
+date: 2023-01-26
+categories: 
+  - conference
+  - NASA Openscapes Framework
+  - NOAA Fisheries
+image: "esip-logo.png"
+---
+
+**At the 2023 ESIP Winter Meeting** we have a specific Openscapes sessions and Openscapes Mentors are presenting at several other ESIP sessions too:
+
+- Amy Steiker speaking in [Enabling Open Science with NASA's Earthdata in the Cloud](https://2023januaryesipmeeting.sched.com/event/1EwXE/enabling-open-science-with-nasas-earthdata-in-the-cloud)
+- Julie Lowndes speaking in [Earth and Space Science Knowledge Commons: From vision to implementation](https://2023januaryesipmeeting.sched.com/event/1EwXQ/earth-and-space-science-knowledge-commons-from-vision-to-implementation)
+- Brianna Pagan speaking in [Bringing Cloud-Native Science “Down To Earth”](https://2023januaryesipmeeting.sched.com/event/1EwXf/bringing-cloud-native-science-down-to-earth)
+- Eli Holmes in the [ESIP Research Showcase](https://2023januaryesipmeeting.sched.com/event/1EwXr/research-showcase-poster-demo-live-event) with Transforming to Open Science Workflows
+
+## Better science for future us: Openscapes stories and approaches for the Year of Open Science
+
+Building from our session at ESIP Winter 2022, **[our 2023 ESIP session: Better science for future us: Openscapes stories and approaches for the Year of Open Science](https://2023januaryesipmeeting.sched.com/event/1EwXx/better-science-for-future-us-openscapes-stories-and-approaches-for-the-year-of-open-science)** will bring together a diverse set of leaders from across the U.S. government to highlight open science in daily work, including peer-teaching, mentoring, and learning with Openscapes. We will share stories, examples, and concrete tips for supporting each other and our colleagues with collaborative, inclusive open science approaches, with the aim of strengthening channels for inter- and cross-agency learning in the Year of Open Science 2023.
+
+## Speakers
+
+**Ileana Fenwick** is a third-year marine fisheries PhD student at UNC and after participating in a 2021 Champions Cohort, she became part of the Openscapes core team. This week she is launching the Pathways to Open Science program to welcome more Black marine scientists to open science and to build skills and community!
+
+**Adyan Rios** is a research ecologist at NOAA Fisheries, in the Caribbean Fisheries Branch of the Sustainable Fisheries Division at the Southeast Fisheries Science Center (SEFSC). Adyan participated in Openscapes in Fall 2021 and became and organizer and mentor in 2022; co-leading Summer and 4 Fall Cohorts with NOAA Fisheries.
+
+**Josh London** is a Wildlife Biologist at NOAA Fisheries, in the Marine Mammal Laboratory Alaska Fisheries Science Center (AFSC). Josh is a long-time open source developer and champion; he’s been part of the Openscapes community since its earliest days after conversations at RStudio Conf in 2017, and is a coordinator and mentor with Openscapes in 2022, co-leading Winter and 4 Fall Cohorts with NOAA Fisheries.
+
+**Corey Clatterbuck** is an environmental scientist at CalEPA (in the Office of Information Management and Analysis and the Surface Water Ambient Monitoring Program), and having supported Openscapes trainings throughout 2021, "forked" Openscapes with her colleague Anna Holder and taught her colleagues internally within Cal EPA in 2022
+
+**Luis Lopez** is a Research Software Engineer at the National Snow and Ice Data Center (NSIDC) in Boulder, Colorado. He has helped develop tools and services to facilitate data access and discoverability across different NASA Earth missions. He is part of the first cohort of NASA Openscapes Mentors, and lead developer for the earthaccess python library and corn jupyterhub environment.
+
+**Cassie Nickles** is an Applied Science Systems Engineer working for NASA’s PO.DAAC, the Physical Oceanography Data Active Archive Center. She became a NASA-Openscapes mentor in 2022 and is consistently looking for better ways to make the complicated simple for data end users through mechanisms like data tutorials, workflow diagrams & cheatsheets! 
+
+
+## More information
+
+How to prepare for this session: Read [our blog post from our 2022 session](https://www.openscapes.org/blog/2022/02/17/esip-winter-2022/).
+
+**Link to [our session in the ESIP schedule](https://2023januaryesipmeeting.sched.com/event/1EwXx/better-science-for-future-us-openscapes-stories-and-approaches-for-the-year-of-open-science)**
+

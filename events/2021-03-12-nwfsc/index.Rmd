@@ -1,0 +1,49 @@
+---
+title: "Openscapes Champions: NOAA NWFSC Cohort"
+description: |
+   Openscapes Champions Cohort for the NOAA Northwest Fisheries Science Center (NWFSC)
+author:
+  - name: Openscapes and NWFSC
+    url: {}
+date: 2021-03-12
+categories:
+  - Champions Cohort
+  - NOAA Fisheries
+image: "NOAA_logo.png"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Cohort Summary
+
+Sponsored by NOAA NWFSC, coordinated by Eric Ward and Mary Hunsicker  
+(National Oceanic and Atmospheric Administration Northwest Fisheries Science Center)
+
+**Related blog posts**: 
+
+- [NOAA NWFSC Openscapes Champions Cohort](https://www.openscapes.org/blog/2020/05/03/noaa-nwfsc-champions/)
+
+**Participating teams:** 
+
+- Conservation Biology division
+- Environmental and Fisheries Science division
+- Fish Ecology division
+- Fishery Resource Analysis and Monitoring division
+
+
+## Program Overview
+
+**This is a professional development and leadership opportunity for NWFSC researchers to explore open data science practices.**
+
+**[Openscapes Champions](https://www.openscapes.org/champions/)** is a remote-by-design mentorship program for environmental and Earth science research teams to explore open data science practices. Participants attend as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort. By discussing open software tooling and communities enabling reproducible research (e.g. R/Python, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture. 
+
+**This opportunity is funded and coordinated by NOAA Northwest Fisheries Science Center ([NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)).**
+
+```{r, out.width="40%", fig.align='center', preview=TRUE}
+knitr::include_graphics("NOAA_logo.png")  
+```
+
+

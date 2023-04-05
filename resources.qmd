@@ -1,0 +1,83 @@
+---
+title: ""
+---
+
+::: column-screen
+![](images/banner_imgs/horst_openscapes_grassland_1500px.png)
+
+<br>
+
+::: white-div
+
+::: {.medium-body-text .center-text}
+**This curated list of resources is meant to welcome environmental scientists who are interested about engaging in open data science.**
+:::
+
+::: {.center-text}
+This R-focused list is not meant to be comprehensive of all the incredible resources available; it represents a selection of material immediately useful to scientists we have worked with. It is an evolving effort and Openscapes resources are also listed below.
+:::
+
+![](images/minis/horst_openscapes_grassland_oak.png){fig-align="center" width="100"}
+
+## **WORKING COLLABORATIVELY, OPENLY, & EFFICIENTLY**
+
+Thinking deliberately about data and embracing existing open tools and workflows for science increases efficiency, broadens the scientific questions that can be asked, introduces a network of online allies outside scientific domains, and makes it easier to ask for help.
+
+For example, the Ocean Health Index describes how open software and borrowing practices from software engineers was game-changing for collaborative coding and communication.
+
+- [Our path to better science in less time using open data science tools — *Lowndes et al. 2017 Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-017-0160)
+- [Data-intensive ecological research is catalyzed by open science and team science - *Cheruvelil & Soranno 2018 BioScience*](https://academic.oup.com/bioscience/article/68/10/813/5088531)
+- [Skills and knowledge for data-intensive environmental research - *Hampton et al. 2017 BioScience*](https://dx.doi.org/10.1093%2Fbiosci%2Fbix025)
+- [Creating and maintaining high‐performing collaborative research teams: the importance of diversity and interpersonal skills — *Cheruvelil et al. 2014 Frontiers in Ecology & the Environment*](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/130001)
+
+![](images/minis/horst_openscapes_grassland_fox.png){fig-align="center" width="100"}
+
+## **JOINING & BUILDING LEARNING COMMUNITIES**
+
+Learning to code should be fun since you are learning powerful and empowering tools that will be game-changing for your science. So learn with friends, and grow your community. 
+
+- [Start a coding club]()
+- [Build communities locally]()
+- [Starting our #tidytuesday hacky hours]()
+
+![](images/minis/horst_openscapes_grassland_deer.png){fig-align="center" width="100"}
+
+## **R WITH RSTUDIO & GITHUB**
+
+We recommend using R with RStudio, which not only provides a supportive infrastructure but enables direct connection to GitHub.com (i.e. without additional software or use of the command line). Further, workflows with RStudio's tidyverse & friends and with RMarkdown create good practices for collaborative, reproducible workflows.
+
+- [So you want to learn R?]()
+- [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel) — Lowndes & Horst 2020
+- [Big Book of R](https://www.bigbookofr.com/index.html) — Oscar Baruffa, combines > 200 publically available books, tutorials, and workshops about R
+- [UO R Psych Bootcamp](https://uopsych-r-bootcamp-2020.netlify.app/) — Branden Cullen, University of Oregon
+- [Reproducible Research Data and Project Management in R](https://annakrystalli.me/rrresearchACCE20/) - Dr. Anna Krystalli
+- [Resources for R and data science](http://ohi-science.org/news/Resources-for-R-and-Data-Science)
+- [The importance of open data science tools in science: a list of references](http://ohi-science.org/news/importance-of-open-data-science-tools)
+
+![](images/minis/horst_openscapes_grassland_condor.png){fig-align="center" width="100"}
+
+## **QUARTER/SEMESTER-LONG COURSES**
+
+Teaching official university courses is a great idea! These are a few examples of course materials that you can reuse as-is or adapt for your own context — many are environmental science focused. From our experience, we don't recommend mix-and-matching between resources — especially if this is your first time teaching. This is because there is logic and cadence to each one and trying to combine them can result in reinventing more wheels than intended. Instead, we recommend finding one that best suits you (based on length, content, or audience) and potentially adapting it to your needs. 
+
+- [STAT 545: Data wrangling, exploration, and analysis with R](https://stat545.com/) by Dr. Jenny Bryan, University of British Columbia <!--- [Jenny Bryan](https://en.wikipedia.org/wiki/Jenny_Bryan)'s course is the gold-standard course, highly recommended. --->
+- [Introduction to Statistics and Data Analysis in Environmental Science and Management](https://github.com/allisonhorst/esm-206-2018) by Dr. Allison Horst, University of California Santa Barbara <!--- The first 5 weeks of Allison Horst's intro course uses environmental science examples for data wrangling; SC NOTE: original link pointed to allison's personal website, which does not currently have links to her Bren course materials -- added github repos for ESM 206 & 244 instead --->
+- [Advanced Data Analysis](https://github.com/allisonhorst/esm-244-2019) by Dr. Allison Horst, University of California, Santa Barbara
+- [Reproducible quantative methods](https://cbahlai.github.io/rqm-template/) - Dr. Christie Bahlai, Kent State University
+- [Data carpentry for biologists](https://datacarpentry.org/semester-biology/) — Dr. Ethan White & Dr. Zachary Brym, 
+- [Reproducibility for Data Science](https://canvas.uw.edu/courses/1354201) — Dr. Ben Marwick, University of Washington
+<!---https://twitter.com/benmarwick/status/1233340012554383361--->
+- [Data Science: A First Introduction](https://ubc-dsci.github.io/introduction-to-datascience/index.html) — Dr.Tiffany Timbers et al, University of British Columbia
+- [Super advanced R](https://github.com/super-advanced-r-fall-2019) — Dr. Dan Ovando, University of Washington
+
+## **OPENSCAPES RESOURCES, MEDIA, & PRESENTATIONS**
+
+We have focused on openly communicating the process behind our development of Oceanscapes. Here are presentations we have given about Openscapes, and materials for the Openscapes Champions series. They are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/); You are welcome to reuse and remix with attrbution. 
+
+- [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4) — Nature Career Column co-authored by Openscapes Champions
+- [Media & Presentations](media.qmd) — media and slides about Openscapes for various audiences
+- [Champions Lesson Series](https://openscapes.github.io/series/) — lesson book for the Champions program, with links to slides and course agendas
+
+:::
+
+:::

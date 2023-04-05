@@ -1,0 +1,34 @@
+---
+title: "A chat with Tara Robertson"
+description: |
+  Tara Robertson works with leaders to make companies more diverse, equitable & inclusive. View event summary
+author:
+  - name: Openscapes
+date: 2021-05-25
+categories:
+  - community call
+image: "tara-robertson.png"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<!---**[View event summary](https://www.openscapes.org/blog/2021/03/25/rebel-alliance-dr-dawn-wright/)**  --->
+**[View event summary & video](https://www.openscapes.org/blog/2021/05/27/tara-robertson/)**  
+**Date: May 25, 2021**\
+**Time: 10:00am PST** (UTC-7)\
+**Where: Zoom**\
+**Join us: [Sign up on Eventbrite](https://www.eventbrite.com/e/openscapes-community-call-with-tara-robertson-tickets-154045595523?aff=ebdsoporgprofile)**
+
+Please join us for a conversation with Tara Robertson ([\@tararobertson](https://twitter.com/tararobertson)) about working with Openscapes to improve approaches promoting diversity, equity, and inclusion in open data science.
+
+This event is supported through the [Code for Science & Society](https://codeforscience.org/) funding we received, which explicitly supports events that promote inclusion and broaden participation in open data science that drives scholarship, Erin and Julie, Openscapes co-directors, engaged Tara Robertson, a diversity, equity, and inclusion consultant, as a thought partner and teacher for us as we continue to prioritize and improve approaches to promote diversity, equity and inclusion in Openscapes.
+
+In this conversation, we will reflect on what we’ve done together like creating an Openscapes lesson on psychological safety, and our lessons learned (spoiler: it's never perfect or done). 
+
+```{r, out.width="45%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"', preview=TRUE}
+knitr::include_graphics("tara-robertson.png")  
+```
+
+[Tara Robertson](https://tararobertson.ca/) is a diversity, equity, and inclusion consultant working with leaders to make companies make inclusive and innovative products and services that the world needs. Tara is an intersectional feminist who uses data and research to advocate for equality and inclusion. She bring over 12 years experience leading change in open source technology communities, including 3 years leading Diversity and Inclusion at Mozilla.

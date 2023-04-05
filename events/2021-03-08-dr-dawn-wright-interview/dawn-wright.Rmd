@@ -1,0 +1,39 @@
+---
+title: "Interview with Dr. Dawn Wright"
+description: |
+  Interview with Dr. Dawn Wright at MozFest. View event summary
+author:
+  - name: Mozilla and Openscapes
+date: 2021-03-08
+categories:
+  - community call
+image: "dr-dawn-wright.jpg"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**[View event summary](https://www.openscapes.org/blog/2021/03/25/rebel-alliance-dr-dawn-wright/)**  
+**Date: March 8, 2021**  
+**Time: 10:15am PST** (UTC-8)  
+**Where: on Zoom at MozFest, Mozilla's Internet Festival**  
+**Join us: [registration required](https://schedule.mozillafestival.org/session/Z3JAWA-1)** (space is limited!)
+
+Please join us for a conversation with Dr. Dawn Wright ([\@DeepSeaDawn](https://twitter.com/DeepSeaDawn)) about the connections between the open science movement, democratized tech, solution-driven science, and climate change. 
+
+<br> 
+
+```{r, out.width="45%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"', preview=TRUE}
+knitr::include_graphics("dr-dawn-wright.jpg")  
+```
+
+<br> 
+
+Dr. Wright is American geographer and oceanographer ([Wikipedia](https://en.wikipedia.org/wiki/Dawn_Wright)). She is [Chief Scientist at ESRI](https://www.esri.com/about/newsroom/author/dawnwright/) (the Environmental Systems Research Institute). 
+
+Dr. Wright is a role model to many in science, including us. We are so excited about this conversation, which will also launch Openscapes Community Calls. If you have questions you'd like to ask Dawn, please share them on Twitter by tagging [\@openscapes](https://twitter.com/openscapes).  
+
+
+
+

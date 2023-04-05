@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.37">
+<meta name="generator" content="quarto-1.2.335">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 </style>
 
 
@@ -64,19 +69,24 @@ ul.task-list{list-style: none;}
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <a class="navbar-brand" href="./index.html">
-    <img src="./images/logo/logo.png" alt="">
-  </a>
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/logo/logo.png" alt="The Openscapes logo -- orange text that reads 'openscapes' sitting above small berry 'data points'" class="navbar-logo">
+    </a>
+  </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">HOME</a>
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">HOME</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">ABOUT</a>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">ABOUT</span>
+    </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
         <li>
     <a class="dropdown-item" href="./who_are_we.html">
@@ -90,10 +100,20 @@ ul.task-list{list-style: none;}
     <a class="dropdown-item" href="./media.html">
  <span class="dropdown-text">MEDIA</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./team.html">
+ <span class="dropdown-text">OUR TEAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./code_of_conduct.html">
+ <span class="dropdown-text">CODE OF CONDUCT</span></a>
+  </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false">INITIATIVES</a>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">INITIATIVES</span>
+    </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
         <li>
     <a class="dropdown-item" href="./champions_program.html">
@@ -102,10 +122,13 @@ ul.task-list{list-style: none;}
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./blog.html">BLOG</a>
+    <a class="nav-link" href="./blog.html">
+ <span class="menu-text">BLOG</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-get-involved" role="button" data-bs-toggle="dropdown" aria-expanded="false">GET INVOLVED</a>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-get-involved" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">GET INVOLVED</span>
+    </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-get-involved">    
         <li>
     <a class="dropdown-item" href="./connect.html">
@@ -120,17 +143,17 @@ ul.task-list{list-style: none;}
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/openscapes"><i class="bi bi-github" role="img">
 </i> 
- </a>
+ <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://twitter.com/openscapes"><i class="bi bi-twitter" role="img">
 </i> 
- </a>
+ <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="mailto:hello@openscapes.org"><i class="bi bi-envelope" role="img">
 </i> 
- </a>
+ <span class="menu-text"></span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -142,18 +165,7 @@ ul.task-list{list-style: none;}
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#openscapes-core-team" id="toc-openscapes-core-team" class="nav-link active" data-scroll-target="#openscapes-core-team">Openscapes Core Team</a></li>
-  <li><a href="#mentors" id="toc-mentors" class="nav-link" data-scroll-target="#mentors">Mentors</a></li>
-  <li><a href="#advisors-collaborators" id="toc-advisors-collaborators" class="nav-link" data-scroll-target="#advisors-collaborators">Advisors &amp; Collaborators</a></li>
-  <li><a href="#incubators" id="toc-incubators" class="nav-link" data-scroll-target="#incubators">Incubators</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
 <main class="content page-columns page-full column-body" id="quarto-document-content">
 
@@ -163,45 +175,53 @@ ul.task-list{list-style: none;}
 <p><img src="images/banner_imgs/horst_openscapes_desert_breadcrumbs.png" class="img-fluid"></p>
 </div>
 <p><br></p>
-<p class="medium-body-text center-text">
-<strong>Meet the many folks behind Openscapes!</strong>
-</p>
+<div class="medium-body-text center-text">
+<p><strong>Meet the many folks behind Openscapes!</strong></p>
+</div>
 <section id="openscapes-core-team" class="level2">
 <h2 class="anchored" data-anchor-id="openscapes-core-team">Openscapes Core Team</h2>
 <p><br></p>
 <div style="display: grid; grid-template-columns: 0.5fr 2fr; grid-column-gap: 10px;">
 <div>
-<p><img src="images/headshots/lowndes.png" class="img-fluid"></p>
+<p><img src="images/headshots/lowndes_round.png" class="img-fluid"></p>
 </div>
 <div>
+<div class="center-text">
 <p><a href="https://jules32.github.io/"><strong>Julia Stewart Lowndes</strong></a> launched and directs Openscapes. She is a marine ecologist working at the intersection of actionable environmental science, data science, and open science. She is a Mozilla Fellow and Senior Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California Santa Barbara, having earned her PhD from Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate.</p>
+</div>
 </div>
 </div>
 <p><br></p>
 <div style="display: grid; grid-template-columns: 2fr 0.5fr; grid-column-gap: 10px;">
 <div>
+<div class="center-text">
 <p><a href="https://erinrobinson.info/"><strong>Erin Robinson</strong></a> is a core Openscapes team member and advisor. She co-leads the NASA Framework project with Julie and has been instrumental in scaling Openscapes with lessons learned from their NASA work. Erin works at the intersection of community informatics, Earth science and non-profit management.</p>
 </div>
+</div>
 <div>
-<p><img src="images/headshots/robinson.png" class="img-fluid"></p>
+<p><img src="images/headshots/robinson_round.png" class="img-fluid"></p>
 </div>
 </div>
 <p><br></p>
 <div style="display: grid; grid-template-columns: 0.5fr 2fr; grid-column-gap: 10px;">
 <div>
-<p><img src="images/headshots/fenwick.png" class="img-fluid"></p>
+<p><img src="images/headshots/fenwick_round.png" class="img-fluid"></p>
 </div>
 <div>
+<div class="center-text">
 <p><a href="https://twitter.com/_ileanaf"><strong>Ileana Fenwick</strong></a> is a core Openscapes team member; she is an open science advocate and Marine Sciences Ph.D.&nbsp;Student at UNC Chapel Hill. Ileana’s research focuses on evaluating how marine communities respond to climate change and human impacts. Her work uses innovative quantitative methods to improve our ocean management outcomes. In addition to her research, Ileana is also a fierce advocate for HBCU engagement and equity in open science and marine science through her consulting and volunteer work.</p>
+</div>
 </div>
 </div>
 <p><br></p>
 <div style="display: grid; grid-template-columns: 2fr 0.5fr; grid-column-gap: 10px;">
 <div>
+<div class="center-text">
 <p><a href="https://stefaniebutland.netlify.app/"><strong>Stefanie Butland</strong></a> is a core Openscapes team member and co-leads Champions Cohorts. She is a research scientist by training and an open science and tech community builder by passion. Stefanie is a Fellow of the Center for Scientific Collaboration and Community Engagement.</p>
 </div>
+</div>
 <div>
-<p><img src="images/headshots/butland.png" class="img-fluid"></p>
+<p><img src="images/headshots/butland_round.png" class="img-fluid"></p>
 </div>
 </div>
 </section>
@@ -213,7 +233,7 @@ ul.task-list{list-style: none;}
 </section>
 <section id="advisors-collaborators" class="level2">
 <h2 class="anchored" data-anchor-id="advisors-collaborators">Advisors &amp; Collaborators</h2>
-<p><a href="https://allisonhorst.github.io/"><strong>Allison Horst</strong></a> is a long-time Openscapes advisor and collaborator. She is a data scientist, teacher, and artist. With a background in the fine arts, she also works digitally; see her Openscapes open landscapes in the <a href="">gallery</a>, her <a href="https://allisonhorst.com/">stats illustrations</a> and follow her on <a href="https://twitter.com/allison_horst">Twitter</a>.</p>
+<p><a href="https://allisonhorst.github.io/"><strong>Allison Horst</strong></a> is a long-time Openscapes advisor and collaborator. She is a data scientist, teacher, and artist. With a background in the fine arts, she also works digitally; see her Openscapes open landscapes in the <a href="./gallery.html">gallery</a>, her <a href="https://allisonhorst.com/">stats illustrations</a> and follow her on <a href="https://twitter.com/allison_horst">Twitter</a>.</p>
 <p><a href="https://seankross.com/"><strong>Sean Kross</strong></a> is a long-time Openscapes collaborator and created the <a href="https://openscapes.github.io/kyber/"><code>{kyber}</code> R package</a> to automate Openscapes cohort infrastructure. His interests are centered around understanding challenges that people doing data science face in the real world, expanding online educational opportunities to new audiences, and building tools to make the future of work and learning possible. Sean is also a frequent consultant for data analysis and software development projects, in addition to being an advocate for open data and a maintainer of several popular open source software repositories.</p>
 <p><a href="https://www.linkedin.com/in/jjallaire/?original_referer=https%3A%2F%2Fwww.google.com%2F"><strong>J.J. Allaire</strong></a> is a long-time Openscapes advisor and collaborator. As CEO of Posit (formerly RStudio), he is a software engineer and entrepreneur who builds tools that empower people with technology. J.J. has conceived and designed several industry leading products by balancing market, customer, and technical considerations, and by maintaining intimate involvement in all aspects of software design and construction.</p>
 <p><a href="https://tararobertson.ca/"><strong>Tara Robertson</strong></a> is an advisor and collaborator with Openscapes. She works with leaders to make companies more diverse, equitable and inclusive so that they can make inclusive and innovative products and services that the world needs. Tara is an intersectional feminist who uses data and research to advocate for equality and inclusion. She bring over 12 years experience leading change in open source technology communities, including 3 years leading Diversity and Inclusion at Mozilla. Her work on trans inclusion was featured in <a href="https://www.forbes.com/sites/janicegassam/2019/04/28/how-to-support-your-transgender-employees/?sh=716539094eca">Forbes</a>, her research on digitization ethics is included in Dr.&nbsp;Safiya Noble’s <a href="https://safiyaunoble.com/research-writing/">Algorithms of Oppression</a> and an accessibility toolkit she co-authored won an international creative innovation award.</p>
@@ -268,7 +288,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -296,31 +333,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>

@@ -1,0 +1,28 @@
+---
+title: "ESIP: Planning for the Year of Open Science"
+description: |
+  An session at the Earth Science Information Partners (ESIP) winter conference
+author:
+  - name: ESIP and Openscapes
+    url: {}
+date: 2022-01-21
+categories: 
+  - conference
+  - NASA Openscapes Framework
+image: "esip-logo.png"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This session will bring together a diverse set of leaders across the U.S. government to highlight open science contributions that support data generation to data use and understanding and to identify a common agenda that the collective is moving forward. We aim to support open practices and community building that accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science. Researchers and researcher support staff from NOAA Fisheries, California EPA, and NASA Openscapes (LP DAAC, NSIDC) will share vignettes  about open science in government and how we can support and connect open science work sna strengthen channels for inter- and cross-agency learning as we prepare for the Year of Open Science 2023. 
+
+**<https://2022esipjanuarymeeting.sched.com/event/qkp5/better-science-for-future-us-planning-for-the-year-of-open-science>**
+
+
+```{r, out.width="45%", fig.align='center', preview=TRUE}
+knitr::include_graphics("esip-logo.png")  
+```
+

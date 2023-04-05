@@ -1,0 +1,28 @@
+---
+title: "SORTEE Conference"
+description: |
+  Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE) Conference keynote by Julie Lowndes. 
+author:
+  - name: SORTEE
+    url: {}
+date: 2021-07-12
+categories:
+  - conference
+image: "sortee-logo.png"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**[Slides and recording](https://osf.io/47req/)**
+**Date: July 12, 2021**\
+**SORTEE website: [sortee.org/events](https://www.sortee.org/events/)**  
+
+SORTEE is a service organization which brings together researchers working to improve reliability and transparency through cultural and institutional changes in ecology, evolutionary biology, and related fields broadly defined. Julie Lowndes is presenting a keynote talk on July 12 at the inaugural conference and is proud to be a part of this community.
+
+```{r, out.width="65%", out.extra='style="background-color: white; padding:2px; display: inline-block;"', preview=TRUE}
+knitr::include_graphics("sortee-logo.png")  
+```
+

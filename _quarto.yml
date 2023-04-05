@@ -19,6 +19,10 @@ website:
           - text: "MEDIA"
             href: media.qmd
           - text: "TESTIMONIALS"  
+          - text: "OUR TEAM"
+            href: team.qmd
+          - text: "CODE OF CONDUCT"
+            href: code_of_conduct.qmd
       - text: "INITIATIVES"
         menu:
          - text: "CHAMPIONS PROGRAM"
@@ -52,7 +56,7 @@ format:
     theme: 
       - styles.scss
     mainfont: Sen
-    toc: true
+    #toc: true
 
 
 

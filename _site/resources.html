@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.335">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title></title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./images/favicon/favicon_fullres.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/logo/logo.png" alt="The Openscapes logo -- orange text that reads 'openscapes' sitting above small berry 'data points'" class="navbar-logo">
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">HOME</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">ABOUT</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="./who_are_we.html">
+ <span class="dropdown-text">WHO ARE WE?</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./approach.html">
+ <span class="dropdown-text">OUR APPROACH</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./media.html">
+ <span class="dropdown-text">MEDIA</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./team.html">
+ <span class="dropdown-text">OUR TEAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./code_of_conduct.html">
+ <span class="dropdown-text">CODE OF CONDUCT</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">INITIATIVES</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
+        <li>
+    <a class="dropdown-item" href="./champions_program.html">
+ <span class="dropdown-text">CHAMPIONS PROGRAM</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./blog.html">
+ <span class="menu-text">BLOG</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-get-involved" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">GET INVOLVED</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-get-involved">    
+        <li>
+    <a class="dropdown-item" href="./connect.html">
+ <span class="dropdown-text">CONNECT WITH US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./events.html">
+ <span class="dropdown-text">ATTEND AN EVENT</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/openscapes"><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/openscapes"><i class="bi bi-twitter" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:hello@openscapes.org"><i class="bi bi-envelope" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content page-columns page-full column-body" id="quarto-document-content">
+
+
+
+<div class="column-screen">
+<p><img src="images/banner_imgs/horst_openscapes_grassland_1500px.png" class="img-fluid"></p>
+<p><br></p>
+<div class="white-div">
+<div class="medium-body-text center-text">
+<p><strong>This curated list of resources is meant to welcome environmental scientists who are interested about engaging in open data science.</strong></p>
+</div>
+<div class="center-text">
+<p>This R-focused list is not meant to be comprehensive of all the incredible resources available; it represents a selection of material immediately useful to scientists we have worked with. It is an evolving effort and Openscapes resources are also listed below.</p>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/minis/horst_openscapes_grassland_oak.png" class="img-fluid figure-img" width="100"></p>
+</figure>
+</div>
+<section id="working-collaboratively-openly-efficiently" class="level2">
+<h2 class="anchored" data-anchor-id="working-collaboratively-openly-efficiently"><strong>WORKING COLLABORATIVELY, OPENLY, &amp; EFFICIENTLY</strong></h2>
+<p>Thinking deliberately about data and embracing existing open tools and workflows for science increases efficiency, broadens the scientific questions that can be asked, introduces a network of online allies outside scientific domains, and makes it easier to ask for help.</p>
+<p>For example, the Ocean Health Index describes how open software and borrowing practices from software engineers was game-changing for collaborative coding and communication.</p>
+<ul>
+<li><a href="https://www.nature.com/articles/s41559-017-0160">Our path to better science in less time using open data science tools — <em>Lowndes et al.&nbsp;2017 Nature Ecology &amp; Evolution</em></a></li>
+<li><a href="https://academic.oup.com/bioscience/article/68/10/813/5088531">Data-intensive ecological research is catalyzed by open science and team science - <em>Cheruvelil &amp; Soranno 2018 BioScience</em></a></li>
+<li><a href="https://dx.doi.org/10.1093%2Fbiosci%2Fbix025">Skills and knowledge for data-intensive environmental research - <em>Hampton et al.&nbsp;2017 BioScience</em></a></li>
+<li><a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/130001">Creating and maintaining high‐performing collaborative research teams: the importance of diversity and interpersonal skills — <em>Cheruvelil et al.&nbsp;2014 Frontiers in Ecology &amp; the Environment</em></a></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/minis/horst_openscapes_grassland_fox.png" class="img-fluid figure-img" width="100"></p>
+</figure>
+</div>
+</section>
+<section id="joining-building-learning-communities" class="level2">
+<h2 class="anchored" data-anchor-id="joining-building-learning-communities"><strong>JOINING &amp; BUILDING LEARNING COMMUNITIES</strong></h2>
+<p>Learning to code should be fun since you are learning powerful and empowering tools that will be game-changing for your science. So learn with friends, and grow your community.</p>
+<ul>
+<li><a href="">Start a coding club</a></li>
+<li><a href="">Build communities locally</a></li>
+<li><a href="">Starting our #tidytuesday hacky hours</a></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/minis/horst_openscapes_grassland_deer.png" class="img-fluid figure-img" width="100"></p>
+</figure>
+</div>
+</section>
+<section id="r-with-rstudio-github" class="level2">
+<h2 class="anchored" data-anchor-id="r-with-rstudio-github"><strong>R WITH RSTUDIO &amp; GITHUB</strong></h2>
+<p>We recommend using R with RStudio, which not only provides a supportive infrastructure but enables direct connection to GitHub.com (i.e.&nbsp;without additional software or use of the command line). Further, workflows with RStudio’s tidyverse &amp; friends and with RMarkdown create good practices for collaborative, reproducible workflows.</p>
+<ul>
+<li><a href="">So you want to learn R?</a></li>
+<li><a href="https://rstudio-conf-2020.github.io/r-for-excel">R for Excel Users</a> — Lowndes &amp; Horst 2020</li>
+<li><a href="https://www.bigbookofr.com/index.html">Big Book of R</a> — Oscar Baruffa, combines &gt; 200 publically available books, tutorials, and workshops about R</li>
+<li><a href="https://uopsych-r-bootcamp-2020.netlify.app/">UO R Psych Bootcamp</a> — Branden Cullen, University of Oregon</li>
+<li><a href="https://annakrystalli.me/rrresearchACCE20/">Reproducible Research Data and Project Management in R</a> - Dr.&nbsp;Anna Krystalli</li>
+<li><a href="http://ohi-science.org/news/Resources-for-R-and-Data-Science">Resources for R and data science</a></li>
+<li><a href="http://ohi-science.org/news/importance-of-open-data-science-tools">The importance of open data science tools in science: a list of references</a></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/minis/horst_openscapes_grassland_condor.png" class="img-fluid figure-img" width="100"></p>
+</figure>
+</div>
+</section>
+<section id="quartersemester-long-courses" class="level2">
+<h2 class="anchored" data-anchor-id="quartersemester-long-courses"><strong>QUARTER/SEMESTER-LONG COURSES</strong></h2>
+<p>Teaching official university courses is a great idea! These are a few examples of course materials that you can reuse as-is or adapt for your own context — many are environmental science focused. From our experience, we don’t recommend mix-and-matching between resources — especially if this is your first time teaching. This is because there is logic and cadence to each one and trying to combine them can result in reinventing more wheels than intended. Instead, we recommend finding one that best suits you (based on length, content, or audience) and potentially adapting it to your needs.</p>
+<ul>
+<li><a href="https://stat545.com/">STAT 545: Data wrangling, exploration, and analysis with R</a> by Dr.&nbsp;Jenny Bryan, University of British Columbia <!--- [Jenny Bryan](https://en.wikipedia.org/wiki/Jenny_Bryan)'s course is the gold-standard course, highly recommended. ---></li>
+<li><a href="https://github.com/allisonhorst/esm-206-2018">Introduction to Statistics and Data Analysis in Environmental Science and Management</a> by Dr.&nbsp;Allison Horst, University of California Santa Barbara <!--- The first 5 weeks of Allison Horst's intro course uses environmental science examples for data wrangling; SC NOTE: original link pointed to allison's personal website, which does not currently have links to her Bren course materials -- added github repos for ESM 206 & 244 instead ---></li>
+<li><a href="https://github.com/allisonhorst/esm-244-2019">Advanced Data Analysis</a> by Dr.&nbsp;Allison Horst, University of California, Santa Barbara</li>
+<li><a href="https://cbahlai.github.io/rqm-template/">Reproducible quantative methods</a> - Dr.&nbsp;Christie Bahlai, Kent State University</li>
+<li><a href="https://datacarpentry.org/semester-biology/">Data carpentry for biologists</a> — Dr.&nbsp;Ethan White &amp; Dr.&nbsp;Zachary Brym,</li>
+<li><a href="https://canvas.uw.edu/courses/1354201">Reproducibility for Data Science</a> — Dr.&nbsp;Ben Marwick, University of Washington <!---https://twitter.com/benmarwick/status/1233340012554383361---></li>
+<li><a href="https://ubc-dsci.github.io/introduction-to-datascience/index.html">Data Science: A First Introduction</a> — Dr.Tiffany Timbers et al, University of British Columbia</li>
+<li><a href="https://github.com/super-advanced-r-fall-2019">Super advanced R</a> — Dr.&nbsp;Dan Ovando, University of Washington</li>
+</ul>
+</section>
+<section id="openscapes-resources-media-presentations" class="level2">
+<h2 class="anchored" data-anchor-id="openscapes-resources-media-presentations"><strong>OPENSCAPES RESOURCES, MEDIA, &amp; PRESENTATIONS</strong></h2>
+<p>We have focused on openly communicating the process behind our development of Oceanscapes. Here are presentations we have given about Openscapes, and materials for the Openscapes Champions series. They are licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>; You are welcome to reuse and remix with attrbution.</p>
+<ul>
+<li><a href="https://www.nature.com/articles/d41586-019-03335-4">Supercharge your research: a ten-week plan for open data science</a> — Nature Career Column co-authored by Openscapes Champions</li>
+<li><a href="./media.html">Media &amp; Presentations</a> — media and slides about Openscapes for various audiences</li>
+<li><a href="https://openscapes.github.io/series/">Champions Lesson Series</a> — lesson book for the Champions program, with links to slides and course agendas</li>
+</ul>
+</section>
+</div>
+</div>
+
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Openscapes is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attributions 4.0 International License</a></div>   
+    <div class="nav-footer-right">This website is built with ❤️ and <a href="https://quarto.org/">Quarto</a></div>
+  </div>
+</footer>
+
+
+
+</body></html>

@@ -1,0 +1,23 @@
+---
+title: "Openscapes: supporting better science for future us"
+description: |
+  A talk by Julie Lowndes for the Best Practices for HPC Software Developers Webinar Series
+date: "2023-01-11"
+author: Openscapes
+categories: 
+  - community talk
+image: "ecp-logo.png"
+---
+
+[Best Practices for HPC Software Developers Webinar Series](https://www.exascaleproject.org/event/openscapes/) hosted by The IDEAS Productivity project, in partnership with the Department of Energy Computing Facilities of the ALCF, OLCF, and NERSC, and the DOE [Exascale Computing Project (ECP)](https://exascaleproject.org/). This talk is part of Lowndes’ 2022 [NSF Better Scientific Software (BSSw) fellowship](https://bssw.io/pages/meet-our-fellows).
+
+
+- [Slides](https://docs.google.com/presentation/d/1uKtVnZR8X94tADAWEE1THHKCbvfBbg2PBcH8asaoJQQ/)
+- [Video](https://youtu.be/unjQxQPfnqM)
+
+![](ecp-logo.png){fig-alt="Exascale Computing Project logo black letters say ECP EXASCALE COMPUTING PROJECT with blue and red arcs around the C of ECP" fig-align="center" width="60%"}
+
+
+
+[Julie Lowndes](https://jules32.github.io/) is Founder & Co-Director of Openscapes and Senior Fellow, National Center for Ecological Analysis & Synthesis (NCEAS), University of California Santa Barbara (UCSB).
+

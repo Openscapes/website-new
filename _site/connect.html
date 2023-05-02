@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.3.313">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -40,6 +40,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,89 +76,91 @@ ul.task-list li input[type="checkbox"] {
     <img src="./images/logo/logo.png" alt="The Openscapes logo -- orange text that reads 'openscapes' sitting above small berry 'data points'" class="navbar-logo">
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">HOME</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">ABOUT</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
         <li>
-    <a class="dropdown-item" href="./who_are_we.html">
+    <a class="dropdown-item" href="./who_are_we.html" rel="" target="">
  <span class="dropdown-text">WHO ARE WE?</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./approach.html">
+    <a class="dropdown-item" href="./approach.html" rel="" target="">
  <span class="dropdown-text">OUR APPROACH</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./media.html">
+    <a class="dropdown-item" href="./media.html" rel="" target="">
  <span class="dropdown-text">MEDIA</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./team.html">
+    <a class="dropdown-item" href="./team.html" rel="" target="">
  <span class="dropdown-text">OUR TEAM</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./code_of_conduct.html">
+    <a class="dropdown-item" href="./code_of_conduct.html" rel="" target="">
  <span class="dropdown-text">CODE OF CONDUCT</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">INITIATIVES</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
         <li>
-    <a class="dropdown-item" href="./champions_program.html">
+    <a class="dropdown-item" href="./champions_program.html" rel="" target="">
  <span class="dropdown-text">CHAMPIONS PROGRAM</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./blog.html">
+    <a class="nav-link" href="./blog.html" rel="" target="">
  <span class="menu-text">BLOG</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-get-involved" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-get-involved" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">GET INVOLVED</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-get-involved">    
         <li>
-    <a class="dropdown-item" href="./connect.html">
+    <a class="dropdown-item" href="./connect.html" rel="" target="">
  <span class="dropdown-text">CONNECT WITH US</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./events.html">
+    <a class="dropdown-item" href="./events.html" rel="" target="">
  <span class="dropdown-text">ATTEND AN EVENT</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/openscapes"><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/openscapes" rel="" target=""><i class="bi bi-github" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/openscapes"><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://twitter.com/openscapes" rel="" target=""><i class="bi bi-twitter" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="mailto:hello@openscapes.org"><i class="bi bi-envelope" role="img">
+    <a class="nav-link" href="mailto:hello@openscapes.org" rel="" target=""><i class="bi bi-envelope" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -172,8 +176,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="column-screen">
-<p><img src="images/banner_imgs/horst_openscapes_mountains_1500px.png" class="img-fluid"></p>
-<p><br></p>
+<p><img src="images/banner_imgs/horst_openscapes_mountains_1500px.png" class="img-fluid"> <br></p>
 <div class="white-div">
 <div class="medium-body-text center-text">
 <p><strong>Openscapes is about engaging, empowering, and amplifying each other as we increase the visibility, value, and practice of open data science within our scientific communities.</strong></p>
@@ -182,8 +185,8 @@ ul.task-list li input[type="checkbox"] {
 <p><strong><em>We are happy you are here.</em></strong></p>
 </div>
 <p><br></p>
-<section id="check-out-our-current-projects" class="level2">
-<h2 class="anchored" data-anchor-id="check-out-our-current-projects"><svg aria-label="Pencil" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#333333;overflow:visible;position:relative;"><title>Pencil</title><path d="M410.3 231l11.3-11.3-33.9-33.9-62.1-62.1L291.7 89.8l-11.3 11.3-22.6 22.6L58.6 322.9c-10.4 10.4-18 23.3-22.2 37.4L1 480.7c-2.5 8.4-.2 17.5 6.1 23.7s15.3 8.5 23.7 6.1l120.3-35.4c14.1-4.2 27-11.8 37.4-22.2L387.7 253.7 410.3 231zM160 399.4l-9.1 22.7c-4 3.1-8.5 5.4-13.3 6.9L59.4 452l23-78.1c1.4-4.9 3.8-9.4 6.9-13.3l22.7-9.1v32c0 8.8 7.2 16 16 16h32zM362.7 18.7L348.3 33.2 325.7 55.8 314.3 67.1l33.9 33.9 62.1 62.1 33.9 33.9 11.3-11.3 22.6-22.6 14.5-14.5c25-25 25-65.5 0-90.5L453.3 18.7c-25-25-65.5-25-90.5 0zm-47.4 168l-144 144c-6.2 6.2-16.4 6.2-22.6 0s-6.2-16.4 0-22.6l144-144c6.2-6.2 16.4-6.2 22.6 0s6.2 16.4 0 22.6z"></path></svg> Check out our current projects</h2>
+<section id="fa-pencil-titlea-pencil-check-out-our-current-projects" class="level2">
+<h2 class="anchored" data-anchor-id="fa-pencil-titlea-pencil-check-out-our-current-projects"><i class="fa-solid fa-pencil" title="A pencil" aria-label="pencil"></i> Check out our current projects</h2>
 <ul>
 <li><p><a href="https://nasa-openscapes.github.io/">NASA Openscapes Framework</a> — We support researchers using NASA Earthdata served from the Distributed Active Archive Centers (DAACs) as they migrate workflows to the cloud</p></li>
 <li><p><a href="./champions_program.html">Openscapes Champions Cohorts</a> — We aim to lead Champions Cohorts each year while also developing Mentors who can lead Cohorts for their own communities as part of their jobs</p></li>
@@ -195,37 +198,37 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <p>We are excited to grow the Openscapes community and open data science communities more broadly. Here are several avenues to get involved, and please <a href="mailto:hello@openscapes.org">email us</a> with more ideas.</p>
 </section>
-<section id="follow-us-on-twitter-openscapes" class="level2">
-<h2 class="anchored" data-anchor-id="follow-us-on-twitter-openscapes"><svg aria-label="Twitter" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#333333;overflow:visible;position:relative;"><title>Twitter</title><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg> Follow us on Twitter <span class="citation" data-cites="openscapes">@openscapes</span></h2>
+<section id="fa-twitter-titlethe-twitter-logo-a-bird-follow-us-on-twitter-openscapes" class="level2">
+<h2 class="anchored" data-anchor-id="fa-twitter-titlethe-twitter-logo-a-bird-follow-us-on-twitter-openscapes"><i class="fa-solid fa-twitter" title="The Twitter logo, a bird" aria-label="twitter"></i> Follow us on Twitter <span class="citation" data-cites="openscapes">@openscapes</span></h2>
 <p>We are <a href="https://twitter.com/openscapes">@openscapes</a> on Twitter. We tweet about Openscapes news and events, amplify Openscapes Champions, and sporadically retweet other awesome things going on around environmental open data science. Tag us in your tweets about your open data science wins and challenges and we’ll retweet!</p>
 </section>
-<section id="join-our-mailing-list" class="level2">
-<h2 class="anchored" data-anchor-id="join-our-mailing-list"><svg aria-label="Envelope" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#333333;overflow:visible;position:relative;"><title>Envelope</title><path d="M64 112c-8.8 0-16 7.2-16 16v22.1L220.5 291.7c20.7 17 50.4 17 71.1 0L464 150.1V128c0-8.8-7.2-16-16-16H64zM48 212.2V384c0 8.8 7.2 16 16 16H448c8.8 0 16-7.2 16-16V212.2L322 328.8c-38.4 31.5-93.7 31.5-132 0L48 212.2zM0 128C0 92.7 28.7 64 64 64H448c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128z"></path></svg> Join our mailing list</h2>
+<section id="fa-envelope-titlean-envelope-join-our-mailing-list" class="level2">
+<h2 class="anchored" data-anchor-id="fa-envelope-titlean-envelope-join-our-mailing-list"><i class="fa-solid fa-envelope" title="An envelope" aria-label="envelope"></i> Join our mailing list</h2>
 <p>Sign up for our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform">mailing list</a> to receive infrequent emails from Openscapes so you can be aware of opportunities to participate in and amplify Openscapes efforts as they unfold.</p>
 </section>
-<section id="join-an-upcoming-event" class="level2">
-<h2 class="anchored" data-anchor-id="join-an-upcoming-event"><svg aria-label="Chalkboard user" role="img" viewbox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#333333;overflow:visible;position:relative;"><title>Chalkboard user</title><path d="M160 64c0-35.3 28.7-64 64-64H576c35.3 0 64 28.7 64 64V352c0 35.3-28.7 64-64 64H336.8c-11.8-25.5-29.9-47.5-52.4-64H384V320c0-17.7 14.3-32 32-32h64c17.7 0 32 14.3 32 32v32h64V64L224 64v49.1C205.2 102.2 183.3 96 160 96V64zm0 256c-53 0-96-43-96-96s43-96 96-96s96 43 96 96s-43 96-96 96zm-26.7 32h53.3C260.3 352 320 411.7 320 485.3c0 14.7-11.9 26.7-26.7 26.7H26.7C11.9 512 0 500.1 0 485.3C0 411.7 59.7 352 133.3 352z"></path></svg> Join an upcoming event</h2>
+<section id="fa-chalkboard-user-titlea-person-in-front-of-a-chalkboard-join-an-upcoming-event" class="level2">
+<h2 class="anchored" data-anchor-id="fa-chalkboard-user-titlea-person-in-front-of-a-chalkboard-join-an-upcoming-event"><i class="fa-solid fa-chalkboard-user" title="A person in front of a chalkboard" aria-label="chalkboard-user"></i> Join an upcoming event</h2>
 <p>Please see our <a href="./events.html">events page</a> for <strong>Openscapes Community Calls, conference talks and seminars/webinars</strong>, and opportunities through the <strong>Champions Program</strong>.</p>
 </section>
-<section id="book-a-champions-cohort" class="level2">
-<h2 class="anchored" data-anchor-id="book-a-champions-cohort"><svg aria-label="Users" role="img" viewbox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#333333;overflow:visible;position:relative;"><title>Users</title><path d="M144 160c-44.2 0-80-35.8-80-80S99.8 0 144 0s80 35.8 80 80s-35.8 80-80 80zm368 0c-44.2 0-80-35.8-80-80s35.8-80 80-80s80 35.8 80 80s-35.8 80-80 80zM0 298.7C0 239.8 47.8 192 106.7 192h42.7c15.9 0 31 3.5 44.6 9.7c-1.3 7.2-1.9 14.7-1.9 22.3c0 38.2 16.8 72.5 43.3 96c-.2 0-.4 0-.7 0H21.3C9.6 320 0 310.4 0 298.7zM405.3 320c-.2 0-.4 0-.7 0c26.6-23.5 43.3-57.8 43.3-96c0-7.6-.7-15-1.9-22.3c13.6-6.3 28.7-9.7 44.6-9.7h42.7C592.2 192 640 239.8 640 298.7c0 11.8-9.6 21.3-21.3 21.3H405.3zM416 224c0 53-43 96-96 96s-96-43-96-96s43-96 96-96s96 43 96 96zM128 485.3C128 411.7 187.7 352 261.3 352H378.7C452.3 352 512 411.7 512 485.3c0 14.7-11.9 26.7-26.7 26.7H154.7c-14.7 0-26.7-11.9-26.7-26.7z"></path></svg> Book a Champions Cohort</h2>
+<section id="fa-users-titlethree-people-book-a-champions-cohort" class="level2">
+<h2 class="anchored" data-anchor-id="fa-users-titlethree-people-book-a-champions-cohort"><i class="fa-solid fa-users" title="Three people" aria-label="users"></i> Book a Champions Cohort</h2>
 <p>Cohorts are led remotely over 2.5 months and involve ~7 participating research groups. Please <a href="mailto:hello@openscapes.org">email us</a> if you’re interested in booking a cohort.</p>
 </section>
-<section id="sponsor-champions-cohorts-and-workshops" class="level2">
-<h2 class="anchored" data-anchor-id="sponsor-champions-cohorts-and-workshops"><svg aria-label="People carry box" role="img" viewbox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#333333;overflow:visible;position:relative;"><title>People carry box</title><path d="M176 48c0 26.5-21.5 48-48 48s-48-21.5-48-48s21.5-48 48-48s48 21.5 48 48zM144 241.7v65.1l51 51c7.1 7.1 11.8 16.2 13.4 26.1l15.2 90.9c2.9 17.4-8.9 33.9-26.3 36.8s-33.9-8.9-36.8-26.3l-14.3-85.9L66.8 320C54.8 308 48 291.7 48 274.7V186.6c0-32.4 26.2-58.6 58.6-58.6c24.1 0 46.5 12 59.9 32l47.4 71.1 10.1 5V160c0-17.7 14.3-32 32-32H384c17.7 0 32 14.3 32 32v76.2l10.1-5L473.5 160c13.3-20 35.8-32 59.9-32c32.4 0 58.6 26.2 58.6 58.6v88.1c0 17-6.7 33.3-18.7 45.3l-79.4 79.4-14.3 85.9c-2.9 17.4-19.4 29.2-36.8 26.3s-29.2-19.4-26.3-36.8l15.2-90.9c1.6-9.9 6.3-19 13.4-26.1l51-51V241.7l-19 28.5c-4.6 7-11 12.6-18.5 16.3l-59.6 29.8c-2.4 1.3-4.9 2.2-7.6 2.8c-2.6 .6-5.3 .9-7.9 .8H256.7c-2.5 .1-5-.2-7.5-.7c-2.9-.6-5.6-1.6-8.1-3l-59.5-29.8c-7.5-3.7-13.8-9.4-18.5-16.3l-19-28.5zM2.3 468.1L50.1 348.6l49.2 49.2-37.6 94c-6.6 16.4-25.2 24.4-41.6 17.8S-4.3 484.5 2.3 468.1zM512 96c-26.5 0-48-21.5-48-48s21.5-48 48-48s48 21.5 48 48s-21.5 48-48 48zm77.9 252.6l47.8 119.5c6.6 16.4-1.4 35-17.8 41.6s-35-1.4-41.6-17.8l-37.6-94 49.2-49.2z"></path></svg> Sponsor Champions Cohorts and Workshops</h2>
+<section id="fa-people-carry-box-titletwo-people-carrying-a-large-box-together-sponsor-champions-cohorts-and-workshops" class="level2">
+<h2 class="anchored" data-anchor-id="fa-people-carry-box-titletwo-people-carrying-a-large-box-together-sponsor-champions-cohorts-and-workshops"><i class="fa-solid fa-people-carry-box" title="Two people carrying a large box together" aria-label="people-carry-box"></i> Sponsor Champions Cohorts and Workshops</h2>
 <p>We are thankful for the funding support that makes Openscapes possible, and are interested in further partnerships. If you are interested in sponsoring research groups to participate in the Openscapes Champions program, please <a href="mailto:hello@openscapes.org">email us</a>.</p>
 </section>
-<section id="talk-with-your-colleagues" class="level2">
-<h2 class="anchored" data-anchor-id="talk-with-your-colleagues"><svg aria-label="Laptop Code" role="img" viewbox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#333333;overflow:visible;position:relative;"><title>Laptop Code</title><path d="M64 96c0-35.3 28.7-64 64-64H512c35.3 0 64 28.7 64 64V352H512V96H128V352H64V96zM0 403.2C0 392.6 8.6 384 19.2 384H620.8c10.6 0 19.2 8.6 19.2 19.2c0 42.4-34.4 76.8-76.8 76.8H76.8C34.4 480 0 445.6 0 403.2zM281 209l-31 31 31 31c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-48-48c-9.4-9.4-9.4-24.6 0-33.9l48-48c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9zM393 175l48 48c9.4 9.4 9.4 24.6 0 33.9l-48 48c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l31-31-31-31c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0z"></path></svg> Talk with your colleagues</h2>
+<section id="fa-laptop-code-titlean-open-laptop-computer-with-the-code-symbol-on-the-screen-talk-with-your-colleagues" class="level2">
+<h2 class="anchored" data-anchor-id="fa-laptop-code-titlean-open-laptop-computer-with-the-code-symbol-on-the-screen-talk-with-your-colleagues"><i class="fa-solid fa-laptop-code" title="An open laptop computer with the code symbol, </>, on the screen" aria-label="laptop-code"></i> Talk with your colleagues</h2>
 <p>Share your enthusiasm with others! Open data science is so powerful and empowering, we think the best way to engage others is to talk about it more. You can do this informally and in data-centric meetings (“Seaside Chats”). We hope our column <a href="https://www.nature.com/articles/d41586-019-03335-4">Supercharge your research: a ten-week plan for open data science</a> can help start and continue these conversations. And please share your experiences — <a href="https://twitter.com/openscapes">tag us</a> on Twitter, or add additional weekly activities in the column’s <a href="https://github.com/Openscapes/supercharge-research">GitHub repository</a>.</p>
 </section>
-<section id="amplify-through-media-and-events" class="level2">
-<h2 class="anchored" data-anchor-id="amplify-through-media-and-events"><svg aria-label="bullhorn" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#333333;overflow:visible;position:relative;"><title>bullhorn</title><path d="M480 32c0-12.9-7.8-24.6-19.8-29.6s-25.7-2.2-34.9 6.9L381.7 53c-48 48-113.1 75-181 75H192 160 64c-35.3 0-64 28.7-64 64v96c0 35.3 28.7 64 64 64l0 128c0 17.7 14.3 32 32 32h64c17.7 0 32-14.3 32-32V352l8.7 0c67.9 0 133 27 181 75l43.6 43.6c9.2 9.2 22.9 11.9 34.9 6.9s19.8-16.6 19.8-29.6V300.4c18.6-8.8 32-32.5 32-60.4s-13.4-51.6-32-60.4V32zm-64 76.7V240 371.3C357.2 317.8 280.5 288 200.7 288H192V192h8.7c79.8 0 156.5-29.8 215.3-83.3z"></path></svg> Amplify through media and events</h2>
+<section id="fa-bullhorn-titlea-bullhorn-amplify-through-media-and-events" class="level2">
+<h2 class="anchored" data-anchor-id="fa-bullhorn-titlea-bullhorn-amplify-through-media-and-events"><i class="fa-solid fa-bullhorn" title="A bullhorn" aria-label="bullhorn"></i> Amplify through media and events</h2>
 <p>In your next presentations and publications, include a slide or sentence about open data science — what you have done and/or why it’s important. You’re welcome to use/remix slides from our <a href="./media.html">presentations</a>.</p>
 <p>As you plan department seminar series, conferences, or webinar series, consider inviting Openscapes or others from the open data science community as a speaker!</p>
 </section>
-<section id="email-us-with-your-ideas" class="level2">
-<h2 class="anchored" data-anchor-id="email-us-with-your-ideas"><svg aria-label="Lightbulb" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#333333;overflow:visible;position:relative;"><title>Lightbulb</title><path d="M112.1 454.3c0 6.297 1.816 12.44 5.284 17.69l17.14 25.69c5.25 7.875 17.17 14.28 26.64 14.28h61.67c9.438 0 21.36-6.401 26.61-14.28l17.08-25.68c2.938-4.438 5.348-12.37 5.348-17.7L272 415.1h-160L112.1 454.3zM192 0C90.02 .3203 16 82.97 16 175.1c0 44.38 16.44 84.84 43.56 115.8c16.53 18.84 42.34 58.23 52.22 91.45c.0313 .25 .0938 .5166 .125 .7823h160.2c.0313-.2656 .0938-.5166 .125-.7823c9.875-33.22 35.69-72.61 52.22-91.45C351.6 260.8 368 220.4 368 175.1C368 78.8 289.2 .0039 192 0zM288.4 260.1c-15.66 17.85-35.04 46.3-49.05 75.89h-94.61c-14.01-29.59-33.39-58.04-49.04-75.88C75.24 236.8 64 206.1 64 175.1C64 113.3 112.1 48.25 191.1 48C262.6 48 320 105.4 320 175.1C320 206.1 308.8 236.8 288.4 260.1zM176 80C131.9 80 96 115.9 96 160c0 8.844 7.156 16 16 16S128 168.8 128 160c0-26.47 21.53-48 48-48c8.844 0 16-7.148 16-15.99S184.8 80 176 80z"></path></svg> Email us with your ideas</h2>
+<section id="fa-lightbulb-titlea-lightbulb-email-us-with-your-ideas" class="level2">
+<h2 class="anchored" data-anchor-id="fa-lightbulb-titlea-lightbulb-email-us-with-your-ideas"><i class="fa-solid fa-lightbulb" title="A lightbulb" aria-label="lightbulb"></i> Email us with your ideas</h2>
 <p>There are more awesome ways to get involved with Openscapes and open data science than we have written above — please <a href="mailto:hello@openscapes.org">email us</a> with your ideas for getting involved!</p>
 </section>
 </div>
@@ -261,9 +264,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -328,6 +345,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -371,6 +474,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">Openscapes is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attributions 4.0 International License</a></div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
     <div class="nav-footer-right">This website is built with ❤️ and <a href="https://quarto.org/">Quarto</a></div>
   </div>
 </footer>

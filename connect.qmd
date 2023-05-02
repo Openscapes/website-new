@@ -4,7 +4,6 @@ title: ""
 
 ::: column-screen
 ![](images/banner_imgs/horst_openscapes_mountains_1500px.png)
-
 <br>
 
 ::: white-div
@@ -18,7 +17,7 @@ title: ""
 
 <br>
 
-## `r fontawesome::fa("pencil", fill = "#333333", a11y = "sem")` Check out our current projects
+## {{< fa pencil title="A pencil" >}} Check out our current projects
 
 -   [NASA Openscapes Framework](https://nasa-openscapes.github.io/) --- We support researchers using NASA Earthdata served from the Distributed Active Archive Centers (DAACs) as they migrate workflows to the cloud
 
@@ -28,37 +27,37 @@ title: ""
 
 We are excited to grow the Openscapes community and open data science communities more broadly. Here are several avenues to get involved, and please [email us](mailto:hello@openscapes.org) with more ideas.
 
-## `r fontawesome::fa("twitter", fill = "#333333", a11y = "sem")` Follow us on Twitter @openscapes
+## {{< fa twitter title="The Twitter logo, a bird" >}} Follow us on Twitter @openscapes
 
 We are [\@openscapes](https://twitter.com/openscapes) on Twitter. We tweet about Openscapes news and events, amplify Openscapes Champions, and sporadically retweet other awesome things going on around environmental open data science. Tag us in your tweets about your open data science wins and challenges and we'll retweet!
 
-## `r fontawesome::fa("envelope", fill = "#333333", a11y = "sem")` Join our mailing list
+## {{< fa envelope title="An envelope" >}} Join our mailing list
 
 Sign up for our [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) to receive infrequent emails from Openscapes so you can be aware of opportunities to participate in and amplify Openscapes efforts as they unfold.
 
-## `r fontawesome::fa("chalkboard-user", fill = "#333333", a11y = "sem")` Join an upcoming event
+## {{< fa chalkboard-user title="A person in front of a chalkboard" >}} Join an upcoming event
 
 Please see our [events page](events.qmd) for **Openscapes Community Calls, conference talks and seminars/webinars**, and opportunities through the **Champions Program**.
 
-## `r fontawesome::fa("users", fill = "#333333", a11y = "sem")` Book a Champions Cohort
+## {{< fa users title="Three people" >}} Book a Champions Cohort
 
 Cohorts are led remotely over 2.5 months and involve \~7 participating research groups. Please [email us](mailto:hello@openscapes.org) if you're interested in booking a cohort.
 
-## `r fontawesome::fa("people-carry-box", fill = "#333333", a11y = "sem")` Sponsor Champions Cohorts and Workshops
+## {{< fa people-carry-box title="Two people carrying a large box together" >}} Sponsor Champions Cohorts and Workshops
 
 We are thankful for the funding support that makes Openscapes possible, and are interested in further partnerships. If you are interested in sponsoring research groups to participate in the Openscapes Champions program, please [email us](mailto:hello@openscapes.org).
 
-## `r fontawesome::fa("laptop-code", fill = "#333333", a11y = "sem")` Talk with your colleagues
+## {{< fa laptop-code title="An open laptop computer with the code symbol, </>, on the screen" >}} Talk with your colleagues
 
 Share your enthusiasm with others! Open data science is so powerful and empowering, we think the best way to engage others is to talk about it more. You can do this informally and in data-centric meetings ("Seaside Chats"). We hope our column [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4) can help start and continue these conversations. And please share your experiences --- [tag us](https://twitter.com/openscapes) on Twitter, or add additional weekly activities in the column's [GitHub repository](https://github.com/Openscapes/supercharge-research).
 
-## `r fontawesome::fa("bullhorn", fill = "#333333", a11y = "sem")` Amplify through media and events
+## {{< fa bullhorn title="A bullhorn" >}} Amplify through media and events
 
 In your next presentations and publications, include a slide or sentence about open data science --- what you have done and/or why it's important. You're welcome to use/remix slides from our [presentations](media.qmd).
 
 As you plan department seminar series, conferences, or webinar series, consider inviting Openscapes or others from the open data science community as a speaker!
 
-## `r fontawesome::fa("lightbulb", fill = "#333333", a11y = "sem")` Email us with your ideas
+## {{< fa lightbulb title="A lightbulb" >}} Email us with your ideas
 
 There are more awesome ways to get involved with Openscapes and open data science than we have written above --- please [email us](mailto:hello@openscapes.org) with your ideas for getting involved!
 :::

@@ -39,8 +39,9 @@ listing:
 ::: {.grid}
 
 ::: {.g-col-4}
-::: {.large-body-text}
-`r fontawesome::fa("users", fill = "#38A7BB", a11y = "sem")` 
+::: {.large-body-text .blue-text}
+{{< fa users title="Three people" >}}
+<!-- `r fontawesome::fa("users", fill = "#38A7BB", a11y = "sem")`  -->
 :::
 ::: {.blue-text .medium-body-text}
 **ENGAGE**
@@ -51,8 +52,9 @@ listing:
 :::
 
 ::: {.g-col-4}
-::: {.large-body-text}
-`r fontawesome::fa("lightbulb", fill = "#38A7BB", a11y = "sem")` 
+::: {.large-body-text .blue-text}
+{{< fa lightbulb title="A lightbult" >}}
+<!-- `r fontawesome::fa("lightbulb", fill = "#38A7BB", a11y = "sem")`  -->
 :::
 ::: {.blue-text .medium-body-text}
 **EMPOWER**
@@ -63,8 +65,9 @@ listing:
 :::
 
 ::: {.g-col-4}
-::: {.large-body-text}
-`r fontawesome::fa("earth-americas", fill = "#38A7BB", a11y = "sem")` 
+::: {.large-body-text .blue-text}
+{{< fa earth-americas title="Planet earth" >}}
+<!-- `r fontawesome::fa("earth-americas", fill = "#38A7BB", a11y = "sem")`  -->
 :::
 ::: {.blue-text .medium-body-text}
 **AMPLIFY**

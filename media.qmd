@@ -27,23 +27,27 @@ title: ""
 
 ## MEDIA
 
--  [Openscapes: Using “The Force” of Open Science in the Cloud](https://earthdata.nasa.gov/learn/openscapes) — Emily Cassidy. March 24, 2021. NASA Earth Data.
+- [Using the NASA Openscapes Framework to enable open science](https://nsidc.org/news-analyses/news-stories/using-nasa-openscapes-framework-enable-open-science) - Audrey Payne. March 16, 2023. *NASA's National Snow and Ice Data Center*
 
--  [Openscapes embraces kindness and inclusion of open science](https://sparcopen.org/impact-story/openscapes-embraces-kindness-and-inclusion-of-open-science/) — January 26, 2021. SPARC Impact Stories.
+- [Open Science, Openscapes, Climate Action, and Kindness](https://open.spotify.com/episode/5VxMtPXeV6geWlFOoQf5j7) — Schalk Neethling. March 8, 2023. *Mechanical Ink Podcast*
 
--  [Using Git to Drive Better Science with Dr. Julie Lowndes](https://podcasts.apple.com/us/podcast/9-using-git-to-drive-better-science-with-dr-julie-lowndes/id1506653409?i=1000491609299) — Kate Wing. September 17, 2020. Intertidal Podcast.
+-  [Openscapes: Using “The Force” of Open Science in the Cloud](https://earthdata.nasa.gov/learn/openscapes) — Emily Cassidy. March 24, 2021. *NASA Earth Data*.
 
--  [Tech tools to make research more open and inclusive](https://www.nature.com/articles/d41586-020-00216-z) — Kendall Powell. February 3, 2020. Nature.
+-  [Openscapes embraces kindness and inclusion of open science](https://sparcopen.org/impact-story/openscapes-embraces-kindness-and-inclusion-of-open-science/) — January 26, 2021. *SPARC Impact Stories*.
 
--  The coupling of innovation and open data science tools for science has been fascinating to me and hard to tease apart: An interview with Dr Julia Stewart Lowndes — Alison Oliver. January 29, 2020. Statistics Views.
+-  [Using Git to Drive Better Science with Dr. Julie Lowndes](https://podcasts.apple.com/us/podcast/9-using-git-to-drive-better-science-with-dr-julie-lowndes/id1506653409?i=1000491609299) — Kate Wing. September 17, 2020. *Intertidal Podcast*.
 
--  [Open Science and ‘Star Wars’](https://medium.com/read-write-participate/open-science-and-star-wars-2577b8081e8f) - Mozilla. July 11, 2019. Medium.
+-  [Tech tools to make research more open and inclusive](https://www.nature.com/articles/d41586-020-00216-z) — Kendall Powell. February 3, 2020. *Nature*.
 
--  [A Rising Tide: Funding Ocean Science](https://sciencephilanthropyalliance.org/a-rising-tide-funding-ocean-science-alliance-blog-post/) — Science Philanthropy Alliance. April 1, 2019. Alliance blog post.
+-  The coupling of innovation and open data science tools for science has been fascinating to me and hard to tease apart: An interview with Dr Julia Stewart Lowndes — Alison Oliver. January 29, 2020. *Statistics Views*.
 
--  [Julie Lowndes Wants the Force of Open Data Science to Be with You](https://www.nceas.ucsb.edu/news/nceas-portrait-julie-lowndes) — NCEAS. March 12, 2019. NCEAS Portrait.
+-  [Open Science and ‘Star Wars’](https://medium.com/read-write-participate/open-science-and-star-wars-2577b8081e8f) - Mozilla. July 11, 2019. *Medium*.
 
--  [Announcing Openscapes: Open Science is Better Science](https://medium.com/read-write-participate/announcing-openscapes-open-science-is-better-science-debe520d3de5) - Mozilla. January 29, 2019. Medium.
+-  [A Rising Tide: Funding Ocean Science](https://sciencephilanthropyalliance.org/a-rising-tide-funding-ocean-science-alliance-blog-post/) — Science Philanthropy Alliance. April 1, 2019. *Alliance blog post*.
+
+-  [Julie Lowndes Wants the Force of Open Data Science to Be with You](https://www.nceas.ucsb.edu/news/nceas-portrait-julie-lowndes) — NCEAS. March 12, 2019. *NCEAS Portrait*.
+
+-  [Announcing Openscapes: Open Science is Better Science](https://medium.com/read-write-participate/announcing-openscapes-open-science-is-better-science-debe520d3de5) - Mozilla. January 29, 2019. *Medium*.
 
 ## LESSONS
 
@@ -60,6 +64,13 @@ title: ""
 ## PRESENTATIONS
 
 *See [NASA-Openscapes](https://nasa-openscapes.github.io/) and [NMFS-Openscapes](https://nmfs-openscapes.github.io/) for many additional presentations from NASA and NOAA Fisheries Mentors!*
+
+- [Openscapes: supporting kinder science for future us](https://docs.google.com/presentation/d/1WzNaQWVBTLSq4IX0GkvGlQWbDJ4isVpSvGnjb_rdEKU/edit?usp=sharing) - March 31, 2023 — Julie Lowndes, Ileana Fenwick. [Univ. Toronto Mississauga Biology Seminar Series](https://www.utm.utoronto.ca/biology/biology-seminar-series) (45 minutes)
+
+- [Communicating Impact: NASA Openscapes](https://docs.google.com/presentation/d/14iEGfbipt5HBlVyyf3kvjyxas4lBoRlbT8u8iFr2VNw/edit?usp=sharing) - March 22, 2023 - Julie Lowndes, Erin Robinson, Justin Rice. NASA ESDSWG Meeting, Baltimore, Maryland (15 minutes)
+
+
+- [Openscapes: supporting kinder science for future us](https://docs.google.com/presentation/d/1CkhsAB9SZrfa5ARvm7b0B48xlPWuOHioqlsa5jqD92A/edit?usp=sharing) - March 8, 2023 - Julie Lowndes. [Women in Data Science Conference](https://www.widsconference.org/), Stanford University ([video](https://www.youtube.com/watch?v=08siJkRUnQM&list=PLHAk3jHXWpxKGSFHyOu9pnSOP9AInU_O2&index=16)) (15 minutes); ([panel discussion](https://www.youtube.com/watch?v=AwBV2d0Au-o&list=PLHAk3jHXWpxKGSFHyOu9pnSOP9AInU_O2&index=17))
 
 -  [Openscapes: supporting better science for future us](https://docs.google.com/presentation/d/1uKtVnZR8X94tADAWEE1THHKCbvfBbg2PBcH8asaoJQQ/edit) - January 11, 2023 - Julie Lowndes. [Best Practices for HPC Software Developers Webinar Series](https://www.exascaleproject.org/event/openscapes/) hosted by The IDEAS Productivity project, in partnership with the Department of Energy Computing Facilities of the ALCF, OLCF, and NERSC, and the DOE Exascale Computing Project (ECP). This talk is part of Lowndes’ 2022 [NSF Better Scientific Software (BSSw) fellowship](https://bssw.io/pages/meet-our-fellows) ([video](https://www.youtube.com/watch?v=unjQxQPfnqM))
 

@@ -1,0 +1,20 @@
+---
+title: ""
+---
+
+::: column-screen
+![](images/banner_imgs/horst_openscapes_desert_breadcrumbs.png)
+
+<br>
+
+::: white-div
+
+::: {.medium-body-text .center-text}
+**some larger text about the pathways to open science program**
+:::
+
+~ some text ~
+
+:::
+
+:::

@@ -24,8 +24,14 @@ website:
             href: code_of_conduct.qmd
       - text: "INITIATIVES"
         menu:
+         - text: "REFLECTIONS PROGRAM"
+           href: reflections_program.qmd
+         - text: "PATHWAYS TO OPEN SCIENCE PROGRAM"
+           href: pathways_to_open_science_program.qmd
          - text: "CHAMPIONS PROGRAM"
            href: champions_program.qmd
+         - text: "MENTORS FRAMEWORK"
+           href: mentors_framework.qmd
       - text: "BLOG"
         href: blog.qmd
       - text: "GET INVOLVED"

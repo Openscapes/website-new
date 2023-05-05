@@ -14,7 +14,7 @@ title-block-banner-color: "#FFFFFF"
 license: "CC BY"
 
 # Default for table of contents
-toc: true
+toc: false 
 toc-title: Table of contents
 toc-location: left
 

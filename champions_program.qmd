@@ -1,16 +1,17 @@
 ---
 title: ""
+# title-block-banner: images/banner_imgs/horst_openscapes_desert_breadcrumbs.png 
 ---
 
 ::: column-screen
-![](images/banner_imgs/horst_openscapes_desert_breadcrumbs.png)
+![](images/banner_imgs/text_banners/champions_program_banner.png)
 
 <br>
 
 ::: white-div
 
 ::: {.medium-body-text .center-text}
-**Openscapes Champions is an open data science mentorship program for science teams.**
+Openscapes Champions is an open data science mentorship program for science teams.
 :::
 
 We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skill-sets and mindsets for modern data-intensive science. Learn these Champions' stories through our [blog](blog.qmd), [media](media.qmd), as well as steps for you to [supercharge your research](https://www.nature.com/articles/d41586-019-03335-4).

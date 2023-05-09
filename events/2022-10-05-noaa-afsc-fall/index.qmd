@@ -6,8 +6,8 @@ author:
     url: {}
 date: 2022-10-05
 categories:
-  - Champions Cohort
-  - NOAA Fisheries
+  - champions
+  - noaa-fisheries
 image: NOAA_logo.png
 bibliography: references.bib
 csl: nature.csl

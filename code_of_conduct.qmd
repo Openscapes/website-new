@@ -2,7 +2,7 @@
 title: ""
 ---
 ::: column-screen
-![](images/banner_imgs/horst_openscapes_desert_breadcrumbs.png)
+![](images/banner_imgs/text_banners/CoC_banner.png)
 
 ::: white-div
 ## Code of Conduct

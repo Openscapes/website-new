@@ -5,7 +5,7 @@ author:
   - name: Openscapes and CSU COAST
 date: 2021-05-07
 categories:
-  - Champions Cohort
+  - champions
 image: "COAST-white.png"  
 ---
 

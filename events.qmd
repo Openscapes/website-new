@@ -8,6 +8,6 @@ listing:
   date-format: medium
   categories: numbered
 page-layout: full
-title-block-banner: images/banner_imgs/horst_openscapes_desert_1500px.png 
+title-block-banner: images/banner_imgs/horst_openscapes_desert_breadcrumbs.png 
 --- 
 

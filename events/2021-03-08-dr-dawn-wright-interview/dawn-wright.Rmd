@@ -6,7 +6,7 @@ author:
   - name: Mozilla and Openscapes
 date: 2021-03-08
 categories:
-  - community call
+  - community
 image: "dr-dawn-wright.jpg"
 ---
 

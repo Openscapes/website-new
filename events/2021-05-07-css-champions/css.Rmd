@@ -5,7 +5,7 @@ author:
   - name: "Openscapes and CS&S"
 date: 2021-05-07
 categories:
-  - Champions Cohort
+  - champions
 image: "css-white.png"   
 ---
 

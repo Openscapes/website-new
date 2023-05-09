@@ -6,7 +6,7 @@ author:
   - name: Openscapes
 date: 2021-05-25
 categories:
-  - community call
+  - community
 image: "tara-robertson.png"
 ---
 

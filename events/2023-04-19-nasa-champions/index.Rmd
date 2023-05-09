@@ -7,8 +7,8 @@ author:
     url: {}
 date: 2023-04-19
 categories:
-  - Champions Cohort
-  - NASA Openscapes Framework
+  - champions
+  - nasa-openscapes
 image: "nasa-openscapes.png"   
 ---
 

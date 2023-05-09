@@ -11,7 +11,7 @@ listing:
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: images/banner_imgs/horst_openscapes_desert_1500px.png 
+title-block-banner: images/banner_imgs/horst_openscapes_desert_breadcrumbs.png 
 ---
 
 <!-- SC NOTE: adding banner image below hides categories, but also renders banner full-size (unlike than `title-block-banner) -->

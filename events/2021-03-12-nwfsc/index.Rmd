@@ -7,8 +7,8 @@ author:
     url: {}
 date: 2021-03-12
 categories:
-  - Champions Cohort
-  - NOAA Fisheries
+  - champions
+  - noaa-fisheries
 image: "NOAA_logo.png"
 ---
 

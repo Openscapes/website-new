@@ -6,7 +6,7 @@ author:
     url: {}
 date: 2023-02-15
 categories:
-  - Champions Cohort
+  - champions
 image: openscapes_hex.png
 bibliography: references.bib
 csl: nature.csl

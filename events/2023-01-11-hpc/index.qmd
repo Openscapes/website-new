@@ -5,7 +5,7 @@ description: |
 date: "2023-01-11"
 author: Openscapes
 categories: 
-  - community talk
+  - community
 image: "ecp-logo.png"
 ---
 

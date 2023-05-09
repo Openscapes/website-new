@@ -8,7 +8,7 @@ author:
 date: 2021-12-12
 categories: 
   - workshop
-  - NASA Openscapes Framework
+  - nasa-openscapes
 image: "../2021-12-17-agu-open-science-in-action/agu.png"
 ---
 

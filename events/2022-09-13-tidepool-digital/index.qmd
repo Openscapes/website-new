@@ -3,7 +3,8 @@ title: "Tidepool Digital Data Sharing Studio"
 description: |
   Building skills and community for ocean data governance and the Blue Economy
 date: "2022-09-13"
-categories: [mentorship opportunity]
+categories: 
+  - mentorship
 author: "Openscapes and Tidepool Digital"
 image: "Tidepool_PrimaryLogo_Color+copy.png"
 ---

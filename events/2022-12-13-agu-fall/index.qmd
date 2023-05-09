@@ -8,7 +8,7 @@ author:
 date: 2022-12-13
 categories: 
   - conference
-  - NASA Openscapes Framework
+  - nasa-openscapes
 image: "agu-fall-2022.png"
 ---
 

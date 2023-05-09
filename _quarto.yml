@@ -5,7 +5,7 @@ website:
   favicon: images/favicon/favicon_fullres.png
   navbar:
     title: false
-    logo: images/logo/logo.png
+    logo: images/logo/openscapes_hex_badge.png # was logo.png
     logo-alt: "The Openscapes logo -- orange text that reads 'openscapes' sitting above small berry 'data points'"
     right:
       - text: "HOME"
@@ -24,12 +24,12 @@ website:
             href: code_of_conduct.qmd
       - text: "INITIATIVES"
         menu:
+         - text: "CHAMPIONS PROGRAM"
+           href: champions_program.qmd
          - text: "REFLECTIONS PROGRAM"
            href: reflections_program.qmd
          - text: "PATHWAYS TO OPEN SCIENCE PROGRAM"
            href: pathways_to_open_science_program.qmd
-         - text: "CHAMPIONS PROGRAM"
-           href: champions_program.qmd
          - text: "MENTORS FRAMEWORK"
            href: mentors_framework.qmd
       - text: "BLOG"

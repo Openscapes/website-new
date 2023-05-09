@@ -3,7 +3,8 @@ title: "Pathways to Open Science with HBCU Research Teams"
 description: |
   Convening Black environmental and marine researchers to build community for the future of data intensive science
 date: "2023-01-26"
-categories: [mentorship opportunity]
+categories: 
+  - mentorship
 author: "Openscapes"
 image: "openscapes-bims-bweems.png"
 ---

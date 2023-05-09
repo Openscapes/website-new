@@ -7,7 +7,7 @@ description: |
 #    url: {}
 date: "2022-12-01"
 categories: 
-  - community call
+  - community
 image: monica-granados.png  
 ---
 

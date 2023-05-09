@@ -7,7 +7,7 @@ description: |
 #    url: {}
 date: "2022-04-08"
 categories: 
-  - community call
+  - community
 image: duckles.jpg  
 ---
 

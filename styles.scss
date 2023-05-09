@@ -180,9 +180,9 @@ blockquote p { // align blockquotes
 
 // openscapes logo size/position (navbar top left); see https://github.com/robertmitchellv/robertmitchellv.github.io/blob/main/custom-dark.scss
 .navbar-brand img { 
-  max-height: 200px;
+  max-height: 70px; // was 200px when using logo.png
   width: auto;
-  padding-left: 50px;
+  padding-left: 20px;
 }
 
 .card { // blog listing card color on landing page

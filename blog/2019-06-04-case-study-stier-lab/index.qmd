@@ -1,0 +1,68 @@
+---
+title: "Champions Case Study: Stier Lab"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Stier Lab
+date: 2019-06-04
+slug: stier-lab
+categories:
+  - community
+  - champions
+  # - impact
+  - case-study  
+image: ../../img/blog/stier-lab.jpg
+---
+
+# Champions Case Study: Stier Lab 
+
+*We have just concluded our inaugural cohort of Openscapes Champions. While sad to conclude, all Champion labs have so many exciting accomplishments and so much momentum for open data science, and it is truly just the beginning. Here we are posting individual case studies of accomplishments from Champions labs.*
+
+---
+
+[**The Stier Lab**](https://www.oceanrecoveries.com/) at the University of California at Santa Barbara studies the resilience of harvested ocean ecosystems, with a lab culture built on the values of trust, providing and receiving critical feedback from each other, and realizing that everyone has a unique perspective and brings valuable insights to the table. Participating in Openscapes is [Professor Adrian Stier](https://www.oceanrecoveries.com/people) and PhD students [Lily Zhao](https://github.com/lilyzzhao) and [Bart Difiore](https://github.com/bartdifiore).
+
+- Adrian: Openscapes was nebulous at first to me, I’d heard about lots of the tools and concepts we’ve covered, but I never had a chance to implement a lot of them. Openscapes has been a critical opportunity to establish a workflow for my lab integrating code, writing, presentations, and communication. We now work hard to integrate all of our files into one place (Google Drive) and to produce reproducible code that is carefully annotated and easily read for each of our given projects. 
+
+- Lily: When I first heard about Openscapes and Julie’s work as Mozilla fellow I was excited to have the opportunity through the lab to join the inaugural cohort! I expected to be learning GitHub and open-data science tips but what I hadn’t expected was the ability to engage across lab groups around the country in a dialogue about the philosophy behind open data science  and how to promote it on multiple scales.  
+
+- Bart: Before joining Openscapes, my impression was that open data science was little more than providing data accessibility upon publication. Julie and the inaugural openscapes cohort offering me a much deeper understanding of the open science philosophy, and the Openscapes discussions led to a complete renovation of our lab data policies. What I think was so valuable is that now I not only feel as though our research has become more accessible for others, the efficiency of how I do day-to-day tasks and collaborations has dramatically improved.
+
+
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/stier-lab.jpg" width="350px"></a>
+  <figcaption> Beach lab meeting, via @oceanrecoveries </figcaption>
+</center>
+
+<br>
+
+The [Stier Lab Case Study](https://docs.google.com/document/d/1kkt-89lsFCv_d1oeKrYwcZamPa1w53H1NexfUi4a2q8/edit#) shares our accomplishments for increasing access among our lab group by migrating our daily workflows through a shared Google Drive. By sharing our files with each other regardless of the stage of work required having open conversations with each other about trust, humility, and the philosophy behind this type of openness within the lab group. As a preview: 
+
+> "I learned that brute force and more hours doesn’t make better science. Rather, taking the time to come up with a plan and adjust workflows can save countless hours in the long run and dramatically improve the reproducibility -- and therefore the credibility -- of our work." - Bart Difiore 
+
+Our key accomplishments are: 
+
+- Establish Google Drive to share files, presentations, data, documentation
+- Constructed [Github Organization for the lab](https://github.com/stier-lab)
+- Streamlined Slack as a communication tool
+- Use Trello for lab management 
+- Integrate notes for meeting minutes through Google Docs
+- Engage in open data science and #rstats Twitter community
+
+<br>
+
+Congratulations Adrian, Lily, Bart, and the rest of the Stier Lab! 
+
+<br>
+
+---
+
+Relevant posts: 
+
+- [Openscapes Champions incorporate open practices in their science](https://www.openscapes.org/blog/2019/03/27/champions-incorporate-open-science/)
+- [Openscapes summit reflections — becoming champions](https://www.openscapes.org/blog/2019/04/08/summit-reflections1/)
+- [Openscapes summit reflections 2 — Changing the way we do science](https://www.openscapes.org/blog/2019/04/25/summit-reflections2/)
+
+<br>
+

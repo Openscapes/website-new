@@ -1,0 +1,41 @@
+---
+title: "Openscapes Champions Program: Fall 2021 Updates"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Julie Lowndes, Erin Robinson
+date: 2021-11-03
+slug: champions-fall-2021
+categories:
+  - champions
+  # - impact
+  - noaa-fisheries
+  - newsletter
+image: ../../img/blog/mr-lowndesDSCF1746-square.jpg
+---
+
+_This Fall we have been leading three Champions Cohorts, with Fisheries Dependent Data Users ([FDD](https://openscapes.github.io/2021-fdd)), NOAA’s National Marine Fishery Service ([NMFS](https://openscapes.github.io/2021-noaa-nmfs/)), and the Gordon and Betty Moore Foundation’s Symbiosis in Aquatic Systems Initiative ([SASI](https://openscapes.github.io/2021-sasi)). We’ll share separate blog posts about each Cohort; here we wanted to focus on how we have been iterating the Champions program._
+
+---
+
+The [Openscapes Champions Program](https://openscapes.org/champions) is a leadership and professional development program modeled after [Mozilla Open Leaders](https://mozilla.github.io/open-leadership-training-series/), focused on research teams, with original curriculum modeled from open data science lessons learned from the Ocean Health Index. We led 1 Champions Cohort in both 2019 and 2020; in 2021 we’ve led 6 Cohorts, learning and iterating each time. This Spring we introduced the 2-month series with [NWFSC](https://openscapes.org/blog/2021/05/03/noaa-nwfsc-champions/), [CS&S](https://openscapes.org/blog/2021/07/08/csu-coast-cohort/), and [CSU COAST](https://openscapes.org/blog/2021/07/13/css-cohort/) Cohorts, [working with Tara Robertson](https://openscapes.org/blog/2021/05/27/tara-robertson/) to improve our practices around diversity, equity, and inclusion, and followed up with 3-month check-ins where Champions shared and screenshared about their efforts for shared project management and onboarding new group members. 
+
+Over the Summer we invested what we had learned from Spring cohorts back into the Champions program to [prepare for the 3 Fall cohorts](https://www.openscapes.org/blog/2021/09/15/better-science-for-future-us/). The updates to Fall Champions Cohorts include: 
+
+**Cohort GitHub repos** - we created a GitHub repository and website for each cohort in advance (_[FDD](https://openscapes.github.io/2021-fdd), [NMFS](https://openscapes.github.io/2021-noaa-nmfs/), and [SASI](https://openscapes.github.io/2021-sasi)_), to serve several purposes. It was a place to post information about the cohort: times we meet and teams involved, and to showcase how to make a website from a GitHub repository. It also provided a place for Champions to work during the GitHub Clinics (which previously had been in temporary repos), and give a continued space to practice Markdown, Issues, and Projects after the clinics. We also posted summary digest following each call using Issues instead of email.
+
+**GitHub Clinics** - Teaching our GitHub Clinic as one of four cohort calls in the 2-month Cohorts felt tight in the Spring, so this fall we experimented having these Clinics as a fifth, optional, stand-alone call. We recorded it for folks that couldn’t make the additional times, and it seemed to still be impactful for participants – GitHub for project management was a big theme for the NMFS and FDD cohorts. 
+
+**Guest teachers** - We invited guest teachers to share their expertise with the Cohorts, either by presenting existing curriculum or sharing something from their work within the existing themes in the Champions curriculum. This was a way to include community members, hear different stories and examples, and tailor the curriculum for different cohorts depending on the expertise of the guest teacher. 
+
+**Slack** - We invited Fall Champions teams to Openscapes Slack after our first cohort call, providing each cohort with a private channel. This aligns with our approach that open science is a spectrum, and working openly with yourself, your team, and your cohort helps you build habits and confidence so you can work more openly with others when you’re ready. Fall Champions are able to interact within their private cohort channel as well as community channels to check-in between calls and share questions and resources.
+
+**Co-working** - Something we do within our team that we’ve introduced this Fall are [co-working sessions](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/) where we work at the same time together via Zoom. This is different from office hours but a chance for Champions to come together and work on something with low-key accountability and community, and to talk things out and ask questions. Sometimes, this means quiet work with check-ins to break up focused work and get feedback, and sometimes this involves screensharing to problem solve.
+
+**Onboarding Mentors** - We’ve had a lot of help leading the Fall Cohorts, and are so grateful to partner mentors co-leading and assisting. We began working with and onboarding these mentors over the summer while also beginning writing the [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/) to help document our process. We will have further blog posts about what we all learned and did together and are so grateful to Eli Holmes (NWFSC) and Corey Clatterbuck (California Water Boards) with the NMFS cohort, Anna Holder (California Water Boards) and Rachel Baum (UMassD Claire T. Carney Library) with the FDD cohort, and Lenny Teytelman (protocols.io) and Emma Ganley (protocols.io) with the SASI cohort!
+
+It’s always great to see what topics resonate with different teams, and how they focus efforts in the interplay of software and culture; for example by using GitHub Projects as a way to strengthen collaborations between colleagues who are and aren’t yet coders, and provide a way to onboard folks if they’d like to learn more. Stay tuned for blogs sharing more details about the Fall Cohorts, and we’ll be iterating further in 2022, building from what works and experimenting further!
+
+
+<br>
+  <a> <img src="/img/blog/mr-lowndesDSCF1746.jpg" width="500px"></a>
+  <figcaption>Photo by Elliot Lowndes</figcaption>
+<br>

@@ -1,0 +1,141 @@
+---
+title: "Openscapes Champions incorporate open practices in their science"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Julie Lowndes
+date: 2019-03-27
+slug: introducing-openscapes
+categories:
+  - community
+  - champions
+  - medium.com
+  # - impact
+image: ../../img/blog/mrlowndes20131007-131005-7311_520x480.jpg
+---
+
+# Openscapes Champions incorporate open practices in their science
+
+***This article was originally published on [medium.com](https://medium.com/read-write-participate/openscapes-champions-incorporate-open-practices-in-their-science-7eefa07b8573)***  
+
+*We are halfway through the [Openscapes](https://openscapes.org/) Champions program, which mentors scientists and empowers them and their labs with data science and open practices and helps grow the community of practice within the lab and beyond. This week we are meeting for a [summit](https://openscapes.github.io/summit2019/) supported by my [Mozilla](https://www.mozilla.org/en-US/) Fellowship and hosted at the National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) to strengthen relationships, share lessons learned, problem solve, and ignite new collaborations. This is a closer look at the the work of these inspiring scientists.*
+
+----
+<center>
+  <a>
+    <img src="/img/blog/mrlowndes20131007-131005-7311.jpg" width="400px">
+  </a>
+</center>
+
+<br>
+
+At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster. Through the Champions Program, we do this by mentoring scientists and empowering them with open data science so that they can do better science in less time and champion these practices in their communities. This means working directly with scientists on the ground and in the lab to understand their challenges and help them find solutions to their data workflows and create real change and work within their already packed schedules.
+
+Although environmental research is based on collecting, combining, analyzing complex data from multiple sources, most environmental scientists have not had formal computing and data training. Through Openscapes, Champions are learning alongside their lab members how to incorporate data science and open practices into their work, enabling their lab members, and taking their research to new heights.
+
+Our inaugural cohort of Champions are early career environmental scientists leading critically important research programs and dedicated to teaching the next generation of scientists.
+
+**The scientists we work with are at the heart of Openscapes: these are people dedicating their lives to helping find solutions to some of the most complex and ever-changing environmental challenges we face as a society.** We are so thrilled to have them a part of Openscapes and wanted to share with you about them and celebrate their achievements. Here is a brief introduction to each of them, with a specific focus on their recent work since they began the Openscapes program. All labs have been working on Codes of Conduct and having internal “[Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/)” to discuss shared data workflows in the lab.
+
+<br>
+
+<center>
+  <a href="https://halleyfroehlich.wordpress.com/">
+    <img src="/img/blog/champions-cohort1/Halley.jpg" width="400px">
+  </a>
+</center>
+
+**[Halley Froehlich, PhD](https://halleyfroehlich.wordpress.com/) is a marine aquaculture & fisheries scientist studying [global food systems and climate change](https://www.nature.com/articles/s41559-018-0669-1). She inspires and empowers audiences of all kinds, including through Netflix’s [Bill Nye saves the world](https://twitter.com/docfroehlich/status/994951553118228481?lang=en).**
+
+As an incoming Assistant Professor at the University of California, Santa Barbara, being part of Openscapes has helped Dr. Froehlich think ahead for systems she wants in place as she builds her new lab. She is designing the physical laboratory space to be open to foster conversation and collaboration, including server setups to store local to global data and lab onboarding to streamline better research practices.
+
+While participating in Openscapes, she has co-authored three publications on marine aquaculture and fisheries ([see full list](https://halleyfroehlich.wordpress.com/about/)) and met with California legislators to discuss science, climate change, and aquaculture. She was a Keynote Speaker at the Fish Free Feed (F3) conference in February and has been invited to be the Keynote Speaker at the Pacific Coast Shellfish and National Shellfish Association Conference in September. She has also been featured in [Women in Science Portrait Exhibit](https://sbseasons.com/2019/02/women-in-science-photo-exhibition-at-moxi/) at the Santa Barbara MOXI museum and been interviewed twice on the Aquademia Podcast ([Earth’s Got Issues](https://the-aquademia-podcast.simplecast.com/episodes/earth-s-got-issues-aWn1elvz) and [Seafood and Global Climate Change](https://the-aquademia-podcast.simplecast.com/episodes/seafood-and-global-climate-change-M8c4M8kN)). She also wrote an upcoming feature piece in World Aquaculture Magazine to be published this month on the journey of her aquaculture research, entitled “A Global View of Aquaculture’s Future: A Journey of Interdisciplinary Science, Conservation and Sustainable Seafood”, where she highlights the importance of big data and information sharing as the future of the field.
+
+<br>
+
+<center>
+  <a href="https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm">
+    <img src="/img/blog/champions-cohort1/Allison.jpg" width="400px">
+  </a>
+</center>
+
+**[Allison Horst, PhD](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) is a data science and statistics lecturer in an environmentally-focused graduate program. Dr. Horst was awarded the student-appointed Bren School of Environmental Science & Management Distinguished Teaching Award in 2018.**
+
+Dr. Horst has leveraged Openscapes as an opportunity to learn and bring open science concepts to her courses at the University of California at Santa Barbara. She teaches students to use GitHub to version and publish their code, and has re-organized and shared her [course materials](https://github.com/allisonhorst/esm-244-2019#esm-244) online.
+
+Dr. Horst has just finished teaching her Advanced Data Analysis course, which focuses on advanced methods in data science and emphasizes written, oral, and visual communication of complex statistical topics. Students’ final projects were to create interactive graphics using Shiny for their analyses. She is a current nominee for the 2019 campus-wide award for outstanding teaching at UCSB. Additionally, Dr. Horst is an [Artist in Residence](https://www.nceas.ucsb.edu/art-science) at the National Center for Ecological Analysis & Synthesis ([NCEAS](https://www.nceas.ucsb.edu)). Part of her focus has been to create the Openscapes logo and art for the Openscapes website and seminars (thank you Allison!), and to create [statistics and coding artwork](https://github.com/allisonhorst/stats-illustrations), which she [shares with the #rstats community](https://www.openscapes.org/blog/2019/01/15/personify-code/). Her work has been used around the world in teaching and presentations.
+
+<br>
+
+<center>
+  <a href="https://umaine.edu/marine/faculty/nishad-jayasundara/">
+    <img src="/img/blog/champions-cohort1/Nishad.jpg" width="400px">
+  </a>
+</center>
+
+**[Nishad Jayasundara, PhD](https://umaine.edu/marine/faculty/nishad-jayasundara/) is a physiologist studying organismal adaptation to their habitat and [effects of external environmental factors](https://www.sciencedirect.com/science/article/pii/S0300483X17302147). His ongoing research includes capacity building to [address environmental health in Sri Lanka](https://www.niehs.nih.gov/research/programs/geh/geh_newsletter/2017/10/training/former_niehs_srp_trainee_building_capacity_in_sri_lanka.cfm).**
+
+A professor at the University of Maine, Openscapes has helped Dr. Jayasundara’s lab think about shared practices for documentation and reproducibility. The Jayasundara lab has complex experimental setups requiring building flow-through aquaria and raising marine and aquatic animals, and the lab has been focusing on documenting experimental design and improving metadata.
+
+Dr. Jayasundara uses genetics, physiology, and biochemistry as tools to study chronic exposure to environmental pollutants in wildlife and humans. Recently, he has been designing and leading a project to compare the coast of Maine to uncover long term shifts in patterns from a physiology angle (inspired by a [study at Hopkins Marine Station](http://science.sciencemag.org/content/267/5198/672)). He has been invited to a workshop in Costa Rica in March and give an seminar at [MDI Biological Laboratory](https://mdibl.org/event/scientific-seminar-nishad-jayasundara/) in April. He is also involved in the National Science Foundation’s Research Opportunities for Undergraduates (REU) program at the University of Maine.
+
+<br>
+
+<center>
+  <a href="http://pinsky.marine.rutgers.edu/">
+    <img src="/img/blog/champions-cohort1/Malin.jpg" width="400px">
+  </a>
+</center>
+
+**[Malin Pinsky, PhD](http://pinsky.marine.rutgers.edu/) is an ecologist studying the [impacts of climate change](http://science.sciencemag.org/content/360/6394/1189.full?ijkey=WyWEhcBWpXzKU&keytype=ref&siteid=sci) on ocean life. With expertise on shifting habitats of ocean animals, Dr. Pinsky leads [OceanAdapt](oceanadapt.rutgers.edu), a website used by governments and NGOs for climate adaptation planning.**
+
+Dr. Pinsky is an associate professor at Rutgers University. Openscapes has been helping the Pinsky lab formalize and document their shared data practices through GitHub — with the particular aim on onboarding and offboarding members of a large, heterogeneous group and sharing data and analyses publicly and transparently.
+
+Since January, Dr. Pinsky has had four scientific articles published ([see full publication list](http://pinsky.marine.rutgers.edu/publications/)), one of which was covered by [the New York Times](https://www.nytimes.com/2019/02/28/climate/fish-climate-change.html) and [National Geographic](https://www.nationalgeographic.com/environment/2019/02/climate-change-is-shrinking-essential-fisheries/). He has given seminars at the [University of Washington](https://www.savingseafood.org/science/dr-malin-pinsky-changing-ocean-temps-mean-fish-people/) and Hopkins Marine Station, and has an upcoming OCTO webinar about [the effects of temperature on species distributions and community composition and marine protected area management](https://zoom.us/webinar/register/WN_4fKeGEyBTHmptotSaQgJYg) in April.
+
+<br>
+
+<center>
+  <a href="https://www.oceanrecoveries.com/">
+    <img src="/img/blog/champions-cohort1/Adrian.jpg" width="400px">
+  </a>
+</center>
+
+
+**[Adrian Stier, PhD](https://www.oceanrecoveries.com/) is a marine ecologist studying the [recovery and resilience of ocean ecosystems](http://science.sciencemag.org/content/363/6425/eaav1004). Included in the systems he studies are coral reefs, and he recently was a Keynote Speaker at the [4th Coral Reef Symposium](https://allislandscommittee.wordpress.com/2018/04/10/guam-hosts-its-4th-coral-reef-symposium-to-share-advances-in-coral-reef-science-and-management/).**
+
+Dr. Stier is a professor at the University of California at Santa Barbara and emphasizes teamwork in the field, in the lab, and in the office. Openscapes has been an opportunity for getting his lab using version control collaboratively on GitHub so they can all work together and increase activity in coding as a lab.
+
+Dr. Stier has recently published an article about timing can affect biodiversity in seagrass habitats and was awarded a California SeaGrant to study how [marine protected areas may promote ecosystem resilience in the face of global climate change](https://caseagrant.ucsd.edu/project/benefits-beyond-biomass-biophysical-feedbacks-within-marine-protected-areas-may-promote). Prioritizing communication to diverse audiences, he also participated in a workshop with [COMPASS](https://www.compassscicomm.org/).
+
+<br>
+
+<center>
+  <a href="https://www.therkildsenlab.com/">
+    <img src="/img/blog/champions-cohort1/Nina.jpg" width="400px">
+  </a>
+</center>
+
+
+**[Nina Therkildsen, PhD](https://www.therkildsenlab.com/) is an evolutionary biologist using genomic analyses to [improve marine conservation and fisheries management](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.4672). Dr. Therkildsen [studies genetic adaptation](https://research.cornell.edu/research/oceans-and-genetic-adaptation-marine-species) using current, historic, and ancient DNA.**
+
+Dr. Therkildsen is a professor at Cornell University, where she recently taught a course on [Computational Skills for Efficient Data Processing and Analysis](https://classes.cornell.edu/browse/roster/FA18/class/NTRES/3500) (inspired by pre-Openscapes discussions). Now, through Openscapes her lab is setting up shared coding workflows with GitHub.
+
+Recently, Dr. Therkildsen has received several grants with conservation implications for imperiled fish populations and to use DNA-based methods to examine what species aquaculture feed used in different parts of the world are made from. She is teaching [Molecular Tools for Ecology, Conservation, and Resource management](https://classes.cornell.edu/browse/roster/SP18/class/NTRES/3400), and is a member of several scientific advisory boards and steering committees, including the Gloucester Marine Genomics Institute, NSF-sponsored Research Coordinated Network for Evolution in Changing Seas and the NOAA/NEFSC Atlantic Cod Stock Structure Working Group.
+
+<br>
+
+<center>
+  <a href="https://chelsealwood.wordpress.com/">
+    <img src="/img/blog/champions-cohort1/Chelsea.jpg" width="400px">
+  </a>
+</center>
+
+**[Chelsea Wood, PhD](https://chelsealwood.wordpress.com/) is an ecologist studying marine and freshwater [parasites in a changing world](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14159). Her work was recently featured in a bioGraphic video, “[Protected by prawns](https://www.biographic.com/posts/sto/protected-by-prawns)”, by the California Academy of Sciences.**
+
+Dr. Wood, a professor at the University of Washington, has been incorporating GitHub into her analytical workflow through Openscapes. She has also reorganized the online infrastructure and file sharing for her courses to save time in future years, adopted new, reproducible and collaborative file structures for recently launched research projects, and has worked with her lab to develop a long-term vision for reproducibility in their research.
+
+Dr. Wood’s lab is launching a new research initiative to understand long-term change in aquatic disease, and she recently published two manuscripts on the value of museum specimens for disease ecology (see [full publication list](https://chelsealwood.wordpress.com/publications/)). In March, she gave a department seminar at Scripps Institution of Oceanography and in April she will give the [Rising Star in Ecology Lecture](http://www.eeb.utoronto.ca/news-events/atwoodcolloq.htm) at University of Toronto’s Atwood Colloquium. She recently won a Western Regional Aquaculture Center grant to study a [parasite that affects Pacific oysters](https://chelsealwood.wordpress.com/research/invasive-parasites/). Additionally, Dr. Wood teaches graduate students how to study the ecology of past ecosystems rigorously and quantitatively through her [Historical Ecology course](https://chelsealwood.wordpress.com/teaching/fish-511-historical-ecology/) at UW’s School of Aquatic and Fishery Sciences, which includes a [field trip](https://twitter.com/DrChelseaLWood/status/1101634767810834432) to the Resource Center at Seattle’s Museum of History and Industry.
+
+<br>
+
+<img src="/img/blog/mrlowndes20131007-131005-7311_520x480.jpg" width="300px">  
+Photo by Elliot Lowndes

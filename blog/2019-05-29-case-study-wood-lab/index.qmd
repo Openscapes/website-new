@@ -1,0 +1,66 @@
+---
+title: "Champions Case Study: Wood Lab"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Wood Lab
+date: 2019-05-29
+slug: wood-lab
+categories:
+  - community
+  - champions
+  # - impact
+  - case-study  
+images: ../../img/blog/wood-lab-logo.png  
+---
+
+# Champions Case Study: Wood Lab 
+
+*We have just concluded our inaugural cohort of Openscapes Champions. While sad to conclude, all Champion labs have so many exciting accomplishments and so much momentum for open data science, and it is truly just the beginning. Here we are posting individual case studies of accomplishments from Champions labs.*
+
+---
+
+[**The Wood Lab**](https://chelsealwood.wordpress.com/) in the School of Aquatic and Fishery Sciences at the University of Washington studies the ecology of parasites in marine and freshwater ecosystems. Participating in Openscapes was [Professor Chelsea Wood](https://chelsealwood.wordpress.com/chelsea/), post doc [Dr. Danielle Claar](https://danielleclaar.weebly.com/), and sabattical-visiting faculty [Dr. Sarah Lee](https://www.depauw.edu/academics/departments-programs/biology/faculty-research-profiles/sarah-lee/).
+
+- Chelsea: I’m an Assistant Professor in the School of Aquatic and Fishery Sciences at the University of Washington. My research program explores the ecology of infectious disease in a changing world. I address several questions with practical applications to conservation and marine production, as well as essential value for ecological theory.
+
+- Danielle: I am a post doc in the Wood Lab, studying the effects of pulse warming events (such as El Niño) on parasitism in tropical marine fishes. I am broadly interested in the interface between large-scale climate drivers and ecological processes such as symbiosis and parasitism.
+
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/wood-lab-logo.png" width="350px"></a>
+  <figcaption>Logo by Ana Guerra</figcaption>
+</center>
+
+<br> 
+
+The [Wood Lab Case Study](https://docs.google.com/document/d/1SW44etET6qOecOkWEVMlIhTL-5HJ5qpHxaqyHI85Tlg/edit#) shares our full account of accomplishments over the last five months with Openscapes. It includes developing a lot of systems for research and teaching that will save time now and in the future due to lower time needed to onboard lab members and organize and teach field courses. As a preview, we find that: 
+
+> "Open science is achievable, and consistently taking little steps towards reproducibility can make a big difference for openness and collaboration." 
+
+Our key accomplishments are: 
+
+- Got lab up and running with version control (git/GitHub) - this included grad students, post docs, and undergraduate researchers
+- Established [“Bayside Chats”](https://docs.google.com/document/d/e/2PACX-1vQEN-hqEIvnddWNdpYdATzZIUgAFFzKzPCLm5ijjSQeViD6E4ExAbHXYyhQSF58SyJQrWR40i6P_h2u/pub) to discuss and promote reproducibility for all lab members
+- Created [GitHub wood-lab organization](https://github.com/wood-lab)
+- Developed [resources for lab reproducibility](https://github.com/wood-lab/wood-lab-resources)
+- Crowdsourced ([on Twitter](https://twitter.com/ClaarDanielle/status/1123291608445636608)) - best places to share data after publication
+- Shared [lab philosophy](https://github.com/wood-lab/wood-lab-resources/blob/master/Wood%20Lab%20Philosophy.docx) publically on GitHub
+- Several lab members are using more features of GitHub, such as issues and projects
+- Organized shared lab Google Drive, and ensured that all data is backed up to it
+
+<br>
+
+Congratulations Chelsea, Danielle, and the whole Wood Lab! 
+
+<br>
+
+---
+
+Relevant posts: 
+
+- [Openscapes Champions incorporate open practices in their science](https://www.openscapes.org/blog/2019/03/27/champions-incorporate-open-science/)
+- [Openscapes summit reflections — becoming champions](https://www.openscapes.org/blog/2019/04/08/summit-reflections1/)
+- [Openscapes summit reflections 2 — Changing the way we do science](https://www.openscapes.org/blog/2019/04/25/summit-reflections2/)
+
+<br>

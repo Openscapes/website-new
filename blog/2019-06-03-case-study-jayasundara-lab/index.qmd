@@ -1,0 +1,59 @@
+---
+title: "Champions Case Study: Jayasundara Lab"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Jayasundara Lab
+date: 2019-06-03
+slug: jayasundara-lab
+categories:
+  - community
+  - champions
+  # - impact
+  - case-study  
+image: ../../img/blog/jayasundara-lab.png
+---
+
+# Champions Case Study: Jayasundara Lab 
+
+*We have just concluded our inaugural cohort of Openscapes Champions. While sad to conclude, all Champion labs have so many exciting accomplishments and so much momentum for open data science, and it is truly just the beginning. Here we are posting individual case studies of accomplishments from Champions labs.*
+
+---
+
+[**The Jayasundara Lab**](https://umaine.edu/nishad/) at the University of Maine investigates physiological and biochemical traits underlying organismal adaptation to their habitat and how these traits are altered in response to changes in physical and chemical environmental factors. Participating in Openscapes is [Professor Nishad Jayasundara](https://umaine.edu/marine/faculty/nishad-jayasundara/) and technicians [Remy Babitch](https://github.com/RemyBabich) and [Molly Westbrook](https://github.com/mollywestbrook).
+
+
+- Molly & Remy: Due to our lab space being relatively new, Openscapes provided an opportunity to introduce principles of open lab culture and open data analysis relatively early on in many of the projects we’re working on, rather than incorporating old data sets into newer data analytics practices. Many of our data sets are relatively small, but we’re doing our best to begin these practices now, when many of our projects are just beginning.
+
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/jayasundara-lab.png" width="350px"></a>
+</center>
+
+The [Jayasundara Lab Case Study](https://docs.google.com/document/d/1DI8173GJ3j3mACHOhPffmCufXu83e4-05NQEFfHFCVc/edit) shares our accomplishments for setting up systems for data management and sharing alongside experimental design. As a relatively new lab, we are focused on two main questions: How do organisms respond to changes in their natural environment? And can wild fish populations serve as indicators of environmental health? Much of our work involves lab experiments raising live fishes in aquaria; creating shared systems for streamlining our experimental protocols and the resulting data has been our focus during Openscapes. As a preview, we learned that: 
+
+> "Our lab was able to incorporate respectful lab culture and discussion of data analysis as a part of designing experiments, lab meetings and lab dialogue much more than before. The analysis of experimental data has become as important as experimental design and data collection." 
+
+Our key accomplishments are: 
+
+- Created the first lab code of conduct for keeping the lab space respectful and open-minded
+- Began backing up data files from experiments on lab hard drive, incorporated an organization scheme to data backups
+- Opened a lab folder on google drive to share protocols, readmes, lab certifications, chemical inventory documentation and a scientific literature mini-library and to help onboard new lab members
+- Started the [jayasundara-lab github account](https://github.com/jayasundara-lab) for future analysis scripts
+
+<br>
+
+Congratulations Nishad, Molly, Remy, and the rest of the Jayasundara Lab! 
+
+<br>
+
+---
+
+Relevant posts: 
+
+- [Openscapes Champions incorporate open practices in their science](https://www.openscapes.org/blog/2019/03/27/champions-incorporate-open-science/)
+- [Openscapes summit reflections — becoming champions](https://www.openscapes.org/blog/2019/04/08/summit-reflections1/)
+- [Openscapes summit reflections 2 — Changing the way we do science](https://www.openscapes.org/blog/2019/04/25/summit-reflections2/)
+
+<br>
+

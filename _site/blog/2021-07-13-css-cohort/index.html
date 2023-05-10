@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.313">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Erin Robinson &amp; Julie Lowndes">
+<meta name="dcterms.date" content="2021-07-13">
+
+<title>CS&amp;S Champions Cohort Takeaways: Seaside Chats, data access, resilient teams</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/favicon/favicon_fullres.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<style>
+    .quarto-title-block .quarto-title-banner,
+    .quarto-title-block .quarto-title-banner h1,
+    .quarto-title-block .quarto-title-banner h2,
+    .quarto-title-block .quarto-title-banner h3,
+    .quarto-title-block .quarto-title-banner h4,
+    .quarto-title-block .quarto-title-banner h5,
+    .quarto-title-block .quarto-title-banner h6
+    {
+      color: #333333;
+background: #F8D98F;
+    }
+    </style>
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/logo/openscapes_hex_badge.png" alt="The Openscapes logo -- orange text that reads 'openscapes' sitting above small berry 'data points'" class="navbar-logo">
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html" rel="" target="">
+ <span class="menu-text">HOME</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">ABOUT</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="../../who_are_we.html" rel="" target="">
+ <span class="dropdown-text">WHO ARE WE?</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../approach.html" rel="" target="">
+ <span class="dropdown-text">OUR APPROACH</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../media.html" rel="" target="">
+ <span class="dropdown-text">MEDIA</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../team.html" rel="" target="">
+ <span class="dropdown-text">OUR TEAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../code_of_conduct.html" rel="" target="">
+ <span class="dropdown-text">CODE OF CONDUCT</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">INITIATIVES</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
+        <li>
+    <a class="dropdown-item" href="../../champions_program.html" rel="" target="">
+ <span class="dropdown-text">CHAMPIONS PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../reflections_program.html" rel="" target="">
+ <span class="dropdown-text">REFLECTIONS PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../pathways_to_open_science_program.html" rel="" target="">
+ <span class="dropdown-text">PATHWAYS TO OPEN SCIENCE PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../mentors_framework.html" rel="" target="">
+ <span class="dropdown-text">MENTORS FRAMEWORK</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../../blog.html" rel="" target="">
+ <span class="menu-text">BLOG</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-get-involved" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">GET INVOLVED</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-get-involved">    
+        <li>
+    <a class="dropdown-item" href="../../connect.html" rel="" target="">
+ <span class="dropdown-text">CONNECT WITH US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../events.html" rel="" target="">
+ <span class="dropdown-text">ATTEND AN EVENT</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../resources.html" rel="" target="">
+ <span class="dropdown-text">FIND LEARNING RESOURCES</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/openscapes" rel="" target=""><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/openscapes" rel="" target=""><i class="bi bi-twitter" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:hello@openscapes.org" rel="" target=""><i class="bi bi-envelope" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page">
+      <h1 class="title">CS&amp;S Champions Cohort Takeaways: Seaside Chats, data access, resilient teams</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">community</div>
+                <div class="quarto-category">champions</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Erin Robinson &amp; Julie Lowndes </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">July 13, 2021</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+
+
+
+
+<section id="introducing-the-css-champions-cohort" class="level2">
+<h2 class="anchored" data-anchor-id="introducing-the-css-champions-cohort">Introducing the CS&amp;S Champions Cohort</h2>
+<p>The last Friday of June we celebrated the completion of our <a href="https://eventfund.codeforscience.org/">Code for Science and Society (CS&amp;S</a>) Science Champions Cohort. This was our first open call for the Champions program, meaning that Cohort teams weren’t all part of a specific community or group that was funding the Cohort. We proposed this open call to CS&amp;S and wanted this to be an opportunity to focus on improving how we promote and support diversity, equity, and inclusion in Openscapes, since we wanted to see who would be interested if anyone could join.</p>
+<p>We announced the opportunity <a href="https://twitter.com/openscapes/status/1367554540120109056">via Twitter</a> and our <a href="https://www.openscapes.org/blog/2021/03/04/events-spring-2021/">newsletter</a> that we were leading a Cohort and waited to see how many teams would be interested (hoping there would be interest!) Thankfully, there was interest and this Cohort included eight environmental science teams from academic, nonprofit, government, and Tribal organizations in the US &amp; Canada. They are a great group of teams and are described in detail below!</p>
+<p>The CS&amp;S Cohort was 2-months, with four sessions, like we piloted earlier this year with our <a href="https://www.openscapes.org/blog/2021/05/03/noaa-nwfsc-champions/">NOAA NWFSC Cohort</a>, and we continued putting to practice what we’ve been learning <a href="https://www.openscapes.org/blog/2021/05/27/tara-robertson/">working with Tara Robertson</a> to promote diversity, equity, and inclusion with open data science.</p>
+<br>
+<center>
+<a><img src="../../img/blog/tweet-og_nancy-css.png" width="400px"><img src="../../img/blog/tweet-martinjeanphd-css.png" width="400px"></a>
+<figcaption>
+Tweets from <a href="https://twitter.com/OG_Nancy/status/1408496586120957952"><span class="citation" data-cites="OG_Nancy">@OG_Nancy</span></a> and <a href="https://twitter.com/martinjeanphd/status/1408516019967115264"><span class="citation" data-cites="martinjeanphd">@martinjeanphd</span></a>
+</figcaption>
+</center>
+<p><br></p>
+<p>With this Cohort we continued to refine the Champions <a href="https://openscapes.github.io/series">lesson series</a>, and also welcomed guest speakers from previous Openscapes Champions cohorts to share their experiences and expertise. <a href="https://twitter.com/ECOuture9">Dr.&nbsp;Jessica Couture</a> taught about the importance of and strategies for metadata, describing different types of metadata: project-level (big picture stuff), object-level (data specific stuff), and file-level (file-specific stuff). In the final session, <a href="https://twitter.com/gavin_fay/">Dr.&nbsp;Gavin Fay</a> shared how the Fay Lab has continued to practice Openscapes concepts over a year after their cohort, including offboarding the co-creator of the fab <a href="https://thefaylab.github.io/lab-manual/index.html">FayLab Lab Manual</a> <a href="https://twitter.com/ashleighjnovak/">Ashleigh Novak</a> when she got a new job with the Atlantic White Shark Conservancy.</p>
+<blockquote class="blockquote">
+<p><strong>“I’m In awe of how incredibly helpful this is and how this is not a conversation I’ve ever had with all the groups I’m in. I’ve heard metadata mentioned before but this is like a first day of orientation kind of thing. Incredibly helpful” - Ileana</strong></p>
+</blockquote>
+</section>
+<section id="champions-pathways" class="level2">
+<h2 class="anchored" data-anchor-id="champions-pathways">Champions’ Pathways</h2>
+<p>While our 2-month cohorts go by so quickly, in our final session, each team shares what they’ve learned. Teams share their Pathway that frames where they’re starting and where they would like to go in terms of reproducibility, collaboration, communication, and culture. We provide a template that builds off of Table 1 from <a href="https://www.nature.com/articles/s41559-017-0160">Lowndes et al.&nbsp;2017</a>, but we’ve added this fourth important “culture” category so teams can be explicit about their plans for diversity, equity, inclusion as well as reproducibility, collaboration, and communication. In the spirit of teamwork, it was neat to see how many teams co-presented their pathways, and provided plans for how they are moving from solo practices toward shared practices.</p>
+<blockquote class="blockquote">
+<p><strong>“There’a a lot to do [for open science], but now we can see what we need to do” - Nicola</strong></p>
+</blockquote>
+<br>
+<center>
+<a><img src="../../img/blog/pathway-example.png" width="600px"></a>
+<figcaption>
+An example Pathway document presented by a Champions team
+</figcaption>
+</center>
+<p><br></p>
+<p>It’s exciting to see how teams make it their own. One group described their pathway with Star Trek analogies (which was excellent, and a great complement to <a href="https://www.openscapes.org/blog/2021/03/25/rebel-alliance-dr-dawn-wright/">Star Wars</a> 🤓!). They plan to focus on increasing the use of R code for automating and reproducing analyses, integrating with a forthcoming centralized data management system, and focusing on diversity, equity, and inclusion as they stabilize their team.</p>
+</section>
+<section id="moving-toward-open-science-together" class="level2">
+<h2 class="anchored" data-anchor-id="moving-toward-open-science-together">Moving toward Open Science Together</h2>
+<p>We were absolutely blown away by the teams in this cohort and how they were thinking about open science and diversity, equity, and inclusion in their work. Some themes that emerged across the pathways include:</p>
+<p><strong>Seaside Chats:</strong> Some big themes from the Champions’ Pathways were that the <a href="https://www.openscapes.org/blog/2019/03/10/seaside-chats/">Seaside Chats</a> really shine. Seaside Chats are regular meetings to talk about data – a space to identify and address shared needs and learn together, building a sense of community. Seaside Chats were where teams talked about onboarding new group members and creating the culture they want in their groups, and teams commented how they were great teaching opportunities. Seaside Chats are a powerful example of team science in action, where group members can develop technical and leadership skills and is a sustainable way for the team to continue to grow and adapt while also reducing burden on the group lead.</p>
+<p>One group described how in addition to weekly lab meetings, they already have biweekly diversity, equity, inclusion, and justice (DEIJ) meetings and found Seaside Chats focused on open/data science helpful as well, saying:</p>
+<blockquote class="blockquote">
+<p><strong>“We didn’t know we had so much to talk about”</strong></p>
+</blockquote>
+<p>We discussed how to sustain Seaside Chat to continue skillbuilding alongside everything else, and other teams shared about setting up fun competitions to help people get comfortable using GitHub. Another team has a sign-up sheet for Seaside Chats and then whomever’s turn it is both runs the meeting but also structures the google doc, icebreakers, etc. One group was inspired by the in-person <a href="https://www.ucsbtidytuesday.com/">Tidy Tuesday Club at UCSB</a> (started by 2019 Champion Allison Horst) and are thinking of starting one too.</p>
+<p>Another team described how they have grown and changed physical locations during the pandemic, and that Seaside Chats have been an important way to help everyone learn together, develop shared norms, and get on the same page.</p>
+<p><strong>Accessing and sharing data was a big theme.</strong> Teams want to improve data sharing within their teams and collaborators – prior to having this be publicly available in a data repository – and are looking for ways to streamline this. Following a Data Carpentries workshop, one team described forming a lasting collaboration with the instructor who they are currently working with to streamline the way they access and analyze data. They’ve been building skills and momentum through virtual “R Chats” where they lead demos and follow-alongs for their community. Their next steps include increasing the use of GitHub and RMarkdown, expanding Seaside Chats, and sharing these stories with others.</p>
+<p><strong>Resilient teams and kinder science:</strong> After getting an introduction to GitHub from the browser (Issues and publication) in the second Openscapes session, one team used a <a href="https://software-carpentry.org/lessons/">Carpentries Github lesson</a> to learn and practiced how to use GitHub collaboratively for version control. We thought this was a great complement to building shared skills using existing resources.</p>
+<p>It was also exciting to see the ideas we discussed in the cohort being applied to field work – this also came up in the <a href="https://www.openscapes.org/blog/2021/07/08/csu-coast-cohort/">CSU COAST Cohort</a> that we were leading concurrently with the CS&amp;S Cohort, and is something we hadn’t heard before – we’re interested to support this thinking.</p>
+<p>We loved seeing the <a href="https://nye.unc.edu/">Nye Lab’s new website</a> with a statement saying: “WE AIM TO USE BOTH SCIENCE AND EMPATHY to approach environmental problems by understanding the dynamics of the natural world and how they can affect people and communities” and “OPEN DATA SCIENCE is the way in which we ensure our science is as state-of-the-art, transparent, reproducible and accessible as possible.” ❤️</p>
+<br>
+<center>
+<a><img src="../../img/blog/tweet-jackiemedusa-css.png" width="400px"><img src="../../img/blog/tweet-sowasser-css.png" width="400px"></a>
+<figcaption>
+Tweets from <a href="https://twitter.com/JackieMedusa/status/1408576924595593216"><span class="citation" data-cites="JackieMedusa">@JackieMedusa</span></a> and <a href="https://twitter.com/sowasser/status/1408499922924670982"><span class="citation" data-cites="sowasser">@sowasser</span></a>
+</figcaption>
+</center>
+<p><br></p>
+</section>
+<section id="gratitude-next-steps" class="level2">
+<h2 class="anchored" data-anchor-id="gratitude-next-steps">Gratitude &amp; Next steps</h2>
+<p>We are grateful to the teams for their engagement and dedication to moving toward Open, kinder science with their groups and to CS&amp;S for supporting our work and allowing us to offer this open call. We are looking forward to seeing the progress that each group makes on their own pathway.</p>
+<p>Going forward, we want to do one open call per year. We found this to be an important way to increase diversity of participants and for continued learning on all fronts. If you’re interested in supporting this, please get in touch!</p>
+</section>
+<section id="openscapes-champions-css-cohort-teams" class="level2">
+<h2 class="anchored" data-anchor-id="openscapes-champions-css-cohort-teams">Openscapes Champions CS&amp;S Cohort teams</h2>
+<p>We have diverse teams from academic, nonprofit and government organizations in the US and Canada.</p>
+<p><strong>Oken Lab, University of California Davis</strong>. Dr.&nbsp;Kiva Oken’s research group studies quantitative fisheries ecology and management, population dynamics, and statistical methods in ecology. As a new lab, they are looking to establish good sustainable workflows. Having dabbled a bit in open science practices like github, they are excited to learn about it more formally and implement its full potential. They also hope open science can promote more intra- and inter-lab collaboration and avoid students and staff getting silo-ed on their own individual projects, as is common in academia. They are excited to share what they learn with other groups they are part of both on and off campus. <a href="https://okenk.github.io">https://okenk.github.io</a></p>
+<p><strong>Kenai Watershed Forum (Soldotna, Alaska).</strong> Benjamin Meyer, Maura Schumacher, and Galen Hecht help to lead watershed research, restoration, and education about the health of the Kenai River in Alaska. Collaborating with community partners including government, private, tribal, and other non-profit groups, Kenai Watershed Forum has galvanized major improvements in ecological management in the region, helping to protect water quality and wildlife and fish habitat for current and future generations. They have generated a large volume of high quality ecological and hydrological data over the organization’s twenty-four year history and are interested in implementing reproducible and open source methods going forward. <a href="http://www.kenaiwatershed.org">www.kenaiwatershed.org</a></p>
+<p><strong>Environment and Climate Change Canada.</strong> Martin Jean and Alexandra Audet’s team leads freshwater quality, sediment, wetland and macroinvertebrate monitoring for the Canadian government. They are a strong example of data science in government and from outside the USA: for almost 10 years, they have developed skills on continuous improvement and quality assurance for scientific projects, and have realized that scientists spend a lot of time on data wrangling compared to data analysis, and are looking to increasingly support them with open science. <a href="https://www.canada.ca/en/environment-climate-change/services/freshwater-quality-monitoring.html">https://www.canada.ca/en/environment-climate-change/services/freshwater-quality-monitoring</a></p>
+<p><strong>Williams Lab, University of South Florida.</strong> Dr.&nbsp;Nancy Williams’ research group studies the ocean’s role in the carbon cycle and in climate using biogeochemical sensors on autonomous vehicles, water sampling from ships, and computer model output. Over the past year of working remotely Williams has focused on building her “digital lab,” with a focus on switching her own workflow from MATLAB to Python, implementing version control and other open-science practices, and helping her students and researchers work this way too. Feeling a bit like she is reinventing the wheel and isolated, she is excited to learn about open resources and existing communities that are specifically for research groups trying to do more open science and accelerate the pace of ocean and climate research. She also sees the value in teaching these skills both to her advisees and to other students in the college so that they can maximize their own potential and feel more empowered to explore non-academic career paths. <a href="https://www.marine.usf.edu/nancy-williams/">https://www.marine.usf.edu/nancy-williams</a></p>
+<p><strong>Tribes and the Exchange Network.</strong> Lydia Scheer (Program Manager for ITEP-NAU), Angie Reed (Water Resource Planner for Penobscot Indian Nation), Lisa Gover (Environmental Director for Campo Band of Mission Indians), Melinda Ronca-Battista (QA Specialist and Researcher for ITEP-NAU), and Natasha Fulton (Community Program Coordinator, ITEP-NAU) are part of the Tribes and the Exchange Network project that serves American Indian/Alaska Native government agencies and communities with the goal of building their capacity for managing the data and information they collect using digital systems and technology. They are working on solutions that are shareable, open, and scalable and can empower tribes with the information needed for reaching their environmental and natural resource management goals and objectives. Some of their team members conduct research and analysis, some work with the researchers and analysts to interpret and communicate the data and its value, and all work to bring an understanding of the benefits of sharing science-based information in balance with respecting tribal sovereignty to protect traditional knowledge. <a href="http://www.tribalexchangenetwork.org">www.tribalexchangenetwork.org</a></p>
+<p><strong>Padilla-Gamiño Lab, University of Washington.</strong> Dr.&nbsp;Jacqueline Padilla-Gamiño’s research group studies the effects of climate change and microplastics on the ecophysiology of marine invertebrates and seaweeds. They are an ecophysiology team working at multiple levels of biological organization, working with gene expression, physiological and ecological data from the tropics and temperate regions, as well as the study of microplastics in coral reefs and seafood. They are interested in learning how open workflows can help make their science more efficient and accessible, but even more importantly in developing a mindset and research culture that embraces collaboration and inclusion. <a href="https://padilla-gaminolab.weebly.com">https://padilla-gaminolab.weebly.com</a></p>
+<p><strong>Nye Lab, University of North Carolina Chapel Hill (UNC-CH).</strong> Dr.&nbsp;Janet Nye’s research group studies fisheries ecology and oceanography, focused on the effects of climate change on marine ecosystems. Their group of multidisciplinary chemical, biological, physical oceanographers, and ecologists all use quantitative methods to answer questions about how climate change affects marine fisheries and ecosystems. Nye’s group is literally spread across the east coast – with members from Stony Brook University, main campus UNC-CH and UNC IMS, a remote field lab in eastern North Carolina, and are seeking open science practices to collaborate and share code within the distributed groups and the wider community. <a href="https://nye.unc.edu/">https://nye.unc.edu</a></p>
+<p><strong>WildCo, University of British Columbia.</strong> Dr.&nbsp;Cole Burton’s research group (the Wildlife Coexistence Lab, or WildCo) studies the applied ecology and conservation of terrestrial vertebrate biodiversity and specializes in wildlife survey tools like camera trapping. WildCo works with diverse partners to develop and apply rigorous wildlife sampling and analysis in support of improved conservation outcomes. The lab hopes to improve its capacity for leadership in open science and seeks to expand its training and influence to help increase the quality and availability of evidence to support sound decision making for wildlife management. <a href="https://wildlife.forestry.ubc.ca">https://wildlife.forestry.ubc.ca</a></p>
+<p><br></p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Openscapes is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attributions 4.0 International License</a></div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">This website is built with ❤️ and <a href="https://quarto.org/">Quarto</a></div>
+  </div>
+</footer>
+
+
+
+</body></html>

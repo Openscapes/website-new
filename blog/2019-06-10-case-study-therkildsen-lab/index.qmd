@@ -1,0 +1,64 @@
+---
+title: "Champions Case Study: Therkildsen Lab"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Therkildsen Lab
+date: 2019-06-10
+slug: therkildsen-lab
+categories:
+  - community
+  - champions
+  # - impact
+  - case-study  
+image: ../../img/blog/therkildsen-logo.png
+---
+
+# Champions Case Study: Therkildsen Lab 
+
+*We have just concluded our inaugural cohort of Openscapes Champions. While sad to conclude, all Champion labs have so many exciting accomplishments and so much momentum for open data science, and it is truly just the beginning. Here we are posting individual case studies of accomplishments from Champions labs.*
+
+---
+
+[**The Therkildsen Lab**](https://www.therkildsenlab.com/) at Cornell University studies conservation genomics and molecular ecology. Our research aims to improve our understanding of how species adapt to their environment, and how quickly they can respond to altered conditions caused by selective harvest, climate change, or other anthropogenic pressures. Participating in Openscapes is [Professor Nina Therkildsen](https://www.therkildsenlab.com/people.html) and PhD students [Maria Akopyan](https://www.makopyan.com/) and [Nicolas Lou](https://github.com/nicolas931010), and post doc [Arne Jacobs](https://arnejacobs.com/).
+
+- Nina: With a desire to always find optimal solutions, I had initially felt very overwhelmed by the jungle of tools available out there to help promote open science, and the resulting insecurity about where to start prevented me from starting at all. A key thing Openscapes has illustrated to me, is that there obvious is not one single solution that will work best for all aspects of our work. But also, that we don’t have to completely change everything we do all at once. There are lots of little modular ways in which we can start to improve our workflows, and over time these will build on each other to really make a big difference in how efficiently and transparently we operate.
+
+- Nicolas: One key understanding for me is that I learned spending some extra time to make my workflow readable and tractable can really help me save more time in the long run. One other thing: I found that some tools that were initially developed for the industry (e.g. GitHub and Slack) can be quite helpful to the academia as well. 
+
+- Arne: The two key points I have taken away from this experience is to spend more time making my analyses and workflow more easily accessible for others (and my future self) as this will increase the impact of my work and will save time in the long run. I have also learned that it is okay to share my workflow with the lab and the wider scientific community even if it is not perfect and that this will ultimately improve my work, a point I have struggled with and still struggle with. It ultimately taught me that we all seem to struggle with similar things.  
+
+- Maria: Dedicating time to discuss data openness, workflow reproducibility, and a lab code of conduct was extremely valuable. I think it strengthened the sense of community and accountability in our lab, and has helped set a foundation upon which we can continue to slowly build our better data practices.
+
+
+<center>
+  <a><img src="/img/blog/therkildsen-logo.png" width="350px"></a>
+</center>
+
+The [Therkildsen Lab Case Study](https://docs.google.com/document/d/1H_f487K9JyROLyMN5rc2sn32_fGhq984EYp4QVqP_sw/edit#) shares our accomplishments and plans moving forward to continue the process of getting all our analysis scripts on Github. Moving forward, for all new papers coming out of the lab, the full data analysis pipeline, including the code to reproduce all results and figures, must be made available in a well organized way in a Github repository. This requires a big change of habit, but the benefits are so obvious to us that we are committed to the challenge. As a preview: 
+
+> "Openscapes provided a really useful framework for us that boosted our motivation to transition towards more open and reproducible workflows, provided technical guidance and support to make the barriers to entry seem less daunting, included bi-weekly accountability to a supportive and driven group that kept us focused on the process even when the semester had us very busy with other tasks, and both the direct program material and the community of champion labs gave us lots of inspiration for how we want to organize our workflows and data management better in the future." - Therkildsen lab
+
+Our key accomplishments are: 
+
+- We have backed up all of our raw data on a secure server. 
+- We have started to use Google Drive to keep track of our sample and sequence metadata, lab notes, as well as experiment protocols (instead of having various randomly named files scattered across everybody’s personal computers).
+- We have transitioned to use Slack as our primary online communication tool (instead of email). We like it a lot because it lowers the barrier to initiate conservations and helps to facilitate collaboration among lab members. We also found the various features in Slack very helpful in keeping our communication organized by having channels for specific purposes and keeping track of prior discussions and lab results results by having all prior conversation and image sharing on a topic listed in one place with the ability to reference previous comments, star and pin items, and etc. 
+- We have incorporated GitHub as a central part of our workflow: [github.com/therkildsen-lab](https://github.com/therkildsen-lab/). We have made our central data processing pipeline and part of the data analysis pipeline available on GitHub, have made the pipeline flexible to the need of other users, and have provided clear documentation, so that our collaborators (and our future selves) can easily access it without the need to reinvent the wheel. In addition, we have started to keep track of our entire analysis pipeline and result visualization using GitHub as well, enabling more efficient communication among lab members on various projects. We have also recommended (and taught) GitHub to some collaborators and colleagues. 
+- We have come up with a [lab code of conduct](https://www.therkildsenlab.com/policies.html).
+
+
+<br>
+
+Congratulations Nina, Nicolas, Arne, Maria, and the rest of the Therkildsen Lab!
+
+<br>
+
+---
+
+Relevant posts: 
+
+- [Openscapes Champions incorporate open practices in their science](https://www.openscapes.org/blog/2019/03/27/champions-incorporate-open-science/)
+- [Openscapes summit reflections — becoming champions](https://www.openscapes.org/blog/2019/04/08/summit-reflections1/)
+- [Openscapes summit reflections 2 — Changing the way we do science](https://www.openscapes.org/blog/2019/04/25/summit-reflections2/)
+
+<br>
+

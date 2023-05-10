@@ -1,0 +1,59 @@
+---
+title: "Champions Case Study: Pinsky Lab"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Pinsky Lab
+date: 2019-06-06
+slug: pinsky-lab
+categories:
+  - community
+  - champions
+  # - impact
+  - case-study  
+image: ../../img/blog/pinsky-lab.jpg
+---
+
+# Champions Case Study: Pinsky Lab 
+
+*We have just concluded our inaugural cohort of Openscapes Champions. While sad to conclude, all Champion labs have so many exciting accomplishments and so much momentum for open data science, and it is truly just the beginning. Here we are posting individual case studies of accomplishments from Champions labs.*
+
+---
+
+[**The Pinsky Lab**](http://pinsky.marine.rutgers.edu/) at Rutgers University studies global change ecology and evolution in the sea. The lab was established six years ago, and now has twenty lab members. We study how and why ocean ecosystems are changing, but each of us brings different skills, from statistics to genomics to SCUBA diving to math. Participating in Openscapes is [Professor Malin Pinsky](http://pinsky.marine.rutgers.edu/people/malin-pinsky/), lab manager [Michelle Stuart](http://pinsky.marine.rutgers.edu/people/michelle-stuart/), technician [Daniel Forrest](https://github.com/df511), PhD student [Jennifer Hoey](https://marine.rutgers.edu/~jahoey/) and post docs [Joyce Ong](https://scholar.google.com/citations?user=BLU4J8QAAAAJ&hl=en) and [Allison Dedrick](https://agdedrick.weebly.com/).
+
+> Openscapes has been an ideal platform for our lab to build up the foundations of open data science, which has improved our workflow, group cohesion, knowledge sharing and approachability for visitors or new members. - Joyce Ong
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/pinsky-lab.jpg" width="350px"></a>
+  <figcaption>photo from [pinsky.marine.rutgers.edu/people](http://pinsky.marine.rutgers.edu/people/)</figcaption>
+</center>
+
+<br>
+
+The [Pinsky Lab Case Study](https://docs.google.com/document/d/1sO6S-dXEf9d9EH09qvnqDc_JY9SKLF3O2Ai5ktHqJi4/edit?ts=5cf92e78#) shares our accomplishments for establishing shared workflows and helping onboard all team members in the lab, including undergraduate researchers. As a preview: 
+
+> "One of the key things we have learned is the need to have or build a trusting community that values openness, where we can learn from others about the many resources available to make our science more efficient, open and reproducible. It does take dedicated time and effort to change habits and move towards open data science, so having a community has been a huge help." - Joyce Ong
+
+Prior to Openscapes, members of the Pinsky Lab were using Github to varying degrees but now:
+
+- all members are part of the [Pinsky Lab Github organization](https://github.com/pinskylab), including undergrads. Our organization has ~50 repositories, 15 contributing members, and has become a centralized resource and collaborative space for the lab. 
+- We have created a [lab code of conduct](https://docs.google.com/document/d/e/2PACX-1vSBKYZVmIAtyDjc7QiEbggeiVJmUmFw3P8Tf0HAB_VZuYMSzAQAR3CphP2bfrHWohW2oCDkDPFM7_oD/pub), [onboarding](https://github.com/pinskylab/how_we_work/blob/master/onboarding.md ) and [offboarding procedures](https://github.com/pinskylab/how_we_work/blob/master/offboarding.md), a [data management plan](https://github.com/pinskylab/how_we_work/blob/master/data-management.md) and a [‘cookbook’ with how-tos for common challenges](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md), all of which are on Github. 
+- In addition, everyone in the lab has access to the Pinsky Lab Google Drive, where presentations and in-progress manuscripts can be shared and collaborated on.
+
+<br>
+
+Congratulations Malin, Dan, Michelle, Allison, Joyce, Jennifer, and the rest of the Pinsky Lab! 
+
+<br>
+
+---
+
+Relevant posts: 
+
+- [Openscapes Champions incorporate open practices in their science](https://www.openscapes.org/blog/2019/03/27/champions-incorporate-open-science/)
+- [Openscapes summit reflections — becoming champions](https://www.openscapes.org/blog/2019/04/08/summit-reflections1/)
+- [Openscapes summit reflections 2 — Changing the way we do science](https://www.openscapes.org/blog/2019/04/25/summit-reflections2/)
+
+<br>
+

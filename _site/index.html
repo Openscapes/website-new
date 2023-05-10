@@ -102,7 +102,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-title','listing-image','listing-description','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
+      page: 18,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
@@ -500,15 +501,15 @@ Jan 24, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="community,champions,noaa-fisheries" data-listing-date-sort="1664521200000" data-listing-file-modified-sort="1683730465538" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
-<a href="./blog/2022-09-30-sefsc-summer/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="2" data-categories="community,champions,case-study,noaa-fisheries" data-listing-date-sort="1670572800000" data-listing-file-modified-sort="1683732028917" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<a href="./blog/2022-12-09-case-study-swfsc-sael/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/blog/sefsc-fates-commsplan-square.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="./img/blog/swfsc-sael-site-kourtney-burger_square.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Aligning mission around collaborative practices, with researchers, supervisors, and IT
+Sound Bytes: Championing Open Science
 </h5>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('community'); return false;">
@@ -516,6 +517,9 @@ community
 </div>
 <div class="listing-category" onclick="window.quartoListingCategory('champions'); return false;">
 champions
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('case-study'); return false;">
+case-study
 </div>
 <div class="listing-category" onclick="window.quartoListingCategory('noaa-fisheries'); return false;">
 noaa-fisheries
@@ -526,7 +530,7 @@ noaa-fisheries
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
-Sep 30, 2022
+Dec 9, 2022
 </div>
 </div>
 </div>
@@ -537,6 +541,9 @@ Sep 30, 2022
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="recent-blog-listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div>
 <!-- blog listing: see Garrick Aden-Buie's site: https://github.com/gadenbuie/garrickadenbuie-com/blob/quarto/index.qmd  & Robert Mitchell's blog post: https://robertmitchellv.com/blog/2022-08-building-with-quarto/building-with-quarto.html -->
 </div>

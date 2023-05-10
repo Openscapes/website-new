@@ -1,0 +1,122 @@
+---
+title: "California Water Board Mentor Perspectives"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Anna Holder, Corey Clatterbuck
+date: 2021-12-07
+slug: california-waterboards-mentors
+categories:
+  - community
+  - champions
+  #- impact
+image: ../../img/blog/sy-river-sycamore.jpeg
+---
+
+*Openscapes began to work with and onboard mentors over the summer while also beginning writing the [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/) to help document our process. This post focuses on what the California Water Boards mentors learned and did as they assisted with the Fall 2021 Fisheries Dependent Data Users ([FDD](https://openscapes.github.io/2021-fdd)) and NOAA’s National Marine Fishery Service ([NMFS](https://openscapes.github.io/2021-noaa-nmfs/)) Champions Cohorts.*
+
+*This blog post is authored by Anna Holder and Corey Clatterbuck from the California Water Boards Office of Information Management and Analysis ([OIMA](https://www.waterboards.ca.gov/resources/oima/)), who assisted the FDD and NMFS Cohorts, respectively, and the Openscapes team (Julie Lowndes and Erin Robinson) who make the Openscapes magic a reality. Here, we describe why we assisted and what we learned through doing so, followed by more details about what we did and what's coming next. See [openscapes.org/champions](https://openscapes.org/champions) for more background on the Champions program.*
+
+---
+
+## Why assist Openscapes?
+
+The California Water Boards Office of Information Management and Analysis ([OIMA](https://www.waterboards.ca.gov/resources/oima/)) was established in 2008 to serve as an advocate for data management, a bridge between data collectors and users, as well as, provide transparency and effective communication of the Water Board’s information management infrastructure. We are advocates and supporters of open data in the agency and the water data community and have recently expanded this work to include advancing open science principles and building data literacy in the Water Boards as a whole.
+
+When we first heard about Openscapes, we wanted to learn more about their process and figure out how we could bring the Openscapes mindset to the Water Boards and our diverse network of partners and collaborators. Our response to the offer to become Openscapes mentors was a very easy and emphatic - YES PLEASE!  
+
+<br>
+
+## What did we learn & what are we doing now? 
+
+When we agreed to be Openscapes mentors, we hoped that we would gain exposure to the overall Openscapes process including the logistics behind preparing for and supporting cohorts. We also wanted to spend time thinking about how we, as individuals, could integrate Openscapes practices and tools into our work. We got all of that and SO. MUCH. MORE! 
+
+After our first preparatory conversation with Julie and Erin, our minds were full of ideas about how we could incorporate Openscapes tools, processes, and workflows into our daily work. One day Julie screenshared to show us how to use the R package Distill to create an event page for the FDD Cohort. We were then able to create the NMFS page on our own, and push it as a draft to GitHub so it was waiting for her to publish it. Not only seeing this was possible for the first time but then doing it ourselves really helped us see how this could be implemented in our own work. Plus, it was neat to collaborate so easily and use familiar technology (R) for writing, communication, and publishing. Corey was able to roll up a github.io webpage for an (at the time) upcoming [California Trash Data Dive](https://cawaterboarddatacenter.github.io/trash-data-dive-2021/) within days of that meeting. Anna began looking into how we could streamline, document, and automate our reporting and communication workflows.  We haven’t developed any products for that work just yet - but conversations have begun and we plan on strategically implementing updated workflows in 2022!
+
+As mentors we have been able to observe and support the FDD and NMFS cohorts, and we also learned a lot by hearing the discussions participants were having with their own messy/confidential/big data and contribute to those conversations with our own experience. Through that process we have learned and internalized some key lessons:
+
+1. ***Openscapes is a mindset***
+At first glance, Openscapes can seem like a sort of coding training series. While discussions and skill building opportunities (guest speakers, GitHub clinics, seaside chats, co-working sessions) make space for technical conversations and troubleshooting, the overall process is really about workflows. Openscapes provides a space and a structure for teams to temporarily pause their regular work discussions so they have the time and mental bandwidth to think through and talk about how they work, and how they can do it more openly, accessibly, and efficiently. Many of us might go through that sort of process on an individual level, but making space to have those conversations within and across teams - especially if individuals are from different organizations or agencies - can drastically broaden conversations and result in more holistic and streamlined solutions and communication pathways.
+
+2. ***We are not alone!***
+The datasets, details, and contexts around the work we do might be different - and that can often be the focus when we’re from the Water Boards and others are in the Fisheries Service. But the data and workflow challenges are remarkably similar, and when we discuss these challenges (and solutions!) together we can learn from each other and waste a whole lot less time than when we try to tackle the problems alone in our silos. Taking the time to increase the openness and transparency of our workflows helps improve processes and practices so they are more reproducible, transparent, inclusive, and kind.
+
+3. ***Onboarding can (and should!) be so much more than finding the bathroom***
+All of us have gone through some form of an onboarding process: meet the team, meet with HR to complete your I-9 and health insurance forms, find your desk and, yes, find the bathroom. But how many of us are able to utilize that process to explicitly learn about work culture/expectations, and given an easy, one-stop-shop manual that describes how to find the data and resources relevant to our work, and how to add/contribute to those resources over time so that it’s up-to-date and augmented with our perspective for the next person. 
+Dedicating time to think through and document the components of your workflow that are described in the Openscapes Pathway document can help streamline onboarding and offboarding processes as well as serve as a resource and reminder to folks that have been on the team for a while (including future us!). Better still - there are already a number of past Openscapes teams that have developed these types of documents in an open format that can be used as a template or inspiration for any documentation you want to create ([Faylab Manual](https://thefaylab.github.io/lab-manual/culture.html) = GOLD)!
+
+4. ***Going through the Openscapes process is an investment***
+Many of us are already juggling too many things in the work we do and the thought of adding another ball in the air can feel daunting...impossible even. It does take time and energy to go through the Openscapes process. This is not a passive experience (i.e. it’s not a webinar or a meeting to show up to). Getting everything you can out of Openscapes requires active engagement during calls and working together in between calls, which teams do through [Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/). Giving ourselves and our teams the time and space to do so can significantly improve workflows and efficiency immediately and down the road. The potential returns on this investment in time and focus are massive - *IF* we, as individuals and as teams, fully commit ourselves to the process. 
+
+<br>
+
+## What did “assisting” look like for us?
+
+When Julie and Erin asked us to be mentors they let us determine the depth and breadth of that commitment. We could choose to take a light touch approach or we could dive in, but they were clear that we wouldn’t be “shadowing” - we would be assisting through contributing to the cohort during, before, and after calls. This meant that we’d learn by doing, which is exactly what we were hoping for since we wanted to use the experience to prepare ourselves to lead our own Cohort at the Water Boards.
+
+We have some experience with meeting and event facilitation so we know from personal experience that getting one additional person to provide simple tech support or help with note taking can significantly lighten the load for the main meeting facilitator and speakers during the meeting. Moreover, providing that assistance doesn’t take that much preparation or time so long as we are available during the meeting time - we were happy to take on those roles during Cohort calls. 
+
+Because of our interest in learning as much as we could about the logistics of leading or supporting the Openscapes process at the Water Boards, we choose to take on a little more than the minimum mentor responsibilities. We elected to take the lead on writing up the meeting summaries ([Digests](https://openscapes.github.io/approach-guide/champions/leading-cohort-calls.html#digests)) after each cohort call and attend Seaside Chats with Julie, Erin, and other mentors before the beginning of the cohorts, in between cohort calls, and after the last cohort call. Writing up the Digests did take some time but because Julie and Erin already have templates and examples for everything (seriously...everything!) adding this to our mentor workload didn’t feel like a heavy lift. The Seaside Chats were hands-on training opportunities for us. Julie and Erin walked us through the Openscapes process, prepared us for any upcoming mentor responsibilities, shared resources, and made time for skill building - we even got our own GitHub clinic! Julie and Erin said this was a great opportunity for them to practice since they were iterating the order and length of the GitHub Clinic.
+
+Committing time and energy to assist with Openscapes Champions Cohorts is not inconsequential - but it feels like a bargain! We get to observe Openscapes pros do their amazing work, learn from their expertise and resources, and connect with and learn from cohort speakers and teams for only 1-3 hours of commitment each week. This table shows our time commitments for 2021, and this will be the starting point as we develop plans for 2022 as well!
+
+
+<table>
+  <tr>
+   <td><strong>Task</strong>
+   </td>
+   <td><strong>Time commitment</strong>
+   </td>
+   <td><strong>Frequency</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Seaside chats
+<p>
+(pre-cohort)
+   </td>
+   <td>1 hour/chat; 3 chats total
+   </td>
+   <td>Every other week (started 2 months before Cohort Calls)
+   </td>
+  </tr>
+  <tr>
+   <td>Cohort Calls & GitHub Clinic (logistical support)
+   </td>
+   <td>1.5 hours/call; 4 calls total
+   </td>
+   <td>Every other week (alternating with Seaside chats)
+   </td>
+  </tr>
+  <tr>
+   <td>Cohort Digests
+   </td>
+   <td>~1.5 hrs/Digest; 4 total
+   </td>
+   <td>Every other week, a day or so after each Cohort Call
+   </td>
+  </tr>
+  <tr>
+   <td>Seaside chats
+<p>
+(during & post-cohort)
+   </td>
+   <td>1 hour/call; 6 chats total
+   </td>
+   <td>Every other week (ended 2 months after the last Cohort Call)
+   </td>
+  </tr>
+</table>
+
+<br>
+
+## Next Steps & Paying it Forward
+
+Being mentors for the Openscapes process has been fantastic, not only for learning the Openscapes approach but also for learning from the Champions! Our immediate next steps as individuals and a team are to continue to apply Openscapes principles into our work. We are looking forward to attending and supporting the 3-month check-in with our respective Champions Cohorts to see how those teams have been doing and learning from the progress they will have made. 
+
+From an organizational perspective - we’re all about paying it forward. We want to share what we have learned, and the Openscapes process as a whole with the Water Boards and our partners. The details of how we are going to make this happen are still in progress but we do intend to lead a small cohort of folks at the Water Boards through the Openscapes Champions Program. We are looking forward to working with Julie and Erin to contribute to the [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/) to document what we learn through this process so others can do the same in the future. Finally, and most importantly, we are looking forward to joining the rest of the awesome Openscapes Community to create a positive open culture in our teams, organizations, and networks to enable better, more equitable, and kinder science in less time!
+
+<br>
+  <img src="/img/blog/sy-river-sycamore.jpeg" width="350px">
+  <figcaption> Photo by Julie Lowndes. </figcaption>
+<br>
+
+

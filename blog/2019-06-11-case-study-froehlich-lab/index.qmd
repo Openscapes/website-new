@@ -1,0 +1,86 @@
+---
+title: "Champions Case Study: Froehlich Lab"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Froehlich Lab
+date: 2019-06-11
+slug: froehlich-lab
+categories:
+  - community
+  - champions
+  # - impact
+  - case-study
+image: ../../img/blog/froehlich-lab.png
+---
+
+# Champions Case Study: Froehlich Lab 
+
+*We have just concluded our inaugural cohort of Openscapes Champions. While sad to conclude, all Champion labs have so many exciting accomplishments and so much momentum for open data science, and it is truly just the beginning. Here we are posting individual case studies of accomplishments from Champions labs.*
+
+---
+
+[**The Froehlich Lab**](https://halleyfroehlich.wordpress.com/) will be at the University of California at Santa Barbara, established on July 1, 2019. We are a marine aquaculture & fisheries science lab studying global food systems and climate change. Participating in Openscapes is [incoming Professor Halley Froehlich](https://halleyfroehlich.wordpress.com/).
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/froehlich-lab.png" width="350px"></a>
+</center>
+
+<br>
+
+Openscapes was an opportunity for me to onboard myself to my own lab. My work is very collaborative and I have systems and software I use with different collaborators — for example if there are at least 5 people working on a project, we will use GitHub. But if smaller amount of people we usually use Dropbox. I've spent the past five months thinking about what systems we should set up in the Froehlich Lab and learning how other Champions labs are set up in the digital space and getting ideas for what works and what to look into further. I've also learned about some R packages I need to be using and excited to pass it forward to my colleagues:
+
+
+<br> 
+
+<center>
+ <a href="https://twitter.com/DocFroehlich/status/1085990833571020800">
+    <img src="/img/blog/halley-rnoaa-tweet.png" width="350px">
+  </a>
+</center>
+
+<br>
+
+This year I've also been designing my laboratory space, and done so to enable collaboration and open discussion in the physical realm. Meeting the other champions at the Summit in March was a great experience, I learned so much from these other inspirational scientists, and they are really nice people too!
+
+<br> 
+
+<center>
+  <a href="https://twitter.com/DocFroehlich/status/1112053451175817222">
+  <img src="/img/blog/halley-summit-tweet.png" width="350px">
+  </a>
+</center>
+
+<br>
+
+
+Other plans as I get my lab up and running: 
+
+- Organize Google folders
+- Use Github from the getgo to organize projects :D
+- Try using Zotero in Google docs
+- Figure out how to use the on campus servers (thanks @EcoDataSci!)
+- Determine how and where past student projects and data will live (especially if not published)
+- Slack is probably in my future for my students, not sure about me
+- Set up lab Github & use for sharing
+- Develop workflow and best practices for incoming students and postdocs
+- Determine how to coordinate with  @CARTsci
+
+
+
+<br>
+
+Congratulations Halley and the new Froehlich Lab! 
+
+<br>
+
+---
+
+Relevant posts: 
+
+- [Openscapes Champions incorporate open practices in their science](https://www.openscapes.org/blog/2019/03/27/champions-incorporate-open-science/)
+- [Openscapes summit reflections — becoming champions](https://www.openscapes.org/blog/2019/04/08/summit-reflections1/)
+- [Openscapes summit reflections 2 — Changing the way we do science](https://www.openscapes.org/blog/2019/04/25/summit-reflections2/)
+
+<br>
+

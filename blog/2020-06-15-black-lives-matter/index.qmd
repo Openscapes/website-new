@@ -1,0 +1,21 @@
+---
+title: "Black lives matter"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Julie Lowndes
+date: 2020-06-15
+slug: lessons-remote-meetings
+categories:
+  - community 
+image: ../../img/blog/mountainscape-jsl-square.jpg
+---
+
+*Over the past weeks, protests throughout the US and around the world have been calling out systemic, anti-Black racism and calling for justice for George Floyd, Breonna Taylor, Ahmaud Arbery, and countless others. Our country is facing a reckoning and we need to take individual and collective action to fight for justice and anti-racism.*
+
+---
+
+I have been slow to speak out, focused on listening and learning and understanding my role in systemic anti-Black racism, including in [academia](https://medium.com/the-faculty/white-academia-do-better-fa96cede1fc5) and [environmental science](https://www.vice.com/en_us/article/889qxx/its-time-for-environmental-studies-to-own-up-to-erasing-black-people) and [data science](https://towardsdatascience.com/5-steps-to-take-as-an-antiracist-data-scientist-89712877c214). And trying to figure out what I can do to support ongoing efforts for racial justice and true change. I have been quiet, worried that I'll say the wrong thing. But silence is part of the problem. We all need to be deliberately and actively and tirelessly anti-racist. We need to listen, act as supportive allies, and fight for Black lives. So I commit to speaking up and doing better. And Openscapes will do better, to show up for racial justice and for true change.
+
+
+<br>
+  <img src="/img/blog/mountainscape-jsl.jpg" width="300px"></a>
+<br>

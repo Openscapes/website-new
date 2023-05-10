@@ -16,7 +16,7 @@ listing:
     categories: false
     sort-ui: false
     filter-ui: false
-    fields: [title, image, description, date]
+    fields: [title, image, description, date, categories]
   - id: recent-blog-listing
     contents:
       - "blog/*/index.qmd"
@@ -27,7 +27,7 @@ listing:
     categories: false
     sort-ui: false
     filter-ui: false
-    fields: [title, image, description, date]
+    fields: [title, image, description, date, categories]
 ---
 
 ::: column-screen
@@ -137,7 +137,7 @@ Openscapes bridges data-intensive environmental science with the open movement. 
 ::: {.blue-underline .center-text}
 # **FROM OUR BLOG**
 :::
-[Blog posts](blog.qmd) are both Openscapes stories and advice snippets for the community. Some are cross-posted on [Medium.com](https://medium.com/@openscapes). Also, see our [media page](media.qmd) for media, presentation slide decks, and publications.
+Blog posts are both Openscapes stories and advice snippets for the community. Some are cross-posted on [Medium.com](https://medium.com/@openscapes). See our most recent posts below (and browse our full blog listing [here](blog.qmd)):
 
 ::: {#recent-blog-listing}
 :::

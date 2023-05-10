@@ -2,6 +2,7 @@
   {
     "listing": "/events.html",
     "items": [
+      "/events/2023-05-08-reflections/index.html",
       "/events/2023-04-19-nasa-champions/index.html",
       "/events/2023-03-31-utm-biology/index.html",
       "/events/2023-03-28-sean-kross-kyber/index.html",
@@ -70,15 +71,41 @@
       "/events/2022-06-30-sefsc/index.html",
       "/events/2022-06-09-hello-quarto/index.html",
       "/events/2022-04-08-qda-beth-duckles/index.html",
-      "/blog/2023-03-22-new-test/index.html",
-      "/blog/2023-03-21-test/index.html"
+      "/blog/2023-02-16-noaa-afsc-fall/index.html",
+      "/blog/2023-01-24-noaa-nmfs-fall/index.html",
+      "/blog/2022-09-30-sefsc-summer/index.html",
+      "/blog/2022-04-26-beth-duckles/index.html",
+      "/blog/2022-04-07-afsc-supportive-forum/index.html",
+      "/blog/2021-12-07-california-waterboards-mentors/index.html",
+      "/blog/2021-10-01-allison-hill/index.html",
+      "/blog/2021-09-15-better-science-for-future-us/index.html",
+      "/blog/2021-01-06-audience-building/index.html",
+      "/blog/2020-09-30-advisory-meeting/index.html",
+      "/blog/2020-07-06-better-data-management-for-better-science/index.html",
+      "/blog/2020-06-15-black-lives-matter/index.html",
+      "/blog/2019-06-11-case-study-froehlich-lab/index.html",
+      "/blog/2019-05-30-case-study-horst-lab/index.html",
+      "/blog/2018-11-06-build-communities/index.html"
     ]
   },
   {
     "listing": "/blog.html",
     "items": [
-      "/blog/2023-03-22-new-test/index.html",
-      "/blog/2023-03-21-test/index.html"
+      "/blog/2023-02-16-noaa-afsc-fall/index.html",
+      "/blog/2023-01-24-noaa-nmfs-fall/index.html",
+      "/blog/2022-09-30-sefsc-summer/index.html",
+      "/blog/2022-04-26-beth-duckles/index.html",
+      "/blog/2022-04-07-afsc-supportive-forum/index.html",
+      "/blog/2021-12-07-california-waterboards-mentors/index.html",
+      "/blog/2021-10-01-allison-hill/index.html",
+      "/blog/2021-09-15-better-science-for-future-us/index.html",
+      "/blog/2021-01-06-audience-building/index.html",
+      "/blog/2020-09-30-advisory-meeting/index.html",
+      "/blog/2020-07-06-better-data-management-for-better-science/index.html",
+      "/blog/2020-06-15-black-lives-matter/index.html",
+      "/blog/2019-06-11-case-study-froehlich-lab/index.html",
+      "/blog/2019-05-30-case-study-horst-lab/index.html",
+      "/blog/2018-11-06-build-communities/index.html"
     ]
   }
 ]

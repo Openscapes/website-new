@@ -1,0 +1,32 @@
+---
+title: "An R Markdown Chat with Alison Hill"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Erin Robinson, Julie Lowndes, Alison Hill
+date: 2021-10-01
+slug: alison-hill
+categories:
+  - community
+image: ../../img/blog/apreshill-web.jpg
+---
+
+## An R Markdown Chat with Alison Hill
+
+Our 3rd Openscapes Community Call featured a chat with [Dr. Alison Hill](https://www.apreshill.com/), product manager for data science communication at RStudio. Alison is a data scientist, behavioral scientist, and award-winning educator and we were thrilled to chat with her! The recording is on [Openscapes YouTube](https://youtu.be/79m1zaugEqE). 
+
+Our conversation was about why we are so enthused with R Markdown, and why we think it is so transformative for scientists. We discussed two main themes (thinking that this would be an introduction to R Markdown, a first of three conversations): 
+
+1. **R Markdown helps us iterate while we work**, since our code, outputs (figures and tables), and text are all in the same place. This means that instead of those things being in separate places (and our brains being in separate places), it's more efficient to develop and document our analyses as we go — and no more copy-pasting figures into a different document!
+2. **R Markdown has changed how we approach science communication** and publishing since we can create not only Word documents and PDFs but also webpages, websites, e-books, slides, and more as a part of our daily workflows. This ability to openly share your work has been transformational for Openscapes, and played a foundational role in the whole design and how we work on a daily basis (see related: [Data science as an entryway to open publishing](https://zenodo.org/record/3873698#.YVsTJqBlD0p), Lowndes & Tierney 2020) 
+
+There was a lot conversation in the chat and also discussed out loud as a Q&A with Alison. One big theme was about modularization and how to keep R Markdown documents from becoming too unruly. Strategies included writing R code in functions or separate scripts that are called into the R Markdown document through a code chunk, or writing [child documents](https://bookdown.org/yihui/rmarkdown-cookbook/child-document.html) that are knit into the main document.
+
+<br>
+<center>
+  <a> <img src="/img/blog/apreshill-web.jpg" width="300px"></a>
+</center>
+<br>
+
+As always, it was a pleasure to chat with Alison! Looking forward for further chats. Thanks so much for all you do!
+
+<br>
+

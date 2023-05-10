@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-image','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-image','listing-description','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
@@ -101,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-image','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-image','listing-description','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
@@ -322,6 +322,11 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="no-anchor card-title listing-title">
 Openscapes: supporting kinder science for future us
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('community'); return false;">
+community
+</div>
+</div>
 <div class="card-text listing-description">
 <p>Julie Lowndes and Ileana Fenwick speaking in University of Toronto Missisauga Biology Seminar Series</p>
 </div>
@@ -344,6 +349,11 @@ Mar 31, 2023
 <h5 class="no-anchor card-title listing-title">
 Designing automated workflows with Dr.&nbsp;Sean Kross
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('community'); return false;">
+community
+</div>
+</div>
 <div class="card-text listing-description">
 <p>How the kyber R package connects Google Sheets, RMarkdown, GitHub, and Agenda docs for open education</p>
 </div>
@@ -366,6 +376,11 @@ Mar 28, 2023
 <h5 class="no-anchor card-title listing-title">
 WiDS Stanford 2023
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('conference'); return false;">
+conference
+</div>
+</div>
 <div class="card-text listing-description">
 <p>Julie Lowndes speaking at Women in Data Science Stanford</p>
 </div>
@@ -419,47 +434,99 @@ No matching items
 <section id="from-our-blog" class="level1 blue-underline center-text">
 <h1><strong>FROM OUR BLOG</strong></h1>
 </section>
-<p><a href="./blog.html">Blog posts</a> are both Openscapes stories and advice snippets for the community. Some are cross-posted on <a href="https://medium.com/@openscapes">Medium.com</a>. Also, see our <a href="./media.html">media page</a> for media, presentation slide decks, and publications.</p>
+<p>Blog posts are both Openscapes stories and advice snippets for the community. Some are cross-posted on <a href="https://medium.com/@openscapes">Medium.com</a>. See our most recent posts below (and browse our full blog listing <a href="./blog.html">here</a>):</p>
 <div id="listing-recent-blog-listing" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="test" data-listing-date-sort="1679468400000" data-listing-file-modified-sort="1679502908884" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<a href="./blog/2023-03-22-new-test/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="community,champions,noaa-fisheries" data-listing-date-sort="1676534400000" data-listing-file-modified-sort="1683730454695" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11">
+<a href="./blog/2023-02-16-noaa-afsc-fall/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./blog/2023-03-22-new-test/horst_openscapes_arctic_1500px.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="./img/blog/2022-afsc-zoom-square.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Test Post 2
+Impacts of Openscapes Training on Open Science Movement Building Inside NOAA’s Alaska Fisheries Science Center
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('community'); return false;">
+community
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('champions'); return false;">
+champions
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('noaa-fisheries'); return false;">
+noaa-fisheries
+</div>
+</div>
 <div class="card-text listing-description">
-<p>testing description 2</p>
+
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
-Mar 22, 2023
+Feb 16, 2023
 </div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="test" data-listing-date-sort="1679382000000" data-listing-file-modified-sort="1680492817864" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<a href="./blog/2023-03-21-test/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-categories="community,noaa-fisheries" data-listing-date-sort="1674547200000" data-listing-file-modified-sort="1683729225505" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11">
+<a href="./blog/2023-01-24-noaa-nmfs-fall/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./blog/2023-03-21-test/horst_openscapes_grassland_1500px.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="./img/blog/2022-noaa-sefsc-fall-tpb-square.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Test Post
+Nationwide Openscapes Training at NOAA Fisheries Science Centers: Facilitating Collaboration, Skill-sharing, and Open Science
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('community'); return false;">
+community
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('noaa-fisheries'); return false;">
+noaa-fisheries
+</div>
+</div>
 <div class="card-text listing-description">
-<p>testing description</p>
+
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
-Mar 21, 2023
+Jan 24, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="community,champions,noaa-fisheries" data-listing-date-sort="1664521200000" data-listing-file-modified-sort="1683730465538" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
+<a href="./blog/2022-09-30-sefsc-summer/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./img/blog/sefsc-fates-commsplan-square.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Aligning mission around collaborative practices, with researchers, supervisors, and IT
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('community'); return false;">
+community
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('champions'); return false;">
+champions
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('noaa-fisheries'); return false;">
+noaa-fisheries
+</div>
+</div>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Sep 30, 2022
 </div>
 </div>
 </div>

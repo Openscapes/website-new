@@ -1,0 +1,88 @@
+---
+title: "Advising the future of Openscapes"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Advisory Group
+date: 2020-09-30
+slug: advisory-meeting
+categories:
+  - community
+  - champions
+image: ../../img/blog/mrlowndes-20141209-DSC_2356-square.jpg
+---
+
+***Cross-posted: [Mozilla](https://foundation.mozilla.org/en/blog/advising-the-future-of-Openscapes/), [NCEAS](https://www.nceas.ucsb.edu/news/advising-future-openscapes)***
+
+*In August Openscapes held an advisory meeting, made possible with support from Mozilla. This event remotely convened a wide spectrum of biomedical open data science leaders to discuss how Openscapes could meet biomedical community needs. Openscapes’ roots are in environmental science but there has been increasing interest in becoming involved from the biomedical communities as well. This event started the conversation on topics we should consider to serve and strengthen biomedical and other communities more broadly. We have learned a tremendous amount from Mozilla Open Leaders and followed their best practices, including a stated code of conduct and multiple channels for participation, to create an inclusive space where everyone felt empowered to learn, share and ask questions.* 
+
+<br>
+<center>
+  <img src="/img/blog/mrlowndes-20141209-DSC_2356.jpg" width="700px"></a>
+  <figcaption>Photo by Elliot Lowndes. 
+</figcaption>
+</center>
+<br>
+
+## Goal 1: Get to know each other through sharing leadership experiences 
+
+Due to COVID, the event was down-sized to a 2-hour call, so this asynchronous pre-work enabled us to reduce the synchronous time together. An exciting group of advisors (full list below) did “prework” before the meeting to get a sense of Openscapes’ vision, program, and momentum. This minimized spending in-person time on background in favor of hearing more from every participant. 
+
+The pre-work included everyone preparing a 5 minute statement where they shared with the group 1) an introduction to the person their work, their communities, their vision; 2) something they think/do/use/know that has improved their work, leadership, or impact that would benefit this group (could be process, technology, a cautionary tale...) and 3) what is the hardest part of your work. (The idea for that last question came from [Kirstie Whitaker](https://twitter.com/kirstie_j) during a conversation at MozFest 2019). 
+
+Folks shared really interesting stories and perspectives building from their work. They lead trainings for researchers as well as for leadership, and build and support learning communities like [Life Science Trainers](https://lifescitrainers.org/),  [BioData Club](https://biodata-club.github.io/), [H3ABioNet](https://h3abionet.org/), [ASBCB](http://www.asbcb.org/index.php), [Community of Bioinformatics Software Developers](https://comunidadbioinfo.github.io/), [LIBD rstats club](http://research.libd.org/rstatsclub/#.X0kQ00l7nUI), [Mozilla Open Leaders](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/), and [E2M2: Ecological and Epidemiological Modeling in Madagascar](http://e2m2.org/). From their statements we discussed further as a full group, asking questions, finding synergies, and developing a better understanding of some of the different approaches and efforts going on in this space. 
+
+
+## Goal 2: Reflect on themes and shared needs 
+
+Perhaps the biggest recurring theme was the importance of community. We talked about this from a leadership perspective in terms of the importance of letting other people in and a mindset where you can learn from anyone. This attitude is key to an inclusive program and they are a critical sustainability strategy as well. Finding ways to center community building is the way to make efforts more sustainable. Including others means you getting more comfortable sharing imperfect work and delegating is a great way to train & level-up community members to take on more leadership.
+
+Another theme was how working in open data and open science spaces brings up feelings of loneliness, not fitting into a ‘normal’ domain, shame or ‘not doing it right’. And how these feelings lead naturally into conversations around empathy, resilience and collaboration. Kindness and thinking more deeply about what you DO bring to the table is a helpful strategy.
+
+We talked about engaging with different audiences and the importance of curating information: the need to both communicate information AND protect people from (irrelevant or distracting) information. This means curating information and annotating it for different audiences to help them make better decisions as they engage. This is particularly important to foster buy-in from leadership that supports the time and effort involved for others to learn.
+
+Another topic was about how research groups are often not trying to do open science – they are trying to make their analytical experience less painful. This brought up the idea of the “trojan horse”: meeting analytical needs but also introducing open science practices at the same time. This also tied into how providing motivation is a big part of our work, and how important storytelling is for motivation. Sharing your learning path, and showing humility and vulnerability, can be some of the best traits in a teacher. 
+
+
+## Goal 3: how to improve Openscapes going forward
+
+As break-out groups we focused on specific questions for Openscapes: What gaps or opportunities do you see for Openscapes? What could make Openscapes better suited for biomed communities? What existing needs do you see as unfilled in your biomed communities? 
+
+We talked about time as a big issue; how to help folks prioritize Openscapes/open data science with their other responsibilities? Advice here was to focus on the value exchange: illustrate how it’s worth the time spent, and be clear what they’ll be getting out of it. This means being very cognisant of the cost/labor involved in participation being very explicit of offering incentives and rewards. Encouraging people to make community activities and learning part of their job instead of something extra. With storytelling, focus on what the journey could look like for research teams: Your lab is doing A, B, C, this is what the journey to D, E, F looks like. On the other hand, you don’t want people to overcommit. So in addition to the value exchange, perhaps there is a lightweight version of Openscapes that could have different levels of lessons, messaging, intensity, etc. 
+
+We also discussed that identifying and naming explicit roles can be very effective – both at events but also within research teams.
+
+Programmatically, we need to focus on what makes Openscapes unique, and communicating that it has staying power. People love to spin up new stuff but is this initiative going to stick around? 
+
+----
+
+
+## Next steps
+
+It was so valuable to have the opportunity to learn from this group. There is a lot more to reflect on but one of the biggest take-homes for me was around communicating the vision and the services Openscapes provides, and how it fits in and complements other existing efforts. And also thinking about the value exchanges for participants. Engaging in open data science is not only about time and effort – which are substantial – but also about changing the way we’ve been working for our whole careers. Both time and change are hard, so how can we really focus on meeting scientists where they are and providing them with what they need. 
+
+
+## Advisory Group
+
+Cara Brook ([Twitter](https://twitter.com/caraebrook?lang=en),[ web](https://carabrook.github.io/))
+
+Abby Cabunoc Mayes ([Twitter](https://twitter.com/abbycabs), [web](https://acabunoc.github.io/))
+
+Robin Champieux ([Twitter](https://twitter.com/rchampieux?lang=en),[ web](https://tislab.org/rchampieux.html))
+
+Leo Collado-Torres ([Twitter](https://twitter.com/fellgernon),[ web](http://lcolladotor.github.io/))
+
+Jean Davidson ([Twitter](https://twitter.com/JeanMDavidson),[ web](https://www.linkedin.com/in/jean-davidson-9060b52/))
+
+Amel Ghouila ([Twitter](https://twitter.com/amelghouila?lang=en),[ web](https://amelgh.github.io/))
+
+Sean Kross ([Twitter](https://twitter.com/seankross), [web](https://seankross.com/about/))
+
+Ted Laderas ([Twitter](https://twitter.com/tladeras),[ web](http://laderast.github.io/))
+
+Julie Lowndes ([Twitter](https://twitter.com/juliesquid), [web](http://jules32.github.io)) (host)
+
+Erin Robinson ([Twitter](https://twitter.com/connector_erin), [web](https://erinrobinson.net/))
+
+Jason Williams ([Twitter](https://twitter.com/JasonWilliamsNY),[ web](https://jasonjwilliamsny.github.io/profile/))
+
+
+<br>

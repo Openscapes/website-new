@@ -1,0 +1,38 @@
+---
+title: "Better Data Management for Better Data Science"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Darcy Bradley
+date: 2020-07-06
+slug: rstudioconf-2020
+categories:
+  - community
+  - art
+  - coding
+image: ../../img/blog/emLab-code-square.png
+---
+
+***Cross-posted at [emLab](https://emlab.msi.ucsb.edu/news/blog/better-data-management-better-data-science)***
+
+*This is a guest post from [Darcy Bradley](https://www.darcybradley.com/), marine ecologist and Research Director of the [Environmental Market Solution Lab](https://emlab.msi.ucsb.edu/)'s Ocean Program at UC Santa Barbara. A leader in many realms, Darcy is thrilled to be a part of a community that celebrates open and reproducible data science; this post provides a glimpse into how she engaged that community to help her and her team improve project and data management for her research group.*
+
+---
+
+One year ago, I wrote a [blog post](https://emlab.msi.ucsb.edu/news/blog/whats-so-big-about-big-data) about the exciting role big data promises to play in revolutionizing natural resource management. Indeed, our research program has rapidly evolved to take advantage of the huge amounts of information made available by new technologies and [clever data platforms](https://globalfishingwatch.org/). While this exciting transition has enabled us to ask questions that weren’t even imaginable just a few short years ago, our increasing reliance on externally sourced data, expanded collaborative networks, and high powered computing infrastructure to handle increasingly complex analyses has not been without growing pains. The imperative for a thoughtful and standardized data infrastructure was something we could no longer ignore. 
+
+So this is a story of our journey from opaque project structures to standardized, transparent, and version controlled workflows. It’s a story of learning from others, leveraging our team’s extensive data science and project management expertise, and working to build a streamlined and thoughtful data infrastructure. Ultimately, it’s a story that can best be told through the lessons we’ve learned along the way. 
+
+**Lesson 1. Don’t reinvent the wheel.** Fortunately for us, Santa Barbara is no stranger to open data science and innovative project management. Our friends and neighbors at the [National Center for Ecological Analysis and Synthesis](https://www.nceas.ucsb.edu/) (NCEAS) -- and their [Ocean Health Index](http://www.oceanhealthindex.org/) team in particular -- are global leaders in open environmental data science. Senior Fellow and Data Scientist Dr. Julia Stewart Lowndes has been at the forefront of NCEAS’s pioneering open science efforts, recently founding [Openscapes](https://www.openscapes.org/) to train others in open science practices to enable “better science in less time.” Julie became our data streamlining guru -- she quickly identified that we ought to consider crafting a data management standard operating procedure (offering [her team’s SOP](https://rawgit.com/OHI-Science/ohiprep/master/src/dataOrganization_SOP.html) as an example) and provided [resources](https://www.nature.com/articles/s41559-017-0160) and [guidance](https://openscapes.github.io/series/) to set us on our way.
+
+**Lesson 2. Collaborative science is the best science.** To effectively create a new vision for our internal data infrastructure, we knew we needed to draw on the wide range of expertise from our team. A self-assembled group of data managers, project researchers, and project managers began to meet regularly to map out an aspirational data and project management infrastructure. We reflected upon the collaborative software platforms, open data science, and project management tools that worked best for our team. We recorded best practices for file structure, naming, data storage, and metadata and thought through script standardization and version control. We assembled how-to guides for leveraging high performance computing resources of ever growing importance for our memory intensive analyses. Importantly, we connected the dots between our workstreams to actualize our vision of a fully integrated data management system, which we collaboratively documented in the [**emLab Standard Operating Procedure**](https://emlab-ucsb.github.io/SOP/index.html). And then we turned it loose, inviting the entire emLab community to participate in a one day Data Hackathon to document and migrate our data inputs, outputs, and repositories to our now centralized and streamlined data system.
+
+<br>
+<center>
+  <img src="/img/blog/emLabHacky.jpg" width="500px"></a>
+   <figcaption>emLabers hard at work during our one day data Hackathon
+</figcaption>
+</center>
+<br>
+
+**Lesson 3.** **Iterate and evolve.** Our SOP is a living document that will continue to evolve as we do. There is an ebb and flow to the chatter on our “data-streamlining” Slack channel but we are collectively committed to continually improving our data practices and our SOP as needs arise. We’ve learned that a commitment to better data management takes time and effort, but the payoff is immediate. Our SOP is the centerpiece of our onboarding process, and our improved data infrastructure has already been leveraged to synthesize vast and disparate elements of global fisheries data into a user-friendly, interactive [online tool](https://emlab-ucsb.shinyapps.io/wff-fisheries-assessment/). As a team committed to conducting research for real-world impact, our approach is inherently outward looking, forward thinking, and often based on externally generated sources of information. Our journey to re-envision our data infrastructure required us to reflect instead on our internal processes, to tear them apart and collectively rebuild something better, something more thoughtful and transparent, a new system that affirms our commitment to open and reproducible data science. 
+
+<br>

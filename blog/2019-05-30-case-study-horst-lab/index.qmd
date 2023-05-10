@@ -1,0 +1,76 @@
+---
+title: "Champions Case Study: Horst Lab"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Horst Lab
+date: 2019-05-30
+slug: horst-lab
+categories:
+  - community
+  - champions
+  # - impact
+  - case-study
+image: ../../img/blog/horst-tidyverse-nebula.jpg
+---
+
+# Champions Case Study: Horst Lab 
+
+*We have just concluded our inaugural cohort of Openscapes Champions. While sad to conclude, all Champion labs have so many exciting accomplishments and so much momentum for open data science, and it is truly just the beginning. Here we are posting individual case studies of accomplishments from Champions labs.*
+
+---
+
+[**The Horst Lab**](https://allisonhorst.github.io/) teaches stats & data analysis to environmental science grad students at the Bren School for Environmental Science and Management at the University of California at Santa Barbara. Participating in Openscapes is lecturer [Dr. Allison Horst](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) and PhD candidate and lead teaching assistant [Jessica Couture](https://www.bren.ucsb.edu/research/Jessica_Couture1.htm). 
+
+- Allison: My favorite part of teaching is seeing initially (data) intimidated students grow throughout the quarter(s) to become confident and curious R-users who can responsibly wrangle and analyze their own real-world data, then successfully communicate results. 
+
+- Jessica: I study marine aquaculture and sustainable food systems and incorporate open science practices in my work. I love teaching data and open science methods with Allison because it is great to be able to lower the barriers to these practices and move more scientists towards open and collaborative work.
+
+
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/horst-tidyverse-nebula.jpg" width="350px"></a>
+  <figcaption>Tidyverse nebula by Allison Horst</figcaption>
+</center>
+
+<br> 
+
+The [Horst Lab Case Study](https://docs.google.com/document/d/17CxyclpaG74E5U5P41asybkOAeruS1RxRL6kQGXLw7Y/edit) shares our accomplishments for streamlining how we teach two courses. The introductory course, ESM 206, is ~100 graduate students from Bren and other departments, and additionally the optional advanced course, ESM 244, reached enrollment of 68 students from departments across campus in 2019! In both courses, we emphasize open practices and tools (R, RStudio, GitHub) for reproducibility and collaboration, along with data analysis concepts and methods. As a preview, we learned that: 
+
+> "being a champion for open data science doesn’t always mean being an expert in R or GitHub (or data science more generally). It means that I can be a champion by helping other people (like my students!) realize the value of open, reproducible, collaborative data analysis and give them the confidence and curiosity to learn useful tools so they can do it on their own." 
+
+Our key accomplishments are: 
+
+- Converted ESM 206 / 244 lectures to Google Slides for sharing
+- Collected all ESM 206 / 244 lab materials, now each an .Rproj, shared on GitHub!
+- Added GitHub to course goals for MESM students (success!)
+- Established [weekly #tidytuesday hacky hours](https://www.openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/) with Gracie White 
+- [Engaged w/ online #rstats community](https://www.openscapes.org/blog/2019/01/15/personify-code/), learned a TON (esp. about useful functions, dataviz, and [how awesome people are in the R community](https://twitter.com/allison_horst/status/1102447015248637953)) 
+- Through twitter, [connected with a lot of people in the R community](https://twitter.com/allison_horst/status/1069288639379603456) 
+- Learned to deal with some [Git merge conflicts in RStudio](https://twitter.com/allison_horst/status/1121501193358864385) and in the command line (excited to teach this in ESM 206 next year!)
+- Merged first pull request 
+- So many great [efficiency/keyboard shortcut tips](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml)! I feel so cool when I use them! 
+- Almost done making [our teaching website](www.allisonhorst.github.io), PSYCHED 
+- Learned a little about css & html (by fumbling)
+- Created a course code of conduct to promote positivity and inclusivity in ESM 206 / 244
+
+<br>
+
+---
+
+Congratulations Allison, Jessica, and all future TAs and students that are lucky enough to take your classes! 
+
+<br>
+
+---
+
+Relevant posts: 
+
+- [Personifying code](https://www.openscapes.org/blog/2019/01/15/personify-code/)
+- [Openscapes Champions incorporate open practices in their science](https://www.openscapes.org/blog/2019/03/27/champions-incorporate-open-science/)
+- [Openscapes summit reflections — becoming champions](https://www.openscapes.org/blog/2019/04/08/summit-reflections1/)
+- [Openscapes summit reflections 2 — Changing the way we do science](https://www.openscapes.org/blog/2019/04/25/summit-reflections2/)
+- [Starting our #tidytuesday hacky hours](https://www.openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/)
+
+<br>
+

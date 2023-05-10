@@ -1,0 +1,74 @@
+---
+title: "Better science for future us"
+author: Erin Robinson, Julie Lowndes
+date: 2021-09-15
+slug: better-science-future-us
+categories:
+  - community
+  - newsletter
+  - nasa-framework
+image: ../../img/blog/horst_mentors_square.png
+---
+
+## Openscapes Newsletter #4: Better Science for Future Us
+
+*Welcome to Openscapes’ fourth newsletter! If you’re interested in seeing these infrequent updates in your inbox, please[ sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from our[ get involved](https://openscapes.org/contact) page).*
+
+*Please join us for our upcoming Community Call: An RMarkdown chat with Alison Hill. September 30, 12pm PT.  Register at [openscapes.org/events](https://openscapes.github.io/events).*
+
+---
+
+## Better science for future us
+
+The start of Fall is nearly here and with the season change and back to school, we are reflecting on Openscapes’ work over the Summer and where we are headed this Fall. [Several presentations](https://openscapes.github.io/events/) this summer provided the  opportunity to hone in on the language that our work is about “better science for future us”. “Better science” means science that is more open, reproducible, efficient, and also more diverse, equitable, inclusive, kind. And “future us” is ourselves, teams, communities in the next hour, week, decades – with a focus on onboarding ourselves and others to ongoing work. 
+
+We have now led 5 Champions cohorts with 35 research teams (and have 3 more starting - see below!). And we are seeing that the Champions program goals supporting better science for future us – like empowering open, team practices to accelerate data-driven research and increase diversity, equity, inclusion, and belonging in science – are happening! Teams are creating GitHub Organizations for sharing code, conversations, and codes of conduct, and these practices are also now showing up in publications (e.g. [Bastille et al 2021](https://www.tandfonline.com/doi/full/10.1080/08920753.2021.1846155)). They are also facilitating and teaching based on what Erin and I have learned and role model through Openscapes. Our work really centers on the common: discussing data workflows, identifying and addressing shared needs, and thinking ahead in an inclusive way while spending less time reinventing. 
+
+The summer was a reflective time for us. And we have been thinking about future us by creating the [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/)! This is our ongoing contribution to helping future us as we continue to run Champions and Mentor Cohorts, and for future us that expands to other organizations that want to run their own Champions cohorts. 
+
+<br>
+<center>
+  <img src="/img/blog/approach-guide-index.jpg" width="700px"></a>
+  <figcaption> The Openscapes Approach Guide, v0.0.1
+</figcaption>  
+</center>
+<br>
+
+## NASA Openscapes Mentors
+
+We’ve been working with the [NASA Mentor Cohort](https://nasa-openscapes.github.io/mentors.html) for over six months; they are a really thoughtful and talented group to learn and build with. 
+
+With learnings from the Champions program, the Mentor Cohort has focused on what will be helpful for future us there too - building community, identifying common activities and needs, creating a common process that is sustainable and will have minimal reinventing and duplications to reduce maintenance down the line. 
+
+NASA Mentors are folks that support researchers using NASA Earthdata from Distributed Active Archive Centers (DAACs), and we’ve been focused on co-creating a shared teaching approach for supporting researchers as they migrate their workflows to the Cloud. DAAC Mentors have participated in Openscapes Cohort Calls and Carpentries Instructors training, and are now collaboratively developing the [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/) using [Quarto](https://quarto.org) and [2i2c](https://2i2c.org) to co-create shared materials that they’ll use for teaching upcoming workshops in November and December. 
+
+<br>
+<center>
+  <img src="/img/blog/earthdata-cookbook-uwg-slides.jpg" width="700px"></a>
+  <figcaption> NASA Earthdata Cloud Cookbook, presenting an work-in-progress at Fall DAAC User Working Group Meetings ([slides](https://docs.google.com/presentation/d/18uj2eAgzetPoq73YnRQpcYr2Q-EPuiHNaFE0sgR1XTE/edit#slide=id.ge2b7c2f974_0_2017))
+</figcaption>  
+</center>
+<br>
+
+
+
+## Looking ahead: Fall Events
+
+**Fall Champions Cohorts**. We are thrilled to be kicking off [3 Champions Cohorts](https://openscapes.org/cohorts) this month with over twenty research teams from the GBMF’s Symbiosis in Aquatic Systems Initiative, NOAA NMFS, and FDD! We have already started getting to know the teams through intro calls and are excited to support them as they work towards their goals for future us, for example improving protocols, data management, and inclusive code and documentation. 
+
+**Community Call: An RMarkdown chat with Alison Hill**. Please join us for a conversation with Dr. Alison Hill ([@apreshill](https://twitter.com/apreshill)) about why we are so enthused with R Markdown, and why we think it is so transformative for scientists. We’ll invite others to share their R Markdown stories and questions, whether you are curious about using R Markdown for research or have examples of how you’re already using it. **September 30, 12pm PT.  Register at [openscapes.org/events](https://openscapes.github.io/events).**
+
+<br>
+<center>
+  <img src="/img/blog/horst_rmarkdown_wizards.jpg" width="700px"></a>
+  <figcaption> R Markdown illustration by Allison Horst
+</figcaption>  
+</center>
+<br>
+
+<br>
+  <a> <img src="/img/blog/horst_mentors_square.png" width="300px"></a>
+    <figcaption> Openscapes Mentors by Allison Horst
+</figcaption>  
+<br>
+

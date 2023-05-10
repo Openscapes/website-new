@@ -66,6 +66,34 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-recent-events-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-image','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-recent-events-listing'] = new List('listing-recent-events-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-recent-blog-listing .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -186,6 +214,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="./events.html" rel="" target="">
  <span class="dropdown-text">ATTEND AN EVENT</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./resources.html" rel="" target="">
+ <span class="dropdown-text">FIND LEARNING RESOURCES</span></a>
+  </li>  
     </ul>
   </li>
   <li class="nav-item compact">
@@ -238,7 +270,6 @@ ul.task-list li input[type="checkbox"] {
 <div class="g-col-4">
 <div class="large-body-text blue-text">
 <p><i class="fa-solid fa-users" title="Three people" aria-label="users"></i></p>
-<!-- `r fontawesome::fa("users", fill = "#38A7BB", a11y = "sem")`  -->
 </div>
 <div class="blue-text medium-body-text">
 <p><strong>ENGAGE</strong></p>
@@ -250,7 +281,6 @@ ul.task-list li input[type="checkbox"] {
 <div class="g-col-4">
 <div class="large-body-text blue-text">
 <p><i class="fa-solid fa-lightbulb" title="A lightbult" aria-label="lightbulb"></i></p>
-<!-- `r fontawesome::fa("lightbulb", fill = "#38A7BB", a11y = "sem")`  -->
 </div>
 <div class="blue-text medium-body-text">
 <p><strong>EMPOWER</strong></p>
@@ -262,7 +292,6 @@ ul.task-list li input[type="checkbox"] {
 <div class="g-col-4">
 <div class="large-body-text blue-text">
 <p><i class="fa-solid fa-earth-americas" title="Planet earth" aria-label="earth-americas"></i></p>
-<!-- `r fontawesome::fa("earth-americas", fill = "#38A7BB", a11y = "sem")`  -->
 </div>
 <div class="blue-text medium-body-text">
 <p><strong>AMPLIFY</strong></p>
@@ -275,56 +304,85 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<!-- ::: column-screen -->
-<!-- ::: white-div -->
-<!-- :::: columns -->
-<!-- ::: {.column width="30%"} -->
-<!-- ::: {.large-body-text .center-text} -->
-<!-- `r fontawesome::fa("users", fill = "#38A7BB", a11y = "sem")`  -->
-<!-- ::: -->
-<!-- ::: {.blue-text .medium-body-text .center-text} -->
-<!-- **ENGAGE** -->
-<!-- ::: -->
-<!-- :::{.medium-gray1-text .small-body-text .center-text} -->
-<!-- **We build awareness and excitement.** We engage scientists with the possibilities of open data science with empathy, art, and storytelling, using narratives like our own [path to better science in less time](https://www.nature.com/articles/s41559-017-0160) -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: {.column width="5%"} -->
-<!-- ::: -->
-<!-- ::: {.column width="30%"} -->
-<!-- ::: {.large-body-text .center-text} -->
-<!-- `r fontawesome::fa("lightbulb", fill = "#38A7BB", a11y = "sem")`  -->
-<!-- ::: -->
-<!-- ::: {.blue-text .medium-body-text .center-text} -->
-<!-- **EMPOWER** -->
-<!-- ::: -->
-<!-- ::: {.medium-gray1-text .small-body-text .center-text} -->
-<!-- **We help build confidence and skills.** We empower scientists by connecting them with existing open software and communities that meet them where they are so they can develop the skills they need. -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: {.column width="5%"} -->
-<!-- ::: -->
-<!-- ::: {.column width="30%"} -->
-<!-- ::: {.large-body-text .center-text} -->
-<!-- `r fontawesome::fa("earth-americas", fill = "#38A7BB", a11y = "sem")`  -->
-<!-- ::: -->
-<!-- ::: {.blue-text .medium-body-text .center-text} -->
-<!-- **AMPLIFY** -->
-<!-- ::: -->
-<!-- ::: {.medium-gray1-text .small-body-text .center-text} -->
-<!-- **We build champions and communities.** We amplify scientists’ efforts through academic seminars as well as blogs and social media to increase the visibility of open practices on campus and online. -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- :::: -->
-<!-- ::: -->
-<!-- ::: -->
-<p><br></p>
 <div class="column-screen">
 <div class="light-gray-div">
-<section id="champions-program" class="level1 blue-underline center-text">
-<h1><strong>CHAMPIONS PROGRAM</strong></h1>
+<section id="attend-an-event" class="level1 blue-underline center-text">
+<h1><strong>ATTEND AN EVENT</strong></h1>
 </section>
-<p><a href="./champions_program.html">Openscapes Champions</a> is a mentorship program that empowers science teams with open data science tools and grows the community of practice in the research group, organization, and beyond. Read how the 2019 Openscapes Champions have <a href="">supercharged their research</a>, and <a href="./connect.html">contact us</a> about participating in the Champions program.</p>
+<p>The Openscapes team holds regular community calls, participates in conference talks, seminars, and webinars, and organizes opportunities through the Champions Program (and other new initiatives!). Check out some of our recent events or attend an upcoming one (and browse all events <a href="./events.html">here</a>):</p>
+<div id="listing-recent-events-listing" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="community" data-listing-date-sort="1680246000000" data-listing-file-modified-sort="1683602971765" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./events/2023-03-31-utm-biology/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./events/2023-03-31-utm-biology/utm-biology.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Openscapes: supporting kinder science for future us
+</h5>
+<div class="card-text listing-description">
+<p>Julie Lowndes and Ileana Fenwick speaking in University of Toronto Missisauga Biology Seminar Series</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 31, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="community" data-listing-date-sort="1679986800000" data-listing-file-modified-sort="1683601703857" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./events/2023-03-28-sean-kross-kyber/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./events/2023-03-28-sean-kross-kyber/sean-kross.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Designing automated workflows with Dr.&nbsp;Sean Kross
+</h5>
+<div class="card-text listing-description">
+<p>How the kyber R package connects Google Sheets, RMarkdown, GitHub, and Agenda docs for open education</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 28, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="conference" data-listing-date-sort="1678262400000" data-listing-file-modified-sort="1683601728803" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./events/2023-03-08-wids/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./events/2023-03-08-wids/wids-matrix-1line-cropped.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+WiDS Stanford 2023
+</h5>
+<div class="card-text listing-description">
+<p>Julie Lowndes speaking at Women in Data Science Stanford</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 8, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
 </div>
 </div>
 <p><br></p>

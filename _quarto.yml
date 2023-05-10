@@ -5,7 +5,7 @@ website:
   favicon: images/favicon/favicon_fullres.png
   navbar:
     title: false
-    logo: images/logo/openscapes_hex_badge.png # was logo.png
+    logo: images/logo/openscapes_hex_badge.png 
     logo-alt: "The Openscapes logo -- orange text that reads 'openscapes' sitting above small berry 'data points'"
     right:
       - text: "HOME"
@@ -40,6 +40,8 @@ website:
             href: connect.qmd
           - text: "ATTEND AN EVENT"
             href: events.qmd
+          - text: "FIND LEARNING RESOURCES"
+            href: resources.qmd
       - icon: github
         href: https://github.com/openscapes
       - icon: twitter
@@ -57,7 +59,7 @@ format:
     theme: 
       - styles.scss
     mainfont: Sen
-    #toc: true
+
 
 
 

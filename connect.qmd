@@ -3,7 +3,8 @@ title: ""
 ---
 
 ::: column-screen
-![](images/banner_imgs/horst_openscapes_mountains_1500px.png)
+![](images/banner_imgs/text_banners/connect_with_us_banner.png) 
+
 <br>
 
 ::: white-div
@@ -12,7 +13,7 @@ title: ""
 :::
 
 ::: {.medium-body-text .center-text}
-***We are happy you are here.***
+*We are happy you are here.*
 :::
 
 <br>

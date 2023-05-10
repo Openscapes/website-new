@@ -3,13 +3,13 @@ title: ""
 ---
 
 ::: column-screen
-![](images/banner_imgs/horst_openscapes_desert_1500px.png)
+![](images/banner_imgs/text_banners/our_approach_banner.png)
 
 <br>
 
 ::: white-div
 ::: {.medium-body-text .bold700 .center-text}
-We believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science.
+**We believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science.**
 :::
 
 ::: center-text
@@ -50,7 +50,16 @@ We share our most current thinking and showcase community efforts through talks 
 -   [Putting data to work](https://zenodo.org/record/4315009#.X_-P9OB7nOQ) --- Robinson 2020, invited Leptoukh Lecture at the American Geophysical Union Conference
 -   [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/) --- Lowndes 2019, Scientific American
 
-We're also developing the [**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/) openly as an attempt to codify our approach so that we can onboard others to the team. Aligned with our values for kinder, open science, we are developing it openly and designing it so that others can also use the Openscapes Approach on their own too.
+
+
+::: {.orange-bg }
+::: {.medium-body-text .center-text}
+{{< fa book-open title="An open book" >}} Check out our open educational resources!
+:::
+::: {.center-text}
+Creating the [**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/) is an attempt to codify our approach so that we can onboard others to the team. Aligned with our values for kinder, open science, we are developing it openly and designing it so that others can also use the Openscapes Approach on their own too.
+:::
+:::
 
 ## OUR THEORY OF CHANGE
 

@@ -6,13 +6,24 @@ page-layout: full
 format: html
 
 listing:
+  - id: recent-events-listing
+    contents:
+      - "events/*/index.qmd"
+    sort: "date desc"
+    type: grid
+    max-items: 3
+    #page-size: 3
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [title, image, description, date]
   - id: recent-blog-listing
     contents:
       - "blog/*/index.qmd"
     sort: "date desc"
     type: grid
-    max-items: 9
-    page-size: 3
+    max-items: 3
+    #page-size: 3
     categories: false
     sort-ui: false
     filter-ui: false
@@ -41,7 +52,6 @@ listing:
 ::: {.g-col-4}
 ::: {.large-body-text .blue-text}
 {{< fa users title="Three people" >}}
-<!-- `r fontawesome::fa("users", fill = "#38A7BB", a11y = "sem")`  -->
 :::
 ::: {.blue-text .medium-body-text}
 **ENGAGE**
@@ -54,7 +64,6 @@ listing:
 ::: {.g-col-4}
 ::: {.large-body-text .blue-text}
 {{< fa lightbulb title="A lightbult" >}}
-<!-- `r fontawesome::fa("lightbulb", fill = "#38A7BB", a11y = "sem")`  -->
 :::
 ::: {.blue-text .medium-body-text}
 **EMPOWER**
@@ -67,7 +76,6 @@ listing:
 ::: {.g-col-4}
 ::: {.large-body-text .blue-text}
 {{< fa earth-americas title="Planet earth" >}}
-<!-- `r fontawesome::fa("earth-americas", fill = "#38A7BB", a11y = "sem")`  -->
 :::
 ::: {.blue-text .medium-body-text}
 **AMPLIFY**
@@ -82,78 +90,17 @@ listing:
 :::
 :::
 
-
-
-
-<!-- ::: column-screen -->
-<!-- ::: white-div -->
-<!-- :::: columns -->
-<!-- ::: {.column width="30%"} -->
-
-<!-- ::: {.large-body-text .center-text} -->
-<!-- `r fontawesome::fa("users", fill = "#38A7BB", a11y = "sem")`  -->
-<!-- ::: -->
-
-<!-- ::: {.blue-text .medium-body-text .center-text} -->
-<!-- **ENGAGE** -->
-<!-- ::: -->
-
-<!-- :::{.medium-gray1-text .small-body-text .center-text} -->
-<!-- **We build awareness and excitement.** We engage scientists with the possibilities of open data science with empathy, art, and storytelling, using narratives like our own [path to better science in less time](https://www.nature.com/articles/s41559-017-0160) -->
-<!-- ::: -->
-
-<!-- ::: -->
-
-<!-- ::: {.column width="5%"} -->
-<!-- ::: -->
-
-<!-- ::: {.column width="30%"} -->
-
-<!-- ::: {.large-body-text .center-text} -->
-<!-- `r fontawesome::fa("lightbulb", fill = "#38A7BB", a11y = "sem")`  -->
-<!-- ::: -->
-
-<!-- ::: {.blue-text .medium-body-text .center-text} -->
-<!-- **EMPOWER** -->
-<!-- ::: -->
-
-<!-- ::: {.medium-gray1-text .small-body-text .center-text} -->
-<!-- **We help build confidence and skills.** We empower scientists by connecting them with existing open software and communities that meet them where they are so they can develop the skills they need. -->
-<!-- ::: -->
-
-<!-- ::: -->
-
-<!-- ::: {.column width="5%"} -->
-<!-- ::: -->
-
-<!-- ::: {.column width="30%"} -->
-
-<!-- ::: {.large-body-text .center-text} -->
-<!-- `r fontawesome::fa("earth-americas", fill = "#38A7BB", a11y = "sem")`  -->
-<!-- ::: -->
-
-<!-- ::: {.blue-text .medium-body-text .center-text} -->
-<!-- **AMPLIFY** -->
-<!-- ::: -->
-
-<!-- ::: {.medium-gray1-text .small-body-text .center-text} -->
-<!-- **We build champions and communities.** We amplify scientists’ efforts through academic seminars as well as blogs and social media to increase the visibility of open practices on campus and online. -->
-<!-- ::: -->
-
-<!-- ::: -->
-<!-- :::: -->
-<!-- ::: -->
-<!-- ::: -->
-
-<br>
-
 ::: column-screen
 ::: light-gray-div
 ::: {.blue-underline .center-text}
-# **CHAMPIONS PROGRAM**
+# **ATTEND AN EVENT**
 :::
 
-[Openscapes Champions](champions_program.qmd) is a mentorship program that empowers science teams with open data science tools and grows the community of practice in the research group, organization, and beyond. Read how the 2019 Openscapes Champions have [supercharged their research](), and [contact us](connect.qmd) about participating in the Champions program.
+The Openscapes team holds regular community calls, participates in conference talks, seminars, and webinars, and organizes opportunities through the Champions Program (and other new initiatives!). Check out some of our recent events or attend an upcoming one (and browse all events [here](events.qmd)): 
+
+::: {#recent-events-listing}
+:::
+
 :::
 :::
 

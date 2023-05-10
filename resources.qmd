@@ -3,14 +3,14 @@ title: ""
 ---
 
 ::: column-screen
-![](images/banner_imgs/horst_openscapes_grassland_1500px.png)
+![](images/banner_imgs/text_banners/resources_banner.png)
 
 <br>
 
 ::: white-div
 
 ::: {.medium-body-text .center-text}
-**This curated list of resources is meant to welcome environmental scientists who are interested about engaging in open data science.**
+**This curated list of resources is meant to welcome environmental scientists who are interested in engaging with the open data science movement.**
 :::
 
 ::: {.center-text}
@@ -19,7 +19,7 @@ This R-focused list is not meant to be comprehensive of all the incredible resou
 
 ![](images/minis/horst_openscapes_grassland_oak.png){fig-align="center" width="100"}
 
-## **WORKING COLLABORATIVELY, OPENLY, & EFFICIENTLY**
+## WORKING COLLABORATIVELY, OPENLY, & EFFICIENTLY
 
 Thinking deliberately about data and embracing existing open tools and workflows for science increases efficiency, broadens the scientific questions that can be asked, introduces a network of online allies outside scientific domains, and makes it easier to ask for help.
 
@@ -32,7 +32,7 @@ For example, the Ocean Health Index describes how open software and borrowing pr
 
 ![](images/minis/horst_openscapes_grassland_fox.png){fig-align="center" width="100"}
 
-## **JOINING & BUILDING LEARNING COMMUNITIES**
+## JOINING & BUILDING LEARNING COMMUNITIES
 
 Learning to code should be fun since you are learning powerful and empowering tools that will be game-changing for your science. So learn with friends, and grow your community. 
 
@@ -42,7 +42,7 @@ Learning to code should be fun since you are learning powerful and empowering to
 
 ![](images/minis/horst_openscapes_grassland_deer.png){fig-align="center" width="100"}
 
-## **R WITH RSTUDIO & GITHUB**
+## R WITH RSTUDIO & GITHUB
 
 We recommend using R with RStudio, which not only provides a supportive infrastructure but enables direct connection to GitHub.com (i.e. without additional software or use of the command line). Further, workflows with RStudio's tidyverse & friends and with RMarkdown create good practices for collaborative, reproducible workflows.
 
@@ -56,7 +56,7 @@ We recommend using R with RStudio, which not only provides a supportive infrastr
 
 ![](images/minis/horst_openscapes_grassland_condor.png){fig-align="center" width="100"}
 
-## **QUARTER/SEMESTER-LONG COURSES**
+## QUARTER/SEMESTER-LONG COURSES
 
 Teaching official university courses is a great idea! These are a few examples of course materials that you can reuse as-is or adapt for your own context — many are environmental science focused. From our experience, we don't recommend mix-and-matching between resources — especially if this is your first time teaching. This is because there is logic and cadence to each one and trying to combine them can result in reinventing more wheels than intended. Instead, we recommend finding one that best suits you (based on length, content, or audience) and potentially adapting it to your needs. 
 
@@ -70,7 +70,7 @@ Teaching official university courses is a great idea! These are a few examples o
 - [Data Science: A First Introduction](https://ubc-dsci.github.io/introduction-to-datascience/index.html) — Dr.Tiffany Timbers et al, University of British Columbia
 - [Super advanced R](https://github.com/super-advanced-r-fall-2019) — Dr. Dan Ovando, University of Washington
 
-## **OPENSCAPES RESOURCES, MEDIA, & PRESENTATIONS**
+## OPENSCAPES RESOURCES, MEDIA, & PRESENTATIONS
 
 We have focused on openly communicating the process behind our development of Oceanscapes. Here are presentations we have given about Openscapes, and materials for the Openscapes Champions series. They are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/); You are welcome to reuse and remix with attrbution. 
 

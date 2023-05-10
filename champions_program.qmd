@@ -11,8 +11,10 @@ title: ""
 ::: white-div
 
 ::: {.medium-body-text .center-text}
-Openscapes Champions is an open data science mentorship program for science teams.
+**Openscapes Champions is an open data science mentorship program for science teams.**
 :::
+
+---
 
 We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skill-sets and mindsets for modern data-intensive science. Learn these Champions' stories through our [blog](blog.qmd), [media](media.qmd), as well as steps for you to [supercharge your research](https://www.nature.com/articles/d41586-019-03335-4).
 
@@ -35,6 +37,20 @@ We support researchers to reimagine data analysis & stewardship as a collaborati
 Openscapes Champions is a multi-month program that is led remotely and designed to ignite incremental and sustainable change within research groups --- and beyond. The program remotely convenes a cohort of science teams twice per month over two or four months for 1.5-hour video calls that we call Cohort Calls. This is not a workshop. The Champions program design is modeled after [Mozilla Open Leaders](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/fork-open-leaders/), where small time requirements over longer time frames and participants focused on their existing work fosters incremental change, accountability, and community building within the realities of scientists' busy schedules, varying expertise and needs.
 
 Each Cohort Call uses the [Champions Lesson Series](https://openscapes.github.io/series/), which is an open curriculum originally based on what was instrumental in the Ocean Health Index (OHI) team's [path to better science in less time](https://www.nature.com/articles/s41559-017-0160), and openly iterated as we experiment and learn. We start off each call with a reminder of our Code of Conduct and provide multiple channels for participation, including through silent contributions to the Google Doc Agenda, breakout groups, and full-group discussions. Each call closes with an efficiency tip and an inclusion tip to incorporate into daily practice.
+
+
+![](images/minis/fox_hat.png){fig-align="center" width="100"}
+
+::: {.orange-bg }
+::: {.medium-body-text .center-text}
+{{< fa book-open title="An open book" >}} Check out our open educational resources!
+:::
+::: {.center-text}
+Explore the [Champions Lesson Series](https://openscapes.github.io/series/), which introduces the concepts, tooling, and examples that are discussed during Champions Program Cohort Calls. These materials are improved iteratively and the most recent version is always available online for reuse and remix.
+:::
+:::
+
+<br>
 
 Participants attend as teams, and come prepared for engaged participation as a whole cohort and within smaller breakout groups (as teams and mixed across teams). Discussions focus around collaborative mindsets, norms, and software to enable open, reproducible, inclusive research, introducing tools like R, tidyverse, RMarkdown, GitHub, Google Drive, and Twitter and practices from open source communities, inclusive design, psychological safely, facilitation techniques, and examples from specific research domains including the OHI and previous Champions. Teams intentionally have a mix of data/coding experience and responsibilities; there are no coding prerequisites to participate.
 

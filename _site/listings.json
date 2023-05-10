@@ -53,6 +53,23 @@
   {
     "listing": "/index.html",
     "items": [
+      "/events/2023-03-31-utm-biology/index.html",
+      "/events/2023-03-28-sean-kross-kyber/index.html",
+      "/events/2023-03-08-wids/index.html",
+      "/events/2023-02-15-epa-champions/index.html",
+      "/events/2023-01-26-esip-winter-2023/index.html",
+      "/events/2023-01-26-pathways-to-open-science/index.html",
+      "/events/2023-01-11-hpc/index.html",
+      "/events/2022-12-13-agu-fall/index.html",
+      "/events/2022-12-01-open-climate-movement-monica-granados/index.html",
+      "/events/2022-10-07-noaa-nwfsc-fall/index.html",
+      "/events/2022-10-05-noaa-afsc-fall/index.html",
+      "/events/2022-10-04-noaa-sefsc-fall/index.html",
+      "/events/2022-10-04-noaa-swfsc-pifsc-fall/index.html",
+      "/events/2022-09-13-tidepool-digital/index.html",
+      "/events/2022-06-30-sefsc/index.html",
+      "/events/2022-06-09-hello-quarto/index.html",
+      "/events/2022-04-08-qda-beth-duckles/index.html",
       "/blog/2023-03-22-new-test/index.html",
       "/blog/2023-03-21-test/index.html"
     ]

@@ -4,7 +4,7 @@ title: ""
 ---
 
 ::: column-screen
-![](images/banner_imgs/horst_openscapes_arctic_1500px.png)
+![](images/banner_imgs/text_banners/who_are_we_banner.png)
 
 <br>
 

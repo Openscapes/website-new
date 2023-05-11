@@ -118,14 +118,16 @@ Openscapes bridges data-intensive environmental science with the open movement. 
 
 <br>
 
-::: {.grid}
-::: {.g-col-6}
-![](images/clients/mozilla.png){fig-align="center" width="80%"} 
-:::
-:::{.g-col-6}
-![](images/clients/nceas.png){fig-align="center" width="80%"}
-:::
-:::
+![](images/clients/mozilla_nceas.png){fig-align="center" width="100%"}
+
+<!-- ::: {.grid} -->
+<!-- ::: {.g-col-6} -->
+<!-- ![](images/clients/mozilla.png){fig-align="center" width="80%"}  -->
+<!-- ::: -->
+<!-- :::{.g-col-6} -->
+<!-- ![](images/clients/nceas.png){fig-align="center" width="80%"} -->
+<!-- ::: -->
+<!-- ::: -->
 
 ::: 
 :::

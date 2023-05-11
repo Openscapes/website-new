@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.313">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Marcus Beck">
+<meta name="dcterms.date" content="2020-11-16">
+
+<title>Automated reporting in Tampa Bay with open science</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/favicon/favicon_fullres.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<style>
+    .quarto-title-block .quarto-title-banner,
+    .quarto-title-block .quarto-title-banner h1,
+    .quarto-title-block .quarto-title-banner h2,
+    .quarto-title-block .quarto-title-banner h3,
+    .quarto-title-block .quarto-title-banner h4,
+    .quarto-title-block .quarto-title-banner h5,
+    .quarto-title-block .quarto-title-banner h6
+    {
+      color: #333333;
+background: #F8D98F;
+    }
+    </style>
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/logo/openscapes_hex_badge.png" alt="The Openscapes logo -- orange text that reads 'openscapes' sitting above small berry 'data points'" class="navbar-logo">
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html" rel="" target="">
+ <span class="menu-text">HOME</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">ABOUT</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="../../who_are_we.html" rel="" target="">
+ <span class="dropdown-text">WHO ARE WE?</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../approach.html" rel="" target="">
+ <span class="dropdown-text">OUR APPROACH</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../media.html" rel="" target="">
+ <span class="dropdown-text">MEDIA</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../team.html" rel="" target="">
+ <span class="dropdown-text">OUR TEAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../code_of_conduct.html" rel="" target="">
+ <span class="dropdown-text">CODE OF CONDUCT</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">INITIATIVES</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
+        <li>
+    <a class="dropdown-item" href="../../champions_program.html" rel="" target="">
+ <span class="dropdown-text">CHAMPIONS PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../reflections_program.html" rel="" target="">
+ <span class="dropdown-text">REFLECTIONS PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../pathways_to_open_science_program.html" rel="" target="">
+ <span class="dropdown-text">PATHWAYS TO OPEN SCIENCE PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../mentors_framework.html" rel="" target="">
+ <span class="dropdown-text">MENTORS FRAMEWORK</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../../blog.html" rel="" target="">
+ <span class="menu-text">BLOG</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-get-involved" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">GET INVOLVED</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-get-involved">    
+        <li>
+    <a class="dropdown-item" href="../../connect.html" rel="" target="">
+ <span class="dropdown-text">CONNECT WITH US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../events.html" rel="" target="">
+ <span class="dropdown-text">ATTEND AN EVENT</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../resources.html" rel="" target="">
+ <span class="dropdown-text">FIND LEARNING RESOURCES</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/openscapes" rel="" target=""><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/openscapes" rel="" target=""><i class="bi bi-twitter" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:hello@openscapes.org" rel="" target=""><i class="bi bi-envelope" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page">
+      <h1 class="title">Automated reporting in Tampa Bay with open science</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">community</div>
+                <div class="quarto-category">coding</div>
+                <div class="quarto-category">case-study</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Marcus Beck </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">November 16, 2020</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+
+
+
+
+<p><em>This is a guest blog by <a href="mailto:mbeck@tbep.org">Marcus Beck</a> that describes how the Tampa Bay Estuary Program (TBEP) is embracing open science principles and tools to create better science in less time. Marcus, along with TBEP Executive Director Ed Sherwood, both attended the NCEAS <a href="https://nceas.github.io/oss-2017/">Open Science for Synthesis</a> workshop in July 2017 at Santa Barbara. Marcus, Ed, and the rest of the TBEP team are working to bring open science to improve the management of Tampa Bay and extend their applications to the broader network of the 28 National Estuary Programs. This blog describes one application of automating a routine reporting document that builds on the data and tools developed throughout the 30 year history of TBEP.</em></p>
+<p><strong>Update July 13 2021: Check out <a href="https://tbep-tech.github.io/data-management-sop/">TBEP’s Data Management SOP( Standard Operating Procedures)</a></strong>!</p>
+<hr>
+<p>Those of us working in coastal environments are likely familiar with the success story of Tampa Bay. Like many surface waters in the US prior to the Clean Water Act, Tampa Bay was impacted by nutrient pollution from untreated wastewater and surface runoff. Through a coordinated regional effort of environmental professionals, utility operators, and local politicians, nutrient loads to the Bay have been reduced by ~2/3 from 1970s levels and seagrasses have recovered to a 1950s benchmark extent.</p>
+<p>The Tampa Bay Estuary Program (<a href="https://tbep.org/estuary/state-of-the-bay/">TBEP</a>) has been a key facilitator among the many local partners that have an interest in the region’s natural resources. TBEP is one of 28 estuaries in the EPA’s National Estuary Program that focuses on “estuaries of national significance” to provide place-based solutions to managing these complex systems. This includes establishing benchmarks for restoration goals and tracking the status and trends of key indicators of environmental health.</p>
+<p>TBEP uses a <a href="https://drive.google.com/file/d/1Z_P3zahMFXSMyC7rW49MsjWP-jP_OqJF/view?usp=drivesdk">water quality report card</a> that summarizes annual progress in achieving core programmatic goals for the Tampa Bay estuary. This product communicates to partners what needs to be done to ensure water quality targets are met to support seagrass growth. However, a new report is needed each year that requires considerable effort to manually compile the data, synthesize the results, and produce the final document.</p>
+<br>
+<center>
+<a href="https://drive.google.com/file/d/1Z_P3zahMFXSMyC7rW49MsjWP-jP_OqJF/view?usp=drivesdk"><img src="../../img/blog/tampa-bay-report-card.png" width="350px"></a>
+<figcaption>
+The Tampa Bay water quality report card
+</figcaption>
+</center>
+<p><br></p>
+<p>This blog describes an open science approach developed by TBEP to automate creation of the annual water quality report. The methods leverage many open source tools that are freely available and easily modified for customizable report generation. A broad overview of the approach is provided to encourage others to consider how these open science workflows can lead to better, kinder science in less time.</p>
+<section id="why-do-we-need-an-open-science-workflow" class="level3">
+<h3 class="anchored" data-anchor-id="why-do-we-need-an-open-science-workflow">Why do we need an open science workflow?</h3>
+<p>Report cards are important communication tools for many resource management agencies. For years, the TBEP report was compiled by hand, by one staff member using external data from our partners. This process has issues, for instance:</p>
+<ol type="1">
+<li>Wasted time each year creating the report card by hand;</li>
+<li>Increased risk of introducing errors into the results through manual analysis steps and workflows; and,</li>
+<li>Closed methods limiting reproducibility, sharing and collaboration with others.</li>
+</ol>
+<p>These issues can lead to increased costs, lack of trust by decision-makers, and inhibition of collaboration, all of which are bothersome for publicly-funded agencies. This closed workflow is shown below:</p>
+<br>
+<center>
+<img src="../../img/blog/tampa-bay-closed.png" width="450px">
+<figcaption>
+A closed workflow for creating reports
+</figcaption>
+</center>
+<p><br></p>
+<p>Although the final pdf is a great tool to communicate management needs (and the proprietary tools have their benefits), the report generation process needed to be improved.</p>
+</section>
+<section id="developing-an-open-science-workflow" class="level3">
+<h3 class="anchored" data-anchor-id="developing-an-open-science-workflow">Developing an open science workflow</h3>
+<p>To address inefficiencies of a closed workflow, TBEP has been adopting open science principles to create reporting products that are transparent, efficient, and reproducible. The figure below shows an expanded workflow using open science tools.</p>
+<br>
+<center>
+<img src="../../img/blog/tampa-bay-os-workflow.png" width="625px">
+<figcaption>
+An open workflow for creating reports
+</figcaption>
+</center>
+<p><br></p>
+<p>There are several additional tools that make this workflow an improvement over the closed version, such as:</p>
+<ol type="1">
+<li>Use of an open-source toolkit that taps into the broader <a href="https://twitter.com/allison_horst/status/1102447015248637953">RStats</a> community;</li>
+<li>Code hosting, sharing, and community development on <a href="https://github.com/tbep-tech">GitHub</a>;</li>
+<li>Data synthesis and plot generation using the <a href="https://tbep-tech.github.io/tbeptools/">tbeptools</a> R package;</li>
+<li>Continuous integration (CI) using <a href="https://travis-ci.org/github/tbep-tech/wq-static">Travis</a> to automate daily checks; and,</li>
+<li>Expansion of reporting tools and science communication, including <a href="https://shiny.tbep.org/wq-dash/">R Shiny dashboards</a>.</li>
+</ol>
+<p>This new open science workflow is similar to the closed version from end to end (i.e., data from partners are used, reports are generated), but several key steps improve how the report is generated to increase efficiencies and expose the underlying methods for reproducibility. Using open-source tools from the RStats community allows us to benefit from the collective knowledge of this dynamic and incredibly welcoming group. Hosting code on GitHub makes the methods discoverable and accessible by others, including our <a href="https://github.com/tbep-tech/tbeptools">tbeptools R package</a> that includes all methods to read, analyze, and plot data from our external partners. Integration with Travis provides a safety check that our code is running as intended AND allows for daily builds to make sure the most current report is up to date with new data published by our partners. Finally, we use Shiny to create interactive dashboards that allow our partners to engage with the data in a more immersive environment for decision-making and science communication.</p>
+</section>
+<section id="automating-the-process" class="level3">
+<h3 class="anchored" data-anchor-id="automating-the-process">Automating the process</h3>
+<p>Developing the open workflow got us most of the way to achieving <a href="https://tbep-tech.github.io/tbep-os-presentations/challenges_for_os.html#6">open science bliss</a>. An important part of this workflow was including automated builds using the Travis CI service. In the RStats community, Travis is commonly used to check R package builds as a safety net to make sure CRAN guidelines are followed and the package can be installed without any issues. This continuous service is automatic and saves the developer from having to run these checks each time the package is updated. You’ve probably seen those <a href="https://juliasilge.com/blog/beginners-guide-to-travis/">nifty badges</a> on GitHub that indicate if Travis builds were successful or not.</p>
+<p>However, Travis can be used for much, much more, including custom builds for websites and highly specific testing services depending on the needs of the developer. We developed our own custom workflow to make use of these services to automatically build the water quality report card. The external data are regularly updated <a href="ftp://ftp.epchc.org/EPC_ERM_FTP/WQM_Reports/">online</a> by our friends at <a href="https://www.epchc.org/">Hillsborough County EPC</a> as part of the Bay’s long-term ambient water quality monitoring program. We wanted to use Travis to build the report card as data are updated, without having to manually create it each time.</p>
+</section>
+<section id="how-its-done" class="level3">
+<h3 class="anchored" data-anchor-id="how-its-done">How it’s done</h3>
+<p>All of the pieces that we use to automate creation of the report card live on a GitHub repository <a href="https://github.com/tbep-tech/wq-static">here</a>. A simple <a href="https://github.com/tbep-tech/wq-static/blob/master/build.R">build script</a> is run daily by Travis to create the final PDF. Within the build script, two .Rnw documents include LaTeX and R code to generate the <a href="https://github.com/tbep-tech/wq-static/blob/master/wq1.Rnw">front</a> and <a href="https://github.com/tbep-tech/wq-static/blob/master/wq2.Rnw">back</a> of the report card. The R code uses functions from the <a href="https://tbep-tech.github.io/tbeptools/">tbeptools</a> R package to import the most current data, summarize the observations, and generate the plots used in the report card. These .Rnw files are then converted to PDF using the <a href="https://yihui.org/tinytex/">tinytex</a> package.</p>
+<p>Each day, Travis runs the build script to generate a new PDF. If the build is successful (green badge), it pushes the changes to GitHub so that the new PDF can be hosted on the <a href="https://tbep.org/water-quality-report-card/">TBEP website</a>. Any time the build is not successful (red badge), we get an email from Travis telling us something is wrong that we need to fix. This way, we only need to pay attention unless something breaks, allowing us to spend time on other things.</p>
+<p>An expanded version of the open science workflow from above shows how the Travis process works:</p>
+<br>
+<center>
+<img src="../../img/blog/tampa-bay-travis-workflow.png" width="675px">
+<figcaption>
+Automated creation of the report card using Travis CI
+</figcaption>
+</center>
+<p><br></p>
+<p>The <a href="https://github.com/tbep-tech/wq-static/blob/master/.travis.yml">Travis YAML file</a> in our repository contains the necessary instructions of what to do each day to create the report. There’s a lot to say about modifying the YAML file, but briefly, we use it to specify the package dependencies, how the build is executed, and how it communicates with GitHub to push the changes back when the build is successful.</p>
+<p>It’s also worth mentioning that we chose to use Sweave .Rnw files instead of RMarkdown because we needed absolute control over the style and placement of content in the PDF. RMarkdown is great as a simple-to-use tool for generating dynamic documents, but Markdown syntax is purposefully designed for simplicity and does not allow the level of precision we needed for the elements in our report card. This was especially important as it relates to the style of the “old” report card that our partners are used to receiving.</p>
+</section>
+<section id="final-thoughts" class="level2">
+<h2 class="anchored" data-anchor-id="final-thoughts">Final thoughts</h2>
+<p>This workflow was developed as a proof of concept to see if it was reasonable for automating our routine reporting products. We’re in the process of testing and refining this workflow on other products (<a href="https://github.com/tbep-tech/tbep-refs">references library</a>, <a href="https://github.com/tbep-tech/desoto-buoy">field data plotting</a>). Although there is substantial overhead in creating the process, we now have a quicker and reproducible approach to delivering decision-support tools that affect the health of Tampa Bay. We are all time-limited, and this workflow reduces the tedium of manually creating these reports each time they are needed.</p>
+<p>This workflow is also dependent on the strong technical foundation for evaluating water quality in Tampa Bay and the invaluable work by our partners in collecting/curating the underlying data. This work would not have been possible without the past research, partner initiatives, and community of collaboration that have been the foundation of TBEP and the region’s success in improving the estuary. Having a direct online connection to the raw data is also a necessary component - and on this front, there’s much more work to be done to ensure this information and all of our partner data are Findable, Accessible, Interoperable, and Reusable (<a href="https://www.nature.com/articles/sdata201618">FAIR</a>).</p>
+<p>Finally, these tools and concepts are generalizable to other locations with similar needs. Open science methods emphasize reproducibility and technology transfer as important benefits that come with investments in developing these tools. The <a href="https://nationalestuaries.org">28 estuary program collective in the US</a> are beginning to embrace these tools so that they can efficiently report on routine estuarine indicators on a broad national scale. This will facilitate shared learning and experiences by using a common and standardized set of reporting products created with open science principles at the core.</p>
+<hr>
+<section id="learn-more" class="level3">
+<h3 class="anchored" data-anchor-id="learn-more">Learn more:</h3>
+<ul>
+<li>R introduction to using Travis: <a href="https://juliasilge.com/blog/beginners-guide-to-travis/">link</a></li>
+<li>Setting up Travis CRON jobs: <a href="https://docs.travis-ci.com/user/cron-jobs/">link</a></li>
+<li>Getting Travis to talk to GitHub: <a href="https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line">link</a></li>
+<li>tbeptools R package: <a href="https://tbep-tech.github.io/tbeptools/">link</a></li>
+<li>TBEP GitHub group web page: <a href="https://github.com/tbep-tech">link</a></li>
+<li>TBEP data visualization page: <a href="https://tbep.org/our-work/data-vizualization/">link</a></li>
+<li><a href="https://twitter.com/hashtag/TampaBayOpenSci">#TampaBayOpenSci</a></li>
+</ul>
+<p><br></p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Openscapes is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attributions 4.0 International License</a></div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">This website is built with ❤️ and <a href="https://quarto.org/">Quarto</a></div>
+  </div>
+</footer>
+
+
+
+</body></html>

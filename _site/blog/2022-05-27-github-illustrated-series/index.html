@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.313">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Allison Horst and Julie Lowndes">
+<meta name="dcterms.date" content="2022-05-27">
+
+<title>GitHub for supporting, reusing, contributing, and failing safely</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/favicon/favicon_fullres.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<style>
+    .quarto-title-block .quarto-title-banner,
+    .quarto-title-block .quarto-title-banner h1,
+    .quarto-title-block .quarto-title-banner h2,
+    .quarto-title-block .quarto-title-banner h3,
+    .quarto-title-block .quarto-title-banner h4,
+    .quarto-title-block .quarto-title-banner h5,
+    .quarto-title-block .quarto-title-banner h6
+    {
+      color: #333333;
+background: #F8D98F;
+    }
+    </style>
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/logo/openscapes_hex_badge.png" alt="The Openscapes logo -- orange text that reads 'openscapes' sitting above small berry 'data points'" class="navbar-logo">
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html" rel="" target="">
+ <span class="menu-text">HOME</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">ABOUT</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="../../who_are_we.html" rel="" target="">
+ <span class="dropdown-text">WHO ARE WE?</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../approach.html" rel="" target="">
+ <span class="dropdown-text">OUR APPROACH</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../media.html" rel="" target="">
+ <span class="dropdown-text">MEDIA</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../team.html" rel="" target="">
+ <span class="dropdown-text">OUR TEAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../code_of_conduct.html" rel="" target="">
+ <span class="dropdown-text">CODE OF CONDUCT</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">INITIATIVES</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
+        <li>
+    <a class="dropdown-item" href="../../champions_program.html" rel="" target="">
+ <span class="dropdown-text">CHAMPIONS PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../reflections_program.html" rel="" target="">
+ <span class="dropdown-text">REFLECTIONS PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../pathways_to_open_science_program.html" rel="" target="">
+ <span class="dropdown-text">PATHWAYS TO OPEN SCIENCE PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../mentors_framework.html" rel="" target="">
+ <span class="dropdown-text">MENTORS FRAMEWORK</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../../blog.html" rel="" target="">
+ <span class="menu-text">BLOG</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-get-involved" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">GET INVOLVED</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-get-involved">    
+        <li>
+    <a class="dropdown-item" href="../../connect.html" rel="" target="">
+ <span class="dropdown-text">CONNECT WITH US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../events.html" rel="" target="">
+ <span class="dropdown-text">ATTEND AN EVENT</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../resources.html" rel="" target="">
+ <span class="dropdown-text">FIND LEARNING RESOURCES</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/openscapes" rel="" target=""><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/openscapes" rel="" target=""><i class="bi bi-twitter" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:hello@openscapes.org" rel="" target=""><i class="bi bi-envelope" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page">
+      <h1 class="title">GitHub for supporting, reusing, contributing, and failing safely</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">community</div>
+                <div class="quarto-category">art</div>
+                <div class="quarto-category">coding</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Allison Horst and Julie Lowndes </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">May 27, 2022</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+
+
+
+
+<p><em>Welcome! This illustrated series tells a story about why GitHub is so powerful for supporting, reusing, contributing, and failing safely. It is here as a blog post and also as slides to be most flexible for teaching. This complements the <a href="https://www.openscapes.org/blog/2020/10/12/tidy-data/">Tidy Data Illustrated Series</a> and is a collaboration around open science, coding, teaching, and art.</em></p>
+<p><strong><em>Please reuse &amp; remix with your own communities:</em></strong></p>
+<ul>
+<li><p><em>Download from <a href="https://github.com/allisonhorst/stats-illustrations" class="uri">https://github.com/allisonhorst/stats-illustrations</a></em></p></li>
+<li><p><em>Reuse/remix from <a href="https://docs.google.com/presentation/d/1OuLcJHWxpauVic0WEfGsWVreHbkmnINiEXldV5pjD5Q/">this slide deck</a></em></p></li>
+<li><p><em>View/share <a href="https://twitter.com/openscapes/status/1531658115015270400?s=20&amp;t=GdP9_PChQ1EINLJwQNpRug">this twitter thread</a></em></p></li>
+</ul>
+<hr>
+<section id="github-for-supporting-reusing-contributing-and-failing-safely" class="level1">
+<h1>GitHub for supporting, reusing, contributing, and failing safely</h1>
+<p><strong>When we talk about managing projects to help us contribute, reuse, collaborate, and fail safely, we are talking about GitHub</strong>*. We mean using modern collaborative software designed to organize otherwise unwieldy interrelated files and to track changes by potentially different people through time – something that is for everyone, whether or not we identify as “coders”. People do use GitHub for code- and data-intensive projects, but we are not limited to that use. GitHub is a powerful approach for any project that we want to organize and communicate about; it’s a way we can be open with ourselves and our teams, and also work more publicly as we feel comfortable.</p>
+<p>So let’s talk about why GitHub is so empowering for our project-oriented and collaborative lives.</p>
+<p>*From <a href="https://peerj.com/preprints/3159/">Bryan 2017</a>: “we’re targeting GitHub - not Bitbucket or GitLab - for the sake of specificity. However, all the big-picture principles and even some mechanics will carry over to these alternative hosting platforms. We are advocating for the use of hosted version control as a general concept, with GitHub being the best and most common provider today.” <br></p>
+<section id="why-github" class="level2">
+<h2 class="anchored" data-anchor-id="why-github">Why GitHub?</h2>
+<center>
+&lt;img src=“/img/blog/github-illustrated-series/github_friends.png” width=“800px” alt = “A row of 6 cute smiling monsters celebrating using GitHub. The first, wearing a climbing harness labeled "Me" is high-fiving another whose harness says "Future Me". Others hold a box of snacks that are tacos, a map, and a rope. Text above the monsters quotes Jenny Bryan: "Collaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review."” 
+</center>
+<p><br></p>
+<p>The concepts, mechanics, and vocabulary of GitHub (and underlying software Git) are new and unfamiliar when we get started or learn more about its capabilities. Hadley Wickham and Jenny Bryan use the analogy of climbing to describe how GitHub can keep us safe while also showing our journey.</p>
+<br>
+<center>
+&lt;img src=“/img/blog/github-illustrated-series/github_wickham_bryan_git_quote.png” width=“800px” alt = “On the left is a quote from Hadley Wickham and Jenny Bryan that says”Using a Git commit is like using anchors and other protection when climbing…if you make a mistake you can’t fall past the previous commit. Commits are also helpful to others, because they show your journey, not just the destination.” On the right, two little monsters climb a cliff face. Their ropes are secured by several anchors, each labeled “Commit”. Three monsters on the ground support the climbers.” 
+</center>
+<p>Wickham &amp; Bryan, R Packages <a href="https://r-pkgs.org/preface.html" class="uri">https://r-pkgs.org/preface.html</a>&nbsp;</p>
+<p><br></p>
+</section>
+<section id="github-helps-streamline-our-work" class="level2">
+<h2 class="anchored" data-anchor-id="github-helps-streamline-our-work">GitHub helps streamline our work</h2>
+<p>GitHub helps streamline our work because it takes care of otherwise time-consuming bookkeeping and unrelenting file tracking. Instead of spending our time inspecting and fretting over whether “analysis_final_v2.xls” or “analysis_final_final.xls” is truly the final version, with GitHub we can be confident in our completed analysis and move to the next step. <br></p>
+<center>
+&lt;img src=“/img/blog/github-illustrated-series/github_compare_text.png” width=“800px” alt = “In the left panel, against a blue sky with white clouds, a confident-looking monster climbs a rock face. Their rope’s anchors, secured with carabiners, are labeled from bottom to top and say "Initial commit", "Data Cleaned", "Analysis completed". Another anchor on their harness is ready to place and is labeled "Manuscript drafted". In the right panel, against a gray sky with rain and lightning, an unhappy stressed-looking monster climbs a rock face. Their rope has a knot, is frayed, and is looped around one foot. Their anchors, placed haphazardly and not well-secured, are labeled things like "analysis_final_v2.xls", "analysis_final_final.xls", and "ignore_this.xls". Text above the left panel says: "When working with GitHub we can navigate with more obvious, safe, streamlined routes that let us focus on the science-y things we want to do…" Text above the right panel says "…but working without GitHub can be disorienting, with too much time spent sifting through past work to figure out next steps forward."” 
+</center>
+<p><br></p>
+</section>
+<section id="github-helps-us-support" class="level2">
+<h2 class="anchored" data-anchor-id="github-helps-us-support">GitHub helps us support</h2>
+<p>GitHub helps us support others and existing work. Whether we are organizing, improving documentation, or asking and answering questions, GitHub helps us provide support to our collaborators on projects, whether we are writing code or not.&nbsp;</p>
+<br>
+<center>
+&lt;img src = “/img/blog/github-illustrated-series/github_groundcrew_text.png” width=“800px” alt = “Four little monsters on grass support another monster starting their climb up a rock face. The climber’s harness is labeled”Coder”, the belayer wears a harness labeled “Code review”, two others consulting a book and route map wear caps labeled “Documentation” and “Reuse”, and another brings a box labeled “Project management and snacks”.” 
+</center>
+<p><br></p>
+</section>
+<section id="github-helps-us-reuse" class="level2">
+<h2 class="anchored" data-anchor-id="github-helps-us-reuse">GitHub helps us reuse</h2>
+<p>GitHub helps us reuse existing work, which lets us learn and build from other people’s shared experience rather than reinventing on our own. Plus, the existing work gets better each time someone tries it and shares their experience back. Whether it’s code, documentation, or knowledge through posted conversations, reusing existing things can save time, resources, and frustration. Importantly, reuse also expands the value of existing work while celebrating the contributions of others.&nbsp;</p>
+<br>
+<center>
+&lt;img src=“/img/blog/github-illustrated-series/github_reuse.jpg” width=“800px” alt = “Two monsters consult a book with routes labeled”Existing routes” and “Our route” with warning information - images of lightning, a snake, and rocks falling - and notes on the facing page, while looking at the rock face they plan to climb. In the distance, one monster belays another who is climbing.” 
+</center>
+<p><br></p>
+</section>
+<section id="github-helps-us-contribute" class="level2">
+<h2 class="anchored" data-anchor-id="github-helps-us-contribute">GitHub helps us contribute</h2>
+<p>GitHub helps us contribute ideas through code, text, and more, with less worry about file management. This helps us feel more confident to share work-in-progress and contribute to existing work, knowing that we won’t break things. It also helps us share work earlier that might be imperfect, since we can still make changes from there.</p>
+<br>
+<center>
+&lt;img src=“/img/blog/github-illustrated-series/github_clip.png” width=“600px” alt = “A close-up rear view of a monster climbing a rock face, clicking into an anchor point, with the word”Click!“” 
+</center>
+<p><br></p>
+</section>
+<section id="github-helps-us-fail-safely" class="level2">
+<h2 class="anchored" data-anchor-id="github-helps-us-fail-safely">GitHub helps us fail safely</h2>
+<p>GitHub helps us fail safely. Because we can return to previous versions easily, painful consequences of failing are reduced. We can more bravely try things and start making contributions, knowing that some (many?) will fail - but won’t be catastrophic! When we fail, we’ll be able to start again from where we left off (instead of from the ground), and a clear history can help us learn from the past.&nbsp;</p>
+<br>
+<center>
+&lt;img src=“/img/blog/github-illustrated-series/github_fall.png” width=“800px” alt = “A confidently smiling monster is falling from a rock overhang, while secured by four anchors, each labeled”Commit”.” 
+</center>
+<p><br></p>
+</section>
+<section id="harness-the-power-of-github" class="level2">
+<h2 class="anchored" data-anchor-id="harness-the-power-of-github">Harness the power of GitHub</h2>
+<p>Once we are empowered to work collaboratively with GitHub, it opens up a whole new world of projects that feel more welcoming because we can contribute in many different ways, using familiar approaches, and evolving with new possibilities as they emerge. This transferrable ability to collaborate and develop confidence for trying new things might just be the best thing about GitHub.</p>
+<br>
+<center>
+&lt;img src=“/img/blog/github-illustrated-series/github_scoping.jpg” width=“800px” alt = “Rear-view of three well-prepared monsters arriving at a climb. They have route maps, binoculars, ropes, backpacks, and a box of snacks. The middle monster has a GitHub Octocat image on their backpack. In the distance, several monsters are at different stages of ascending, with one at the summit, and others supporting them from the base.” 
+</center>
+<p><br></p>
+</section>
+<section id="github-for-the-win" class="level2">
+<h2 class="anchored" data-anchor-id="github-for-the-win">GitHub for the win!</h2>
+<p>GitHub enables new frontiers for open science as we collaborate, share, and publish more easily. And, it is critical to continually question who is safe to participate with these tools. Who is not yet participating, and why? Barriers to access include past exclusion, skills, and support. Let’s all work empathetically and inclusively to help make more people feel welcome and safe using these powerful tools so we can all go further, together.&nbsp;</p>
+<br>
+<center>
+&lt;img src=“/img/blog/github-illustrated-series/github_harness.jpg” width=“600px” alt = “Partial rear view of a monster with image focusing on their safety harness with a GitHub Octocat logo, chalk bag, carabiners, and rope.” 
+</center>
+<hr>
+<p><br></p>
+</section>
+<section id="learn-more-about-github" class="level2">
+<h2 class="anchored" data-anchor-id="learn-more-about-github">Learn more about GitHub</h2>
+<p>These are our go-to resources about GitHub; they include philosophy and step-by-step guidance. These examples are with R and RStudio, and are applicable more broadly.&nbsp;</p>
+<p>“<a href="https://peerj.com/preprints/3159/">Excuse Me, Do You Have a Moment to Talk About Version Control</a>?” Bryan J, 2017, PeerJ&nbsp;</p>
+<p><a href="https://happygitwithr.com/">Happy Git With R</a>. Bryan J.&nbsp;</p>
+<p><a href="https://rstudio-conf-2020.github.io/r-for-excel/">R for Excel Users</a>. Lowndes J and Horst A, 2020. Chapter 4 and 8 focus on starting setup and collaboration with GitHub and RStudio</p>
+<p><a href="https://r-pkgs.org/git.html#git-commit">R Packages</a>. Wickham H and Bryan J. Chapter 18 focuses on Git/GitHub.</p>
+<p><a href="https://usethis.r-lib.org/">usethis</a>. Wickham H and Bryan J. usethis is a workflow package: it automates repetitive tasks that arise during project setup and development, both for R packages and non-package projects.</p>
+<p><a href="https://openscapes.github.io/series/github-pub.html">GitHub for Publishing</a>. Openscapes Team. Openscapes Champions Lesson Series</p>
+<p><em>Many thanks to Erin Robinson, Tara Robertson, Stefanie Butland, Hadley Wickham, and Jenny Bryan, for reviewing this blog, and for teaching and inspiring us always.</em></p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Openscapes is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attributions 4.0 International License</a></div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">This website is built with ❤️ and <a href="https://quarto.org/">Quarto</a></div>
+  </div>
+</footer>
+
+
+
+</body></html>

@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.313">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Julie Lowndes">
+<meta name="dcterms.date" content="2020-02-21">
+
+<title>rOpenSci’s leadership in #rstats culture</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/favicon/favicon_fullres.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<style>
+    .quarto-title-block .quarto-title-banner,
+    .quarto-title-block .quarto-title-banner h1,
+    .quarto-title-block .quarto-title-banner h2,
+    .quarto-title-block .quarto-title-banner h3,
+    .quarto-title-block .quarto-title-banner h4,
+    .quarto-title-block .quarto-title-banner h5,
+    .quarto-title-block .quarto-title-banner h6
+    {
+      color: #333333;
+background: #F8D98F;
+    }
+    </style>
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/logo/openscapes_hex_badge.png" alt="The Openscapes logo -- orange text that reads 'openscapes' sitting above small berry 'data points'" class="navbar-logo">
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html" rel="" target="">
+ <span class="menu-text">HOME</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">ABOUT</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="../../who_are_we.html" rel="" target="">
+ <span class="dropdown-text">WHO ARE WE?</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../approach.html" rel="" target="">
+ <span class="dropdown-text">OUR APPROACH</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../media.html" rel="" target="">
+ <span class="dropdown-text">MEDIA</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../team.html" rel="" target="">
+ <span class="dropdown-text">OUR TEAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../code_of_conduct.html" rel="" target="">
+ <span class="dropdown-text">CODE OF CONDUCT</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">INITIATIVES</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
+        <li>
+    <a class="dropdown-item" href="../../champions_program.html" rel="" target="">
+ <span class="dropdown-text">CHAMPIONS PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../reflections_program.html" rel="" target="">
+ <span class="dropdown-text">REFLECTIONS PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../pathways_to_open_science_program.html" rel="" target="">
+ <span class="dropdown-text">PATHWAYS TO OPEN SCIENCE PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../mentors_framework.html" rel="" target="">
+ <span class="dropdown-text">MENTORS FRAMEWORK</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../../blog.html" rel="" target="">
+ <span class="menu-text">BLOG</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-get-involved" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">GET INVOLVED</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-get-involved">    
+        <li>
+    <a class="dropdown-item" href="../../connect.html" rel="" target="">
+ <span class="dropdown-text">CONNECT WITH US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../events.html" rel="" target="">
+ <span class="dropdown-text">ATTEND AN EVENT</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../resources.html" rel="" target="">
+ <span class="dropdown-text">FIND LEARNING RESOURCES</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/openscapes" rel="" target=""><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/openscapes" rel="" target=""><i class="bi bi-twitter" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:hello@openscapes.org" rel="" target=""><i class="bi bi-envelope" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page">
+      <h1 class="title">rOpenSci’s leadership in #rstats culture</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">community</div>
+                <div class="quarto-category">coding</div>
+                <div class="quarto-category">conference</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Julie Lowndes </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">February 21, 2020</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+
+
+
+
+<p><strong><em>Cross-posted on <a href="https://ropensci.org/blog/2020/02/21/ropensci-leadership/">rOpenSci</a></em></strong></p>
+<p><em>At their closing keynote at the 2020 RStudio Conference, Hilary Parker and Roger Peng mentioned that they hatched the idea for their excellent <a href="http://nssdeviations.com/">Not So Standard Deviations podcast</a> following their reunion at the <a href="https://unconf15.ropensci.org/">2015 rOpenSci unconf, (“runconf15”)</a>. That statement went straight to my heart because it pin-pointed how I had been feeling throughout the week of RStudio Conference that I had been unable to name. At rstudio::conf, I was surrounded by so many of the incredible people I had met at that very same runconf15. These folks are visionaries and leaders, founding and leading global efforts in open source software and inclusive culture, and the fact that they were all together at a small event convened by rOpenSci holds great significance. I am so honored to know this community, and to consider them allies and friends. The RStudio Conference (“rstudio::conf”), a conference with 2400 people, felt cozy with their presence and with the visible efforts they have led to make R and beyond a welcoming, innovative space. In a follow-up to an earlier <a href="../../blog/2020/02/04/rstudioconf-2020/">blog summary of rstudio::conf(2020)</a>, here I want to reflect on how important runconf15 was, and how truly unique and gamechanging rOpenSci is.</em></p>
+<br>
+<center>
+<a href="https://twitter.com/juliesquid/status/1224755643598307328"> <img src="../../img/blog/ropensci-butland-welcome.png" width="500px"></a>
+</center>
+<p><br></p>
+<p>The 2020 RStudio Conference felt monumentous to me personally because it marked five years of me being in the #rstats community (which I define broadly to be the deliberate, inclusive, and welcoming culture around R and that visibly exists on the <a href="https://twitter.com/search?q=%23rstats&amp;src=typed_query">Twitter #rstats hashtag</a>) . #rstats has not only upgraded my analytical practices, but it has also changed the trajectory of my career and life: it has upgraded my skillset and also my mindset and expectations of what is possible for scientific research and beyond. I mentioned this in my <a href="../../blog/2019/08/22/user-keynote/">2019 useR! keynote</a>, but I intentionally did not really talk about it. What I could not say in that keynote was describe really at all how important rOpenSci — the program, leadership, and community — is to me because I can’t talk about it without my voice wavering with emotion. But here, written, I will try.</p>
+<p>My entryway to #rstats all started with a single person who welcomed me: <a href="http://karthik.io/">Karthik Ram</a>.</p>
+<p>Karthik is a data scientist, an ecologist, and a world-changer. He not only co-founded, built up, and leads rOpenSci, but also leads efforts at the Berkeley Institute for Data Science and the US Research Software Sustainability Institute, among a million other things. He is an incredibly warm, thoughtful person, and he first said hello to me when he was co-teaching the <a href="https://www.nceas.ucsb.edu/OSS">Open Science for Synthesis</a> course at <a href="https://www.nceas.ucsb.edu">NCEAS</a> where I am based (but was not attending). I met him in the hallway one day and he asked me about my work and told me a bit about rOpenSci.</p>
+<p><a href="https://ropensci.org/">rOpenSci</a> brings software developers and users together to innovate on creating new coding tools and promoting open science. It does this by deliberately creating a friendly, positive environment where folks with different backgrounds and expertise feel welcome and comfortable to learn, share ideas and innovate together. rOpenSci exists primarily online, through its extensive staff- and community-developed and ever-growing ecosystem of <a href="https://ropensci.org/packages/">R packages</a>, <a href="https://ropensci.org/commcalls/">Community Calls</a>, <a href="https://discuss.ropensci.org/">discussion forum</a>, <a href="https://twitter.com/ropensci,">Twitter</a> and Slack. It also catalyzes relationships and strengthens community through in-person “unconf” events, bringing community members physically together to collaborate on specific projects of their choice.</p>
+<br>
+<center>
+<img src="../../img/blog/tweet-_inundata-welcome2.png" width="500px">
+</center>
+<p><!---https://twitter.com/_inundata/status/814333386563194880 ---> <br></p>
+<p>The <a href="https://unconf15.ropensci.org/">2015 rOpenSci unconf</a> (“runconf15”) was transformative for someone like me, so new to coding. Beforehand, I was pretty scarred by my experience coding, and really thought that software was a static, untouchable, and unalterable thing, sort of like a refrigerator that did Its Purpose and Too Bad if it doesn’t work quite right or limits your imagination of could be possible. Honestly, my closest inkling that I could interact with software or software developers was through <a href="https://jules32.github.io/useR-2019-keynote/#59">Clippy</a>.</p>
+<p>But at runconf15, I learned not only that software developers were real people, they were kind people. They were kind people who would take time to talk to a new user/marine ecologist like me, and be interested in my use cases, questions, needs, and learning process. My colleague Jamie and I were able to talk with RStudio’s Joe Cheng about our pitfalls and limitations of working with raster map data in R. And then we were blown away as Joe began coding a package to make rasters faster right before our eyes, in dialogue with us as we sat together.</p>
+<br>
+<center>
+<a href="https://twitter.com/jafflerbach/status/581578558977368064"> <img src="../../img/blog/tweet-jafflerbach-runconf15.png" width="500px"></a>
+</center>
+<p><br></p>
+<p>Having these kind people (note: “kind people” not “kind of people”) all together ready to innovate does not happen by accident. It takes deliberate intent and attention to bringing us together and setting the tone in a comfortable space to interact. And this was the vision of rOpenSci. This runconf15 was the first time I heard a <a href="https://en.wikipedia.org/wiki/Code_of_conduct">Code of Conduct</a>. And it was the first time I had experienced a large setting without hierarchy, and felt like I belonged and could contribute in a way that was welcomed.</p>
+<p>I’ve been thinking back to rOpenSci’s runconf15 event five years ago. My interests, time investment, and <a href="https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/">career focus on kinder science</a> was definitely catalyzed by runconf15, and then reinforced by other’s efforts from this very same event. Those runconf15 participants who were already #rstats influencers…were they catalyzed as well? <a href="https://hilaryparker.com/about-hilary-parker/">Hilary Parker</a> and <a href="http://www.biostat.jhsph.edu/~rpeng/">Roger Peng</a> said that their <a href="http://nssdeviations.com/">NSSD podcast</a> idea came out of rOpenSci’s event. How about <a href="https://en.wikipedia.org/wiki/Tracy_Teal">Tracy Teal</a>, who became executive director of <a href="https://carpentries.org/">The Carpentries</a>, <a href="https://k-roz.com/">Gabriela de Queiroz</a> who had created and then turned <a href="https://rladies.org/">RLadies</a> into a global movement, <a href="https://www.arfon.org/">Arfon Smith</a>, who went on to lead the <a href="https://joss.theoj.org/">Journal of Open Source Software</a>, and <a href="https://rstudio.com">RStudio</a>, who increased their team and customer base by an <a href="https://rstudio.com/slides/rstudio-pbc/#32">order of magnitude</a> in five years and who launched <a href="https://blog.rstudio.com/2016/06/30/join-us-at-rstudioconf-2017/">rstudio::conf in 2017</a>?</p>
+<p>rOpenSci made concerted efforts to continue building and nurturing this community after runconf15. This means leveraging the power of the internet, where conversations ignited at runconf15 was continued with enthusiasm and innovation.</p>
+<br>
+<center>
+<a href="https://twitter.com/jcheng/status/611260382741577729"> <img src="../../img/blog/tweet-jcheng-leaflet.png" width="500px"></a>
+</center>
+<p><br></p>
+<p>But rOpenSci is all about welcoming more and more people into the rOpenSci and #rstats community, as is evident in part from <a href="https://unconf16.ropensci.org/">runconf16</a>, <a href="https://unconf17.ropensci.org/">runconf17</a>, and <a href="https://unconf18.ropensci.org/">runconf18</a>, and the <a href="https://twitter.com/rOpenSci">28.2K Twitter followers</a> (as of February 2020). rOpenSci has created a friendly watershed of innovation, with a growing network of diverse people and skillsets contributing in myriad ways, like streams joining a ever-stronger flowing river.</p>
+<p>And what I am trying to do with Openscapes is to connect additional tributaries to this rOpenSci watershed. I think that the most important thing I do here with Openscapes is to pass forward what I’ve learned from rOpenSci leadership and community, and welcome additional scientists to join. When we talk about the awesomeness of R communities in our mentor sessions, it’s not only to encourage them to become a part of them, but also to extend its ethos and kick-start <a href="https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/">kinder science</a> around them.</p>
+<p>Thank you rOpenSci leadership and the greater community for being so welcoming and supportive of me and everyone like me.</p>
+<p><br></p>
+<!---
+Tweet: An #rstats love letter to @rOpenSci
+--->
+
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Openscapes is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attributions 4.0 International License</a></div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">This website is built with ❤️ and <a href="https://quarto.org/">Quarto</a></div>
+  </div>
+</footer>
+
+
+
+</body></html>

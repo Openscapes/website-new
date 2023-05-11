@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.313">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Julie Lowndes">
+<meta name="dcterms.date" content="2020-03-11">
+
+<title>How to run a remote workshop, Openscapes/Open Leaders-style</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/favicon/favicon_fullres.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<style>
+    .quarto-title-block .quarto-title-banner,
+    .quarto-title-block .quarto-title-banner h1,
+    .quarto-title-block .quarto-title-banner h2,
+    .quarto-title-block .quarto-title-banner h3,
+    .quarto-title-block .quarto-title-banner h4,
+    .quarto-title-block .quarto-title-banner h5,
+    .quarto-title-block .quarto-title-banner h6
+    {
+      color: #333333;
+background: #F8D98F;
+    }
+    </style>
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/logo/openscapes_hex_badge.png" alt="The Openscapes logo -- orange text that reads 'openscapes' sitting above small berry 'data points'" class="navbar-logo">
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html" rel="" target="">
+ <span class="menu-text">HOME</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">ABOUT</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="../../who_are_we.html" rel="" target="">
+ <span class="dropdown-text">WHO ARE WE?</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../approach.html" rel="" target="">
+ <span class="dropdown-text">OUR APPROACH</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../media.html" rel="" target="">
+ <span class="dropdown-text">MEDIA</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../team.html" rel="" target="">
+ <span class="dropdown-text">OUR TEAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../code_of_conduct.html" rel="" target="">
+ <span class="dropdown-text">CODE OF CONDUCT</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">INITIATIVES</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
+        <li>
+    <a class="dropdown-item" href="../../champions_program.html" rel="" target="">
+ <span class="dropdown-text">CHAMPIONS PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../reflections_program.html" rel="" target="">
+ <span class="dropdown-text">REFLECTIONS PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../pathways_to_open_science_program.html" rel="" target="">
+ <span class="dropdown-text">PATHWAYS TO OPEN SCIENCE PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../mentors_framework.html" rel="" target="">
+ <span class="dropdown-text">MENTORS FRAMEWORK</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../../blog.html" rel="" target="">
+ <span class="menu-text">BLOG</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-get-involved" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">GET INVOLVED</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-get-involved">    
+        <li>
+    <a class="dropdown-item" href="../../connect.html" rel="" target="">
+ <span class="dropdown-text">CONNECT WITH US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../events.html" rel="" target="">
+ <span class="dropdown-text">ATTEND AN EVENT</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../resources.html" rel="" target="">
+ <span class="dropdown-text">FIND LEARNING RESOURCES</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/openscapes" rel="" target=""><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/openscapes" rel="" target=""><i class="bi bi-twitter" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:hello@openscapes.org" rel="" target=""><i class="bi bi-envelope" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page">
+      <h1 class="title">How to run a remote workshop, Openscapes/Open Leaders-style</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">community</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Julie Lowndes </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">March 11, 2020</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+
+
+
+
+<!---
+https://foundation.mozilla.org/en/blog/rapid-virtual-meeting-prototyping-age-pandemic/
+
+--->
+<p><em>Here is some tips about how to run remote workshops like we do in Openscapes, which was modeled after <a href="https://twitter.com/MozOpenLeaders">Mozilla Open Leaders</a> program. This post was sparked by <a href="https://twitter.com/Stephani_Otte/status/1236440853951860736">a question on Twitter</a> asking for ideas/suggestions on virtual workshops, and is really one I meant to write a long time ago. I’ve structured it with practical guidance for remote workshops and small remote meetings, with more details and examples from Openscapes remote and mixed events as you continue reading.</em></p>
+<p><em>Update March 19: see slides, demo doc and recording of <a href="https://bit.ly/33uJK0n">“Designing a remote workplace”</a>, a 30-minute webinar building off of these ideas that I presented to the Santa Barbara Nonprofit Resource Network.</em></p>
+<section id="main-advice-for-remote-workshops-meetings" class="level2">
+<h2 class="anchored" data-anchor-id="main-advice-for-remote-workshops-meetings">Main advice for remote workshops &amp; meetings</h2>
+<p>The point of remote workshops and meetings is for people to be actively engaged — this is the main difference between a workshop and more passive webinars. You can do this with a mix of technology &amp; social setup.</p>
+<ul>
+<li>Zoom video conference software (or similar), with each person on their own laptop with video on — even if you are in person with other people.</li>
+<li>Google docs (or similar) with live note-taking so that there are non-verbal channels to participate.</li>
+<li>Code of Conduct (Community Participation Guidelines) to set the tone of the meeting and have everyone feel welcome.</li>
+</ul>
+<p>Importantly, you must include time (it can be &lt;3 minutes) at the very beginning of your call to show people how to use Google Docs and Zoom. Few people (or no one?) was ever formally taught how to use this software, which means there are varying degrees of familiarity and comfort, and you cannot assume everyone is on the same page. Take the time to get them there.</p>
+<p>I’ll go through each of these a bit more deeply — but also check out Mozilla Open Leaders’ Abby Cabunoc Mayes’ thread about <a href="https://twitter.com/abbycabs/status/1237001927734542341">online meeting tips</a>.</p>
+<br>
+<center>
+<a href="https://twitter.com/abbycabs/status/1237001927734542341"> <img src="../../img/blog/tweet-abbycabs-online-meeting-tips.png" width="500px"></a>
+</center>
+<p><br></p>
+<section id="zoom-video-conferencing-for-visual-engagement" class="level3">
+<h3 class="anchored" data-anchor-id="zoom-video-conferencing-for-visual-engagement">Zoom video conferencing for visual engagement</h3>
+<p>Zoom video conferencing software is free to download, and you can schedule meetings ahead of times that you can include in emails or Calendar Invites. Having all participants join the call from their own computer is a way to have everyone engaged, especially when they have their videos on. (This is obviously not always possible, and it is preferable to have someone join without video than not join at all, but videos on is a good norm to set). A few other features of Zoom that makes it great for remote workshops:</p>
+<ul>
+<li>You can toggle between Gallery View to see everyone’s faces rather than Presenter View.</li>
+<li>Recording is straight-forward and will include screencasts if you are sharing screens, and has a pretty compressed file that is good to share afterwards</li>
+<li>The breakout room feature is super useful if you want to enable smaller conversations. You can set up breakout rooms ahead of time or let it randomly break people into groups, and then you can manually move people around if need be.</li>
+</ul>
+<br>
+<center>
+<img src="../../img/blog/Cohort1_zoom.png" width="500px">
+<figcaption>
+Example of Zoom Gallery View with the 2019 Openscapes Champions.
+</figcaption>
+</center>
+<p><br></p>
+</section>
+<section id="google-docs-for-hands-on-participation" class="level3">
+<h3 class="anchored" data-anchor-id="google-docs-for-hands-on-participation">Google Docs for hands-on participation</h3>
+<p>Creating an agenda ahead of time (and including it in your emails and Calendar Invites — remembering to give all participants editing privileges) is the second big piece for remote workshops. Depending on the event it doesn’t have to be a super involved agenda, but having a place where participants can be hands-on during the workshop is really important for their engagement.</p>
+<ul>
+<li>As host/organizer, use this Google Doc agenda to your advantage: write down notes for what you want to say. There doesn’t need to be a big reveal, and if participants can read and hear it reinforces your message. I often highlight the sections I’m talking about to help draw focus.</li>
+<li>Start the document with a role call for folks to do as they join the call; it also sets the norm that everyone is invited to and expected to write in the agenda (see <a href="https://twitter.com/abbycabs/status/1237001927734542341">Abby’s thread</a>)</li>
+<li>Include time at the very beginning to show people how to use Google Docs and Zoom to make sure everyone is comfortable and empowered.<br>
+</li>
+<li>Include links to any slides or documents within the Agenda so that everything you discuss in the agenda are available to others. This leads to the next point:</li>
+<li>Have participants advance slides on their own. This not only reduces bandwidth problems that can come with screensharing, but it gives participants an additional way to engage hands-on; they need to advance the slides themselves. Doing this does mean giving slides access to everyone, and Google Slides and R (beamer, isoslides, xaringan) are great for this.</li>
+<li>Encourage note-taking and side conversations. Adding +1’s to show support for different ideas is a great way for folks to engage (as are emojis, pictures, and gifs)</li>
+</ul>
+<p>You are welcome to use/remix these <a href="https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g">agendas from Openscapes</a> (also linked from the <a href="https://openscapes.github.io/series/index.html#agendas">Lesson Series</a>).</p>
+<br>
+<center>
+<a href="https://docs.google.com/document/d/1Ia5-w8KiZgyZqX1ErGnrFihDAUAiAzkZwDfSgZw9BMU/edit?usp=sharing"> <img src="../../img/blog/openscapes-call-agenda.png" width="500px"></a>
+<figcaption>
+Example of Google Docs Agenda, including role call and quick intro to collaborative notes.
+</figcaption>
+</center>
+<p><br></p>
+<p>Also, if you are often meeting with the same person, have a single document where you meet, and add that link to Calendar Invites. Add the most recent meetings by date to the top of the file, so there is less scrolling to engage in the document each time.</p>
+</section>
+<section id="code-of-conduct-to-set-a-welcoming-tone-for-all-participants" class="level3">
+<h3 class="anchored" data-anchor-id="code-of-conduct-to-set-a-welcoming-tone-for-all-participants">Code of Conduct to set a welcoming tone for all participants</h3>
+<p>Codes of Conduct and Community Participation Guidelines help set the tone of the workshop and make people feel welcome. While CoCs are becoming more normal in open communities (including at large tech conferences like <a href="https://www.openscapes.org/blog/2019/02/19/rstudioconf/">rstudio::conf</a>), they are still not the norm in many settings. So remote workshops are a great place to lead by example and set the conditions of participation.</p>
+<p>Openscapes borrows from <a href="https://www.mozilla.org/en-US/about/governance/policies/participation/">Mozilla’s Community Participation Guidelines</a>, and we cover the following points outloud at the beginning of a meeting (these are bulleted in the Google Docs agenda);</p>
+<ul>
+<li>Be respectful and value each other’s ideas, styles and viewpoints.</li>
+<li>Be direct but professional; we cannot withhold hard truths.</li>
+<li>Be inclusive and help new perspectives be heard.</li>
+<li>Be open to learning from others.</li>
+<li>Lead by example and match your actions with your words.</li>
+<li>If you have issues, please direct them to:
+<ul>
+<li>Julie - lowndes@nceas.ucsb.edu</li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="openscapes-setup" class="level2">
+<h2 class="anchored" data-anchor-id="openscapes-setup">Openscapes setup</h2>
+<p>This is an excerpt from a previous post <a href="https://www.openscapes.org/blog/2019/01/28/introducing-champions-program/">Introducing the Champions program</a> that describes how we use these together for remote calls twice a month for five months:</p>
+<blockquote class="blockquote">
+<p>Openscapes Champions is a five-month mentorship program that is led remotely. Each month, there is individual mentorship for each Champion, and two “Cohort Calls” where we convene all Champions together, along with their lab members. Throughout, all participants learn about open practices and data science; strategize how to engage; meet other labs; set, review, and meet goals; and stay accountable. For each 1.5-hour Cohort Call, I teach for a maximum of 40 minutes, so that we spend most time discussing these topics in the context of their labs.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>So how do you lead a remote program like this? You model it after <a href="https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/">Mozilla Open Leaders</a>, which has developed a great program that they have repeatedly tested and improved over seven rounds. It takes intense coordination, deliberate focus on creating a positive and inclusive culture, design to make calls engaging and interactive, Zoom, and Google Docs. (I think this is really cool how the intentions of the program are realized with the software tools available — you will see this as a theme throughout). I will focus on the software here, and have a whole separate upcoming post on culture.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p><strong>Zoom and Google Docs</strong></p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Participants all join Cohort Calls through Zoom, a video conferencing software that we use to interact in real time and also record the whole call as an archived resource for participants. In addition to accommodating large groups for discussions, it also has a great breakout room feature. Breakout rooms allows all participants to not only listen to lessons and discuss as a full group, but also lets them break into small groups to discuss topics. Following breakout groups, participants rejoin and summarize to the group both verbally and in writing, using Google Docs.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Each call has an agenda written as a Google Doc to enable real-time participation. During the call, all participants have the agenda open, and follow along, writing their thoughts in specific places and participating in active shared note-taking. This is an <a href="https://drive.google.com/open?id=1Ia5-w8KiZgyZqX1ErGnrFihDAUAiAzkZwDfSgZw9BMU">example pre-call agenda</a>. Following the real-time writing and engagement during the Cohort Call, the agenda serves as a record of the discussions had that participants can revisit and anyone who missed can review.</p>
+</blockquote>
+<p>There are definitely ways to improve and scale to accommodate people of different abilities and obligations, but this is where we are with Openscapes at the moment. I hope this is helpful and there will be future posts as we learn and iterate moving forward!</p>
+<p><br></p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Openscapes is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attributions 4.0 International License</a></div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">This website is built with ❤️ and <a href="https://quarto.org/">Quarto</a></div>
+  </div>
+</footer>
+
+
+
+</body></html>

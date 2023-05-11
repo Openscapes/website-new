@@ -2742,5 +2742,33 @@
     "title": "Wins from the inaugural Champions cohort",
     "section": "",
     "text": "I am so proud of what all of the Openscapes Champions achieved! I had ambitious expectations but was truly blown away by every single one of these scientists: by their achievements, enthusiasm, generosity of time, and thoughtfulness with each other. Openscapes is not only about introducing tools, it’s about creating a lasting culture around those tools. Our cohort included scientists who are leaders in their fields but were by and large not engaged in open science. But they are now champions in the lab and beyond, and it’s just the beginning of their leadership and impact on the future of environmental open data science.\nAnd luckily, it’s just the beginning of Openscapes as well!\nOpenscapes has been possible because of a truly life-changing Fellowship from Mozilla, and incredible mentorship and support from many many folks at Mozilla, NCEAS, the open data science community, and the Champions themselves. Thank you all, so much. And while my Mozilla Fellowship concludes at the end of this month, I will be receiving some generous support to continue Openscapes and develop a plan to mentor future cohorts! I cannot tell you how excited I am to continue this work. Throughout the summer and fall I’ll continue writing blogs as I synthesize all the lessons learned into the Openscapes Report, Volume 1 (working title) (and which I will also share). More exciting things to come! Thanks for reading :)"
+  },
+  {
+    "objectID": "blog/2018-12-17-want-to-learn-r/index.html",
+    "href": "blog/2018-12-17-want-to-learn-r/index.html",
+    "title": "So you want to learn R",
+    "section": "",
+    "text": "updated with R for Excel Users resource Apr 2020"
+  },
+  {
+    "objectID": "blog/2018-12-17-want-to-learn-r/index.html#start-learning-r-with-github",
+    "href": "blog/2018-12-17-want-to-learn-r/index.html#start-learning-r-with-github",
+    "title": "So you want to learn R",
+    "section": "Start learning R with GitHub",
+    "text": "Start learning R with GitHub\nCoding is collaborative. You will want to share code with others — starting with yourself. Emailing code can be very problematic, because it involves keeping all of the code files and data files organized and in the right place. Better to use something like GitHub, which is collaborative version control. This adds more things to learn up front, but the payoff is substantial.\nIf you want to learn R and GitHub together, I would recommend starting with R for Excel Users (Lowndes & Horst 2020) that we developed for the 2020 RStudio Conference (similar resource is the Ocean Health Index’s Intro to Open Data Science, which the OHI team developed and has been teaching from for years and has recordings).\nR for Excel Users has lessons for a 2-day course, broken into 1.5-hour sessions. It starts with how to install all the software you will need for the course, and then each chapter builds from the previous, so that you practice your skills together as a workflow.\nI would also recommend watching the RStudio webinar called “Advanced Data Science: Collaboration and time travel — version control with git, github, and RStudio” (navigate there from the Learning Roadmap).\nNote: If you want to learn R without GitHub at this point, you can still use this book to do it by skipping the GitHub parts."
+  },
+  {
+    "objectID": "blog/2018-12-17-want-to-learn-r/index.html#learn-r-for-data-analysis-in-more-depth-and-breadth",
+    "href": "blog/2018-12-17-want-to-learn-r/index.html#learn-r-for-data-analysis-in-more-depth-and-breadth",
+    "title": "So you want to learn R",
+    "section": "Learn R for data analysis in more depth and breadth",
+    "text": "Learn R for data analysis in more depth and breadth\nR for Data Science is hands-down the best book for learning R for data analysis. RStudio folks like Hadley Wickham and Garrett Grolemund are actually the ones developing ways to work efficiently and effectively in R, and to learn directly from them will also give a good sense of the theory and deliberate practices. This book is used to teach university courses and will continue to be your go-to reference for R."
+  },
+  {
+    "objectID": "blog/2018-12-17-want-to-learn-r/index.html#keep-learning",
+    "href": "blog/2018-12-17-want-to-learn-r/index.html#keep-learning",
+    "title": "So you want to learn R",
+    "section": "Keep learning!",
+    "text": "Keep learning!\nContinue with other tutorials from list of the resources, including listening to podcasts, and learning how to build websites and books!\n\n\nPhoto by Elliot Lowndes"
   }
 ]

@@ -36,9 +36,9 @@ For example, the Ocean Health Index describes how open software and borrowing pr
 
 Learning to code should be fun since you are learning powerful and empowering tools that will be game-changing for your science. So learn with friends, and grow your community. 
 
-- [Start a coding club]()
-- [Build communities locally]()
-- [Starting our #tidytuesday hacky hours]()
+- [Start a coding club](blog/2018-11-16-start-coding-club/index.qmd)
+- [Build communities locally](blog/2018-11-06-build-communities/index.qmd)
+- [Starting our #tidytuesday hacky hours](blog/2019-05-02-tidy-tuesday-coding-club/index.qmd)
 
 ![](images/minis/horst_openscapes_grassland_deer.png){fig-align="center" width="100"}
 
@@ -46,7 +46,7 @@ Learning to code should be fun since you are learning powerful and empowering to
 
 We recommend using R with RStudio, which not only provides a supportive infrastructure but enables direct connection to GitHub.com (i.e. without additional software or use of the command line). Further, workflows with RStudio's tidyverse & friends and with RMarkdown create good practices for collaborative, reproducible workflows.
 
-- [So you want to learn R?]()
+- [So you want to learn R?](blog/2018-12-17-want-to-learn-r/index.qmd)
 - [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel) — Lowndes & Horst 2020
 - [Big Book of R](https://www.bigbookofr.com/index.html) — Oscar Baruffa, combines > 200 publically available books, tutorials, and workshops about R
 - [UO R Psych Bootcamp](https://uopsych-r-bootcamp-2020.netlify.app/) — Branden Cullen, University of Oregon

@@ -1,0 +1,70 @@
+---
+title: "Towards collaborative protocols with the Symbiosis in Aquatic Systems Initiative"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Julie Lowndes, Erin Robinson, Lenny Teytelman, Emma Ganley
+date: 2022-03-29
+slug: sasi-champions
+categories:
+  - community
+  - champions
+  # - impact
+image: ../../img/blog/sasi-cohort-square.png
+---
+
+*In Fall 2021 we led an Openscapes Champions Cohort for research teams part of the Symbiosis in Aquatic Systems Initiative ([SASI](https://www.moore.org/initiative-strategy-detail?initiativeId=symbiosis-in-aquatic-systems-initiative)), funded by the[ Gordon and Betty Moore Foundation](https://www.moore.org/). For this Cohort, we partnered with[ protocols.io](https://protocols.io) and co-led the cohort with a focus on collaborative, reproducible practices for writing protocols - reproducible methods that researchers use to collect data in the lab.* ***Cross-posted on [protocols.io](https://www.protocols.io/workspaces/protocolsio-news/news/towards-collaborative-protocols-with-the-symbiosis1)***
+
+*Quick links:*
+
+-   *Cohort webpage: https://openscapes.github.io/2021-sasi/*
+
+------------------------------------------------------------------------
+
+## **SASI Cohort overview**
+
+For this Champions Cohort, we worked closely with Lenny Teytelman and Emma Ganley, the CEO and Director of Strategic Initiatives at [protocols.io](https://protocols.io). Our goals were to incorporate a specific focus on protocols into the Champions program curriculum, and we worked with Lenny and Emma to develop and lead these new lessons.
+
+The seven research teams who participated are [Symbiosis in Aquatic Systems Initiative](https://www.moore.org/initiative-strategy-detail?initiativeId=symbiosis-in-aquatic-systems-initiative) grantees, and you can learn more about their research below. Together as a Champions cohort they discussed what worked and didn't work for their protocols workflows, with a focus on collaboration and open science. This cohort had eight cohort calls over four months - while in 2021 we started experimenting with shorter 2-month cohorts, we thought that incorporating new protocols lessons would benefit by a longer time period (the SASI Cohort had a similar timeline to the 2019 [inaugural cohort](https://openscapes.github.io/events/posts/2019-01-21-inaugural/)). Each cohort call included a welcome and code of conduct reminder, two teaching sessions with time for reflection in small groups or silent journaling and group discussion before closing with suggestions for team meeting topics before next time ("Seaside Chats"), Efficiency Tips, and Inclusion Tips.  
+
+![SASI Champions during a Cohort Call](/img/blog/sasi-cohort.png)
+
+  
+
+## **What did participants achieve?**
+
+This cohort was an opportunity for SASI principal investigators and their teams to explore collaborative approaches to shared workflows, specifically using [protocols.io](https://protocols.io) as well as other tooling like Google Drive, Slack, R, and GitHub. And it was also an opportunity to connect and strengthen community across the [SASI grantee network](https://www.moore.org/initiative-strategy-detail?initiativeId=symbiosis-in-aquatic-systems-initiative) and discuss common techniques and challenges. Themes we revisited throughout the cohort included how to share protocols for reuse and iteration, how to troubleshoot and share negative results, how to take inventory as there might be multiple versions of the same protocol in use, how to onboard new people to techniques used in the lab, and how to strengthen resilience within the lab so folks can work asynchronously, remotely, and help each other if someone is not available.
+
+Throughout the cohort, teams had the time to think through and discuss together about how their protocols were currently managed. This often led to the realization that there were inefficiencies in how they were being maintained and shared. The cohort created the "space and place" for these conversations (something that has been an [emerging theme](https://www.openscapes.org/blog/2022/02/17/esip-winter-2022/) we've written about from other Openscapes cohorts). Transitioning workflows, upskilling together and adapting as folks onboard and offboard takes time, and is a constant work in progress. Much of the momentum and achievements of SASI teams overlapped and reinforced each other but fit into a few broader themes:
+
+**Shift towards collaborative protocols** - teams had the space to talk about developed a deeper understanding of the benefit of sharing protocols, and sharing them earlier for feedback and iteration, along with practical hands-on knowledge of how protocols.io can help. One participant said that the Cohort "definitely helped with creating a sense of urgency in organizing protocols and data." Several labs focused on taking inventory of existing protocols and organizing Google Drive in preparation for shifting to protocols.io.
+
+Something that also came through is that the shift towards collaborative protocols - whether with protocols.io or otherwise - requires lots of pre-work beforehand, including shared intent, organization, inventory, consolidation/updating. This means that there must be shared organization that the group agrees on - naming conventions, where they live, how folks access and contribute. The need for shared organization and how teams tackle it shows up as Google Folders, paper notebooks, as well as protocols.io workspaces.
+
+**Shift in thinking about collaboration in and outside the lab** - the idea of Future You as your most important collaborator, and Future Us as a team-mindset that others will build from your work resonated with this cohort. This came through a deeper understanding of how being intentionally inclusive about collaboration is different from default approaches, workflows, and often tooling. In their final pathways presentations where they shared their progress, several labs focused on onboarding - focusing their efforts with what someone needs to know to be successful when they first join the lab. They also modeled having a safer space to talk about the challenges they've been having and start moving towards solutions.
+
+Shifting to collaborative approaches also requires time. Researchers have little time to enact new practices alongside their current workloads, but it is critical to interact with others within their research group and outside of the lab. There was an emphasis on the importance of community; and how to best connect with other researchers studying the same organism or technique. Participants expressed a need to be able to ask questions and compare approaches with researchers working in the same systems.
+
+## **Closing thoughts**
+
+Fall 2021 was a very difficult time during the COVID pandemic and returning to in-person teaching and school. These teams were so generous and gracious as they made time to learn together and help each other, and it wasn't possible for everyone to be at every session. We saw a commitment within these teams and know that they'll be continuing to incorporate what they've learned as they're able to. We loved the vignettes that folks shared in the final call, where each team gave a 3-minute "screenshare and tell" to describe their progress and pathway forward. We heard stories of a 1st year grad student who was onboarding to their new lab and transcribed his notes into protocols.io, which allowed the lab tech to review and add clarifications and missing details; stories of a shared bioinformatics workflow Google Doc that has a linked table of contents and code written out with narrative for each step; stories of pressure-testing the resilience of the lab set up to determine weakpoints as well as what works for collaborations and mentoring within the lab; and stories of overwhelm with where to start, so focusing on onboarding through the question "if someone new were starting in the lab tomorrow, what should they know if we were just going to show our protocols.io workspace", which they began to populate with the "everyday things".
+
+Something that we remarked about with Lenny and Emma is that we're seeing a shifted mindset around open science, and it was really evident with the Cohort. It's less that research teams need to be convinced that open science is a good thing - the challenge is the time and support involved to put it to practice.
+
+## **Champions Teams**
+
+[**The Gladfelter Lab**](https://gladfelterlab.web.unc.edu/) at the University of North Carolina is interested in how cells are organized in time and space. They study how cytoplasm is spatially patterned and how cells sense their own shape. They also investigate how timing in the cell division cycle can be highly variable yet still accurate. For their work, we combine quantitative live cell microscopy and computational, genetic and biochemical approaches in fungal and mammalian cells. GitHub/protocols.io:[ https://github.com/GladLab/GladLab](https://github.com/GladLab/GladLab) /[ https://www.protocols.io/workspaces/gladfelterlab](https://www.protocols.io/workspaces/gladfelterlab)
+
+[**The Frederickson Lab**](http://mutualism.ca/) at the University of Toronto focuses on the ecology and evolution of mutualism, or cooperation between species. Mutualisms are extremely common in nature---so common, in fact, that every plant and animal on Earth may be involved in at least one mutualism. The Frederickson Lab uses field, molecular, and computational approaches to study diverse plant-animal and host-microbe mutualisms, with the goal of understanding how and why species cooperate.
+
+[**The Bolnick Lab**](https://bolnicklab.wordpress.com/) at the University of Connecticut seeks to understand how ecological interactions affect the evolution of within-species trait variation. Research in the lab touches on a wide variety of species interactions, and combines theoretical models, natural history, field and lab experiments, and meta-analyses. Currently evolution of vertebrate immunity to parasites is a major, but not exclusive, focus of the lab.
+
+[**The Milligan-Myhre Lab**](https://drkatlab.wordpress.com/about/) at the University of Connecticut focuses on how host genetic background contributes to the balance between the immune response to microbiota in the gut and intestinal microbial membership. While some disease phenotypes are controlled by one or two genes, other diseases, like inflammatory bowel diseases, have many genes involved that each have a small effect. We developed the genetically variable threespine stickleback (Gasterosteus aculeatus) as a model to examine how host genetic background influences immune response to microbiota in the gut and gut microbial community membership, and use it with the hopes that these mechanisms will elucidate genetic contribution to human diseases like inflammatory bowel diseases.
+
+[**The Zheng Lab**](https://emb.carnegiescience.edu/science/faculty/yixian-zheng) at the Carnegie Institution for Science has a long-standing interest in cell division and cytoskeleton. In recent years, the findings they made have broadened their research scope to include three research areas: 1. The mechanism of cell division. 2. The mechanism of genome organization in development, homeostasis, and aging. 3. The mechanism of endosymbiosis in cnidaria. They use a wide range of tools and systems, including genetics in model organisms and creating new model organisms, cell culture, biochemistry, proteomics, genomics, in their research.
+
+[**The Amend Lab**](https://openscapes.github.io/2021-sasi/) at the University of Hawaii examines the causes and consequences of microbial composition at the population and community scales. Their research includes Diversity and Evolution of Fungal Endophytes in Native Hawaiian Plants; Biogeography of Small Organisms; Habit Connectivity and Microbial Reservoirs; and Diversity and Distribution of Marine Fungi.
+
+[**The Patel Lab**](http://www.patellab.net/) at the Marine Biological Laboratory are beginning to explore the degree to which developmental pathways have been conserved or altered between various arthropods. Insights into the nature of developmental and molecular alterations will help to understand the evolutionary changes in the mechanisms of pattern formation and provide a molecular basis for analyzing the diversification of body morphologies and developmental mechanisms. The current work in the Patel Lab can be divided into three main project areas: The role of homeotic (Hox) genes in the evolution of body morphology; Germ line regeneration in Parhyale hawaiensis; and Structural color in Butterflies.
+
+<br> <img src="/img/blog/sasi-cohort-square.png" width="250px">
+
+<br>

@@ -1,0 +1,154 @@
+---
+title: "Starting our #tidytuesday hacky hours"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Allison Horst
+date: 2019-05-02
+slug: tidytuesday
+categories:
+  - community
+  - champions
+  # - how-to
+  - study-group
+  # - impact
+image: ../../img/blog/tidy_tuesday_3square.jpg
+---
+
+# Starting our \#tidytuesday hacky hours
+
+*This is our first community blog post by Openscapes Champion Allison Horst!*
+
+---
+
+Hi everyone! I’m Allison. I teach data analysis, statistics and presentation skills to graduate students at the Bren School of Environmental Science and Management at UC Santa Barbara. I’m also an Openscapes Champion.
+
+In [Openscapes](http://www.openscapes.org) we discuss the need to create supportive spaces, like [coding clubs](https://www.openscapes.org/blog/2018/11/16/how-to-start-a-coding-club/), for useRs to practice and grow their coding skills. 
+
+With Bren masters student Gracie White ([@GracieGW](https://twitter.com/GracieGW)), I’ve recently started a weekly hacky hour / coding club in Santa Barbara. Here, I’ll share how [#tidytuesday](https://github.com/rfordatascience/tidytuesday) has reduced our workload and planning, how we started and organize our events, and a few things we’ve learned so far.
+
+<br> 
+
+<center>
+  <a href="https://twitter.com/GracieGW/status/1123407504812068865">
+  <img src="/img/blog/tidy_tuesday_5gracie.png" width="400px"></a>
+</center>
+
+<br> 
+
+#### \#tidytuesday offers a no-stress, low-effort coding club option for organizers
+
+Coming off of two quarters of data analysis courses, a number of motivated students were looking for a stress-free way to maintain and grow their coding skills. Recognizing the momentum, Gracie reached out requesting that we start a coding club this quarter using RStudio’s #tidytuesday initiative as an impetus and opportunity for weekly social coding events. 
+
+So, what is #tidytuesday? As described by Thomas Mock ([@thomas_mock](https://twitter.com/thomas_mock)) of [RStudio](https://www.rstudio.com/) and the [R for Data Science](https://r4ds.had.co.nz/) (#R4DS) online learning community:
+
+>“Every week we post a raw dataset, a chart or article related to that dataset, and ask you to explore the data...The goal of TidyTuesday is to apply your R skills, get feedback, explore other’s work, and connect with the greater #RStats community!”
+
+Why is that so great? 
+
+**Because it means that the groundwork for a short, productive session of data wrangling practice already exists, with very little effort on our end.** Manageable #tidytuesday datasets are shared each week with background information, citations, and code to read them directly into R. 
+
+Attendees are invited to bring any other code-related projects they’re working on, but having the #tidytuesday option means that there’s something for everyone to work on that week, and we don’t have to spend any energy to make it available or accessible. Another bonus: many #tidytuesday participants share their code and visualizations publicly, so anyone can explore examples to learn from what others have done! 
+
+<br> 
+
+<center>
+  <a href="https://twitter.com/GracieGW/status/1120876956482805761">
+  <img src="/img/blog/tidy_tuesday3_tweet.png" width="400px"></a>
+</center>
+
+<br> 
+
+#### How we started our coding club. 
+
+##### *Step 1. We sent out a welcoming email with important information.*
+
+Once we knew we’d focus our sessions around #tidytuesday datasets, we welcomed people to join us. In our first email, we wanted to:
+
+- Welcome people and share our enthusiasm
+- Include the date, time and location of our first event
+- Introduce the #tidytuesday initiative
+- Ask interested people to add their name to our Google sign-up sheet
+
+We sent out the following email to Bren students and other R-using friends in the UCSB community: 
+
+>*I'm very excited to share that we're starting a Tidy Tuesday Coding Club next quarter. Our hope is to make this a fun, no-stress, and supportive weekly group where we can all work on our own coding projects, discuss challenges, share victories (and grievances), learn about cool new packages and functions, and keep the rust off of our R coding skills!*
+
+>*Our first coding club will be DATE, TIME, at LOCATION. We plan to schedule a place each Tuesday (e.g. coffee shops, breweries, restaurants, etc.) where we can meet in the afternoon/evening and code together. You can bring your own code/data you're working on, or participate in the "R for Data Science" online community's #TidyTuesday initiative, summarized here:*
+
+>*"Join the R4DS online learning community in the weekly #TidyTuesday event! Every week we post a raw dataset, a chart or article related to that dataset, and ask you to explore the data. While the dataset will be “tamed”, it will not always be tidy! As such you might need to apply various R for Data Science techniques to wrangle the data into a true tidy format. The goal of TidyTuesday is to apply your R skills, get feedback, explore other’s work, and connect with the greater #RStats community! As such we encourage everyone of all skills to participate!"*
+
+>*We'll be participating in #TidyTuesday each week, and we hope you'll join us for some fun social coding (yes, those can coexist). Sign-up HERE to be included on future emails about the dates/times/locations of our Tidy Tuesday Coding Club. We look forward to seeing you there!*
+
+
+##### *Step 2. We showed up!*
+
+We held our first event at a cool little brewery close to campus that satisfied some requirements:
+
+- Easy to bike or bus from campus
+- Plenty of seating and tables for computers
+- Free and reliable wifi
+- Food & refreshments available (at venue or very close by)
+- No loud events happening (e.g. trivia night, live bands, etc.)
+
+...and ~17 coders came out to join us!
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/tidy_tuesday_2b.png" width="400px"></a>
+</center>
+
+<br> 
+
+There was a pretty even mix of attendees working on their own projects (research, assignments, etc.) and those using #tidytuesday to practice wrangling and visualization. 
+
+One person remembered how (and why!) to work in R projects. Several of us re-learned a few things about the lubridate package for working with dates and times. For a few, even opening RStudio and reading in data after a long hiatus felt victorious. 
+
+I was thrilled to be there with so many people who felt comfortable working alongside other R-users at all different levels. It was a fun, relaxed evening of coding together. At subsequent events we’ve had between 12 and 18 people (and at least one dog), which is perfect for the locations we’ve met so far, and new interested members continue adding their names to our sign-up sheet. 
+
+
+
+##### *Step 3. We follow up between events*
+
+The Wednesday or Thursday following each event, I send an email to the group with the time and location of our next meeting. I also include some code examples inspired by discussions or data wrangling efforts during that week’s coding club (and am adding them to a GitHub repo). 
+
+Monday or Tuesday after the new #tidytuesday datasets are posted, Gracie sends an email welcoming people to join us that week with a short summary of that week’s data topic and code to read in the datasets directly. 
+
+So at this point, our effort as organizers is pretty minimal:
+
+- Monday/Tuesday: Gracie sends reminder email + code to get #tidytuesday data
+- Tuesday: We attend our coding club (2 hours/wk)
+- Wednesday: I post my code examples on GitHub (takes ~30 minutes)
+- Wednesday/Thursday: I send a follow-up with next location + links to code examples 
+
+For now, that’s our low-effort, big-reward strategy for starting a social coding group!
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/tidy_tuesday_3.jpg" width="400px"></a>
+</center>
+
+<br> 
+
+#### Some early lessons we've learned
+
+Some lessons we’ve learned very early on in our little coding club’s existence:
+
+- **You don’t need a perfect plan to start a coding club.** I’d been so worried about details that I delayed starting a coding club. I shouldn’t have. In our first few weeks I’ve learned that attendees are happy to participate in less structured, low-key social coding events - and that I don’t need to feel like a host every week. 
+
+- **Use materials that others have already created to minimize planning effort.** The goal of our club is to get and keep everyone coding frequently so that we can all maintain and grow our R-skills. For that purpose, using the existing #tidytuesday infrastructure makes a lot of sense. 
+- **Wifi is really important.** As we learned last week, our sessions are way less productive if we can’t easily and quickly search examples, twitter, blogs, documentation, forums, etc. We’ve had to cross a couple of places off our locations list due to unreliable wifi. 
+
+- **You don’t need an expert in attendance, but it helps to have some people who can help with issues when people get stuck.** In our group, most people have had 1 - 2 recent courses in R and are relatively independent when it comes to the basics. Still, it’s useful to have one or two people there who feel comfortable troubleshooting or can send people in the right direction.
+
+- **Know your audience, and choose your format accordingly.** Our “get together and code socially” format works for our group because we have a critical mass of semi-independent R-users who are able to work and learn at a level that makes sense for #tidytuesdays (basic data wrangling + visualization with the tidyverse). If that isn’t the case, another format (e.g. a coding club where attendees work through tutorials together, or where an instructor leads a short workshop on a different topic like in [eco-data-science](https://eco-data-science.github.io/)) might be more productive. Figure out the **goals** of your coding club first, try to anticipate the **level** of most attendees, and **choose a format that will set them up to meet those goals.**  
+
+We’re really excited about our young coding club so far, and will share what we learn as it continues to grow! 
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/tidy_tuesday_4.jpg" width="400px"></a>
+</center>
+
+<br> 

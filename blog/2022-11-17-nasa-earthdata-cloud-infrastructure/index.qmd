@@ -1,0 +1,77 @@
+---
+title: "The why, what, and how of our NASA Openscapes cloud infrastructure: 2i2c JupyterHub and corn environment"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Luis Lopez and the NASA Openscapes Mentors
+date: 2022-11-17
+slug: cloud-infrastructure
+categories:
+  - community
+  - nasa-framework
+image: ../../img/blog/cloud-infrastructure-lopez-screenshot-square.png
+---
+
+## The why, what, and how of our NASA Openscapes cloud infrastructure: 2i2c JupyterHub and corn environment
+
+*I am a software engineer at the [National Snow and Ice Data Center](https://nsidc.org/home). Last month I gave a casual overview of our current cloud infrastructure set up with NASA Openscapes. The purpose was to share the why, what, and how of our setup with 2i2c JupyterHub and corn, to see how we can reuse what works and improve from other ideas. This blog post is a short overview of that talk, and links to the slides and recording with demo are below.*
+
+*We support researchers using NASA Earthdata as they migrate their data analysis workflows to the cloud. This blog post does not go into deep detail about how NASA Earthdata is migrating to the cloud, but you can read more about our efforts with NASA Openscapes at https://nasa-openscapes.github.io.*
+
+- *[Slides](https://docs.google.com/presentation/d/100aazshfYJfIe5pjQ6w3hswjA9zuuhEd2sZ3P4LhxJc/edit?usp=sharing)*
+
+- *[Recording](https://youtu.be/Payju0KDScg), including demo not reflected in the slides*
+
+---
+
+## Background: a tale of two workflows
+
+We were motivated to set up cloud infrastructure because we aim to minimize "the time to science" to support researchers. Downloading data to then analyzing locally isn't an ideal workflow for many reasons, including because the data are getting bigger which leads to long download times and expensive storage, but also because clicking and downloading isn't reproducible — and that is with data access alone, long before data analysis and science begins.
+
+An alternate workflow is to use a managed JupyterHub like ours with 2i2c, which enables you to take your computer to the cloud right next to NASA Earthdata in US-West-2, which was chosen by NASA because it is technically a carbon neutral data center.
+
+We see a future with cloud deployments. However, there are challenges that are listed here. I want to credit and thank [Ryan Abernathy](https://twitter.com/rabernat/) from [Pangeo](https://pangeo.io/) for raising the points I've marked with **!
+
+-   **Big Data**: datasets are growing too rapidly and legacy software tools for scientific analysis can't handle them. This is a major obstacle to scientific progress.**
+
+-   **Technology Gap**: a growing gap between the technological sophistication of industry solutions (high) and scientific software (low).**
+
+-   **Skills Gap**: a growing gap between technical skills required to use the cloud.
+
+-   **Reproducibility**: a fragmentation of software tools and environments renders most geoscience research effectively unreproducible and prone to failure.
+
+## Our 2i2c Openscapes JupyterHub
+
+
+[2i2c](http://2i2c.org/) is a really awesome group we've partnered with through NASA Openscapes. 2i2c designs, develops, and operates JupyterHubs in the cloud for communities of practice in research & education, building and supporting open source infrastructure that serves these communities. 2i2c builds on kubernetes and has the right to replicate, meaning that the infrastructure can be reused openly. Our Openscapes JupyterHub is built on top of Amazon Web Services (AWS) but it could also be on Google Earth Engine or Microsoft Azure.
+
+Our 2i2c JupyterHub has the following benefits:
+
+-   Github authentication
+
+-   Session persistence
+
+-   Deployed to us-west-2
+
+-   Reproducible Conda environment
+
+-   Extensibility
+
+-   Multiple kernels are supported
+
+-   Dask-kubernetes!
+
+
+Further, we have built power and flexibility with the computing environment within 2i2c. This has been my work with [**corn**](https://github.com/nasa-openscapes/corn), which is a base image that allows the provisioning of a multi-kernel Docker base image for Jupyterhub deployments. **corn** uses the amazing [Pangeo's base image](https://github.com/pangeo-data/pangeo-docker-images), installs all the environments it finds under ci/environments and makes them available as kernels in the base image so users can select which kernel to use depending on their needs. We're able to update this environment leveraging GitHub Actions and deployment as shown in the following figure.
+
+<br> <center><a><img src="/img/blog/cloud-infrastructure-lopez-screenshot.png" width="600px" alt="slide with 3 headers: Update environment, GitHub action, and Deploy. Text description says “We use a CI pipeline that can build multiple Jupyter kernels for our Pangeo deployment. If a team needs a particular Python version or library not included in our base environment they can simple add theirs with an easy “bring your own environment” approach. A Github action will be trigger for any change to the Dockerfile or environment.yml. A new conda-lock environment will be created and a new base image build based on this environment (only for linux-64). The updated Docker image can be deployed to the Jupyterhub using its configuration API. A team can be in control of their environment and deploy it in a matter of minutes."></a><figcaption>Integration between Openscapes and 2i2c. We update the environment via GitHub action and Docker deployment. </figcaption> </center> <br>
+
+With this setup, we've been able to be flexible to support researchers. We installed a GitHub GUI Plugin/Addon that is really helpful for learners/researchers as they learn a lot of new setup to work on the Cloud. Actually we installed it upon request of a NOAA scientist who is a very active GitHub user and prefers it to the command line for her own work as well as for teaching others. We also have installed R and Matlab on the JupyterHub to support scientists working in those languages, and are working to leverage our development in Python without having to repeat in R and Python (for example, using reticulate). We are focused on tutorials and documentation, using [Quarto](https://quarto.org/) to build these resources that are then incorporated into the [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/). We're also focused on visualizing workflows, in part through the awesome [Cheatsheets](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/cheatsheet) led by NASA Openscapes Mentors at PO.DAAC - Catalina Oaida Taglialatela and Cassie Nickles!
+
+## Going forward
+
+Some of my observations: Ready to use cloud environments are very useful and valued by scientists -and developers. This has been invaluable for the NASA Mentors and many others at the DAACs to be in the Cloud for the first time, learning and developing resources to support researchers. 
+
+There is a need for this kind of infrastructure on a permanent basis. We have been learning from the research teams we've been working with and are advocating for this to be part of NASA Core Services -- we are drafting a white paper about it. There are tradeoffs, the cloud is not a silver bullet: Costs are real, and the operational complexity for the maintainers is not trivial.
+
+I'm continuing to work with others to improve corn and our setup, and particularly with 2i2c and the [OpenSARLab](https://opensarlab-docs.asf.alaska.edu/) Mentors at the Alaska Satellite Facility, to combine our approaches, develop new capabilities, and make the JupyterHub the most flexible and powerful both for admins and researchers to support research using NASA Earthdata on the Cloud - and beyond.
+
+<br>

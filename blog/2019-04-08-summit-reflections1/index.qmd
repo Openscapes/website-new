@@ -1,0 +1,107 @@
+---
+title: "Openscapes Summit reflections — becoming champions"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Julie Lowndes
+date: 2019-04-08
+slug: summit-1
+categories:
+  - champions
+  - community
+  # - impact
+  - medium.com  
+image: ../../img/blog/summit/openscapes-pillows-solo.jpg 
+---
+
+# Openscapes summit reflections — becoming champions
+
+***This article is cross-posted on [medium.com](https://medium.com/read-write-participate/openscapes-summit-reflections-becoming-champions-4c00a671778f)***
+
+*In March 2019 I witnessed environmental scientists become champions for open data science when we brought the inaugural cohort of Openscapes Champions together for a [summit](https://openscapes.github.io/summit2019/) in Santa Barbara, California. The summit was supported by [Mozilla](https://foundation.mozilla.org/en/) and hosted at the National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) with the purpose of building relationships, sharing lessons learned, and igniting collaborations. This is the first of several blogs, as an overview of the event and its outcomes.*
+
+---
+
+The Openscapes Summit exceeded my (very high!) expectations. It occurred half-way through the Champions program, after three months of one-on-one mentorship and cohort lessons ([learn more about the Champions program](https://medium.com/read-write-participate/introducing-the-openscapes-champions-program-daba0acad4c8) and [meet the Champions](https://medium.com/read-write-participate/openscapes-champions-incorporate-open-practices-in-their-science-7eefa07b8573)). Participants gathered knowing that open data science is powerful and knowing that it is important to me, but from my perspective they left feeling its importance for themselves, and feeling a part of a greater movement. Or, as my friend summarized: “They became Champions”. 
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/summit/openscapes-pillows.jpg" width="700px"></a>
+  <figcaption>Openscapes Summit, 2019, etching on AirBnB pillows. Left to right: Sean Kross, Adrian Stier, Nina Therkildsen, Julie Lowndes, Malin Pinsky, Halley Froehlich, Allison Horst. </figcaption>
+</center>
+
+<br> 
+
+We had just a short one-and-a-half days together, but we accomplished so much. In addition to bringing environmental scientists together to meet for the first time, we also included a software developer and a leader in the open science movement, which combined the communities Openscapes aims to bridge and which energized us all with new perspectives and concrete checklists. We discussed issues big and small (from how to get university support for open data science to how to use Google Docs’ document outline view), identified research collaborations, brainstormed a manuscript, skill-shared (data storage & backup tips, project management software, and more), and ended the whole summit with exchanging appreciation via sticky notes (something I learned from Mozilla) and a hike together in the Los Padres National Forest.
+
+<br>
+
+<center>
+  <a><img src="/img/blog/summit/paradise1.jpg" width="700px"></a>
+  <figcaption>Setting off for a closing hike (computers stayed behind).</figcaption>
+</center>
+
+<br>
+
+We had a good balance of structured time (to share progress, learn together, and plan a manuscript) with unstructured time so Champions could build from our Openscapes discussions, talk science, and more generally get to know each other. We started off by sharing our Pathways, which is a way to think deliberately about (and track) reproducibility, collaboration, and communication within the lab by listing the tools and approaches used now and to help prioritize the next steps.
+
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/summit/pathway.png" width="500px"></a>
+  <figcaption>Pathway tool to help identify and improve practices.</figcaption>
+</center>
+
+<br> 
+
+
+We discussed the changing softwarescape and how it impacts science. We are not experts, but how do we set up shared practices for our labs? We kept circling back to the idea that it does not have to be perfect, but it can be better. We can create a space where we can talk about data, a space and culture of learning because we know things will change. At dinner, we continued these conversations and also discussed a few prepared conversation topics based on the conversations I had had with the Champions individually throughout the last few months that could benefit everyone (“ask Chelsea about hackathons”, “ask Nina about teaching straight from R for Data Science”).
+
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/summit/brainstorm_6thfloor.jpg" width="700px"></a>
+  <figcaption>Summit brainstorm at NCEAS.</figcaption>
+</center>
+
+<br> 
+
+Dr. Christie Bahlai joined as us as a special guest for Friday morning to discuss open lab culture and championing open data science practices in ecology. [Dr. Bahlai is an applied quantitative ecologist](https://bahlailab.org/), professor at Kent State University, and Mozilla Fellow. We discussed strategies for creating and fostering a good culture in the lab, and learned about her lab’s procedures for onboarding ([Reproducible Quantitative Methods course](https://cbahlai.github.io/rqm-template/)) and offboarding ([Project completion checklist](https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md)). We talked about how important it is for lab culture to deliberately think about what creates a digital citizens in terms of collaboration, data management, and working openly, and how teaching this is critical in addition to teaching statistics. 
+
+Talking with Christie was so valuable and refreshing. She shared the realities of leading a research laboratory and practicing open science, which is both empowering and challenging. Through her lab's website she sets clear expectations for the tenor and values of the lab, and for being available for statistical/data/coding consultation but also protective of her time. It was really inspiring to see how the open movement and the Mozilla fellowship has influenced her scientific work and how she continues passing it forward as a leader across communities. 
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/summit/zoom_combo.png" width="700px"></a>
+  <figcaption>Discussing open science and lab culture with Christie Bahlai and Chelsea Wood.</figcaption>
+</center>
+
+<br> 
+
+Sean Kross also joined us in person for the whole Summit – he is a PhD student at UC San Diego studying Human-Computer Interaction. [Sean's research interests](http://seankross.com/about/) include understanding how data scientific workflows effect research outcomes, creating tools for data science instructors, and making online education more humane and interactive. He was interested in hearing our conversations and *how* we are are thinking about data science in our labs. One incredibly cool moment was when Sean said “Hey Adrian, you know how you were hoping there was a way to sort through activity by user and repo within a GitHub organization? I coded that up this morning — see what you think”. We’ll have a followup about that, stay tuned.
+
+Having Sean participate was so valuable in many ways. He is a big part of the open source software (#rstats) community that has empowered me with open data science and welcomed me as an ally to this movement of innovation and sharing. Something I am trying to do with Openscapes is to bring that culture of welcome and empowerment to the environmental science community, and I think the Champions learned more about what that can look like through discussions with Sean. We also discussed the awesomeness of hex stickers, which are a fun thing to put on our computers and water bottles to identify each other as part of the open software and open science communities.
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/summit/malins-first-hex.jpg" width="300px"></a>
+   <figcaption>The joy of putting the first hex sticker on your computer. Honored it was an Openscapes one :).</figcaption>
+</center>
+
+<br> 
+
+Overall, I was amazed how engaged, energized, and open everyone was throughout our time together. It is a lot to ask for two full days of early career scientists’ time, particularly when they are already giving Openscapes four hours a month, and additionally working on Openscapes concepts with their labs. On Friday when we filmed individual interviews, there were over two hours of completely unstructured time where I had hoped Champions would continue Openscapes discussions, strike up research conversations, but could also catch up on work or email if need be. But during that time no one had their computers out; they were engaged in deep conversations, sharing their experiences as scientists, as faculty, as teachers. They were connecting deeply as people dedicated to science and improving the scientific culture around them. And that is the best part about the whole thing.
+
+They truly are Champions.
+
+<br> 
+
+<center>
+   <a><img src="/img/blog/summit/selfie_6thfloor.jpg" width="500px"></a>
+  <figcaption>Openscapes selfie at NCEAS.</figcaption>
+</center>
+
+<br> 

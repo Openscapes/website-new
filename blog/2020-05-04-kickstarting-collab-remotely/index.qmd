@@ -1,0 +1,67 @@
+---
+title: "Kick-starting scientific collaborations remotely"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Julie Lowndes, Carrie Kappel, Julien Brun
+date: 2020-05-04
+slug: kickstarting-collab
+categories:
+  - community
+  - coding
+image: ../../img/blog/NCEAS-Module1-GDocing-square.png
+---
+
+> “I was blown away at how effectively and productively you’ve led a virtual meeting – and I’m in a lot these days. People can be pretty passive”. 
+
+This quote from a participant really captures what we were hoping to achieve in our first remote support module, “Efficient virtual collaboration & facilitation for synthesis science.” We wanted to not only discuss strategies for efficient collaboration and engage participants hands-on, but also model the behavior we were teaching. The way we designed, led, and executed this workshop was just as important as the content. 
+
+---
+
+***Crossposted at [NCEAS](https://www.nceas.ucsb.edu/news/kick-starting-scientific-collaborations-remotely)***  
+
+*The National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) funds Working Groups of 15-20 scientists from across disciplines and sectors to collaborate on environmental synthesis science projects. In this time of pandemic, groups that would typically be meeting in person four times over ~two years are now faced with launching their projects virtually. NCEAS is providing training and support to help those teams kickstart their research collaborations remotely, and Openscapes was heavily involved in designing and leading the two remote learning modules. In this blog we highlight some of the key takeaways and best practices from our first remote support module, delivered to a cohort of four Working Groups that are launching projects this spring.*
+
+---
+
+<br>
+<center>
+  <img src="/img/blog/NCEAS-Module1-GDocing.png" width="500px"></a>
+   <figcaption>We welcomed participants to engage “hands on” and “faces on” by having Google Docs and Zoom side-by-side. Having both verbal and non-verbal communication channels made it more efficient for folks to share their thoughts, even in a larger group. Additionally, having specified time for silent Google Doc-ing allowed for rapid input from all twenty or so participants, as well as interaction as they commented on each other’s contributions or wrote +1 to say “me too”.
+</figcaption>
+</center>
+<br>
+
+
+All aspects of the workshop were designed to reflect and enhance a few core principles that underpin effective remote collaboration: 
+
+- Prioritize access and equitable participation
+- Employ thoughtful, supportive facilitation (and use a team facilitation approach)
+- Create opportunities for horizontal (aka shared) leadership
+- Invite interaction, and collaboration, and connection
+- Provide multiple channels for collaboration and communication (visual and auditory, verbal and written, formal and informal, synchronous and asynchronous)
+- Focus on what’s most important and use people’s time well
+
+Our rule of thumb for adapting to the virtual setting is: ***Keep it accessible, efficient, interactive, and connecting!***
+
+<br>
+<center>
+  <img src="/img/blog/NCEAS-Module1-GSliding.png" width="500px"></a>
+   <figcaption>We shared our slides via Google Slides and had participants open them on their own machine as we presented, which provided an additional way to engage hands-on. This way participants could advance the slides at their own pace and control their size. We prefer this technique over screen sharing because it engages participants, takes less bandwidth, and provides a better viewing experience.
+</figcaption>
+</center>
+<br>
+
+The structure of the workshop followed [tips for leading remote events](https://openscapes.org/blog/2020/03/11/how-to-run-a-remote-workshop/) that we [learned from Mozilla](https://foundation.mozilla.org/en/blog/new-movement-building-home-community-calls/), and followed [this example agenda](https://docs.google.com/document/d/1-rm903_Er4fgKVHxYSSqCnAMEGssiJw-7t9htbC4IVk/edit?usp=sharing) that participants contributed to throughout the workshop. Participants highlighted the value of specific practices: 
+
+- Using Zoom and Google-docs side-by-side engages participants through both verbal and non-verbal communication channels, making it easier for folks to share their thoughts, even in a large group. Zoom’s chat function provides a third, informal channel for participation.
+- Zoom’s Breakout Rooms create a space for small group interactions where everyone gets a chance to speak. Breakout group prompts and activities help participants make progress towards shared goals before reconvening and reporting out to the larger group. In our workshop, we first used breakout rooms to allow Working Groups to work on tasks within their teams; later in the workshop, we randomly mixed across Working Groups to create opportunities for learning and exchange to strengthen the NCEAS community more broadly. 
+- Sharing slides ahead of time via Google Slides and having participants advance slides at their own pace instead of screen sharing gave participants an additional way to engage hands-on and reduced bandwidth problems.
+- Time for silent “Google-docing”, reading others’ responses, and writing “+1” to say “me too” in response to a prompt was a way to hear all voices and see what resonated with everyone. 
+
+<br>
+
+Sharing guidance from NCEAS’ 25 years of experience supporting open science and collaboration for synthesis science teams, we challenged participants to begin to lay out a pathway for successful remote collaboration for their teams. As they considered how to design upcoming virtual meetings, they reflected on [Sam Kaner’s Diamond Model of Participation](https://www.nceas.ucsb.edu/news/how-spark-joy-groan-zone-collaboration) and best practices for cultivating divergent thinking and new ideas, navigating the messy middle where it can seem like the ideas will never converge (aka the Groan Zone), and then finally deciding upon a creative solution. More broadly, we encouraged participants to start developing a plan for supercharging all aspects of their collaboration by bringing in the [Openscapes mindset](https://openscapes.github.io/series/mindset.html), which harnesses the power of open data science and teamwork. We are excited to see what they do with these tools! 
+
+This was the first of two remote support modules for our synthesis Working Groups to help them to start their collaboration virtually in the face of the pandemic. The second module, “Tools and practices for collaborative, reproducible data science” will take place on May 8 and focus on helping scientists from the [LTER network](https://lternet.edu/) and [SNAPP](https://snappartnership.net/) to develop reproducible analytical workflows as a distributed team. We hope to offer this kind of virtual training and support to more groups within and beyond NCEAS; contact Deputy Director, [Courtney Scarborough](mailto:scarborough@nceas.ucsb.edu) if you are interested in future offerings. And, if you are interested in ongoing support of this kind, check out the resources offered on the [NCEAS Learning Hub](https://www.nceas.ucsb.edu/learning-hub), including the [Openscapes Remote Mentorship program](https://www.nceas.ucsb.edu/learning-hub/mentored-programs). 
+<br>
+<br>
+

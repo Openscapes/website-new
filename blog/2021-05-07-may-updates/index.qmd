@@ -1,0 +1,102 @@
+---
+title: "May updates and events from Openscapes"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Julie Lowndes, Erin Robinson
+date: 2021-05-07
+slug: may-updates
+categories:
+  - community
+  - champions
+  # - impact
+  - newsletter
+  - noaa-fisheries
+  - nasa-framework
+image: ../../img/blog/mrlowndes-DSCF5824-square.jpg
+---
+
+*Hello! This is Openscapes’ third newsletter. If you’re interested in seeing these infrequent updates in your inbox, please[ sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from our[ get involved](https://openscapes.org/contact) page).*
+
+---
+
+## Learning and investing in Openscapes 
+
+In March and April we continued learning, developing, and investing in Openscapes, in many concrete ways, and with a lot of “firsts”. We just wrapped up our first 2-month version of the Champions Program with the [NOAA Northwest Fisheries Science Center (NWFSC)](https://www.openscapes.org/blog/2021/05/03/noaa-nwfsc-champions/). In addition, as we think about Openscapes growing, we kicked off training our first [NASA Champions Mentor Cohort](https://nasa-openscapes.github.io) with seven teams, which is so exciting and still ongoing. We also ran our first open call for a Champions Cohort funded by [Code for Science and Society (CS&S)](https://eventfund.codeforscience.org/) and we were so excited by the response and the eight environmental science teams that we are going to work with over the next two months. This is one of two cohorts we will run in May and June; the second is supported by [CSU COAST](https://www2.calstate.edu/impact-of-the-csu/research/coast) for marine scientists in the California State Universities. More details on these Cohorts below.
+
+As part of the CS&S funding, which explicitly supports events that promote inclusion and broaden participation in open data science that drives scholarship, we partnered with [Tara Robertson](https://tararobertson.ca/), a diversity, equity, and inclusion consultant we knew through Mozilla, as a thought partner and teacher for us as we continue to prioritize and improve approaches to promote diversity, equity and inclusion in Openscapes. We’ve discussed universal design concepts, power structures and data feminism, and much more. In another first, Tara created a new lesson on psychological safety for the Openscapes [lesson series](https://openscapes.github.io/series/index.html#remote-2-month) and delivered it for our [NOAA NWFSC Champions Cohort](https://www.openscapes.org/blog/2021/05/03/noaa-nwfsc-champions/).  **Our May 25th Community Call will be a Chat with Tara Robertson** to reflect on what we’ve done together and our lessons learned. This will be an event using Spatial Chat (as we recently experienced with Ciera Martinez at the Berkeley Institute for Data Science [BIDS](https://bids.berkeley.edu/)!) and we invite you all to come and join us. More details will be upcoming here: [openscapes.org/events](https://openscapes.github.io/events/).
+
+Finally, we are practicing what we teach and had our own first Openscapes‘ 'Seaside Chat’ as a way to organize our planning with GitHub like we do with code. We'll be updating our own Pathway document like we do with the Cohorts for where we are with Openscapes and how we continue to move forward. 
+
+<br>
+<center>
+  <a> <img src="/img/blog/tara-robertson-psychsafety.jpg" width="600px"></a>
+  <figcaption> Tara Robertson with the NOAA NWFSC Cohort discussing psychological safety for teamwork</figcaption>
+</center>
+<br>
+
+
+## Upcoming events
+
+We are thrilled to have opportunities to share open data science stories from the Champions and Openscapes and to welcome more folks to the open science movement. Here are several upcoming events, also listed at [openscapes.org/events](https://openscapes.github.io/events). Please support CascadiaR and SORTEE by registering for their conferences and join us at the following events: 
+
+
+*   **May 25: Openscapes Community Call: Chat with Tara Robertson**
+    *   [openscapes.org/events](https://openscapes.github.io/events/)
+*   **June 4-5: CascadiaR Conference. Joint keynote by Julie Lowndes & Allison Horst**
+    *   [cascadiarconf.com](https://cascadiarconf.com/) 
+*   **July 12-14: Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE) Conference. Keynote by Julie Lowndes**
+    *   [sortee.org/events](https://www.sortee.org/events/)
+    *   Content submissions open until June 1
+
+
+<br>
+
+## Our first Mentors Cohort: NASA 
+
+In March we kicked off our first NASA Mentors Cohort, building a shared plan to help support researchers using NASA data as they migrate workflows to the cloud. We are three months into our three-year NASA project and have learned a lot while getting oriented, solidifying our plan, engaging with managers from NASA Distributed Active Archive Centers (DAACs), launching our first DAAC Mentors Cohort, clarifying our shared plan, and figuring out how to best support Mentor teams through community and technology. We’ve just created [nasa-openscapes.github.io](https://nasa-openscapes.github.io/), a place to share the project vision, progress, and upcoming events. In the next months, Mentor teams will strengthen their teaching styles and skills through [Carpentries](https://carpentries.org/) Instructor Training and observing or participating in an Intro to Python/Git Carpentries Workshop, as well as our biweekly Openscapes Cohort Calls where the Mentor teams share knowledge and processes for supporting researchers using NASA DAAC data. 
+
+Additionally, we started Work Sessions led by Amanda Tan at UW’s [eScience Institute](https://escience.washington.edu/). Work Sessions are hands-on time with the Mentors in our GitHub organization, establishing shared practices and tutorials to help researchers migrate their workflows to the cloud. Our goal is that by June we have existing cloud-based tutorials operational on [2i2c cloud infrastructure](https://2i2c.org/) so that all Mentors can learn from this process and establish a community review process for testing these tutorials and building off of them rather than recreating across the DAACs. We also had a fun [GitHub Clinic](https://twitter.com/connector_erin/status/1390425651782426626) to practice GitHub features together.
+
+Mentors will have further opportunities to teach and refine in August-November through an upcoming Openscapes Champions Cohort with science teams that use DAAC data and are interested in migrating to the cloud. More information about participating in the science team Champions cohort coming soon – we’ll be looking for research teams using data from LP DAAC, PO.DAAC, NSIDC, ASDC, or GES DISC and ready to engage in open science and migrate their workflows to the cloud. 
+
+<br>
+<center>
+  <a> <img src="/img/blog/tweet_GISandScience_may4.jpg" width="300px"></a>
+  <figcaption> Openscapes in the wild: May the Fourth be with you! See our blog post describing our [conversation with Dr. Dawn Wright at MozFest](https://www.openscapes.org/blog/2021/03/25/rebel-alliance-dr-dawn-wright/) and join the rebel alliance for kinder science </figcaption>
+</center>
+<br>
+
+
+## Our first two-month Champions Cohort: NOAA NWFSC
+
+We just wrapped up our first two-month version of the Openscapes Champions Program with the  National Oceanic and Atmospheric Administration (NOAA) Northwest Fisheries Science Center (NWFSC) – read the full [blog post summary](https://www.openscapes.org/blog/2021/05/03/noaa-nwfsc-champions/). We worked with thirty fisheries scientists from four NWFSC divisions. This was our second NOAA Cohort (the first was our [NEFSC Cohort last year](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/)) and we are excited about [the possibility](https://twitter.com/ericward_/status/1385696492434825221) for others to come!
+
+With NWFSC we piloted a 2-month version of the Champions program, which we knew would cover half the content of the 4-month version, but were excited to test this as a “kick-start” for participants. The NWFSC Cohort presented their Pathways in the last session, and it turned out that they learned a lot and achieved a lot with these first starting steps! We will test having optional follow-ups with this cohort in 3 months to check-in and provide a bit more support and accountability to see how they are progressing on their pathways and what’s changed since this session (another first for us).
+
+We’re excited that the 2-month version has been such a kick-start for the NWFSC Cohort, and eager to continue iterating this in the coming year –
+
+<br>
+
+## Upcoming Champions Cohorts
+
+We have two 2-month Champions Cohorts in May-June, starting today! There are 15 research groups in these two cohorts and we are excited to work with them and continue putting into practice what we’ve learned with Tara Robertson, NASA, and NOAA to make this two-month version as valuable as possible for research teams. 
+
+These two Cohorts of course have common features: we’ll teach the same Champions lessons, and over the same period. But how these cohorts take the lessons and apply them into the broader world will be exciting to see. 
+
+Our [CS&S](https://eventfund.codeforscience.org/) Cohort has environmental science teams from academic, nonprofit, and government organizations in the US & Canada. This was our first open call and we are excited that there is such a diversity of teams! Participants will be faculty, PhD and Masters students, post docs, managers, planners, specialists, and more. We can't wait to learn more about their needs and what incremental progress looks like in these different settings. 
+
+Our [CSU COAST](https://www2.calstate.edu/impact-of-the-csu/research/coast) Cohort are all teams of marine researchers at California State Universities. Participants are primarily faculty, Masters students, post-docs, research scientists, and undergraduates. They are all interested in open data science but also in strengthening the COAST network, and we are really looking forward to work with them.
+
+Stay tuned to learn more as we work with these exciting teams!
+
+<br>
+
+
+<br>
+<center>
+  <a> <img src="/img/blog/mrlowndes-DSCF5824.jpg" width="600px"></a>
+  <figcaption> Photo by Elliot Lowndes</figcaption>
+</center>
+<br>
+
+
+

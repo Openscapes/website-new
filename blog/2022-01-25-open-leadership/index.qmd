@@ -1,0 +1,46 @@
+---
+title: "Open Leadership with Abby Cabunoc Mayes and Chad Sansing (and more!)"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Abby Cabunoc Mayes, Chad Sansing, Erin Robinson, Julie Lowndes
+date: 2022-01-25
+slug: open-leadership
+categories:
+  - community
+  # - impact
+  # - community-call
+image: ../../img/blog/moz-movement-building-square.png
+---
+
+## Open Leadership w/ Abby Cabunoc Mayes and Chad Sansing (and more!)
+
+*Cross-posted at [Mozilla](https://foundation.mozilla.org/en/blog/openscapes-open-leadership-w-abby-cabunoc-mayes-and-chad-sansing-and-more/)
+
+Our final Openscapes Community Call of 2021 was a very special chat about open leadership with **[Abby Cabunoc Mayes](http://acabunoc.github.io/)** and **[Chad Sansing](https://about.me/chadsansing)** and others now leading their own programs modeled after Mozilla Open Leaders (OL). The recording is on[ Openscapes YouTube](https://www.youtube.com/watch?v=rsd4z8kXJgo).
+
+**Abby** leads Mozilla’s developer-focused trustworthy AI strategy around MozFest and open source. Abby founded Mozilla Open Leaders and works to make openness the norm research and innovation. **Chad** is a program manager on the MozFest team at Mozilla. He works on facilitation, leadership, and movement-building with Mozilla’s internet health and trustworthy AI communities. Abby and Chad led the Mozilla Open Leaders program through 7+ cohorts and are some of the most impactful people we know in the open movement. 
+
+Our conversation with Abby and Chad started with the original design and creation of [Mozilla Open Leaders](https://mzl.la/openleaders) - what need Abby saw that led to its creation - the spark. As lead developer at the [Mozilla Science Lab](https://wiki.mozilla.org/ScienceLab), Abby saw a need to help scientists and developers work openly together. This led to the first  [working open workshop](https://mozillascience.github.io/leadership-training) to meet the needs of scientists working more openly together. Influenced by a startup accelerator in Toronto, the workshop was followed by 3 months of 1:1 mentorship and hands-on work during the Global Sprint with Abby and Aurelia Moser as mentors. With the next iteration of this program, the audience expanded to groups interested in open hardware, open education, open arts. The idea of multipliers and returner roles was intriguing and past graduates returned as mentors to learn-by-teaching and Abby started building these into the OL program design. Some of this iteration is captured in the first parts of the timeline found at the bottom of [the ScienceLab MozillaWiki](https://wiki.mozilla.org/ScienceLab), and here are more of the resources Abby,Chad, and many others created through time:
+
+* [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/)
+* [Open Leadership Framework](https://mozilla.github.io/open-leadership-framework/)
+* [Work Open, Lead Open (#WOLO)](https://docs.google.com/presentation/d/13NAGmqP_Fb2qjBKePGVZe7awtwnFKZUHtPz8mqbYtsE/present?token=AC4w5Vjf0u1Jtdi7vB3udA5O-S5wIuJuwA%3A1582781847727&includes_info_params=1&eisi=CPP7qe6B8ecCFc8OJAode38EqA#slide=id.g25275a8168_0_260)
+* [Movement building from home](https://foundation.mozilla.org/en/blog/new-movement-building-home-community-calls/)
+* [Biased by Default: Exploring Discrimination in Research Code](https://docs.google.com/presentation/d/1INTsli9obj3BiV8xDwJc4IovPnt2EUFNyLYyF_GK7bE/present#slide=id.g8dabbda190_0_898)
+
+We talked about how Abby and Chad approach engagement and let go of ownership, as well as the tension between open & freely available but not invisible labor and lack of attribution. Abby and Chad were mindful up front to be sure that they weren’t being extractive/exploitative. Abby said she continually checks in with herself on what limits she can place on the work done by volunteers to make it worthwhile for them - what is the value exchange? Another important point is not locking people in - set commitments for period of time - and make it easy for people to leave.  
+
+Abby and Chad also spoke about their work since Moz OL and what they’ve learned that they’d bring into OL if they had the chance. Their responses included anti-oppression frameworks, community governance (more models and more guidance), a “matrix” of engagement instead of mountain of engagement. They also counseled to be patient as things change. And to help people help you: if people want to help, that’s a big deal. Help them help - find ways to say “yes” and fewer ways to say no. People showing up anytime, but especially now, is a big deal, and having ways for folks to engage is important.
+
+We also had brief share-outs by communities built on the OL model: [Open Life Science](https://openlifesci.org/) (Malvika Sharan & Yo Yehudi), [Open Hardware](https://openhardware.space/) (André Maia Chagas), [Open Post-Academics](https://openpostac.org/) (Beth Duckles, Borhane Blili-Hamelin), and [PREreview Open Reviewers](https://content.prereview.org/openreviewers) (Daniela Saderi). Groups shared what they have done and iterated since working with Abby and Chad during OLx - a program to help groups take the OL model and apply it to their own communities. This was a wonderful celebration of Abby and Chad’s leadership and impact, and teams shared how much the design and implementation of OL is impacting researchers all over the world. One piece that stood out is the power of live google doc’ing and how this has spread across many different researcher groups. Through Openscapes we hear about it being used now in high-level NOAA Fisheries meetings, in academia, and specifically (calling out Gavin Fay [here](https://thefaylab.github.io/lab-manual/)): it was something that helped transition to remote work during the first lockdown. And since this Community Call, we’ve also heard that live google-docing - and in particular sharing a parent folder so that all docs are organized for everyone in the same way -  is being used being used by climate assessment working groups as well (calling out Halley Froehlich [here](https://github.com/froehlich-lab)). 
+
+Some final thoughts: Be sure to join us for [MozFest 2022](https://mozillafestival.org) and check out the [MozFest Trustworthy AI Working Groups](https://foundation.mozilla.org/en/blog/mozfest-tai-working-groups-call-for-interest/) - there’s still plenty of time to get involved to this round. And check out [https://theopenorganization.org/definition/open-leadership-definition](https://theopenorganization.org/definition/open-leadership-definition/) and [Abby's Year in Review 2021](https://medium.com/@abbycabs/abbys-2021-year-in-review-e4d8b00c7f5e)!
+
+Thank you Abby, Chad, and all open leaders and supporters! See the full conversation recording on [Openscapes YouTube](https://www.youtube.com/watch?v=rsd4z8kXJgo). Also of interest could be this article co-written by Abby, Chad, and Julie: [lessons from remote work that we’re taking back to the office](https://opensource.com/article/20/6/remote-meetings).
+
+
+<br>
+  <img src="/img/blog/moz-movement-building-square.png" width="250px">
+
+<br>
+
+

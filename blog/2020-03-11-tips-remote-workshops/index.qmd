@@ -1,0 +1,119 @@
+---
+title: "How to run a remote workshop, Openscapes/Open Leaders-style"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Julie Lowndes
+date: 2020-03-11
+slug: tips-remote-workshops
+categories:
+  - community
+  # - how-to
+image: ../../img/blog/Cohort1_zoom_square.png
+---
+
+<!---
+https://foundation.mozilla.org/en/blog/rapid-virtual-meeting-prototyping-age-pandemic/
+
+--->
+
+*Here is some tips about how to run remote workshops like we do in Openscapes, which was modeled after [Mozilla Open Leaders](https://twitter.com/MozOpenLeaders) program. This post was sparked by [a question on Twitter](https://twitter.com/Stephani_Otte/status/1236440853951860736) asking for ideas/suggestions on virtual workshops, and is really one I meant to write a long time ago. I've structured it with practical guidance for remote workshops and small remote meetings, with more details and examples from  Openscapes remote and mixed events as you continue reading.*  
+
+*Update March 19: see slides, demo doc and recording of ["Designing a remote workplace"](https://bit.ly/33uJK0n), a 30-minute webinar building off of these ideas that I presented to the Santa Barbara Nonprofit Resource Network.*
+
+## Main advice for remote workshops & meetings
+
+The point of remote workshops and meetings is for people to be actively engaged — this is the main difference between a workshop and more passive webinars. You can do this with a mix of technology & social setup. 
+
+- Zoom video conference software (or similar), with each person on their own laptop with video on — even if you are in person with other people. 
+- Google docs (or similar) with live note-taking so that there are non-verbal channels to participate.
+- Code of Conduct (Community Participation Guidelines) to set the tone of the meeting and have everyone feel welcome.
+
+Importantly, you must include time (it can be <3 minutes) at the very beginning of your call to show people how to use Google Docs and Zoom. Few people (or no one?) was ever formally taught how to use this software, which means there are varying degrees of familiarity and comfort, and you cannot assume everyone is on the same page. Take the time to get them there. 
+
+I'll go through each of these a bit more deeply — but also check out Mozilla Open Leaders' Abby Cabunoc Mayes' thread about [online meeting tips](https://twitter.com/abbycabs/status/1237001927734542341).
+
+
+<br>
+<center>
+  <a href = "https://twitter.com/abbycabs/status/1237001927734542341">
+  <img src="/img/blog/tweet-abbycabs-online-meeting-tips.png" width="500px"></a>
+</center>
+<br>
+
+
+### Zoom video conferencing for visual engagement
+
+Zoom video conferencing software is free to download, and you can schedule meetings ahead of times that you can include in emails or Calendar Invites. Having all participants join the call from their own computer is a way to have everyone engaged, especially when they have their videos on. (This is obviously not always possible, and it is preferable to have someone join without video than not join at all, but videos on is a good norm to set). A few other features of Zoom that makes it great for remote workshops:
+
+- You can toggle between Gallery View to see everyone's faces rather than Presenter View. 
+- Recording is straight-forward and will include screencasts if you are sharing screens, and has a pretty compressed file that is good to share afterwards
+- The breakout room feature is super useful if you want to enable smaller conversations. You can set up breakout rooms ahead of time or let it randomly break people into groups, and then you can manually move people around if need be. 
+
+<br>
+<center>
+  <img src="/img/blog/Cohort1_zoom.png" width="500px"></a>
+  <figcaption>Example of Zoom Gallery View with the 2019 Openscapes Champions.
+</figcaption>
+</center>
+<br>
+
+
+### Google Docs for hands-on participation
+
+Creating an agenda ahead of time (and including it in your emails and Calendar Invites — remembering to give all participants editing privileges) is the second big piece for remote workshops. Depending on the event it doesn't have to be a super involved agenda, but having a place where participants can be hands-on during the workshop is really important for their engagement.
+
+- As host/organizer, use this Google Doc agenda to your advantage: write down notes for what you want to say. There doesn't need to be a big reveal, and if participants can read and hear it reinforces your message. I often highlight the sections I'm talking about to help draw focus.
+- Start the document with a role call for folks to do as they join the call; it also sets the norm that everyone is invited to and expected to write in the agenda (see [Abby's thread](https://twitter.com/abbycabs/status/1237001927734542341))
+- Include time at the very beginning to show people how to use Google Docs and Zoom to make sure everyone is comfortable and empowered.  
+- Include links to any slides or documents within the Agenda so that everything you discuss in the agenda are available to others. This leads to the next point: 
+- Have participants advance slides on their own. This not only reduces bandwidth problems that can come with screensharing, but it gives participants an additional way to engage hands-on; they need to advance the slides themselves. Doing this does mean giving slides access to everyone, and Google Slides and R (beamer, isoslides, xaringan) are great for this. 
+- Encourage note-taking and side conversations. Adding +1's to show support for different ideas is a great way for folks to engage (as are emojis, pictures, and gifs)
+
+You are welcome to use/remix these [agendas from Openscapes](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g) (also linked from the [Lesson Series](https://openscapes.github.io/series/index.html#agendas)).
+
+
+<br>
+<center>
+  <a href = "https://docs.google.com/document/d/1Ia5-w8KiZgyZqX1ErGnrFihDAUAiAzkZwDfSgZw9BMU/edit?usp=sharing">
+  <img src="/img/blog/openscapes-call-agenda.png" width="500px"></a>
+  <figcaption>Example of Google Docs Agenda, including role call and quick intro to collaborative notes.
+</figcaption>
+</center>
+<br>
+
+Also, if you are often meeting with the same person, have a single document where you meet, and add that link to Calendar Invites. Add the most recent meetings by date to the top of the file, so there is less scrolling to engage in the document each time. 
+
+### Code of Conduct to set a welcoming tone for all participants
+
+Codes of Conduct and Community Participation Guidelines help set the tone of the workshop and make people feel welcome. While CoCs are becoming more normal in open communities (including at large tech conferences like [rstudio::conf](https://www.openscapes.org/blog/2019/02/19/rstudioconf/)), they are still not the norm in many settings. So remote workshops are a great place to lead by example and set the conditions of participation. 
+
+Openscapes borrows from [Mozilla's Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/), and we cover the following points outloud at the beginning of a meeting (these are bulleted in the Google Docs agenda);
+
+- Be respectful and value each other’s ideas, styles and viewpoints.
+- Be direct but professional; we cannot withhold hard truths.
+- Be inclusive and help new perspectives be heard.
+- Be open to learning from others.
+- Lead by example and match your actions with your words.
+- If you have issues, please direct them to:
+  - Julie - lowndes@nceas.ucsb.edu
+
+
+
+## Openscapes setup
+
+This is an excerpt from a previous post [Introducing the Champions program](https://www.openscapes.org/blog/2019/01/28/introducing-champions-program/) that describes how we use these together for remote calls twice a month for five months:
+
+> Openscapes Champions is a five-month mentorship program that is led remotely. Each month, there is individual mentorship for each Champion, and two "Cohort Calls" where we convene all Champions together, along with their lab members. Throughout, all participants learn about open practices and data science; strategize how to engage; meet other labs; set, review, and meet goals; and stay accountable. For each 1.5-hour Cohort Call, I teach for a maximum of 40 minutes, so that we spend most time discussing these topics in the context of their labs.
+
+> So how do you lead a remote program like this? You model it after [Mozilla Open Leaders](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/), which has developed a great program that they have repeatedly tested and improved over seven rounds. It takes intense coordination, deliberate focus on creating a positive and inclusive culture, design to make calls engaging and interactive, Zoom, and Google Docs. (I think this is really cool how the intentions of the program are realized with the software tools available — you will see this as a theme throughout). I will focus on the software here, and have a whole separate upcoming post on culture. 
+
+> **Zoom and Google Docs**
+
+> Participants all join Cohort Calls through Zoom, a video conferencing software that we use to interact in real time and also record the whole call as an archived resource for participants. In addition to accommodating large groups for discussions, it also has a great breakout room feature. Breakout rooms allows all participants to not only listen to lessons and discuss as a full group, but also lets them break into small groups to discuss topics. Following breakout groups, participants rejoin and summarize to the group both verbally and in writing, using Google Docs. 
+
+> Each call has an agenda written as a Google Doc to enable real-time participation. During the call, all participants have the agenda open, and follow along, writing their thoughts in specific places and participating in active shared note-taking. This is an [example pre-call agenda](https://drive.google.com/open?id=1Ia5-w8KiZgyZqX1ErGnrFihDAUAiAzkZwDfSgZw9BMU). Following the real-time writing and engagement during the Cohort Call, the agenda serves as a record of the discussions had that participants can revisit and anyone who missed can review. 
+
+There are definitely ways to improve and scale to accommodate people of different abilities and obligations, but this is where we are with Openscapes at the moment. I hope this is helpful and there will be future posts as we learn and iterate moving forward!
+
+
+<br>
+

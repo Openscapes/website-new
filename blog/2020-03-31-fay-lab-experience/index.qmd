@@ -1,0 +1,116 @@
+---
+title: "Our Openscapes experience: The Fay Lab"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Ashleigh Novak
+date: 2020-03-31
+slug: fay-lab-experience
+categories:
+  - community
+  - champions
+  # - impact
+  - case-study
+  - study-group
+image: ../../img/blog/tweet-thefaylab-zoom-meeting-square.jpeg
+---
+
+*[Ashleigh Novak](https://ashleighnovak.weebly.com/) is a spatial ecologist at the University of Massachusetts Dartmouth’s School for Marine Science & Technology (SMAST), focused on  integrating tagging data into stock assessments that inform fisheries management. As a technical associate with the Fay Lab, Ashleigh participated at our [first in-person Openscapes Workshop](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/) at NOAA NEFSC in February 2020 and shares her experiences here. She notes below that “given the current, global situation of transitioning to at-home research, our lab is leaning on many of the tools and skills learned from Openscapes.” We hope our resources can help: please see our previous post on [tips for how to run remote workshops and meetings](https://www.openscapes.org/blog/2020/03/11/how-to-run-a-remote-workshop/). Thanks Ashleigh!*
+
+---
+
+<!---
+
+https://twitter.com/gavin_fay/status/1232487415459090432
+
+https://twitter.com/gavin_fay/status/1218284033504948224 - Gavin "This is the Way" BobaFett
+--->
+
+## To Open Data Science, and Beyond!
+
+The [Fay Lab](http://www.smast.umassd.edu/lab_fay/) at the University of Massachusetts Dartmouth is broadly focused on developing quantitative modeling approaches to improve fisheries and resource management. Though united as a research lab with similar interests, individuals work on different projects with different collaborators and use different analytical methods. Led by our PI, [Dr. Gavin Fay](https://twitter.com/gavin_fay), who [champions open data science](https://twitter.com/gavin_fay/status/1218284033504948224) and spearheaded our group’s participation at the Openscapes workshop, we quickly came to understand and appreciate the value in dedicating time to improve our “homegrown” data skills and workflows. Not only did we want to use the opportunity to enhance our own skill sets but we wanted to improve our team’s cohesiveness and efficiency in sharing skills and knowledge to all members. 
+
+<br>
+
+
+## What did we do? What did we learn?
+Each day included Julie sharing [beautifully illustrated (by Allison Horst!) and informative slide decks](https://openscapes.github.io/series/index.html#day-in-person) with time for extensive discussions, questions, and sharing experiences throughout. Depending on a particular topic, we either had break out sessions with our own group or integrated with members of different teams. We covered many topics including coding communities, GitHub project management and code sharing, developing a code of conduct, and reproducibility.  [Julie’s blog post about the workshop](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/) covers the day in more detail so I will refer the reader there if they are interested more about the nitty gritty specifics of the workshop structure.
+
+<br>
+<center>
+  <a href = "https://twitter.com/ashleighjnovak/status/1233401091951333378">
+  <img src="/img/blog/tweet-ashleighjnovak-workshop-life-changing.png" width="550px"></a>
+  <figcaption>The Openscapes in-person workshop leveraged the setup of the remote Champions program, including storytelling with Star Wars and live Google-Docing together. Tweet by [@ashleighjnovak](https://twitter.com/ashleighjnovak). 
+</figcaption>
+</center>
+<br>
+
+## Transferring knowledge to our entire lab group 
+
+Five members of the Fay Lab, including our PI, attended the two-day workshop. Given that one of the main objectives of Openscapes was to strengthen lab culture by promoting open data science and streamline workflows, it was really important to be able to transfer knowledge to the rest of our group to facilitate the progression towards creating a more unified team. 
+
+We used our next lab meeting to debrief by sharing experiences from the workshop but we also devised a plan for moving forward based on the [10-week supercharge your research plan](https://www.nature.com/articles/d41586-019-03335-4) (Lowndes et al. 2019).
+
+<br>
+<center>
+  <a href = "https://twitter.com/thefaylab/status/1239997719449665536">
+  <img src="/img/blog/tweet-thefaylab-zoom-meeting.png" width="550px"></a>
+  <figcaption>The Fay Lab’s first remote lab meeting, incorporating live Google Docing and other practices from the February Openscapes workshop. Tweet by [thefaylab](https://twitter.com/thefaylab).
+</figcaption>
+</center>
+<br>
+
+## The big takeaways and tools we put into immediate action
+
+Our lab already had existing groundwork for many of the ideas that were conveyed during the workshop. For example, we already had [**thefaylab GitHub account**](https://github.com/thefaylab), **weekly lab meetings**, and **weekly “Shut Up and Write” events**. Our lab also occasionally hosts “[**Quantfish woRkshops**](https://twitter.com/gavin_fay/status/1141096840068308993)” which are really similar to the [Seaside chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/) or [coding communities](https://www.openscapes.org/blog/2018/11/16/how-to-start-a-coding-club/) Julie discussed. Through all of our activities, we had sufficient scaffolding in place; however, there was a clear need to build upon the existing infrastructure and improve these activities and how we (both as individuals and as a group) interact with them. We recognized that within our research lab group there would be more turnover than occurs within other organizations and so being able to preserve and transfer institutional knowledge was a priority. 
+
+**GitHub Issues**. One chosen way to address this concern was through developing a new private GitHub repository in thefaylab account use it for Issues. Issues are a great tool that can be used to track ideas, collaborative tasks, software or coding bugs and problems, or create a to-do list all within a repository. For us, we are using Issues like we would use email - except in GitHub, questions, answers, and other pertinent information are stored in a central place and able to be shared, accessed, and easily searched by all past and present lab members. 
+
+**Live Google Docing**. Additionally, to improve our weekly lab meetings we have started live “Google Docing”, a strategy used throughout the two-day workshop. For us, we created a “Spring lab meetings 2020” Google document that every member has access to and can take notes interactively during the meeting. This keeps everyone engaged, retains discussions and holds important information (think links to new research papers, announcements, new R packages, etc), provides another way to ask questions, and can be used by absent members as a way to stay included and up to date. We have found this method to be extremely effective (and fun!).
+
+
+<!---
+<br>
+<center>
+  <img src="/img/blog/dinosaurs_dont_use_github.png" width="200px"></a>
+  <figcaption>Fun in Google Docs: an example of some of the doodles, emojis, and gifs that show up in remote lab meetings. Artwork by Gavin Fay. 
+</figcaption>
+</center>
+<br>
+
+--->
+
+**Lab Philosophy and Code of Conduct**. Finally, we have started drafting our lab philosophy and code of conduct (COC) to ensure that all members understand expectations by setting a tone of inclusiveness and accountability upfront. 
+
+
+<br>
+<center>
+  <a href = "https://twitter.com/RPWildermuth/status/1239985570610380801">
+  <img src="/img/blog/tweet-RPWildermuth-zoom-labmeeting.png" width="550px"></a>
+  <figcaption>Creating the lab philosophy for the Fay Lab, remotely with Zoom. Tweet by [RPWildermuth](https://twitter.com/RPWildermuth).
+</figcaption>
+</center>
+<br>
+
+
+## Our next steps
+
+Given the current, global situation of transitioning to at-home research, our lab is leaning on many of the tools and skills learned from Openscapes. We are lucky that our work can be done remotely, but now we are improving our communication and staying connected by using many tools such as GitHub, Google Drive, live Google docing during lab meetings, and interacting extensively through Zoom. 
+
+Some goals we are still working on include:
+
+- Finish our lab COC and philosophy. Post it on our lab website.
+- Continue to update and organize the lab GitHub page with relevant resources and encourage participation to use GitHub Issues via assigning different members to specific issues.
+- Collate and better streamline onboarding and offboarding resources.
+- Develop and use a specific lab Google Drive that can house our shared resources.
+- Better overall documentation (i.e. complementary “how I did this” word documents, RMarkdown comments, README files, etc).
+
+Thanks to Julie (and Openscapes!) for her outstanding commitment to open data science and for providing a platform so others, like our lab, can benefit from the shared knowledge and tools. 
+
+
+<br>
+  <img src="/img/blog/tweet-thefaylab-zoom-meeting-square.jpeg" width="300px"></a>
+  <figcaption>Photo by [The Fay Lab](https://twitter.com/thefaylab). 
+</figcaption>
+<br>
+
+<br>
+

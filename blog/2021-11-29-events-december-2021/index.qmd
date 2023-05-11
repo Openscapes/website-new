@@ -1,0 +1,38 @@
+---
+title: "Openscapes December events & more"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Julie Lowndes and Erin Robinson
+date: 2021-11-29
+slug: events-december-2021
+categories:
+  - community
+  - newsletter
+  - nasa-framework
+  - noaa-fisheries
+image: ../../img/blog/bristol-snow-square.JPG
+---
+
+*This is a brief share about some upcoming opportunities - we welcome you to join and/or share with your colleagues. More details for each are available at* ***[openscapes.org/events](https://openscapes.github.io/events/)***
+
+---
+
+**NASEM: Accelerating the Analysis of Geographic Change - December 8, 9am-2pm.** A joint National Academies of Science, Engineering, and Medicine (NASEM) meeting co-hosted by the Mapping Sciences Committee and the Geographical Sciences Committee. We’ll be presenting about data interoperability and the Openscapes approach.
+
+**Openscapes Community Call - December 9, 10-11am PT**. A conversation with Abby Cabunoc Mayes and Chad Sansing of Mozilla about open leadership, the Mozilla Open Leaders program, and how it was designed and iterated. We’ll discuss ideas and lessons learned from Moz OL, as well as from Openscapes, Open Life Science, Open Post Academics, and Open Hardware, and invite others to share as well. 
+
+**AGU Fall Meeting, Open Science in Action - December 17, 6am-2pm PT**. A half-day virtual session seeking to connect the community of open data, open source software, open science platforms, open access, and open science practitioners, both technology developers and users across science disciplines. This session includes talks by several NASA Openscapes Mentors.
+
+**NASA Openscapes Champions Cohort - March-April 2022.** This is a mentorship and professional development opportunity for research teams using data from NASA Distributed Active Archive Centers (DAACs) and interested in open science and migrating their analytical workflows to the cloud. Nominate your team by February 1, 2022.
+
+
+Along with the above upcoming events, here are a few summary blogs of recent events:
+
+* [2021 Cloud Hackathon Teaches Scientists How to Work with Cloud-Based Data](https://earthdata.nasa.gov/learn/articles/2021-cloud-hackathon) - NASA Earthdata Blog, November 2021
+* [Strengthening scientific workflow and team collaboration at NOAA Fisheries](https://www.openscapes.org/blog/2021/11/12/noaa-nmfs-champions/) - NOAA NMFS Champions Cohort, October-November 2021
+* [Identifying common approaches and needs for fisheries dependent data](https://www.openscapes.org/blog/2021/11/12/fdd-champions/) - Fisheries Dependent Data Users Champions Cohort, October-November 2021
+* [NASA Open Source Science Workshop](https://www.openscapes.org/blog/2021/10/18/nasa-open-source-science/) - October 2021
+
+<br>
+  <img src="/img/blog/bristol-snow-square.JPG" width="300px">
+<br>
+

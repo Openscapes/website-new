@@ -1,0 +1,47 @@
+---
+title: "A Chat with Tara Robertson"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Erin Robinson, Julie Lowndes, Tara Robertson
+date: 2021-05-27
+slug: tara-robertson
+categories:
+  - community
+  # - community-call
+image: ../../img/blog/tara-hi.png
+---
+
+## A Chat with Tara Robertson
+
+Our 2nd Openscapes Community Call featured our chat with [Tara Robertson](https://tararobertson.ca/), a diversity, equity, and inclusion consultant working with us to improve practices in Openscapes. The recording is on [**Openscapes YouTube**](https://youtu.be/XQMgyLuKwsI) (efficiency tip reminder: in YouTube, “L” will advance by 10 seconds, “J” will go back by 10 seconds 😀)  
+
+This call was meant as a way to recap a bit of our work with Tara over the last three months and share some of what we’ve learned. Here is an attempt to distill our conversation:
+
+1. **Start where you are and then think of ways to be more inclusive**. We added transcription to our Zoom events and a unit on psychological safety in the [Openscapes Champions Program](https://openscapes.org/champions). We unpacked some unseen things we had around privilege in Open science and how we began to design for our values. Tara shared about Dr. Dori Tunstall’s work on [respectful design](https://www.youtube.com/watch?v=oaesVb7O38s). 
+
+
+2. **We shared how we worked together as a team**. Tara, Erin and Julie formed an informal book club and many of us realized on the Community Call we are reading the book, _[Braiding Sweetgrass](https://www.robinwallkimmerer.com/books)_ by [Dr. Robin Wall Kimmerer](https://www.robinwallkimmerer.com/) and we highly recommend it. We also love _[All We Can Save](https://www.allwecansave.earth/)_, a collection of essays by women on the climate crisis edited by Dr. Ayana Elizabeth Johnson and Dr. Katharine K. Wilkinson.  
+  
+3. **We learned and created strategies for handling discrimination** from resources and pointers and conversations with Tara. TL;DR - Slow down and take a breath. If something happens a strategy can be to say “something just happened here, let’s talk about it”
+    1. Julie referenced the course we took on territorial land acknowledgements by Ta7talíya Nahanee, from the Squamish nation. Ta7talíya is offering this [workshop again on June 21st](https://www.eventbrite.ca/e/territorial-acknowledgements-an-interactive-introduction-tickets-155868092661), National Indigenous Peoples Day 
+    2. Erin went to [Hollaback Bystander training](https://www.ihollaback.org/harassmenttraining/ ) and shared some of the research that shows that having a plan for how you will act and react to racial injustice makes it more likely you will follow-through in the moment. 
+
+<br>
+<center>
+  <a> <img src="/img/blog/tara-julie-erin.png" width="300px"></a>
+</center>
+<br>
+
+We, collectively, with all of you, want to transform how we do science and are practicing kinder science. During the call we realized that Tara had mentored us the way that we mentor Champions teams. With that insight, Julie and I are going to work on creating a pathway document for our DEI work, and continue to be an active part of the community.
+
+As a way to carry kindness forward, we’re requesting that you take action and share on Twitter What’s something you learned or something you do in your work to #PracticeKindness? 
+
+We are grateful to [Code for Science and Society](https://eventfund.codeforscience.org/announcing/) for supporting this work and all of you who attended live or watch the recording. We’d love to connect with you all, and don't forget to follow [Tara on Twitter](https://twitter.com/tararobertson)!
+
+Working toward kinder science! 
+
+Erin, Julie, and Tara
+
+<br>
+  <a> <img src="/img/blog/tara-hi.png" width="300px"></a>
+<br>
+

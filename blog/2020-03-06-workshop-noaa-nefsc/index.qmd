@@ -1,0 +1,131 @@
+---
+title: "Our first Openscapes Workshop"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Julie Lowndes
+date: 2020-03-06
+slug: nefsc-2020
+categories:
+  - community
+  - champions
+  - coding
+  # - impact
+  - noaa-fisheries
+image: ../../img/blog/northeast_aliciamiller_square.jpg
+---
+
+*Last week Openscapes had its first-ever in-person 2-day workshop (the [Champions Program is remote-by-design](https://www.openscapes.org/blog/2019/01/28/introducing-champions-program/) so this was an in-person adaptation). The workshop was at the National Oceanic and Atmospheric Administration (NOAA) with six teams of fisheries scientists from NOAA's Northeast Fisheries Science Center (NEFSC), Woods Hole Oceanographic Institute (WHOI), and University of Massachusetts Dartmouth's School for Marine Science & Technology (SMAST). It was really wonderful to meet and work with these thoughtful scientists in person, and to see them leave the workshop energized to strengthen teamwork and community-based learning around open data science. This post will focus on what the participants did and achieved and a following post will include more details about the workshop structure.*
+
+---
+
+<!---
+- Scott mustache tag
+- What does Open Science mean to you?:
+  - Open science makes it easier for you to repeat/continue your work if you come back to it months or years later, and for others to contribute
+- I'm lucky because I get to learn in my job
+--->
+
+## What is an Openscapes Workshop? 
+
+Openscapes Workshops convene science teams for two days with the purpose empowering folks with open data science, and strengthening mindsets and habits to make data workflows and team culture more efficient and resilient. Workshops are a 2-day version of the [Openscapes Champions program](https://openscapes.org/champions), and uses its [Lesson Series](https://openscapes.github.io/series/) to help scientists [supercharge their research](https://www.nature.com/articles/d41586-019-03335-4).
+
+Participants attend as teams, and come prepared for engaged participation as a whole group and within smaller groups. Discussions focus around collaborative mindsets, norms, and software to enable open and collaborative work, with a heavy emphasis on R (including tidyverse, RMarkdown), GitHub (Issues), Google Drive, and Twitter. Teams intentionally have a mix of data/coding experience and responsibilities; there are no coding prerequisites for this workshop. 
+
+## Our Openscapes Workshop at NOAA Woods Hole
+
+[Dr. Scott Large](https://twitter.com/ScottLarge_), the Ecosystems Dynamics & Assessment Branch Chief at NOAA's NEFSC, made this workshop happen. He reached out to me after following Openscapes on Twitter and asked if I could do a 2-day workshop version of the Champions Program. He secured workshop funding, organized everything, and rallied six local teams of awesome scientists to participate at our workshop in Woods Hole, Massachusetts. 
+
+The two best outcomes of the workshop were first that teams left motivated to focus on creating more deliberate, collaborative, open workflows within their team, and second, that they saw other teams as future colleagues, collaborators, and allies for fisheries open data science (!) and have plans to continue building this community. 
+
+> "Having a full two days with space to talk about how we work was invaluable. I was so pleased with how energized and engaged my team was throughout. I loved the opportunity to talk, work and learn cross-teams." - Post-workshop survey 
+
+<!--break-->
+
+> "Openscapes had a powerful motivating impact on some of the practices of open science I already knew about but felt behind the curve on tackling. Finding fellow coworkers who are equally motivated and already implementing these practices gave me a support team to work with moving forward." - Post-workshop survey 
+
+<br>
+<center>
+  <img src="/img/blog/nefsc_workshop_breakout.jpg" width="800px"></a>
+  <figcaption>Throughout the workshop participants met in small groups to discuss how topics covered applied to their work. They met as semi-random Breakout Groups to cross-pollinate across teams, as well as with with their own Research Groups.
+</figcaption>
+</center>
+<br>
+
+
+All six teams at our workshop work in the realm of fisheries science and management, and as a whole they already have quite a bit of momentum in open data science. But many of these folks hadn't had recent discussions around shared workflows and practices within their teams or how to onboard team members, and also didn't necessarily know people from other teams that were working on similar topics or with similar approaches. 
+
+
+## What did we do?
+
+The workshop followed the Openscapes Champions [Lesson Series](https://openscapes.github.io/series/), and we started off the first morning by setting expectations and the tone of the workshop with our Community Participation Guidelines and Openscapes Overview. We covered a lot in these two days, with over half (62%) of the time spent in smaller breakout groups or teams so that participants could focus on their own workflows and how the lesson topics pertain and apply. 
+
+<br>
+<center>
+  <a href = "https://openscapes.github.io/series/index.html#day-in-person">
+  <img src="/img/blog/openscapes-workshop-agenda.png" width="800px"></a>
+  <figcaption>Agenda summary for the 2-day workshop. Hyperlinked slides available from the [Openscapes Champions Lesson Series](https://openscapes.github.io/series/index.html#day-in-person). 
+</figcaption>
+</center>
+<br>
+
+We concluded the workshop with participants sharing their "Pathways", which are their plans for what to do moving forward. Overall, presentations all focused around social things like how to build open habits and momentum, rather than on technical things like which specific tools or workflows to learn. They discussed how their priorities going forward were about data workflows as a team (potentially as "[Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/)"), and building broader community and supporting each other locally. <!---As you might imagine, I was thrilled. --->
+
+> "I think the greatest value of the workshop was the time set aside to discuss our path forward as a team. We were able to discuss directly and extensively about how we can bring this open energy to enhance our workflow. We will definitely be trying the seaside chats." - Post-workshop survey
+
+<!---break--->
+
+> "Turkeytime chats are coming (named for our gang of turkeys that hangs around our building)" - Post-workshop survey
+
+A few local meetups already exist that others know about and are welcome to attend, including the a Shiny meetup at NEFSC and the Quantfish woRkshops at UMass Dartmouth's School for Marine Science & Technology (SMAST). Further, there was discussion about having a local [#TidyTuesday meetup](https://www.openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/) and starting a local [RLadies](https://rladies.org) chapter in Cape Cod!
+
+<br>
+<center>
+  <a href = "https://twitter.com/ashleighjnovak/status/1233401091951333378">
+  <img src="/img/blog/tweet-ashleighjnovak-workshop-life-changing.png" width="550px"></a>
+  <figcaption>Tweet by [@ashleighjnovak](https://twitter.com/ashleighjnovak). 
+</figcaption>
+</center>
+<br>
+
+
+## What's next for participants and workshops? 
+
+We'll be following up and amplifying these teams in the coming months to share their progress, and we're excited to share strategies and stories as they unfold. In just the week since the workshop, the Shiny Meetup has already met — with new members that have joined from the Openscapes workshop. They have scheduled meetups throughout the rest of the year, and are discussing broadening the focus beyond Shiny: perhaps tidyverse tutorials and even [#TidyTuesday](https://www.openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/). Woohoo Shiny Meetup Group! 
+
+If you are interested in hosting an Openscapes workshop, please contact us: [hello@openscapes.org](mailto:hello@openscapes.org).
+
+
+## Reflections
+
+I am really pleased with how this workshop went. Since the Openscapes Champions program is about developing mindsets and habits around open data science and nurturing cultural change in science, it was designed as a five-month remote program (with low-time investment: three hours/month). With workshops, I was interested to see how much cultural change and Championing we could catalyze in just two days. And I'm convinced it worked as we'd hoped; the participants were really thoughtful and engaged and left the workshop with plans to create community within and beyond their teams. 
+
+> "This was an empowering lesson in how we can improve our workflow, communication and morale, and work towards reproducible, efficient scientific methods." - Post-workshop survey 
+
+This workshop had a lot of firsts, things that were different from the previous Champions cohort: 
+
+- In person, not remote. 
+- Local community and research domain: all teams are focused around the same topic (fisheries management), and were local to Cape Cod/New Bedford.
+- Not all teams had leads present; only 2 groups had leads present.
+
+There were definitely things I would like to improve for next time. Most obviously for me to reduce some of the redundancy in the slide decks; such redundancy was a nice refresher/emphasis when folks were seeing them every two weeks as part of the five-month structure but was pretty repetitive over a course of two days. Also, I found myself telling rather than showing for too much of the time. When I made the slides last year for the inaugural cohort, I had fewer examples to show. But now I have so many examples from Champions and I need to showcase like I do in my [conference talks](https://openscapes.org/media), [for example at FORCE11](https://docs.google.com/presentation/d/16nhQhW8sUz0XvpKX4Vgn0vpU7tesi6wXGwvLZF10r-8/edit?usp=sharing)! So I'm excited to improve the course based on this experience and the feedback I've received. 
+
+Additionally, since not all teams had leads present, in the future we should focus time for teams not only to develop a plan for working with their teams about open data science, but strategies to also strengthen buy-in from leads. This is something that we should do regardless of whether team leads are present, really.
+
+Thank you again to everyone who participated and are now Openscapes Champions!
+
+
+<!---
+EDAB Team
+
+Currently a majority of the branch is using GitHub and open science practices, but excited to instill practices deliberately with the whole team. To do so, they plan to start a series of informal “Seaside” chats separate from regularly  meeting to introduce topics and start team members thinking about them. To include folks with geographic distance between group, they'll incorporate live google doc-ing (roll call) in their meetings, and staring to using GitHub as a project management tool (Issues). 
+
+Probably need a 2-3 day workshop together to formalize code of conduct and one-on-one onboarding especially for GitHub, and to create "how we work" documents (like the [Pinsky Lab's how_we_work documents](https://github.com/pinskylab/how_we_work). They are also trying to figure out the best workflow from Google Doc to Rmarkdown to include contributors outside of the team. 
+
+--->
+
+<br>
+  <img src="/img/blog/northeast_aliciamiller_square.jpg" width="500px"></a>
+  <figcaption>Photo by [Alicia Miller](https://twitter.com/ALoMiller). 
+</figcaption>
+<br>
+
+<br>

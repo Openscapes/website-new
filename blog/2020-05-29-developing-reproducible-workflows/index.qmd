@@ -1,0 +1,95 @@
+---
+title: "Developing reproducible workflows collaboratively"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Julien Brun, Julie Lowndes, Carrie Kappel
+date: 2020-05-29
+slug: developing-workflows
+categories:
+  - community
+  - coding
+image: ../../img/blog/nceas_module2_screenshot_square.png
+---
+
+
+***Crossposted at [NCEAS](https://www.nceas.ucsb.edu/news/developing-reproducible-workflows-collaboratively)***  
+
+*The National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) funds Working Groups of 15-20 scientists from across disciplines and sectors to collaborate on environmental synthesis science projects. In this time of pandemic, groups that would typically be meeting in person four times over ~two years are now faced with launching their projects virtually. NCEAS is providing training and support to help those teams kickstart their research collaborations remotely, and Openscapes was heavily involved in designing and leading the two remote learning modules. In this blog we highlight some of the key takeaways and best practices from our second remote support module, delivered to a cohort of four Working Groups that are launching projects this spring.*
+
+---
+
+In this module, we wanted to empower multi-institutional and cross-sectoral science teams to collaboratively develop reproducible workflows for data-driven projects. The idea was to take remote, decentralized teams and help them to develop a centralized mindset and toolkit for data & code while working remotely. Our goal was to expose participants to “good enough” tools and practices to develop common practices that will enable them to collaborate efficiently among each other, but also with their future selves. We focused on the centralization and management of the information, data and code they will be collecting and developing over their two-year project; stressing that for each part of their workflow, everyone should be encouraged and enabled to contribute no matter their technical skills. 
+
+We structured this second remote workshop like we did in the first one, which focused on [strategies for efficient collaboration](https://www.nceas.ucsb.edu/news/kick-starting-scientific-collaborations-remotely). We engaged participants using Zoom and a collaborative Google Doc, enabling active participation through discussions, silent documenting, +1s voting, and breakout groups of 3-4 people for the more hands-on parts of our 3-hour workshop.
+
+<br>
+<center>
+  <img src="/img/blog/nceas_module2_screenshot.png" width="500px"></a>
+   <figcaption>Discussing the different analytical phases of synthesis projects.
+</figcaption>
+</center>
+<br>
+
+
+Here are some topics we focused on, based on our experiences of providing [data science support](https://www.nceas.ucsb.edu/programming-support) to working groups:
+
+- Virtual environment to share documents and centralize communication: 
+  - When choosing your tools, making sure your whole team has access and can use them should be your most important criterion rather than the “best” tool. 
+  - Setting team standards on how to leverage those tools is also key. For example, having a shared drive and linking to a shared document in the email is preferred to sending the document as attachment; this will help centralize the information and limit the number of different versions floating around
+  - Acknowledge and embrace different “techiness” skills by being flexible and kind, and offering opportunities to teach others
+
+<br>
+
+- Data Management: 
+  - More than 70% of a project will spend manipulating data, plan for this time and support the people doing this. 
+  - Plan in advance for the different phases of your [data life cycle](https://www.dataone.org/data-life-cycle): collect, quality check, analyze and preserve (see illustration of the data life cycle)
+  - This includes detailing how people "hand off" data and code between steps
+  - How you structure your data matters for your analysis – we recommend long format, aka “[tidy data](https://www.jstatsoft.org/article/view/v059i10)”
+  - Spreadsheets should be set up to streamline data analysis later on (see advice on [data organization in spreadsheets](https://peerj.com/preprints/3183/))
+  - Leverage naming convention and file structure to organize your data and make it easier to process in a programmatic way – following [advice on naming things](https://speakerdeck.com/jennybc/how-to-name-files)
+  - Track the provenance of your data in a [data log](https://docs.google.com/spreadsheets/d/1LLpOyydCGTZdY8Xk2fDmTPVy8efF-47GtEXkAjvYsJI/edit?usp=sharing)
+  
+<br>
+
+- Reproducible analytical workflows: 
+  - Why
+      - Empower you to iterate quickly and integrate new information
+      - Enable others to build on your work: Your research is important – but arguably only when other people can find it, make sense of it, and build from it. And those “other people” are most likely to be you in the future!
+      - You’re always collaborating: you’re collaborating most importantly with Future You, and also Future Us! Develop workflows in a mindset geared towards collaboration without compartmentalizing
+  - How
+      - Use scripts and leave copy-pasting behind
+      - Comment your code... too much is not a thing; notebooks like Jupyter and RMarkdown can help you to be more explicit by integrating outputs/results
+      - Keep things in sync in a centralized place online to avoid duplication (data, scripts, code, …)
+      - Centralize your data in  shared computing resources or data repositories
+      - Publishing is part of your analytical workflow 💯😎
+  - Tools
+      - Use version control software (e.g. git) rather than your own bookkeeping methods (goodbye script_JM_03v5b.R)
+      - Code sharing (e.g. GitHub)
+      - Publish and share analysis and results online (e.g. Google Docs, GitHub pages, ...)
+
+<br>
+
+*Workflows are rarely linear! They are developed iteratively, and one of the most helpful things you can do is talk about them with your research team.*
+
+During breakout rooms, participants experienced collaborative version control hands-on by editing text files from the Github web interface. The goal was to showcase that there are a lot of entryways to contribute to analytical workflows (edit a file online, drag and drop to upload, ...), which is important because not everyone on a collaborative project needs coding skills but they do need to operate comfortably with their team. Participants worked together in breakout groups, and while we did not know each participant’s experience with GitHub, we made sure to mix career level and gender, instead of randomly assigning groups, aiming to foster echanges and learning among the participants. 
+
+The task of the hands-on GitHub session was to collaboratively edit a list of the team’s favorite desserts, first on the README of the repository and second using a csv file. Here is an [example of the results](https://github.com/brunj7/favorite-desserts). Our prompts were:
+
+<br>
+<center>
+  <img src="/img/blog/nceas_module2_github_instructions.png" width="500px"></a>
+   <figcaption>Breakout group hands-on: Collaborating with GitHub does not require programming skills!
+</figcaption>
+</center>
+<br>
+
+From the feedback we received, participants from the [LTER network](https://lternet.edu/) and [SNAPP Partnership](https://snappartnership.net/) had fun collaborating and were impressed by how much you could achieve in a 20min hands-on exercise done in a remote setup. With this workshop, we were able to help remote, decentralized teams develop a more centralized mindset and toolkit for their analytical workflows. For more, here is a [blank copy](https://docs.google.com/document/d/1cTIYyfc0J564PxpF0-xE_bbH6TIK2tq1F5WkDOx0lrw/edit?usp=sharing) of the full agenda! 
+
+As part of NCEAS effort to [support and improve remote collaboration](https://www.nceas.ucsb.edu/Virtual-Collaboration), we hope to offer this kind of virtual training and support to more groups within and beyond NCEAS; contact Deputy Director, Courtney Scarborough if you are interested in future offerings. And, if you are interested in ongoing support of this kind, check out the resources offered on the [NCEAS Learning Hub](https://www.nceas.ucsb.edu/learning-hub), including the [Openscapes](https://openscapes.org) remote mentorship program.
+
+<br>
+<br>
+
+
+
+<br>
+<br>

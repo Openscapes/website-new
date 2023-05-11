@@ -1,0 +1,119 @@
+---
+title: "Openscapes Summit reflections 2 — Changing the way we do science"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Julie Lowndes
+date: 2019-04-25
+slug: summit-2
+categories:
+  - champions
+  - community
+  # - impact
+  - medium.com  
+image: ../../img/blog/summit/elevator-selfie-square.jpg 
+---
+
+# Openscapes summit reflections 2 — Changing the way we do science
+
+***This article is cross-posted on [medium.com](https://medium.com/read-write-participate/openscapes-summit-reflections-2-changing-the-way-we-do-science-cbc4dccf8c40)***
+
+*In March 2019 I witnessed environmental scientists become champions for open data science when we brought the inaugural cohort of Openscapes Champions together for a [summit](https://openscapes.github.io/summit2019/) in Santa Barbara, California. The summit was supported by [Mozilla](https://foundation.mozilla.org/en/) and hosted at the National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) with the purpose of building relationships, sharing lessons learned, and igniting collaborations. This is the second of several blogs, with this one focusing on the themes that continually surfaced during our discussions. It was co-developed with Halley Froehlich, Adrian Stier, Allison Horst, Malin Pinsky, Chelsea Wood, Nina Therkildsen, Nishad Jayasundara, Christie Bahlai, and Sean Kross.*
+
+---
+
+>“How do we lead our labs in doing open science right? Also, what is right?” 
+
+This was a question that kept surfacing during our discussions at the Openscapes Champions Summit. And the answer that we kept coming back to was that **we need an open mindset and think not only about our future selves as individuals, but also about our future selves as labs**. That means working together with lab members to try create workflows and institutional memory, so it is not so much about doing it right but about working together to try to figure things out a little bit better. This means we have to be comfortable with the fact that the softwarescape will always be evolving and improving. And that we can be open to new ideas for the lab even though we ourselves have limited time. And that is okay. But if we have an open mindset, we can create an open culture where we can reflect and evolve together as a lab.
+
+As we explored in the [first summit blog about becoming champions](https://www.openscapes.org/blog/2019/04/08/summit-reflections1/), at the summit we felt for ourselves that what we are doing with **Openscapes is not just about coding and GitHub, it’s about changing the way we do science.** As we shared our progress and challenges, here are a few strategies we came up to sustain an open culture in our labs.
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/summit/elevator-selfie.jpg" width="500px"></a>
+  <figcaption>Openscapes Summit, 2019, elevator selfie. Clockwise from bottom left: Julie Lowndes, Adrian Stier, Malin Pinsky, Nina Therkildsen, Sean Kross, Allison Horst. Center: Halley Froehlich. </figcaption>
+</center>
+
+<br>
+
+<!---
+ **There is a huge volume of digital stewardship & setup new faculty have to navigate**. 
+
+Openscapes has been a place to talk about shared practices and storage for code and documentation using tools like R, GitHub, and Google Drive. But at the Summit we discussed more about the actual data, and shared strategies for how we operate with data. **Caring for data is like caring for a pet: whether it is small or large there are certain set responsibilities that will also increase as the size increases.** Some of those questions include:
+
+Where do you store data? Where does *your lab* store data? How do you get it off of personal and local computers and into a shared location? Is it physical, or in the cloud? Where are the backups? Where is the metadata, and is it complete? Is your data discoverable to your own lab – is there a registry of all the lab’s data and where it is?
+
+Also, Who can access the data? Do they need logins? What happens when they leave the university, does their account become inactive? And that is alongside questions about skillsets: Do lab members have the right skills to access and analyze the data they need? 
+
+Champions shared strategies that they had figured out based on practices they had developed as post-docs or leveraged resources at the university. Some universities have unlimited Google Drive storage, others don’t. A common theme was to budget specifically for servers and university IT support in your faculty start-up package. 
+
+
+--->
+
+#### **We have to be comfortable giving lab members agency in the digital space**
+
+For our labs to be efficient and leverage best practices from the open data science community, we need to be okay with lab members taking the lead. This is important because faculty do not have the time to do this themselves, and it is important growth and leadership opportunities for lab members. This means relinquishing some control over the way the lab operates in a digital space, but it also releases us from shouldering the burden of needing to know everything before teaching it to our labs – something that is unattainable but can still weigh us down mentally and slow progress overall. 
+
+It is okay for the lab to learn together and teach each other, in fact, it is really important leadership skills for scientists to develop, and the whole lab wins in the process. If we help set the tone of a lab culture of openness and collaboration, we can discuss strategies together and enable lab members to take the lead in setting up systems and making sure everyone has the opportunity to learn and participate.
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/summit/airbnb-work.jpg" width="500px"></a>
+  <figcaption>In between work sessions at the AirBnB. </figcaption>
+</center>
+
+<br>
+
+#### **We all need onboarding and offboarding plans for our labs**
+
+Onboarding is the plan for integrating a new person into an organization or team. Although this concept is most familiar in industry, in science its need is equally clear: there are constantly students and lab members coming in and out of the lab. Traditionally, they have been setup with a set of keys and any lab protocols they might need to know. But now there is need to deliberately onboard them to become what Christie Bahlai calls “good digital citizens”. What do they need to know to be the best contributors to the lab, and to science? And what do they need to do before they leave to ensure there is not data and project knowledge lost when they leave? Since there are few opportunities to learn these practices in formal education, one place to learn it is in the lab.
+
+<!--- Commenting bc redundant to first post
+Christie has a few strategies for onboarding and offboarding. For onboarding, her (lucky!) students must take her course [Reproducible Quantitative Methods](https://cbahlai.github.io/rqm-template/). This is the research methods course that Christie developed as a Mozilla Fellow to modernize the post-data collection portion of the scientific workflow (and of course it is available for anyone to use and tailor for their needs). Requirements for offboarding are posted in the [project completion checklist](https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md), and they apply to both when a project is complete (i.e. when a paper is published) or when someone leaves the lab. This includes guidelines for general project documentation, data, and code. It serves as the lowest bar: when the project is over documentation, data and code will at least be this far. 
+
+--->
+
+Champions will be creating onboarding and offboarding strategies for their labs, likely as checklists. We discussed how policies could include that when you folks leave the lab they will transfer ownership of Google Folders and fork GitHub repositories. More to come on this as it is developed.
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/summit/sb-pier.jpg" width="500px"></a>
+  <figcaption>Walking to dinner via the Santa Barbara pier. </figcaption>
+</center>
+
+<br>
+
+#### **Hackathons are great strategies for labs to modernize workflows as a team**
+
+We talked about hackathons in the lab. Borrowed from the coding world, I think of hackathons as when a group comes together to work on something that isn’t their responsibility day-to-day. In the lab context, it is really useful for getting together to work on things that benefit the whole lab, but doesn’t fall under anyone’s day-to-day responsibilities. And they can be fun — this is a time for donuts and working in a different location.
+
+Chelsea Wood talked about a few hackathons she has led with different collaborators: one on a large-scale international field project with multiple principle investigators, and one with her teaching assistants preparing for a course. Both involved being in the same physical place with everyone with a block of time so that everyone could focus and actually work on the same computer in some cases to discuss and set up a shared system. There is a lot more to say about hackathons, and we will continue  sharing them in future posts. 
+
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/summit/openscapesing-6thfloor.jpg" width="500px"></a>
+  <figcaption>Openscapesing at NCEAS. </figcaption>
+</center>
+
+<br>
+
+#### **Open data science skills should be formally taught in our departments, and we should value the instructors that teach them**
+
+We discussed how open data science skills should really not be things we have to teach ourselves on our own time. Instead, they should be formally taught in our departments, with courses and continuing education available to anyone, including our students and ourselves. This means new courses offered, and dedicated people hired to teach them. 
+
+We learned a lot from Allison Horst sharing her experiences and strategies as a lecturer in an environmentally-focused graduate program offering data science courses. Over six years, she has transformed an inherited statistics course from being one of students' least favorite courses to being one of their most valuable overall experiences. She is incredibly dedicated to her students and invests a lot of time making sure she is teaching them the best she can, which means she herself is constantly learning and then improving lessons. In addition to modernizing all her lectures with the tidyverse, she has taken what we learned in Openscapes to organize and share all her [advanced course lessons](https://github.com/allisonhorst/esm-244-2019#esm-244) online (stay tuned for the intro course lessons). And, she has just been recognized at the university-level for her efforts, as [she won UCSB's 2019 Distinguished Teaching Award](https://twitter.com/juliesquid/status/1119348524183801858). 
+
+
+This is a good take-home message to end this whole post: **We need to change the way we do science and to help prepare our students for the data-rich world we live in**. And this means we need open data science skills taught, and although most faculty do not have the bandwidth or expertise to teach such courses, there are fantastic and motivated teachers who can. We need to value the teaching and the teachers, and we all need to do our part to champion this moving forward.  
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/summit/hikers.jpg" width="500px"></a>
+  <figcaption>Summit closing hike in Los Padres National Forest. </figcaption>
+</center>
+
+<br>

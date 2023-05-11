@@ -1,0 +1,93 @@
+---
+title: "Announcing the NASA Openscapes Framework"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Erin Robinson, Amanda Tan, Julie Lowndes
+date: '2021-03-10'
+slug: nasa-announcement
+categories:
+  - community
+  - nasa-framework
+image: ../../img/blog/nasa-logo.png
+---
+
+## Announcing the NASA Openscapes Framework
+
+We are thrilled to announce that we have been awarded a 3-year grant from NASA! 
+
+Together with the National Center for Ecological Analysis and Synthesis ([NCEAS](https://nceas.ucsb.edu)) at the University of California Santa Barbara, University of Washington [eScience Institute](https://escience.washington.edu/), [Metadata Game Changers](https://metadatagamechangers.com/), [2i2c](https://2i2c.org/), and [The Carpentries](https://carpentries.org/), we are answering the call from NASA to support researchers from the NASA Distributed Active Archive Centers (DAACs) migrating workflows to the cloud. 
+
+<br>
+
+<center>
+  <a><img src="/img/blog/nasa-logo.png" width="300px"></a>
+</center>
+
+<br>
+
+**Articles and cross-postings by our partners**
+
+- ***[NASA Earth Data — Openscapes: Using "The Force" of Open Science in the Cloud ](https://earthdata.nasa.gov/learn/articles/openscapes)***
+- ***[Metadata Game Changers](https://metadatagamechangers.com/blog/2021/3/10/metadata-game-changers-partners-with-openscapes-in-new-nasa-funded-project)***
+
+### Building the Openscapes Framework
+
+The Openscapes Framework is a scalable leadership training and community building framework developed by Openscapes that we will use over three years to support NASA DAAC researchers migrating to the cloud. We designed the Openscapes Framework building off Openscapes’ flagship Champions program, which provides cohort-based open data science mentorship for research teams. 
+
+**The Framework has three components:** 
+
+***Engage DAAC mentors.*** Support and strengthen the community of DAAC folks that are already creating cloud learning resources. Through Openscapes mentorship, Carpentries instructor training, and 2i2c cloud services, these DAAC mentors will work together to create learning resources for their teams and communities.
+
+- We are so excited to have five DAACs in this first cohort including the [Atmospheric Science Data Center (ASDC)](https://asdc.larc.nasa.gov/), [Goddard Earth Sciences Data and Information Services (GES DISC)](https://disc.gsfc.nasa.gov/), [Land Processing (LP DAAC)](https://lpdaac.usgs.gov/), [National Snow and Ice Data Center (NSIDC)](https://nsidc.org/daac) and [Physical Oceanography DAAC  (PO.DAAC)](https://podaac.jpl.nasa.gov/).
+- Each DAAC selected 2-3 mentors, who are already leading the way in helping researchers utilize the Cloud. Our first class of DAAC mentors includes: 
+    - Makhan Virdi, ASDC 
+    - Vishal Bagadia, ASDC
+    - Matthew Tisdale, ASDC
+    - Jennifer Adams, GES DISC
+    - Chandana Gangodagamage, GES DISC
+    - Aaron Friesz, LP DAAC
+    - Cole Krehbiel, LP DAAC
+    - Paul Moth, NSIDC DAAC
+    - Amy Steiker, NSIDC
+    - Catalina Oaida, PO.DAAC
+    - Jack McNelis, PO.DAAC
+
+***Empower science research teams.*** Empower NASA research teams using NASA data on the cloud with open data science practices through the Openscapes Champions program. DAAC mentors will also participate to strengthen relationships, identify needs, and test cloud learning resources. Additionally, DAACs will host Carpentries workshops and we will train DAAC mentors as Champions program facilitators.
+
+***Amplify open science leaders.*** Increase visibility of NASA DAAC mentors and research teams as Cloud champions and strengthen the community of practice around open science at NASA. As participants champion open science and cloud workflows in their own work, we will help amplify through coordinating Community Calls, sharing stories through blogs and social media, and through conferences like the American Geophysical Union (AGU) Fall Meeting.
+
+The Openscapes Framework will be repeated and improved each year, with DAAC mentors increasingly taking the lead. We began this project with sustainability in mind: our goal is to co-develop this framework with the DAACs so that they can continue to utilize it to help scientists migrate to the cloud beyond our 3-year award. Through this project, we will also be learning how we might implement the Openscapes Framework with other scientific communities.  
+
+### Expanding our partners
+
+Another exciting thing about this project is the opportunity to expand [our partners](/partners)! 
+
+- [Julie Lowndes](https://www.openscapes.org/about/), NCEAS, UC Santa Barbara, is the Principal Investigator for this project and is the founder of Openscapes. She will lead the Champions program, communication efforts, and manage the project.
+- [Amanda Tan](https://escience.washington.edu/people/amanda-tan/), eScience Institute, University of Washington is a co-Investigator. Amanda has led the development of Carpentries-style training material for NASA data on the cloud through an [ESIP Incubator Award](https://github.com/ESIPFed/open-data-education). In this project she will support DAAC mentors as they create and implement training material. 
+- [Erin Robinson](https://metadatagamechangers.com/about-erin), Metadata Game Changers, will support community engagement as a consultant based on her extensive work in the NASA Earth science data community.  
+
+This project allows us to partner with organizations that share Openscapes’ values of open, reproducible, and inclusive science: 
+
+- [2i2c](https://2i2c.org/) develops, deploys, customizes, and manages open source tools and cloud services for interactive computing in research and education. They deploy community-driven infrastructure, inspired by use-cases such as the UC Berkeley DataHubs and the Pangeo project, that provides easy “one-click-to-cloud” access with Jupyter Notebooks through the web browser designed to reduce the startup burden for new learners, and this approach will also benefit the NASA DAAC community.
+- [The Carpentries](https://carpentries.org/) teach foundational coding and data science skills to researchers worldwide. Openscapes is joining The Carpentries through this project as a Silver Member, which includes four Carpentries workshops per year and instructor training opportunities to the NASA DAAC community. 
+
+### Why NASA? Why Openscapes?
+
+We are getting these questions a lot, so here is our take. 
+
+NASA Earth Science Data Systems missions collect Earth data, including sea ice, physical oceanography, vegetation and many other parameters – data used by researchers around the world for many different purposes, including answering pressing questions in ecology and environmental science. Further, NASA promotes open science – from the NASA Earth Science Data Systems (ESDS) program [2020 Highlights report](https://earthdata.nasa.gov/esds/nasa-esds-highlights-2020): 
+
+> Open data are the foundation of ESDS efforts to fulfill the program’s vision of accelerating scientific advancement for societal benefit through innovative Earth science data stewardship and technology development…. [This includes a specific goal] to leverage the diversity of global Earth science communities to advance open science.
+
+Openscapes’ long-term goal is to enable robust, inclusive, and enduring science- and data-driven solutions to global and time-sensitive challenges. We [approach](https://www.openscapes.org/approach/) open science as a spectrum, as a behavior change, and as a movement. We see data analysis and stewardship as entryways to meet scientists where they are, helping them develop new skill sets and mindsets while empowering them as leaders. 
+With NASA support, the project team and the partners, the Openscapes Framework fundamentally changes the paradigm for supporting research teams and DAAC mentors, first to work more openly with their teams on the cloud, and ultimately to advance open science!   
+
+<center>
+  <a><img src="/img/blog/nasa-worm.jpeg" width="300px"></a>
+</center>
+
+### Get Involved!
+
+We are influenced and inspired by many leaders and community organizers, particularly in climate justice and get out the vote movements. That means, we know this isn’t just about us or an effort we can do alone. We are always looking to learn and build from, with, and for others. Please find us on Twitter [@openscapes](https://twitter.com/openscapes) or join our [newsletter](https://openscapes.org/contact).  
+
+<br>
+

@@ -1,0 +1,99 @@
+---
+title: "[Sea]side Chats for data workflows" 
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Julie Lowndes
+date: 2019-03-10
+slug: seaside-chats
+categories:
+  - community
+  - champions
+  - coding
+  # - how-to
+  # - impact
+  - study-group
+image: ../../img/blog/mrlowndes_DSC01492.jpg
+---
+
+# [Sea]side Chats for data workflows   
+
+*Seaside Chats. Bluffside Chats. Fishbowl Chats. Bayside Chats. This is where we discuss data workflows in the lab.* 
+
+**Running list of Champions teams' [Seaside Chats](https://github.com/Openscapes/seaside-chats)**
+
+----
+
+One of the long-term goals of Openscapes is to change the culture about how we work with data — and that requires normalizing even *talking* about data. We need to be able to have meaningful conversations about data and data workflows: the strategies, the struggles, the successes.
+
+In our Champions Cohort Calls, we aim to create a space where we can safely present ideas, learn from each other, and discuss together — and then seed these ideas in our labs, and ultimately our departments, universities, and beyond. This requires deliberately setting a friendly and constructive tone in these gatherings, and leading by example (see blog about [RStudio Conference culture](https://www.openscapes.org/blog/2019/02/19/rstudioconf/)).
+
+To put this to immediate practice, the main assignment for the Openscapes Champions program is for labs to have weekly meetings to deliberately discuss data workflows, develop overlapping skillsets, create shared systems for their labs, and cultivate an open culture in the lab. These meetings are called "[Sea]side Chats".
+
+The idea and name for Seaside Chats came from the Ocean Health Index team, circa 2015. Although we already had weekly lab meetings with our PI (principal investigator) to talk about science, we additionally needed a time to talk about *how* we were going to do the science. We needed a place to talk about, develop, and share ideas and data workflows, and also realized it would be super helpful for onboarding new lab members. Our PI didn't need to come talk operations with us — we all know PIs do not need more meetings — but we had agency to start them, and he valued and encouraged them. They would be standing events on our calendar. Yes, these were going to be meetings, but they were going to be informal and lighthearted, so they would be "chats" rather than "meetings". Like President Roosevelt's [Fireside Chats](https://en.wikipedia.org/wiki/Fireside_chats). But we are not by the fire, but we are by the sea. So they would be Seaside Chats.
+
+**Now, the Openscapes labs have started Bluffside Chats at UC Santa Barbara, Fishbowl Chats at Rutgers, and Bayside Chats at University of Washington.** They are a dedicated time created to not only discuss and strengthen data workflows, but also to strengthen lab culture. And what what is super cool is that seeding open culture is actually happening! This was captured in [Michelle Stuart's blog about the Pinsky Lab](http://pinsky.marine.rutgers.edu/fishbowl-chat-1/): 
+
+> "This open communication has leaked into the general discussion going on in our open work space. Lab members seem more comfortable with asking  teammates for help, and it is exciting to see all of us getting on the same page with our data science."
+
+## Seaside Chat topics
+
+So what goes on in these Seaside chats? They are discussions that start with a specific topic that a rotating lead person has prepared. For the Ocean Health Index, we try to set next week's topic at the current week's Seaside Chat, although in reality sometimes we set it just the day before. Topics most often start with the current state of things for individuals in the lab, and end with how to streamline workflows as a lab and learn from each other. They can start off as discussions and end as more "hackathons" where we actually set up folder structure or servers and practice with each other. 
+
+Examples include: 
+
+- where do we all keep our data? Here’s how our server works
+- how we all share code with our PI, and each other?
+- let's discuss [this interview with Jenny Bryan](https://ropensci.org/blog/2017/12/08/rprofile-jenny-bryan/)
+- let's skill-share lab-specific techniques (genomics packages, etc)
+- I have some code on X technique/stats/model I'd love to walk through
+- I'm making a figure and would love feedback
+- let’s add short README files accompanying folders of data so we know what the heck things are
+- let's watch [this webinar about time travel with RStudio & GitHub](https://www.rstudio.com/resources/webinars/collaboration-and-time-travel-version-control-with-git-github-and-rstudio/)
+- can you show us how to set up the Zotero citation software with RMarkdown
+- filepath woes: use .Rprojects 
+- filepath woes 2: use the new `here` package in R!
+- let’s plan a lab “hackathon” to move these .xls to .csv files we store on GitHub
+
+There are endless topics and no single place to start. Again, from [Michelle's blog](http://pinsky.marine.rutgers.edu/fishbowl-chat-1/):
+
+> We began by explaining the difference between git and GitHub and then had a 20 minute group discussion about what we should be putting on GitHub and how we wanted to use it as a group tool.
+We spent the rest of the hour in breakout groups addressing different obstacles people faced as beginner GitHub users. One group was creating accounts, one group was connecting to the pinskylab organization, and another was connecting RStudio to GitHub.
+It was great to see people migrating from group to group as issues were solved. By the end of our time together, it seemed like everyone had a good handle on using GitHub to share work with the rest of the team.
+
+Similarly, in Bayside Chats, the Wood Lab has met to discuss reproducible research, have a git/GitHub+RStudio tutorial, and chat about how to integrate the lab Google Drive with people’s (new) GitHub repos. The Wood Lab's Danielle Claar described this process:
+
+> [In Bayside Chats], we are thinking about how to build redundancy in our lab for knowledge about reproducible research tools.
+
+In Bluffside Chats at UCSB, Allison Horst and Jessica Couture did a self-audit of how they were organizing and sharing materials for the courses they teach. They realized they could streamline where things lived to increase efficiency with working with each other, but also so that students would have one go-to place to find everything they need. Leaving the first Bluffside Chat with a solid plan, they have been putting this plan into practice in subsequent weeks. 
+
+## Towards shared practices
+
+Building from discussions in Fishbowl Chats, the [Pinsky Lab Cookbook](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md#pinsky-lab-cookbook) is an online resource with "recipes" for working in the lab together. They include topics like adding undergraduates to the lab GitHub organization, how to install an older version of an R package, and how to set up video conferencing. Instead of teaching these things individually in person or through email, the Cookbook is a living document that all lab members know of and use as a resource, and they can update with more tips and workflows as needed. The idea was inspired by the [BBC Visual and Data Journalism Cookbook for R Graphics](https://bbc.github.io/rcookbook/); all teams need shared resources and practices to work together!
+
+
+## What makes successful Seaside Chats?
+
+Thinking about what makes successful Seaside Chats, I came up with the following:
+
+1) They should be fun and empowering. They are not meant to just add another meeting to your life, but to learn and share ways that will make everyone's data experiences way more awesome. Mix up the topics and lead person so that there is a diversity of discussions and styles, but it's up to everyone to come engaged and interested to learn together.
+
+2) Have Chats scheduled on the calendar as standing meetings. They can be canceled/reshuffled if needed, but having them as a weekly opportunity to discuss data questions is important not only to discuss data together, but to bond as a lab.
+
+3) Have a topic set in advance. There should be a purpose when you start the meeting, even if someone is prepared only to show something that takes 10 minutes: that will be an important 10 minutes and it will spark conversations beyond. The lead person could have been chosen: "hey could you show us that new package you're using?" or self-nominated: "I've just figured out how to make this plot interactive, let me show you". 
+
+4) Leverage technology as needed: sometimes we use a monitor/projector, or even use Zoom video conferencing software (even if we're all sitting together) so we can screenshare on personal laptops so that everyone can see what is being demonstrated. It can be useful to take group notes in a Google Doc — see next.
+
+5) Keep a list of the topics you've discussed. Not only does this show accomplishment of what you've covered, it can be useful to revisit if you're onboarding new lab members; where were those notes with links to that cool package we learned?
+
+But definitely always keep the first point in mind: these should be fun and empowering for individuals and the lab as a whole. Seaside, Bluffside, Fishbowl, and Bayside Chats, I can't wait for more to come. There is so much awesome stuff to learn: let's talk about it together.
+
+<br>
+
+<img src="/img/blog/mrlowndes_DSC01492.jpg" width="300px">  
+Photo by Elliot Lowndes
+
+<!---
+Danielle: 
+We’ve had one lab meeting (Intro to Reproducible Research), and two Bayside Chats (first was a git/github+RStudio tutorial, second was chatting about several things, including integrating the lab Google Drive with people’s (new) GitHub repos). They’ve gone really well so far. One thing I’ve been thinking about is the need to have set topics (+ time for discussion about whatever) for at least the next couple of months to build momentum and get people consistently engaged in the process. Basically, I think if I just hold a chat/AMA each week, we’ll probably lose momentum. With your chats, how often did you have set topics, and how often did you ‘just’ gather together? Did this change over time at all?
+
+The other thing I’ve been thinking about is how to build redundancy in our lab for knowledge about reproducible research tools. Right now I’m the person with the most experience, and everyone else is excited to learn (but many are just starting out and it can seem a bit overwhelming at first!).
+--->

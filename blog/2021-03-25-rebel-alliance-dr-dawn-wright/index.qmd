@@ -1,0 +1,86 @@
+---
+title: "'Join the Rebel Alliance' - an Openscapes interview with Dr. Dawn Wright at MozFest"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Erin Robinson, Dawn Wright, Julie Lowndes
+date: 2021-03-25
+slug: rebel-alliance-dr-dawn-wright
+categories:
+  - community
+  # - impact
+  # - community-call
+image: ../../img/blog/mozfest-welcome-square.png
+---
+
+
+***[Openscapes](https://openscapes.org) had the distinct honor to introduce [Dr. Dawn Wright](https://twitter.com/deepseadawn), Chief Scientist of [Esri](https://www.esri.com/en-us/home) to [#mozfest](https://www.mozillafestival.org/en/), Mozilla’s annual Open Festival in early March ([session page](https://schedule.mozillafestival.org/session/Z3JAWA-1), [recording](https://www.youtube.com/watch?v=JGeYYzKvwKk)). The conversation emphasized how science can be both kind and credible. What do you think of when you read ‘kinder science’?***
+
+***Cross-posted on the [Esri blog](https://www.esri.com/en-us/industries/blog/articles/join-the-rebel-alliance-an-openscapes-interview-with-dr-dawn-wright-at-mozfest/)***
+
+---
+
+<br>
+
+<center>
+  <a><img src="/img/blog/mozfest-welcome.png" width="500px"></a>
+  <figcaption> Welcome to our Openscapes session at MozFest! </figcaption>
+</center>
+
+<br> 
+
+Dr. Dawn Wright shared her approach to science, kindness, and leadership through stories of other women that inspire her. She referenced Dr. Hope Jahren, saying that when she talks about science she “can’t keep her own story out of it”. In Jahren’s best-selling memoir, _Lab Girl_, Jahren shares her process, the late nights, the special people, and strange experiences that went into making some amazing scientific discoveries. Similarly, in _All We Can Save_, editors Dr. Ayana Elizabeth Johnson and Dr. Katharine Wilkinson have curated stories from 50+ woman leaders in the climate movement, proving there is power in sharing your science by sharing yourself. And that is an integral part of open science. 
+
+Another scientist that resonates with Dawn is Dr. Jane Lubchenco. Lubchenco’s definition of “use-inspired science” (fundamental, cutting-edge science that is responsive to societal needs, especially around topics of sustainability, resource use, energy, health, and racial equity), helps us frame the scientific challenges we tackle through the lens of helping others. Dawn also shared how for many of us we have a strong sense of place, and of places being sacred. She took time to acknowledge the native peoples whose land she lives in (the Yuhaviaatum Clan of the Serrano Indians, now within the federally-recognized tribal government of the San Manuel Band of Mission Indians).
+
+“It is critical to add kindness as an ingredient to open science,” says Dawn. Scientists should be willing to share more of themselves – beyond the methodologies and data. As you share more of yourself, people will come to you for help, and thus it is critical that we use kindness as part of this process. We need a kindness that doesn’t put others down, that is not tribal, that does not separate or segregate. We need a kindness that lifts others up, that leaves people better than we found them, especially students." 
+
+<br> 
+
+<center>
+  <a><img src="/img/blog/mozfest-dawn-lego-london.png" width="500px"></a>
+  <figcaption> Dr. Dawn Wright at the LEGO Store in London :) </figcaption>
+</center>
+
+<br> 
+
+
+On the question of what is possible when you bring creativity and science together — Dawn says, “how about LEGO?! There is even a [new LEGO map style for ArcGIS Pro](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/steal-this-lego-map-style-for-arcgis-pro-please/), What a wonderful analogy to open science, in that similar to LEGO, you can continually build on top of what others have accomplished." Through publishing and open sharing, Dawn says that you give your bricks to others and interoperate with bricks for reuse, especially with others that have not had the chance. (We also talked about how Lego is investing in alternatives to plastic)!
+
+Further, when discussing using Star Wars for science storytelling, Dawn – in her Yoda voice – reminded us that “fear is the path to the dark side. Fear leads to anger. Anger leads to hate, and hate leads to suffering.” In the same way, making technology that is easy for people to use is the path to openness. Ease leads to exposure. Exposure leads to adoption! This aligns with open science as we make our research as open and accessible as possible to fight the dark side (hence, join the Rebel Alliance)! This brought us back to use-inspired science where our research can help solve bigger societal problems. 
+
+We discussed racism as a spatial problem. Esri’s Racial Equity Unity Team is building a [host of spatial solutions](https://www.esri.com/en-us/racial-equity/overview) to foster environmental and racial justice. Dawn mentioned that the formation of this team and initiative is an important step for Esri, certainly in getting beyond the “performative hypocrisy of big institutions that issue racial justice statements that are not backed up by action.” Dawn acknowledged in particular, [Clinton Johnson](https://www.linkedin.com/in/clintongjohnson/) - a leader on the Esri Racial Equity Unity Team - who along with team members is building map templates, workflows, datasets, and apps to help communities and local governments focus their analyses through the lens of racial equity. Esri and partners are also making dashboards that spatially identify and track various practices such as redlining, gerrymandering, and inequality in vaccine distribution. Most recently the team in collaboration with the NAACP and faith-based organizations launched a new initiative to survey, track and analyze policing budgets, and thus reimagine what public safety should look like, neighborhood by neighborhood. 
+
+We asked Dawn her vision for the planet as she’d like it to be. She described a LEGO site called “[LEGO ideas](https://ideas.lego.com/)” where you can create something that doesn’t yet exist in the LEGO catalog. One example that she cited is a LEGO solar farm with pollinator-friendly ground cover, beehives, grazing sheep, and solar panels. And you can populate this with LEGO’s new line of minifigures that now come with different skin tones, hair textures, facial expressions, and outfits. What a great way to add even more ideas for more diversity and inclusion! “That’s what I want the world to be like: people coming together and helping each other despite their differences.” 
+
+<br>
+
+<center>
+  <a><img src="/img/blog/mozfest-lego-ideas.png" width="500px"></a>
+  <figcaption> Expandable LEGO solar farm created by Rob Nokomis and submitted to [LEGO ideas](https://ideas.lego.com/projects/433555d1-0c81-49eb-8689-5d2d315d87d8) </figcaption>
+</center>
+
+<br> 
+
+We also discussed the many institutional barriers to open science. Dawn recounted an AAAS panel several years ago about institutional barriers to science communication. Institutions often fail to value engagement in science communication, including with policy-makers. And as a result pre-tenure faculty still may face institutional barriers in making science relevant to society (with academic success largely measured by specialist publications and grants). But academic culture is slowly changing and we need official channels to incentivize this important type of outreach, and include it as part of the reward system for promotion and tenure. Open science needs to be incentivized too. More are seeing the connections of this to promoting diversity, equity and inclusion too.  This is part of how we bring openness and ultimately justice to our institutions. 
+
+Dawn said “I also want a world where we don’t have to keep revisiting the same problems that we thought were long since solved (be it metadata or racism) and as a result can truly move forward”
+
+Our lightning question round revealed that Dawn’s current favorite bike is a Pinarello road bike that she has named “Jedi Princess”, and the leadership lesson she keeps re-learning is the importance of self-care and managing energy well in a world of multitasking. A snapshot of one moment in her life that brings her joy is breakfast outside on the back porch with her dog Riley (she/her), where Riley insists on waiting for Dawn to be seated first before starting in on her food  ([video on Instagram](https://www.instagram.com/p/CLj9_h9JeIH/)). And her five favorite songs are:
+
+- “The Scientist” by Coldplay
+- “Beautiful Day” by U2
+- “Hometown” by 21 Pilots
+- “Hi'ilawe” performed by either Gabby Pahinui or John Cruz 
+- “Sedjedo” by Angelique Kidjo featuring Ziggy Marley
+- Bonus 1: Motion picture soundtracks (e.g., _Tron: Legacy_, _A Beautiful Mind_, or the Harry Potter films)
+- Bonus 2: See the playlist from my interview as part of the “Lost in the Stacks” podcast (the world’s only research library rock-n-roll show), on Georgia Tech’s radio station, WREK in Atlanta     - (Episode 335 at https://lostinthestacks.libsyn.com/webpage?search=resilience&Submit=Search+)
+
+In the group Q&A, we started off talking about the occasional disconnect between Esri’s software products and open science. Dawn hears this! In fact, before being hired by Esri she wrote numerous letters to them requesting needed capabilities in 3D and interoperability, especially for ocean data. So when hired as Chief Scientist fostering open science became a critical part of her mission. She is aiding open data initiatives and developers both within and external to Esri who are often a younger, vibrant part of the community. They are forging new best practices and culture along the way.
+
+On the subject of moving beyond what one attendee termed as the “crusty metrics” in academia (e.g., the strictly “publish or perish” measuring stick by which so many are judged for promotion and tenure), Dawn says we need advocates that see value in the alternative outputs, beyond publications and citations. For example, why not accept impactful websites, data portals, and web-applications as part of a tenure dossier?. We need to find and be allies and advocates who will speak up on each others’ behalf and together be kindred spirits who will speak up and out -- let’s be the open science Rebel Alliance!
+
+Dawn ended by quoting “What you ignore becomes more, what you tolerate will take over, but what you challenge will change!” She said, “what you challenge will change -- but you do have to take the steps to challenge” -- a perfect way to end this discussion since “Challenge” is the theme of this year’s International Women’s Day. 
+
+And may the force be with you! :-) 
+
+
+<br>

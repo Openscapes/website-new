@@ -1,0 +1,84 @@
+---
+title: "Identifying common approaches and needs for fisheries dependent data"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Gavin Fay, Andy Jones, Anna Holder, Julie Lowndes
+date: 2021-11-12
+slug: fdd-champions
+categories:
+  - community
+  - champions
+  # - impact
+  - noaa-fisheries
+image: ../../img/blog/bastille-soe-apple-tree-square.jpg
+---
+
+*In September-October, Openscapes led a 2-month Champions Cohort with Fisheries Dependent Data (FDD) Users, with over 30 fisheries scientists across academia and NOAA. These scientists were interested in exploring new approaches to working with FDD, which represents a complex mix of data and information collected to facilitate managing the region's living marine resources. In the US Northeast, data flow from individual businesses and/or scientific samplers to the region's scientific and management organizations. This web of data and information can be difficult to access as much of the content is confidential in its raw form. Further, many of the codes and systems used to store these data can be poorly documented, and even routine analyses are not commonly shared among data users. The FDD Openscapes Cohort was interested in learning ways to explore the potential to leverage FDD in new and innovative ways. It was part of ongoing efforts to provide access, documentation, and cultivate a community of practice that focuses on using these data and associated resources to their full potential.*
+
+*This post focuses on what the cohort setup and participants achieved. It is co-authored with Gavin Fay (UMass Dartmouth) and Andy Jones (NEFSC), who coordinated the cohort, and Anna Holder from California Waterboards, who assisted. This opportunity is funded through NOAA Fisheries Northeast Fisheries Science Center ([NEFSC](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center)) and a grant from the[ Fisheries Information System Program](https://www.fisheries.noaa.gov/national/commercial-fishing/fisheries-information-system-program) through an award to[ UMass Dartmouth-SMAST](https://www.umassd.edu/smast/) through[ CINAR](http://www.cinar.org/). See [openscapes.org/champions](https://openscapes.org/champions) for more background on the Champions program.*
+
+*Quick links:*
+
+- *[https://openscapes.github.io/2021-fdd](https://openscapes.github.io/2021-fdd/) - Cohort webpage*
+
+---
+
+
+## FDD cohort setup and structure
+
+We worked with Gavin Fay in 2020 when his team were Champions in the NOAA Northeast Fisheries Science Center ([NEFSC](https://openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/)) Cohort, and the Fay Lab has since [shared their experience](https://openscapes.org/blog/2020/03/31/faylab-our-openscapes-experience/), created the inspirational (and oft borrowed and remixed) [FayLab Manual](https://thefaylab.github.io/lab-manual/) while [practicing and teaching open data science](https://twitter.com/gavin_fay/status/1349816037366243342). Gavin and Andy brought together research teams from academia and the National Oceanic and Atmospheric Administration (NOAA) National Marine Fisheries Service (NMFS) in the US Northeast to participate in the FDD Cohort. We iterated the Champions program based on what we learned from leading three cohorts in the spring, as we described in a separate post about [Fall Cohorts](https://www.openscapes.org/blog/2021/11/03/champions-fall-cohorts-2021/). This was an exciting opportunity to host a cohort that were all focused on similar data and research questions. 
+
+During our four cohort calls, the entire cohort discussed what worked and didn’t work for their FDD workflows. Each cohort call included a welcome and code of conduct reminder, two teaching sessions with time for reflection in small groups or silent journaling and group discussion before closing with suggestions for team meeting topics before next time (“Seaside Chats”), Efficiency Tips, and Inclusion Tips.
+
+Two guest teachers shared about their open data science efforts relevant for FDD audiences. [Kim Bastille](https://www.fisheries.noaa.gov/contact/kimberly-bastille) (NOAA NEFSC) shared about the [State of the Ecosystem Product Development Workflow](https://noaa-edab.github.io/presentations/20211015_Openscapes_Bastille.html#1), and described an R package called `ecodata` that her team created that automates data processing, data sharing, data visualization. [Ileana Fenwick](https://twitter.com/_ileanaf) (University of North Carolina) taught [Data strategies for Future Us](https://docs.google.com/presentation/d/1rv-JfJeuYhogxV6Dpn_hNDm09nfKnOMtmZpgcciI_98/edit?usp=sharing), describing data organization in spreadsheets, good enough practices for data management, and tidy data. Both Kim and Ileana are Champions from previous Champions Cohorts (Kim from 2020 [NEFSC Cohort](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/) and Ileana from the 2021 [CS&S Cohort](https://www.openscapes.org/blog/2021/07/13/css-cohort/)), and it was exciting for them to share not only their expertise through their lessons, but also their experiences learning these tools and workflows with their teams, and what they had done since their Openscapes Cohorts. 
+
+
+<br>
+<center>
+  <img src="/img/blog/bastille-soe-apple-tree.jpg" width="500px">
+  <figcaption> The [State of the Ecosystem workflow tree](https://noaa-edab.github.io/presentations/20211015_Openscapes_Bastille.html#1), by Kim Bastille. Kim shared the metaphor of an apple tree when describing their workflow (roots are contributor data, the tree trunk is their `ecodata` R package, and the branches, leaves, and apples are the final products. Although final products (apples) may be varied, the workflows stay the same.</figcaption>
+</center>
+<br>
+
+
+## What did the participants achieve?
+
+This was an exciting cohort because participants were focused on a common topic: research using FDD data. We had both data users (largely academic) and data providers (NOAA Northeast Fisheries Science Center) in the Cohort, and they were able to share common issues and approaches that could benefit others in the group. Many topics/themes that resonated with the 2021 FDD Cohort overlapped and reinforced each other. Here are a few examples.  
+
+**Sharing data isn’t the only way to practice open science.** Many aspects of FDD can be confidential, meaning that it cannot be shared publicly or has special considerations for sharing. We discussed how there are ways to be open and collaborative even if you can’t share the data itself. For example, sharing documentation and metadata is a way to be open and collaborative, even if you cannot share the data. Making knitted (RMarkdown) documents that show data summaries even when raw data can’t be accessed is another strategy. Another approach is to provide a “toy” or simulated dataset with all the right fields so that code can be developed, then shared with a partner who has access to the confidential data and can run the code on their own. Further, location data can be jittered, vessel IDs can be anonymized, and data can be collapsed or summarized in a way to protect the confidential aspects of the dataset before sharing it broadly. We also discussed different definitions and examples of confidential data, and how folks treat it differently within an agency, and outwardly for users. Do we all agree on what confidential data actually is? Does everyone know how to handle confidential data properly?
+
+**Psychological safety.** When we discussed the importance of psychological safety, participants had great ideas for how to help foster more trust and safety in teams. For example, instead of “do you have any questions?” asking “what questions do you have?”, and creating spaces where individuals can be vulnerable to role model and encourage group vulnerability and trust. The cohort emphasized and reiterated that building trust and vulnerability takes time; it is built/earned through little moments and actions, not given outright - and it’s important for those that hold power (PIs, supervisors, managers, etc.) to lead by example and make space for those little moments within their teams. Others noted how important psychological safety was in this area where often data sets are not well documented and communication is essential to the proper use of the data. 
+
+**Tooling helped teams collaborate - but Github and Slack are not the only options!** Utilizing tools like Slack and GitHub can help some teams streamline and advance their communication and collaboration workflows, but that doesn’t mean those specific tools will work for everyone. Some individuals and teams in the FDD Cohort were already avid R/GitHub users, others were interested in using those tools more (GitHub Projects, and Issues, anyone?), and some individuals were not as keen on embedding a whole new software like GitHub or Slack into their workflows. Regardless of any individual’s interest or current abilities with a certain tool, everyone was able to use the Openscapes mindset to think about tools and workflows they currently use, explore how they are serving their teams (or not), and brainstorm ways to improve their data and communication workflows independent of any specific tool. Some teams in the FDD cohort regularly work with partners that may not have access to such tools, or even have access to the Internet. Teams began to discuss what to do in those situations and used their Seaside Chats to brainstorm and find solutions that work for them. 
+
+**Code of Conduct for Data?** In our final session one group shared that with their Pathway they had thought a lot about codes of conduct, and how they could be used to be more clear about how to work with data, data access, and acknowledging contributors across multiple institutions. Other groups agreed, thinking that this could be another form of metadata that would be very helpful to refer to before, during, and after the project. It could also help streamline onboarding of team members as they enter projects, and offboarding team members before they move on. The question of “Who owns the data?”, from principles of anti-colonial science, was an important framing, and folks recommended viewing the recording of [Dr. Max Liboiron’s recent keynote](https://www.youtube.com/watch?v=2bJIWWbdhLk) about research, communication, and land relations.
+
+Codes of conduct and other types of transparent documentation are important for external partners or the public - just as they are for future us as individuals, as teams, and as organizations. Developing codes of conduct resonated with the FDD cohort because they could be used as a way to be explicit about team or organization's values (like psychological safety, diversity, equity, and inclusion) and standardize a way to document the metadata associated with how we work (where to find data, how to organize and use it, what can be shared, what should remain confidential, etc.) 
+
+We loved working and learning with this cohort of fisheries scientists and exploring the challenges they face. The following is a bit more about each team; look out for further blogs about what the Openscapes team learned and what’s coming next.
+
+
+## FDD Cohort teams
+
+**[The Cadrin team](https://www.umassd.edu/directory/scadrin/)** at University of Massachusetts Dartmouth is a collaboration among academic, federal and state scientists as well as people in the groundfish fishing industry to develop standardized indices of groundfish stock abundance by managing and analyzing fishery monitoring data. There are several data streams and alternative modeling approaches that would benefit from the Openscapes program for efficiency, transparency and reproducibility to produce the best scientific information available to assess and manage fisheries. 
+
+**[The Humphries team](http://ahumphrieslab.com)** at the University of Rhode Island uses a combination of field experiments, underwater surveys, and interviews to study fish and fisheries. Their goal is to link ecological interactions with social dynamics in order to evaluate and prioritize management solutions. 
+
+**[The Hyde team](https://github.com/khyde)** has multiple members from NEFSC, GARFO, academia and industry. Currently all work is being done by individuals, but they are hoping Openscapes will help them improve collaboration and make their work more transparent for the public.
+
+**[The Mills team](https://www.gmri.org/our-approach/staff/kathy-mills/)** is leading novel research projects that strive to develop models to meet the complex challenges facing marine ecosystems, fisheries, and coastal communities. They are continually working to improve our quantitative capabilities by including more spatial and temporal data at finer resolutions, combining quantitative and qualitative information to make the best use of available data, and developing more sophisticated modeling frameworks that can accommodate complex data, such as fisheries dependent data. We hope that the skills we learn will advance our abilities such that our questions, and in turn the impact of our findings, are not constrained by technological limitations. 
+
+**[The Selden team](http://rebeccaselden.weebly.com/)** is composed of members from diverse backgrounds, including graduate students, professors, and individuals who work at non-profits. They have research backgrounds in geography, ecology, and oceanography and have mastered how to talk across these disciplines, and are now analyzing how fishing communities have responded to past, and present distribution shifts of target species and creating an index of vulnerability to future climate change. 
+
+**[The Stoll team](https://joshua-stoll.com/)** is interested in the human dimensions of fisheries and ocean systems and how policies and practices shape people’s interactions with the marine environment. This focus means that they tend to engage with FDD in unconventional ways that both present challenges and also create opportunities to further our knowledge about fisheries and the people who depend on them for food and livelihood. The goal of participating in the Champions cohort is to both improve our research skills and (long-term) to help institutionalize open data science. 
+
+**[The Fay team](http://www.smast.umassd.edu/lab_fay/)** focuses on developing interdisciplinary modelling approaches to extend the scope of applications for fisheries and ecosystem assessment methods, and testing the performance of decision support tools for living marine resource management. They apply a range of statistical and modelling approaches for the assessment and management of fish, marine mammal, and marine reptile populations, and actively collaborate with academic and agency scientists in the Northeast US, US West Coast, Australia, and Europe. 
+
+**[The Jones/NEFSC team](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center)** in part collects FDD in collaboration with the fishing industry, which can be underutilized, in part due to the complex nature and challenges creating reproducible research products. They are interested in strengthening open science approaches to increase the value of these data by opening the door to new users who have previously been unable to use the data sets due to their complex nature. 
+
+
+<br>
+  <img src="/img/blog/bastille-soe-apple-tree-square.jpg" width="500px">
+  <figcaption> The SOE apple tree presented by Kim Bastille. </figcaption>
+<br>
+
+

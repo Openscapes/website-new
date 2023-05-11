@@ -1,0 +1,29 @@
+---
+title: "NASA 2021 Cloud Hackathon"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: NASA Openscapes Team
+date: 2021-12-15
+slug: nasa-2021-cloud-hackathon
+categories:
+  - community
+  # - impact
+  - nasa-framework
+image: ../../img/blog/nasa-daacs-logo-square.png
+---
+
+*In mid-November 2021, the NASA Physical Oceanography Distributed Active Archive Center ([PO.DAAC](https://podaac.jpl.nasa.gov/)), National Snow and Ice Data Center ([NSIDC) DAAC](https://nsidc.org/daac?_ga=2.168967908.431928246.1641269326-1013143277.1638798901), Land Processes ([LP) DAAC](https://lpdaac.usgs.gov/?_ga=2.168967908.431928246.1641269326-1013143277.1638798901) hosted the Cloud Hackathon: Transitioning Earthdata Workflows to the Cloud with support from Atmospheric Science Data Center ([ASDC](https://asdc.larc.nasa.gov/)), Goddard Earth Sciences Data and Information Services Center ([GES DISC](https://disc.gsfc.nasa.gov/)), Interagency Implementation and Advanced Concepts Team ([IMPACT](https://impact.earthdata.nasa.gov/)), and [Openscapes](https://www.openscapes.org/).*
+
+---
+
+Learn more about the 2021 Cloud Hackathon in these blog summaries:
+
+- <https://earthdata.nasa.gov/learn/articles/2021-cloud-hackathon>
+- <https://podaac.jpl.nasa.gov/announcements/2021-12-15-The-2021-Cloud-Hackathon>
+
+
+<br>
+  <img src="/img/blog/nasa-daacs-logo-square.png" width="250px">
+
+<br>
+
+

@@ -1,0 +1,91 @@
+---
+title: "Vacationing with Open Science"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Julie Lowndes
+date: 2022-11-03
+slug: vacation-open-science
+categories:
+  - community
+image: ../../img/blog/vacation-2022/grasmere_gate_elowndes_DSCF7411_square.jpeg
+---
+
+*I've just taken a 2+ week vacation and truly unplugged. While this post seems a bit personal for the Openscapes blog, I wanted to share a bit about how our open science process made it possible, because one of the things we hear often from researchers is that they feel like they can't take vacation - too much rests solely on their shoulders, solely on their laptops. And I have felt this way too, which was one reason why time off was a long time coming. Taking time off in some ways was an experiment, a stress-test of our workflow, and it had very positive results with everything working more-than-smoothly in my absence, room for leadership and grow of others, and me returning feeling fresh. This post shares a bit about our teamwork and shared workflows setup, as well as some highlights from visiting family in the UK and Italy.*
+
+## Open science teamwork and shared systems
+
+Openscapes has two big main projects right now, with NASA Earthdata and NOAA Fisheries. With [NASA-Openscapes](https://nasa-openscapes.github.io), Erin Robinson and I are supporting the NASA Mentors from seven Distributed Active Archive Centers (DAACs) as they develop and teach tutorials to help researchers using NASA Earthdata migrate their workflows to the cloud. This fall, they are focused on writing a white paper, updating the Cookbook and Cheatsheets, enhancing the `earthdata`python library (soon to be renamed `earthaccess`), creating workshop templates, while also leading workshops and other contributions with their DAACs. With [NMFS-Openscapes](https://nmfs-openscapes.github.io/), Eli Holmes, Stefanie Butland, Ileana Fenwick, the National Marine Fisheries Service (NMFS) Mentors and I are leading four Champions Cohorts that include researchers and supervisors from all six Fisheries Science Centers and several Regional Offices and the Office of Science and Technology as they learn and develop shared open science habits with their colleagues. We've got a lot going on - and it is all really engaging and exciting work with and in support of truly awesome people.
+
+In both projects, we've developed shared systems that we've invested in over time with practices that help us collaborate remotely whether we are synchronous or asynchronous. These practices build resilience into our teams day-to-day so that we can collaborate and also step in to help each other (for example, to help adjust timing on the fly or co-teach when internet temporarily cuts out). This includes using shared Google Calendars and Google notes docs, Slack Channels, GitHub repositories, Issues, and Project Boards, and Quarto websites. These tools and places where information "lives" supports our shared habits, so we know where to look for things. They also help us work efficiently synchronously during our regular Cohort Calls, Seaside Chats, and Coworking times, as well as asynchronously as get notifications with handoffs or requests for review or help.
+
+Specifically leading up to my absence, we thought further ahead on the calendar and made TODO lists, made sure permissions and Zoom links were updated, invited guest teachers, practiced during several pre-scheduled dry runs. (Yes, there were some Zoom links I'd missed updating but folks were able to Slack updated links and help each other, which we've also had to do before!). Folks knew I would be reachable if needed but otherwise that I would check my emails/slacks for 1 hour at a set time each Tuesdays during California work time to respond to anything pressing.
+
+How did it go? So great. It felt like a gift, and I'm so so grateful to Erin, Stef, Ileana, Eli and the NASA and NMFS Mentors who graciously carried everything forward with NASA and supported the NMFS Champions while I was gone. I was happy to create space for others to lead, experiment, do things their way so I can continue learning from them as I'm back. I felt like I could actually truly relax knowing how everyone would be able to carry on without me. It was a quite liberating experience to "not be needed". It was wonderful. And I'm invigorated to be back - I missed everyone, as well as the work!
+
+### Holiday highlights
+
+For folks interested, of course the trip itself was lovely: we visited my husband's parents and siblings in the UK and Italy. This was the first time seeing my husband's family and traveling abroad in three years, so the trip was extra meaningful after so long (as well as 4 vaccines, masks, and testing). It was so wonderful to spend time with them, doing my favorite things: hanging out, hiking, and eating delicious things.
+
+First, we spent two weeks in the UK's Lake District National Park. My mother-in-law had planned hikes, meals, and a few small cultural events (we visited Beatrix Potter's cottage)!. Highlights included:
+
+-   Steamtrain to Eskdale, a hike around Brae Tarn and a pub lunch outside, with a pint indoors when the rains came
+
+-   Boat across Ullswater and a hike back along the lake, with fall colors and afternoon tea with four tiers of cakes and scones
+
+-   Learning that Beatrix Potter was an ahead-of-her time conservationist and feminist, using her self-made wealth to preserve the Lake District from industrialization and helped found the National Trust!
+
+-   Fish and chips on Morecombe Bay at sunset!
+
+Then, we spent one week in northern Italy. It was a holiday weekend so we had half the time staying in a little town in the Dolomites and half the time at home in Treviso where the kids have school. Highlights included:
+
+-   Hiking on clear days with panoramic views, eating cheese-cucumber sandwiches, boiled eggs, and grapes off the vine
+
+-   Hide-and-seek with siblings in the Airbnb - a vertical house with 4 stories of two rooms per floor with plenty of cool furniture and alcoves to hide in
+
+-   Cycling in rural Treviso to take siblings to school, visit the market, and then eat homemade lasagne, minestrone soup (Veneto-style), and having mascarpone with sweet jam and biscuits, teaching the kids to knit
+
+-   Hearing Italian and German spoken, seeing alpine architecture with window flowerbeds and woodpiles, and eating so much (but never enough) pizza
+
+Here are some photos, taken by Elliot Lowndes ([mrlowndes.com](https://mrlowndes.com)). Thanks for reading!
+
+
+<br> <center> <a><img src="/img/blog/vacation-2022/hedgehog_elowndes_PXL_20221015_170207047.PORTRAIT.jpeg" width="90%" alt="closeup photo of a wild hedgehog in the grass with beech seedpods"></a> </center> <br>
+
+<br>
+
+<br> <center> <a><img src="/img/blog/vacation-2022/grasmere_elowndes_DSCF7370.jpeg" width="90%" alt="view of a lake in the distance with green grass and trees and a dry stone wall in the foreground"></a> </center> <br>
+
+<br>
+
+<br> <center> <a><img src="/img/blog/vacation-2022/grasmere_gate_elowndes_DSCF7411.jpeg" width="90%" alt="an open wooden gate connecting a dry stone wall with greenery in the background"></a> </center> <br>
+
+<br>
+
+<br> <center> <a><img src="/img/blog/vacation-2022/eskdale_hut_elowndes_DSCF7596-HDR.jpeg" width="90%" alt="a stone hut in the foreground with green and orange meadows in the distance with hills and dry stone walls"></a> </center> <br>
+
+<br>
+
+<br> <center> <a><img src="/img/blog/vacation-2022/ullswater_herdwicks_elowndes_DSCF7693.jpeg" width="90%" alt="herdwick sheep with white faces and grey bodies in a green forest"></a> </center> <br>
+
+<br>
+
+<br> <center> <a><img src="/img/blog/vacation-2022/ullswater_selfie_elowndes_PXL_20221025_120924657.jpeg" width="90%" alt="a selfie of a white man and woman smiling with a lake behind them"></a> </center> <br>
+
+<br>
+
+<br> <center> <a><img src="/img/blog/vacation-2022/yorkshire_highlandcows_elowndes_DSCF7893.jpeg" width="90%" alt="Highland cows with long horns with green rolling hills and sun through broken clouds"></a> </center> <br>
+
+<br>
+
+<br> <center> <a><img src="/img/blog/vacation-2022/malham_elowndes_DSCF7971-HDR.jpeg" width="90%" alt="grey rocks that create a limestone pavement geological feature in the foreground with green hills in the background with sun through broken clouds"></a> </center> <br>
+
+<br>
+
+<br> <center> <a><img src="/img/blog/vacation-2022/dolomites_elowndes_DSCF8053.jpeg" width="90%" alt="photo of a white man and woman smiling, wearing hiking clothes with mountain peaks behind them"></a> </center> <br>
+
+<br>
+
+<br> <center> <a><img src="/img/blog/vacation-2022/lavalle_agordino_elowndes_DSCF8218.jpeg" width="90%" alt="photo of an Italian alpine village along a river with tall mountain peaks behind"></a> </center> <br>
+
+<br> <center> <a><img src="/img/blog/vacation-2022/dolomites_fallcolors_DSCF8106.jpg" width="90%" alt="photo of yellow trees in the foreground and tall mountains in the background with light through broken clouds"></a> </center> <br>
+
+<br>

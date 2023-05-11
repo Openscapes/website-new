@@ -1,0 +1,66 @@
+---
+title: "Towards kinder science"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Julie Lowndes
+date: 2019-12-11
+slug: kinder-science
+categories:
+  - community
+  # - impact
+image: ../../img/blog/horst_openscapes_desert_1500px_square.png
+---
+
+## Towards kinder science
+
+Earlier this week I published a piece in *Scientific American* called [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). 
+It's about how open source is not only good for science, it's good for scientists. Having science be not only more transparent and reproducible but also more kind and inclusive is a huge part of what Openscapes is working towards. 
+
+<br> 
+<center>
+  <a><img src="/img/horst_openscapes_desert_1500px.png" width="700px"></a>
+  <figcaption>Art by [Allison Horst](https://twitter.com/allison_horst)</figcaption>
+</center>  
+
+<br>
+
+> Open science is not just about improving the way we share data and methods; it is also about improving the way we think, work and interact with each other. It’s about technology enabling social infrastructure that can promote inclusivity to create kinder science. 
+
+
+I have been thinking about "kinder science" a lot, and am still working on how to talk about it, and am so grateful for the opportunity to share these thoughts in *Scientific American*. The article pulls from ideas we cover in the [Champions program](/champions) and from recent talks at
+[useR!](/blog/2019/08/22/user-keynote/), [FORCE 11](https://zenodo.org/record/3497306#.Xbs3WSV7nOQ), and [eScience](https://openscapes.github.io/slides/betterscience/escience#1). I've got several more upcoming talks and will continue to build out these ideas — keep an eye on the [media page](/media) for those slide decks. Thanks for the feedback and discussions so far on Twitter (particularly [here](https://twitter.com/juliesquid/status/1204460342333468672) and [here](https://twitter.com/nceas/status/1204446929981063169)).
+
+"Open software means kinder science" is also cross-posted as [an NCEAS commentary](https://www.nceas.ucsb.edu/news/open-science-kinder-science): "Open science is kinder science". 
+
+
+
+<!---
+
+This is really important, because working with data all day without being trained and supported isa demoralizing and lonely experience, that means scientists spend a good chunk of time feeling deflated and isolated. That is not how science is supposed to be, how innovation is supposed to happen! 
+
+Open software can bring people together and make them feel empowered
+
+This is why I love the storytelling with Star Wars that were part of [my useR! keynote](/blog/2019/08/22/user-keynote/) this summer — we can emphasize with how Luke Skywalker feels when he has crashed his plane on Degabah. And we understand how empowered he feels when he learns the Force. 
+
+Epathizing with scientists is a critical part of the open science movement. 
+
+I've been feeling and thinking about kinder science a lot but have only recently gotten bolder saying this out loud, because it can sound a bit strange. But I've found — from my own lived experience and through teaching and mentoring others — that an important step to participating in open science is to . And that's about how it makes people feel as a human being as well as what it enables them to do. And how it can make them feel is awesome. 
+ 
+But it's something I've started feeling more confident talking about, having spent time not only with the #rstats communities but also with open communities like Mozilla and FORCE. And it comes down to this: People get jazzed about open data science when we we talk about how awesome and empowering it makes you feel. 
+
+
+
+includes some things I've been thinking about and have started including in presentations: 
+
+Open science is not just about improving the way we share data and methods; it is also about improving the way we think, work and interact with each other. It’s about technology enabling social infrastructure that can promote inclusivity to create kinder science. 
+
+Kindness : getting bolder
+
+Kicking  a lot of these ideas around for awhile. 
+
+demoralizing and lonely analyses don't make for happy and innovative scientists
+
+--->
+
+<br> 
+
+

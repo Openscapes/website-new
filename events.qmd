@@ -8,7 +8,8 @@ listing:
   date-format: medium
   categories: numbered
 page-layout: full
-title-block-banner: "#F8D98F"
+title-block-banner: "#38A7BB"
+title-block-banner-color: "#FFFFFF"
 # title-block-banner: images/banner_imgs/horst_openscapes_desert_breadcrumbs.png # adding text on top of image make image look glitchy?
 --- 
 

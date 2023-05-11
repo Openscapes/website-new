@@ -1,0 +1,84 @@
+---
+title: "Welcoming Erin Robinson and 2021 Momentum"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Julie Lowndes and Erin Robinson
+date: 2021-01-19
+slug: welcome-erin
+categories:
+  - community
+  # - impact
+  - newsletter
+image: ../../img/blog/zoom_erin_julie_square.png
+---
+
+*Welcome! This blog post is also Openscapes’ first newsletter. If you’re interested in seeing these infrequent updates in your inbox, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from the [get involved](https://openscapes.org/contact) page).* 
+
+---
+
+## A note from Julie: Welcoming Erin Robinson to Openscapes
+
+2020 was a difficult year. I count myself fortunate that I was able to work remotely and that Openscapes was conceived as a remote-by-design initiative. The unexpected disruption of COVID-19 allowed 2020 to be a year that I worked on building Openscapes as a sustainable program so that we can mentor more researchers going forward. I focused on listening and learning, and figuring out how to refine and align Openscapes’ values to best meet the needs of researchers. 
+
+Part of this work led to partnering with Erin Robinson to grow Openscapes together. With this blog post, I am thrilled to formally welcome [Erin](https://erinrobinson.net/) to the Openscapes team! Erin is a well-known leader in the open data and open science communities and has extensive expertise in open data stewardship, partnerships and community-building – to categorize just a sliver of the goodness she brings to Openscapes. Erin is the cofounder of Metadata Game Changers, a data management consultancy, and is a leadership coach, with focus on supporting open science, collaborative leaders.  Prior to this, she was the Executive Director of Earth Science Information Partners (ESIP) from 2014-2020. Her expertise and communities both complement and overlap with mine and we share the same passion and vision for Openscapes.
+
+
+<br>
+
+<center>
+  <a><img src="/img/blog/zoom_erin_julie.png" width="700px"></a>
+</center>
+
+<br>
+
+From my very first conversations with Erin, we have been able to think bigger and bolder about the future of Openscapes. We’ve reinforced our commitment to social justice movements through invited talks in 2020 at Earth Science Information Partners [(ESIP) Summer Conference](https://2020esipsummermeeting.sched.com/event/cItS/plenary-putting-data-to-work-open-science-open-data-2021-2026-strategic-theme-community-conversation), The National Academies of Science, Engineering, and Medicine [(NASEM) Roundtable on Incentives for Open Science](https://www.openscapes.org/blog/2020/11/30/incentivizing-open-science/), and NOAA Northwest Fisheries Science Center [(NWFSC) Monster Seminar Jam](https://openscapes.github.io/slides/betterscience/nwfsc#1), and through several grant proposals we wrote to strengthen diversity, equity, and inclusion in further Openscapes work.
+
+## Articulating Openscapes
+
+In August we were fortunate to host an [Openscapes advisory meeting](https://www.openscapes.org/blog/2020/09/30/advisory-meeting/) supported by Mozilla. One of the key discussion points was how Openscapes is unique in the open data science training space and complementary to existing initiatives like The Carpentries. 
+ 
+We see open science as a movement, with a vast opportunity for mentorship, coaching, training, and community organizing. Open science as a movement puts people at its center: a community-driven approach. We see a need for excitement and empowerment around open science, with data analysis as an entryway for researchers to engage and practice open science as a daily benefit that becomes an enduring part of scientific culture. We see a need for listening, empathy, and meeting researchers where they are. Integral to this is the need to focus on inclusion, learning from traditionally underrepresented groups, and amplifying lessons from movements like Black Lives Matter and All We Can Save. We see our [Champions Program](https://openscapes.org/champions) being most impactful as a community-driven [approach](https://openscapes.org/approach) within the broader open movement, and it’s a challenge we’re excited to take on. 
+
+In December we participated in the Science Gateways Community Institute ([SGCI](https://sciencegateways.org)) [Focus Week](https://sciencegateways.org/engage/focus-week) to refine our sustainability and strategic plan. Focus Week’s ‘napkin drawing’ activity spurred articulating this vision for Openscapes as a metaphor. Since then, we've been working with Allison Horst, the amazing artist, data scientist, teacher, and Openscapes Champion, to illustrate this vision. In the open science landscape, there are many paths forward. Openscapes mentors are like park rangers who welcome and guide research teams through the open data science landscape, building new trails as necessary and helping everyone become stewards and champions as they become more familiar, confident, and work together. Here is a sneak-peek of work in progress: 
+
+<br>
+
+<center>
+  <a><img src="/img/blog/horst_openscapes_rangers_2020_01_18.jpg" width="800px"></a>
+  <figcaption>Sneak-peek of Openscapes Rangers artwork in-progress by [@allison_horst](https://twitter.com/allison_horst)</figcaption>
+</center>
+
+<br>
+
+## 2021 Momentum
+
+Building on this foundation, in 2021, we are excited for Openscapes to grow and thrive. Here are a few opportunities where we hope to connect in the coming months: 
+
+- Openscapes is a **Community Partner at the [RStudio Conference](https://rstudio.com/conference/)** on January 21, find us in the social spaces!
+- We’ll kick off our **community calls at MozFest** in March, details upcoming!
+- We’ll lead a 2-month **Mini Champions Cohort** with an open call for participation, more details and registration upcoming!
+- We’re also **booking Cohorts for specific communities** – please get in touch to book a Cohort or partial Cohort, or if you have ideas for sponsoring these efforts so more teams can participate. 
+
+<br>
+
+## Openscapes in the wild
+
+We are always excited to see open data science championed out in the world! If you spot Openscapes work or share Openscapes with others, please send those our way. We would love to highlight them in future newsletters. 
+
+Here is Dr. Gavin Fay, a Champion from the [NOAA NEFSC Openscapes Workshop](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/) in February 2020, presenting about [Open Marine Fisheries & Ecosystem Science: Research, Teaching, & Community Building](https://twitter.com/gavin_fay/status/1349816037366243342)! 
+
+<br>
+
+<center>
+  <a><img src="/img/blog/tweet-gavin_fay-open-fisheries.png" width="500px"></a>
+  <figcaption>Tweet from [@gavin_fay](https://twitter.com/gavin_fay/status/1349816037366243342)</figcaption>
+</center>
+
+<br>
+
+Finally, we’re grateful to all of you for your interest, support and engagement with Openscapes. We’re excited to do more together.
+
+Looking forward,
+Julie and Erin
+
+
+<br>

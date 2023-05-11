@@ -1,0 +1,53 @@
+---
+title: "Openscapes Newsletter #5: Spring 2022"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Julie Lowndes and Erin Robinson
+date: 2022-03-21
+slug: news-spring-2022
+categories:
+  - community
+  - newsletter
+  - nasa-framework
+  - noaa-fisheries
+image: ../../img/blog/ocean-square.jpg
+---
+
+## **Openscapes Newsletter #5: Spring 2022**
+
+*Welcome to Openscapes' fifth newsletter! If you're interested in seeing these infrequent updates in your inbox, please[sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from our[get involved](https://openscapes.org/contact) page).*
+
+*We have two upcoming Spring events: please learn more and register at [openscapes.org/events](https://openscapes.github.io/events).*
+
+-   *Our Spring Champions Cohort will begin May 6- this is an open call for research teams; nominations accepted until April 1.*
+
+-   *Our Spring Community Call is on April 8 - A qualitative data analysis chat with Dr. Beth Duckles*
+
+------------------------------------------------------------------------
+
+## **Slowing down to speed up**
+
+Something that has resonated in the past months is the idea of "slowing down to speed up". It takes a lot of time to collaborate, to teach, to learn, to try new things and change tracks, to tinker around with new tooling and workflows, to make and grow from mistakes. Being supported to slow down and invest this time is critical for the culture change we need as part of the broader open movement. And balancing this with all All The Things on our plates and with the ongoing pandemic and global uncertainty is a perpetual challenge. Identifying and supporting the need for time is a big part of our work. 
+
+## **Planning for the year of open science**
+
+We held our first [cross-government agency event](https://2022esipjanuarymeeting.sched.com/event/qkp5/better-science-for-future-us-planning-for-the-year-of-open-science) at the ESIP Winter Meeting, with speakers from University of North Carolina (UNC), National Oceanic and Atmospheric Administration (NOAA) Fisheries, California Water Boards, University of Colorado, and United States Geological Survey (USGS). The goals of this session were to increase visibility and value of open science within government and support researchers and leaders that are already doing this within government organizations; to create more channels for inter- and cross-agency learning; and to share open science stories across agencies as we prepare for NASA's[Year of Open Science](https://science.nasa.gov/open-science/transform-to-open-science) initiative. Speakers shared stories about open science in government and their experiences with Openscapes, and summarized [3 takeaways in a blog post](https://www.openscapes.org/blog/2022/02/17/esip-winter-2022/).
+
+We have also continued our work with NOAA Fisheries, and just completed a Champions Cohort with eight teams from the Alaska Fisheries Science Center. These teams have been really supported to invest time in developing shared practices and skills and we'll be sharing a blog post before long!
+
+As another government connection, Julie is a 2022 [Better Scientific Software (BSSw) Fellow](https://bssw.io/pages/meet-our-fellows)! BSSw is supported by the U.S. Department of Energy (DOE) and National Science Foundation (NSF) "to enable a more robust approach toward pioneering the future of advanced computing ecosystems and leadership in science and engineering." The BSSw Fellowship will support work on the Openscapes Champions Lesson Series (<https://openscapes.org/series>) that is a publicly accessible open educational resource.
+
+## **NASA Openscapes Mentors and Champions**
+
+Working with the [NASA Mentor Cohort](https://nasa-openscapes.github.io/mentors.html) continues to be a huge source of inspiration, learning, and joy. Over the last year these Mentors have strengthened their skills for supporting researchers and for collaborating together to co-develop, give feedback, teach, reuse, and remix [tutorials for different audiences](https://nasa-openscapes.github.io/tutorials) using Python, GitHub, Jupyter Notebooks, [2i2c](https://2i2c.org) Jupyter Hub, and [Quarto](https://quarto.org). You can read more about our first year of our NASA award in our [Year One Summary](https://github.com/NASA-Openscapes/how_we_work/blob/main/Openscapes_NASAProgressReport_2021.pdf).
+
+Now, the Mentors are assisting the first [NASA Champions Cohort](https://nasa-openscapes.github.io/2022-nasa-champions) (which is Openscapes' [10th Champions Cohort](https://openscapes.org/cohorts)!) that kicked off early March. This cohort includes 10 research teams that use NASA Earthdata and are interested in migrating their workflows to the cloud. These teams that self-nominated for this cohort are very impressive and include: Ladies of Landsat working with the Navajo Nation around water and drought; a new research team, SASSIE investigating salinity and stratification at the sea ice edge; and a team from Mt. Siani interested in bringing together earth observations and reproducible machine learning to advance air quality health and epidemiology. We are very excited to work with the Champions and Mentors together as we learn together.
+
+## **Upcoming events**
+
+**2022 Spring Champions Cohort - Open Call**. We've just announced our open call for our Spring Champions Cohort starting May 6! [Nominations open until April 1](https://openscapes.github.io/events/posts/2022-05-06-spring/).
+
+**Community Call: "A Qualitative Data Analysis Chat with Dr. Beth Duckles".** This will be a casual conversation with Beth to discuss qualitative data analysis - what it is and how it can be used for evaluation. April 8, 11 am PT.  [Registration open](https://openscapes.github.io/events/posts/2022-04-08-qda-beth-duckles/).
+
+**RStudio Conference Keynote.** We're so excited to be sharing about NASA Openscapes and our work with Quarto at the RStudio Conference this summer! [Registration is open](https://www.rstudio.com/blog/rstudio-conf-2022-is-open-for-registration/) with diversity scholarships available!
+
+<br> <img src="/img/blog/ocean-square.jpg" width="300px"> <br>

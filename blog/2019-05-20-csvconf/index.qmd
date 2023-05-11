@@ -1,0 +1,72 @@
+---
+title: "A conference for open data leaders"
+description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
+author: Julie Lowndes
+date: 2019-05-20
+slug: twitter-community
+categories:
+  - community
+  - coding
+  # - impact
+image: ../../img/blog/csvconf_llama.jpg
+---
+
+# A conference for open data leaders
+
+*I attended [csv,conf,v4](https://csvconf.com/) in Portland, Oregon in May 2019. Here are a few reflections about the conference and a bit about my talk where I shared progress from the Openscapes Champions.*
+
+[csv,conf,v4](https://csvconf.com/) has a unique name and draws a unique and powerful crowd as a "community conference for data makers everywhere". It is the only conference I've ever attended with a name stemming from a format for open data (comma separated value [CSV] files), and the only conference with scheduled time with a real-life therapy llama [Rojo the Comma Llama]. It was also the most diverse conference I've ever attended, and was a powerful nexus to meet leaders from all corners of the open data world. 
+
+<br> 
+
+<center>
+  <img src="/img/blog/csvconf_llama.jpg" width="400px">
+</center>
+
+<br> 
+
+
+This two-day conference included thought leaders, journalists, researchers, scientists, developers, artists, managers, activists, city planners. It included diversity of expertise, diversity of lived experience, diversity of thought. It had an upfront [Code of Conduct](https://confcodeofconduct.com/) and a welcoming tone like the [RStudio::conf](https://www.openscapes.org/blog/2019/02/19/rstudioconf/): it was deliberately an inclusive place where it was possible to strike up a conversation with anyone and immediately have opportunities to share and learn. Also, there were 8 (!) Mozilla Fellows past and present in attendance, which was really exciting (sadly, not pictured all together).
+
+<br> 
+
+<center>
+  <img src="/img/blog/csvconf_mozfellows.jpg" width="400px">
+</center>
+
+<br> 
+
+As a scientist, my entry way to the open community has been through supportive open source software and communities like R, RStudio, rOpenSci and RLadies. Through Mozilla I am getting to know a bit more of the open community more broadly, and at csv,conf,v4 it was really impactful to meet people from across fields and to see all of the ways that they think, work, and engage with open data. In all the conversations I had with people and from all the talks I saw I kept thinking that everyone at the conference was a leader. It might not be in their official job title, and they might be at csv,conf because of their official work or interests outside of work. But by attending and participating in this conference, they were there representing their communities and would be taking what they learned back with them. 
+
+<br> 
+
+<center>
+  <img src="/img/blog/csvconf_all.jpg" width="400px">
+</center>
+
+<br> 
+
+It is hard to capture all of the people I met, things I learned, and conversations I had. The [organizing committee](https://twitter.com/kirstie_j/status/1126631979225534465) was incredible, thank you to the many people who worked so hard to make such a positive experience possible for all of us. There are also [slides posted from all talks](https://zenodo.org/communities/csvconfv4) and will soon be [video recordings](https://www.youtube.com/csvconf) available online. One talk that sticks prominently in my mind was by [@Srta_peperina](https://twitter.com/Srta_peperina) about [@GeochicasOSM](https://twitter.com/GeochicasOSM): Right now women make up only 3% of contributors to Open Street Maps, meaning that auto mechanics are mapped disproportionately to, for example, women's clinics. As a network of women contributing to Open Street Maps, through the Calle de Las Mujeres initiative they are also mapping streets named after women and working with Wikipedia to make sure those women also has a Wikipedia page. So cool! For a broader sense of conversations and recaps from talks, check out [#csvconf](https://twitter.com/search?src=typd&q=%23csvconf): I loved this [summary thread by @GalaCF](https://twitter.com/GalaCF/status/1128102214843527168), all [live-tweet threads by @kirstie_j](https://twitter.com/kirstie_j/status/1126185454792007680) and this [keynote thread by @serahrono](https://twitter.com/serahrono/status/1130367733634338816).
+
+
+<br> 
+
+<center>
+  <img src="/img/blog/csvconf_tweetkeynotes.png" width="400px">
+</center>
+
+<br> 
+
+In [my talk about Openscapes](https://zenodo.org/record/2695625#.XN2CsKZ7nOQ) I was so proud to share about the [seven environmental science labs](https://medium.com/read-write-participate/openscapes-champions-incorporate-open-practices-in-their-science-7eefa07b8573) I have been working with over the past four months and how they have become champions for open data science. They have have created GitHub Organizations for their labs, and posted Codes of Conduct and shared protocols for data workflows and onboarding and offboarding lab members. They are leading [weekly lab "seaside chats"](https://www.openscapes.org/blog/2019/03/10/seaside-chats/) to discuss data workflows and normalize talking about open data science. They are joining and leading communities outside of their labs, including starting [#tidytuesday hacky hours](https://openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/) and the first R-Ladies chapter in New Jersey. They are being ambassadors & engaging with #rstats Twitter, sharing open science and #rstats resources with their scientific networks. They are starting new scientific collaborations as a result of meeting each other through this Openscapes cohort. And there are so many other wins that I am trying to measure and share, some of which are captured on this slide:
+
+<br> 
+
+<center>
+  <img src="/img/blog/csvconf_slides_wins.png" width="400px">
+</center>
+
+<br> 
+
+My own path getting to the Openscapes program is because of six years of encouraging mentorship and leadership from our OHI team and the broader open data science community. It is so exciting to pass forward what we have learned and empower others to be champions for open data science. And because they are open data leaders, maybe we will see some of the Openscapes Champions at csv,conf,v5!
+
+<br>

@@ -18,56 +18,110 @@ Openscapes Champion Allison Horst is doing this in part through her `personifyr`
 
 `ggplot2` creates beautiful visualizations to explore data...
 
-<center><img src="/img/blog/personify-code/ggplot2_exploratory.png" width="500px"></center>
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "40%"
+#| fig-alt: "A group of fuzzy round monsters with binoculars, backpacks and guide books looking up a graphs flying around with wings (like birders, but with exploratory data visualizations). Stylized text reads 'ggplot2: visual data exploration.'"
+knitr::include_graphics("../../img/blog/personify-code/ggplot2_exploratory.png")
+```
 
 <br>
 
 ...and as final publication-worthy products
 
-<center><img src="/img/blog/personify-code/ggplot2_masterpiece.png" width="500px"></center>
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "40%"
+#| fig-alt: "A fuzzy monster in a beret and scarf, critiquing their own column graph on a canvas in front of them while other assistant monsters (also in berets) carry over boxes full of elements that can be used to customize a graph (like themes and geometric shapes). In the background is a wall with framed data visualizations. Stylized text reads 'ggplot2: build a data masterpiece.'"
+knitr::include_graphics("../../img/blog/personify-code/ggplot2_masterpiece.png")
+```
 
 <br>
 
 `gganimate` lets you animate those graphics
 
-<center><img src="/img/blog/personify-code/gganimate_fireworks.png" width="500px"></center>
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "40%"
+#| fig-alt: "Cartoon of a bunch of monsters watching data points of varing color and shape fly across a screen like fireworks. Several monsters are lighting the data off like fireworks. Stylized text reads 'gganimate: action figures!'"
+knitr::include_graphics("../../img/blog/personify-code/gganimate_fireworks.png")
+```
 
 <br>
 
-
 `lubridate` helps you work with dates and times
 
-<center><img src="/img/blog/personify-code/lubridate_ymd.png" width="500px"></center>
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "40%"
+#| fig-alt: "Fuzzy cartoon monsters in construction hats sorting a pile of 'Y' 'M' and 'D's into separate piles labeled 'Years', 'Months' and 'Days'. Title text reads 'Lubridate: wrangle times and dates!'"
+knitr::include_graphics("../../img/blog/personify-code/lubridate_ymd.png")
+```
 
 <br>
 
 `sf` simplifies working with spatial data 
 
-<center><img src="/img/blog/personify-code/sf.png" width="500px"></center>
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "40%"
+#| fig-alt: "Three cute fuzzy monsters adding spatial geometries to an existing table of attributes using glue and tape, while one cuts out the spatial polygons. Title text reads 'sf: spatial data...simplified.' and a caption at the bottom reads 'sticky geometries: for people who love their maps and sanity.'"
+knitr::include_graphics("../../img/blog/personify-code/sf.png")
+```
 
 <br> 
 
 `reprex` makes asking for help more helpful
 
-<center><img src="/img/blog/personify-code/reprex.png" width="500px"></center>
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "40%"
+#| fig-alt: "A side-by-side comparison of a monster providing problematic code to tech support when it is on a bunch of crumpled, disorganized papers, with both monsters looking sad and very stressed (left), compared to victorious looking monsters celebrating when code is provided in a nice box with a bow labeled 'reprex'. Title text reads 'reprex: make reproducible examples. Help them help everyone!'"
+knitr::include_graphics("../../img/blog/personify-code/reprex.png")
+```
 
 <br>
 
 `here` makes working with filepaths a dream
 
-<center><img src="/img/blog/personify-code/here.png" width="500px"></center>
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "40%"
+#| fig-alt: "A cartoon showing two paths side-by-side. On the left is a scary spooky forest, with spiderwebs and gnarled trees, with file paths written on the branches like '~/mmm/nope.csv' and 'setwd('/haha/good/luck/')', with a scared looking cute fuzzy monster running out of it. On the right is a bright, colorful path with flowers, rainbow and sunshine, with signs saying 'here!' and 'it’s all right here!' A monster facing away from us in a backpack and walking stick is looking toward the right path. Stylized text reads 'here: find your path.'"
+knitr::include_graphics("../../img/blog/personify-code/here.png")
+```
 
 <br> 
 
 `RMarkdown` combines text and code into beautiful reports like magic 
 
-<center><img src="/img/blog/personify-code/rmarkdown_wizards.png" width="500px"></center>
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "40%"
+#| fig-alt: "Two fuzzy round monsters dressed as wizards, working together to brew different things together from a pantry (code, text, figures, etc.) in a cauldron labeled 'R Markdown'. The monster wizard at the cauldron is reading a recipe that includes steps '1. Add text. 2. Add code. 3. Knit. 4. (magic) 5. Celebrate perceived wizardry.' The R Markdown potion then travels through a tube, and is converted to markdown by a monster on a broom with a magic wand, and eventually converted to an output by pandoc. Stylized text (in a font similar to Harry Potter) reads 'R Markdown. Text. Code. Output. Get it together, people.'"
+
+knitr::include_graphics("../../img/blog/personify-code/rmarkdown_wizards.png")
+```
 
 <br> 
 
 `R` is an open source language with increasing functionality available at lower start up costs for new users. This is because of recently established norms and best practices developed by the diverse and inclusive online R community. 
 
-<center><img src="/img/blog/personify-code/r_first_then.png" width="500px"></center>
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "40%"
+#| fig-alt: "A digital cartoon with two illustrations: the top shows the R-logo with a scary face, and a small scared little fuzzy monster holding up a white flag in surrender while under a dark storm cloud. The text above says 'at first I was like…' The lower cartoon is a friendly, smiling R-logo jumping up to give a happy fuzzy monster a high-five under a smiling sun and next to colorful flowers. The text above the bottom illustration reads 'but now it’s like…'"
+knitr::include_graphics("../../img/blog/personify-code/r_first_then.png")
+```
 
 <br> 
 

@@ -19,7 +19,14 @@ We offer mentorship, teaching, coaching and community organizing centered around
 
 <br>
 
-![](images/minis/horst_openscapes_arctic_squid.png){fig-align="center" width="100"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "10%"
+#| fig-alt: "Two purple squid, swimming side-by-side heading left."
+knitr::include_graphics("images/minis/horst_openscapes_arctic_squid.png")
+```
+<!-- ![](images/minis/horst_openscapes_arctic_squid.png){fig-align="center" width="100"} -->
 :::
 
 ::: white-div
@@ -35,7 +42,14 @@ We are excited to continue learning and iterating with the open movement towards
 
 <br>
 
-![](images/minis/horst_openscapes_arctic_urchins.png){fig-align="center" width="100"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "10%"
+#| fig-alt: "A red sea urchin and a slightly smaller purple sea urchin sitting side-by-side"
+knitr::include_graphics("images/minis/horst_openscapes_arctic_urchins.png")
+```
+<!-- ![](images/minis/horst_openscapes_arctic_urchins.png){fig-align="center" width="100"} -->
 :::
 
 ::: white-div
@@ -45,7 +59,14 @@ Learn about our [**our team**](team.qmd) who are helping grow and improve Opensc
 
 <br>
 
-![](images/minis/horst_openscapes_arctic_crab.png){fig-align="center" width="100"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "10%"
+#| fig-alt: "A brown-colored arctic crab facing forward."
+knitr::include_graphics("images/minis/horst_openscapes_arctic_crab.png")
+```
+<!-- ![](images/minis/horst_openscapes_arctic_crab.png){fig-align="center" width="100"} -->
 :::
 
 ::: white-div
@@ -57,7 +78,14 @@ We expect all participants to adhere to our [Code of Conduct](code_of_conduct.qm
 
 <br>
 
-![](images/minis/horst_openscapes_arctic_humpback.png){fig-align="center" width="100"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "10%"
+#| fig-alt: "A blue-colored humpback whale swimming to the right."
+knitr::include_graphics("images/minis/horst_openscapes_arctic_humpback.png")
+```
+<!-- ![](images/minis/horst_openscapes_arctic_humpback.png){fig-align="center" width="100"} -->
 :::
 
 ::: white-div
@@ -69,7 +97,14 @@ See all of Allison's open landscapes on the [gallery page](gallery.qmd).
 
 <br>
 
-![](images/minis/horst_openscapes_arctic_narwhal.png){fig-align="center" width="100"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "10%"
+#| fig-alt: "A blue-colored narwhal swimming to the left."
+knitr::include_graphics("images/minis/horst_openscapes_arctic_narwhal.png")
+```
+<!-- ![](images/minis/horst_openscapes_arctic_narwhal.png){fig-align="center" width="100"} -->
 :::
 
 ::: white-div
@@ -79,7 +114,14 @@ Our logo, designed by Allison Horst, represents both the open landscapes and the
 
 <br>
 
-![](images/logo/openscapes_hex_design_final_correct_dimensions.png){fig-align="center" width="200"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "17%"
+#| fig-alt: "A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment."
+knitr::include_graphics("images/logo/openscapes_hex_design_final_correct_dimensions.png")
+```
+<!-- ![](images/logo/openscapes_hex_design_final_correct_dimensions.png){fig-align="center" width="200"} -->
 :::
 
 ::: white-div
@@ -89,7 +131,14 @@ We thank our funders for supporting open science tools, people, and communities.
 
 <br>
 
-![](images/minis/horst_openscapes_arctic_puffins.png){fig-align="center" width="100"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "10%"
+#| fig-alt: "Three small puffins in a cluster facing left."
+knitr::include_graphics("images/minis/horst_openscapes_arctic_puffins.png")
+```
+<!-- ![](images/minis/horst_openscapes_arctic_puffins.png){fig-align="center" width="100"} -->
 :::
 
 ::: white-div
@@ -99,6 +148,13 @@ The Openscapes website was originally built by [Julia Lowndes](https://jules32.g
 
 <br>
 
-![](images/minis/horst_openscapes_arctic_ship.png){fig-align="center" width="100"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "10%"
+#| fig-alt: "A ship with an organge hull and silver instrumentation floats in blue water."
+knitr::include_graphics("images/minis/horst_openscapes_arctic_ship.png")
+```
+<!-- ![](images/minis/horst_openscapes_arctic_ship.png){fig-align="center" width="100"} -->
 :::
 :::

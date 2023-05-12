@@ -118,7 +118,13 @@ Openscapes bridges data-intensive environmental science with the open movement. 
 
 <br>
 
-![](images/clients/mozilla_nceas.png){fig-align="center" width="100%"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "100%"
+#| fig-alt: "Sidy-by-side Mozilla and NCEAS logos, written in white text on black background; The Mozilla logo is spelled, 'moz://a`; the NCEAS logo is the morpho butterfly to the left the the aconymn, 'NCEAS' atop the full name, 'National Center for Ecological Analysis and Synthesis'"
+knitr::include_graphics("images/clients/mozilla_nceas.png")
+```
 
 <!-- ::: {.grid} -->
 <!-- ::: {.g-col-6} -->

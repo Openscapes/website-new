@@ -6,7 +6,7 @@ website:
   navbar:
     title: false
     logo: images/logo/openscapes_hex_badge.png 
-    logo-alt: "The Openscapes logo -- orange text that reads 'openscapes' sitting above small berry 'data points'"
+    logo-alt: "A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment."
     right:
       - text: "HOME"
         href: index.qmd
@@ -51,7 +51,7 @@ website:
   page-footer:    
     background: light
     left: Openscapes is licensed under a [Creative Commons Attributions 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
-    right: This website is built with ❤️ and [Quarto](https://quarto.org/)
+    right: This website is built with {{< fa heart title="a heart" >}} and [Quarto](https://quarto.org/)
       
 format:
   html:

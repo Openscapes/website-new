@@ -18,7 +18,13 @@ These are critical to uncovering enduring science-based solutions faster, as wel
 
 <br>
 
-![](images/logo/openscapes_hex_design_final_correct_dimensions.png){fig-align="center" width="200"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "17%"
+#| fig-alt: "A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment."
+knitr::include_graphics("images/logo/openscapes_hex_design_final_correct_dimensions.png")
+```
 
 <br>
 
@@ -32,7 +38,13 @@ We know that daily demands leave little time for researchers to transition to be
 
 <br>
 
-![](images/diagrams/openscapes-flywheel-vpub.png){fig-align="center" width="75%"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "73%"
+#| fig-alt: "A diagram of the Openscapes flywheel. The Openscapes logo sits in the center of a cyclical process. The text around the logo reads as follows: 'Welcome bright spots (be they mentors or researchers) -- people who want to work better and collaborate' > 'Create space and place to connect and collaborate; remove barriers to participation (paid time, part of jobs)' > 'Invest in learning and trust; Everyone has something to learn, ask, teach; don't need to be an expert in everything. Cultivate psychological safety, growth mindset. Slowing down to speed up.' > 'Work Openly; Put what you learn into practice quickly, role-modeing sharing imperfect work and identifying common challenges and opportunities. Openness is a spectrum; first Future You and then Future Us' > Leverage common workflows, skills, tools; This is where we speed up: Iterate, reuse, remix with each other and teh broader community' > 'Inspire broader scientific communities through visible examples and leaders -- Open science shift' > repeat. These six steps are summarized by three overarching goals, which are also written around the logo: 'Engage a future us mindset', 'Empower learning culture', and 'Amplify open leaders'."
+knitr::include_graphics("images/diagrams/openscapes-flywheel-vpub.png")
+```
 
 <br>
 
@@ -50,8 +62,6 @@ We share our most current thinking and showcase community efforts through talks 
 -   [Putting data to work](https://zenodo.org/record/4315009#.X_-P9OB7nOQ) --- Robinson 2020, invited Leptoukh Lecture at the American Geophysical Union Conference
 -   [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/) --- Lowndes 2019, Scientific American
 
-
-
 ::: {.orange-bg }
 ::: {.medium-body-text .center-text}
 {{< fa book-open title="An open book" >}} Check out our open educational resources!
@@ -67,7 +77,13 @@ Our theory of change is that by engaging, empowering, and amplifying researchers
 
 We are iterating [our theory of change](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsku45HW-vQCPaVARXIo7a18KHdYxwn_0vk2QdNP5RZ7kUxNyqD466NYiagxZtyqoabXAilK32U5yx/pubhtml?gid=365554279&single=true) as we learn, and have also summarized it with this illustration:
 
-![](images/diagrams/horst_pew_tools_practice_mindset.jpg){fig-align="center" width="50%"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "50%"
+#| fig-alt: "The Openscapes theory of change illustrated as concentric circles. The outer gray circle represents approaches. The phrases, 'Data, Evidence, Knowledge', 'Theory, Understanding', and 'Methods, Science, Policy' are written aatop this gray circle. Blue  boxes sit atop the gray circle as well. They say, 'QUESTIONS teams tackle', 'TEAMS: scientists, researchers, practitioners', 'PARTNERS + COMMUNITIES'. A green circle representing Open Data Science Practices sits within the gray outer cricle. The following words are writtedn atop the green circle: 'Kindess + Inclusion', 'Robust Analyses', 'Streamlined Collaboration', 'Expanded Communications'. At the center of this diagram is a Ven Diagram of three overlapping orange circles representing Open Data Science Tools. Once circle represents 'Code + Version Control' (tools such as git, R, Python), 'Contribution Platforms' (tools such as GitHub, disqus), and 'Publication + Distribution' (tools such as R Markdown, dashboards, websites)."
+knitr::include_graphics("images/diagrams/horst_pew_tools_practice_mindset.jpg")
+```
 
 <br>
 

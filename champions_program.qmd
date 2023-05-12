@@ -22,7 +22,13 @@ We support researchers to reimagine data analysis & stewardship as a collaborati
 
 <br>
 
-![](images/page_imgs/horst_openscapes_champions.jpg){fig-align="center" width="85%"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "85%"
+#| fig-alt: "A landscape consisting of a grassy meadow next to a sandy beach and ocean, a winding river, and distant mountains. In the foreground, a sad bunny and skunk are working alone on their laptops, each with a rain cloud over their heads. Nearby is a trailhead with a fox holding a 'Welcome!' sign for a variety of different critters to see. Past the trailhead are branching pathways through the Openscapes landscape. No matter the path, however, there are small groups of animals working together to find their way. Nods to data science are scattered throughout the image, including mountains made of data points and a satellite in the sky."
+knitr::include_graphics("images/page_imgs/horst_openscapes_champions.jpg")
+```
 
 ::: {.caption-text .center-text}
 *In the the open data science landscape, there are many paths forward. Through the Champions program we help researchers move from lonely research to team science with community through exploring and navigating pathways together. Artwork by [Allison Horst](https://twitter.com/allison_horst).*
@@ -38,8 +44,13 @@ Openscapes Champions is a multi-month program that is led remotely and designed 
 
 Each Cohort Call uses the [Champions Lesson Series](https://openscapes.github.io/series/), which is an open curriculum originally based on what was instrumental in the Ocean Health Index (OHI) team's [path to better science in less time](https://www.nature.com/articles/s41559-017-0160), and openly iterated as we experiment and learn. We start off each call with a reminder of our Code of Conduct and provide multiple channels for participation, including through silent contributions to the Google Doc Agenda, breakout groups, and full-group discussions. Each call closes with an efficiency tip and an inclusion tip to incorporate into daily practice.
 
-
-![](images/minis/fox_hat.png){fig-align="center" width="100"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "10%"
+#| fig-alt: "An orange fox wearing a purple baseball cap with the orange Openscapes logo on the front holds a white flag that says, 'Welcome!' in its outstretched arm."
+knitr::include_graphics("images/minis/fox_hat.png")
+```
 
 ::: {.orange-bg }
 ::: {.medium-body-text .center-text}
@@ -62,7 +73,13 @@ The remote- and cohort-nature of the program is designed to reinforce each other
 
 <br>
 
-![](images/minis/horst_openscapes_desert_snake.png){fig-align="center" width="100"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "15%"
+#| fig-alt: "A brown rattlesnake snake with a darker brown pattern down its back."
+knitr::include_graphics("images/minis/horst_openscapes_desert_snake.png")
+```
 
 ## CHAMPIONS COHORTS
 
@@ -74,8 +91,13 @@ Explore previous [Openscapes Champions Cohorts](events.qmd) to learn about these
 
 >***"My group needs to collaborate better and \[Openscapes\] provided good exposure to tools and mindsets that facilitate open science."*** --- Lead at NOAA Northeast Fisheries Science Center (NEFSC)
 
-
-![](images/minis/horst_openscapes_desert_cactus.png){fig-align="center" height="80"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "6%"
+#| fig-alt: "A green Saguaro cactus with two arms."
+knitr::include_graphics("images/minis/horst_openscapes_desert_cactus.png")
+```
 
 ## CHAMPIONS LESSON SERIES
 
@@ -87,7 +109,13 @@ The Lesson Series is originally framed around the the tools and practices critic
 
 <br>
 
-![](images/minis/horst_openscapes_desert_roadrunner.png){fig-align="center" width="100"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "13%"
+#| fig-alt: "A brown road runner running to the left."
+knitr::include_graphics("images/minis/horst_openscapes_desert_roadrunner.png")
+```
 
 ## RESOURCES
 
@@ -95,7 +123,13 @@ Our [Resources page](resources.qmd) has some resources meant to welcome environm
 
 <br>
 
-![](images/minis/horst_openscapes_desert_agave.png){fig-align="center" width="100"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "13%"
+#| fig-alt: "A green agave plant."
+knitr::include_graphics("images/minis/horst_openscapes_desert_agave.png")
+```
 
 ## FAQ
 
@@ -103,7 +137,13 @@ Learn more about how research groups participate in our [Frequently Asked Questi
 
 <br>
 
-![](images/minis/horst_openscapes_desert_tortoise.png){fig-align="center" width="100"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "13%"
+#| fig-alt: "A brown tortoise."
+knitr::include_graphics("images/minis/horst_openscapes_desert_tortoise.png")
+```
 
 :::
 

@@ -19,7 +19,13 @@ The Mentors Framework is a creative approach developed with [Erin Robinson](http
 
 We began developing the Mentors Framework in 2021 in partnership with NASA. We have also been informally growing the Mentors Framework with NOAA Fisheries and the California Water Boards and excited to expand what we are learning with other groups.
 
-![](images/minis/hedgehog_hat.png){fig-align="center" width="100"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "10%"
+#| fig-alt: "A hedgehog wearing a purple baseball cap with the orange Openscapes logo on the front has a single map tucked under one arm and holds a stack of maps in its other outstretched arm."
+knitr::include_graphics("images/minis/hedgehog_hat.png")
+```
 
 ::: {.orange-bg }
 ::: {.medium-body-text .center-text}

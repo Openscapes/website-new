@@ -17,7 +17,13 @@ title: ""
 This R-focused list is not meant to be comprehensive of all the incredible resources available; it represents a selection of material immediately useful to scientists we have worked with. It is an evolving effort and Openscapes resources are also listed below.
 :::
 
-![](images/minis/horst_openscapes_grassland_oak.png){fig-align="center" width="100"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "10%"
+#| fig-alt: "A green tree with a tall and wide canopy. Only a small amount of the brown trunk is visible."
+knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
+```
 
 ## WORKING COLLABORATIVELY, OPENLY, & EFFICIENTLY
 
@@ -30,7 +36,13 @@ For example, the Ocean Health Index describes how open software and borrowing pr
 - [Skills and knowledge for data-intensive environmental research - *Hampton et al. 2017 BioScience*](https://dx.doi.org/10.1093%2Fbiosci%2Fbix025)
 - [Creating and maintaining high‐performing collaborative research teams: the importance of diversity and interpersonal skills — *Cheruvelil et al. 2014 Frontiers in Ecology & the Environment*](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/130001)
 
-![](images/minis/horst_openscapes_grassland_fox.png){fig-align="center" width="100"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "10%"
+#| fig-alt: "An orange fox with a fluffy white-tipped tail and white chin, facing right."
+knitr::include_graphics("images/minis/horst_openscapes_grassland_fox.png")
+```
 
 ## JOINING & BUILDING LEARNING COMMUNITIES
 
@@ -40,7 +52,13 @@ Learning to code should be fun since you are learning powerful and empowering to
 - [Build communities locally](blog/2018-11-06-build-communities/index.qmd)
 - [Starting our #tidytuesday hacky hours](blog/2019-05-02-tidy-tuesday-coding-club/index.qmd)
 
-![](images/minis/horst_openscapes_grassland_deer.png){fig-align="center" width="100"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "10%"
+#| fig-alt: "A brown deer with small antlers, facing left."
+knitr::include_graphics("images/minis/horst_openscapes_grassland_deer.png")
+```
 
 ## R WITH RSTUDIO & GITHUB
 
@@ -54,7 +72,13 @@ We recommend using R with RStudio, which not only provides a supportive infrastr
 - [Resources for R and data science](http://ohi-science.org/news/Resources-for-R-and-Data-Science)
 - [The importance of open data science tools in science: a list of references](http://ohi-science.org/news/importance-of-open-data-science-tools)
 
-![](images/minis/horst_openscapes_grassland_condor.png){fig-align="center" width="100"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "10%"
+#| fig-alt: "A California condor soaring above so that we are viewing it's underside. It has a reddish head, black body, and black and white wings."
+knitr::include_graphics("images/minis/horst_openscapes_grassland_condor.png")
+```
 
 ## QUARTER/SEMESTER-LONG COURSES
 

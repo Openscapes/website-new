@@ -24,7 +24,13 @@ title: ""
 
 -   [Openscapes Champions Cohorts](champions_program.qmd) --- We aim to lead Champions Cohorts each year while also developing Mentors who can lead Cohorts for their own communities as part of their jobs
 
-![](images/minis/horst_openscapes_mountains_salmon.png){fig-align="center" width="100"}
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "13%"
+#| fig-alt: "An orange salmon with dark brown spots speckled down its back."
+knitr::include_graphics("images/minis/horst_openscapes_mountains_salmon.png")
+```
 
 We are excited to grow the Openscapes community and open data science communities more broadly. Here are several avenues to get involved, and please [email us](mailto:hello@openscapes.org) with more ideas.
 

@@ -31,7 +31,7 @@ listing:
 ---
 
 ::: column-screen
-![](images/banner_imgs/horst_openscapes_grassland_big-text.png)
+![](images/banner_imgs/original_banners/horst_openscapes_grassland_big-text.png)
 :::
 
 ::: column-screen

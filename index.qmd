@@ -165,7 +165,7 @@ Blog posts are both Openscapes stories and advice snippets for the community. So
 
 Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster. Openscapes was incubated by NCEAS and a Mozilla Fellowship awarded to Julia Stewart Lowndes.
 
-[Learn more »](https://www.openscapes.org/about/)
+[Learn more »](who_are_we.qmd)
 :::
 
 ::: {.g-col-6}
@@ -179,7 +179,7 @@ California, USA
 hello \@ openscapes.org\
 Twitter & GitHub: @openscapes
 
-[Get Involved »](https://www.openscapes.org/contact/)
+[Get Involved »](connect.qmd)
 :::
 
 :::

@@ -22,7 +22,7 @@ We offer mentorship, teaching, coaching and community organizing centered around
 ```{r}
 #| echo: false
 #| fig-align: center
-#| out-width: "10%"
+#| out-width: "13%"
 #| fig-alt: "Two purple squid, swimming side-by-side heading left."
 knitr::include_graphics("images/minis/horst_openscapes_arctic_squid.png")
 ```
@@ -44,7 +44,7 @@ We are excited to continue learning and iterating with the open movement towards
 ```{r}
 #| echo: false
 #| fig-align: center
-#| out-width: "10%"
+#| out-width: "13%"
 #| fig-alt: "A red sea urchin and a slightly smaller purple sea urchin sitting side-by-side"
 knitr::include_graphics("images/minis/horst_openscapes_arctic_urchins.png")
 ```
@@ -60,7 +60,7 @@ Learn about our [**our team**](team.qmd) who are helping grow and improve Opensc
 ```{r}
 #| echo: false
 #| fig-align: center
-#| out-width: "10%"
+#| out-width: "13%"
 #| fig-alt: "A brown-colored arctic crab facing forward."
 knitr::include_graphics("images/minis/horst_openscapes_arctic_crab.png")
 ```
@@ -78,7 +78,7 @@ We expect all participants to adhere to our [Code of Conduct](code_of_conduct.qm
 ```{r}
 #| echo: false
 #| fig-align: center
-#| out-width: "10%"
+#| out-width: "13%"
 #| fig-alt: "A blue-colored humpback whale swimming to the right."
 knitr::include_graphics("images/minis/horst_openscapes_arctic_humpback.png")
 ```
@@ -96,7 +96,7 @@ See all of Allison's open landscapes on the [gallery page](gallery.qmd).
 ```{r}
 #| echo: false
 #| fig-align: center
-#| out-width: "10%"
+#| out-width: "13%"
 #| fig-alt: "A blue-colored narwhal swimming to the left."
 knitr::include_graphics("images/minis/horst_openscapes_arctic_narwhal.png")
 ```
@@ -128,7 +128,7 @@ We thank our funders for supporting open science tools, people, and communities.
 ```{r}
 #| echo: false
 #| fig-align: center
-#| out-width: "10%"
+#| out-width: "13%"
 #| fig-alt: "Three small puffins in a cluster facing left."
 knitr::include_graphics("images/minis/horst_openscapes_arctic_puffins.png")
 ```
@@ -144,7 +144,7 @@ The Openscapes website was originally built by [Julia Lowndes](https://jules32.g
 ```{r}
 #| echo: false
 #| fig-align: center
-#| out-width: "10%"
+#| out-width: "13%"
 #| fig-alt: "A ship with an organge hull and silver instrumentation floats in blue water."
 knitr::include_graphics("images/minis/horst_openscapes_arctic_ship.png")
 ```

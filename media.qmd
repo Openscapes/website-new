@@ -39,8 +39,6 @@ title: ""
 
 -  [Tech tools to make research more open and inclusive](https://www.nature.com/articles/d41586-020-00216-z) — Kendall Powell. February 3, 2020. *Nature*.
 
--  The coupling of innovation and open data science tools for science has been fascinating to me and hard to tease apart: An interview with Dr Julia Stewart Lowndes — Alison Oliver. January 29, 2020. *Statistics Views*.
-
 -  [Open Science and ‘Star Wars’](https://medium.com/read-write-participate/open-science-and-star-wars-2577b8081e8f) - Mozilla. July 11, 2019. *Medium*.
 
 -  [A Rising Tide: Funding Ocean Science](https://sciencephilanthropyalliance.org/a-rising-tide-funding-ocean-science-alliance-blog-post/) — Science Philanthropy Alliance. April 1, 2019. *Alliance blog post*.
@@ -71,7 +69,6 @@ title: ""
 
 - [Communicating Impact: NASA Openscapes](https://docs.google.com/presentation/d/14iEGfbipt5HBlVyyf3kvjyxas4lBoRlbT8u8iFr2VNw/edit?usp=sharing) - March 22, 2023 - Julie Lowndes, Erin Robinson, Justin Rice. NASA ESDSWG Meeting, Baltimore, Maryland (15 minutes)
 
-
 - [Openscapes: supporting kinder science for future us](https://docs.google.com/presentation/d/1CkhsAB9SZrfa5ARvm7b0B48xlPWuOHioqlsa5jqD92A/edit?usp=sharing) - March 8, 2023 - Julie Lowndes. [Women in Data Science Conference](https://www.widsconference.org/), Stanford University ([video](https://www.youtube.com/watch?v=08siJkRUnQM&list=PLHAk3jHXWpxKGSFHyOu9pnSOP9AInU_O2&index=16)) (15 minutes); ([panel discussion](https://www.youtube.com/watch?v=AwBV2d0Au-o&list=PLHAk3jHXWpxKGSFHyOu9pnSOP9AInU_O2&index=17))
 
 -  [Openscapes: supporting better science for future us](https://docs.google.com/presentation/d/1uKtVnZR8X94tADAWEE1THHKCbvfBbg2PBcH8asaoJQQ/edit) - January 11, 2023 - Julie Lowndes. [Best Practices for HPC Software Developers Webinar Series](https://www.exascaleproject.org/event/openscapes/) hosted by The IDEAS Productivity project, in partnership with the Department of Energy Computing Facilities of the ALCF, OLCF, and NERSC, and the DOE Exascale Computing Project (ECP). This talk is part of Lowndes’ 2022 [NSF Better Scientific Software (BSSw) fellowship](https://bssw.io/pages/meet-our-fellows) ([video](https://www.youtube.com/watch?v=unjQxQPfnqM))
@@ -84,7 +81,7 @@ title: ""
 
 -  [Openscapes teaching practices](https://docs.google.com/presentation/d/1Ugj_J3JKQ_taPJ5NjBs9j3rbqsopDuCmkFkxKpBbD8g/edit#slide=id.g127e53acada_2_135) — May 9, 2022, with Eli Holmes; High-level Group for the Modernisation of Statistical Production and Services (HLG-MOS), United Nations Economic Commission for Europe (UNECE) Meta Academy Workshop (30 minutes) ([video](https://www.youtube.com/watch?v=TuqgE2jc2ZQ))
 
--  [NASA Openscapes Lessons from Year 1](https://docs.google.com/presentation/d/1jtiku5yOTzBtW2vT1-qwZPri_O2Bc_uzXNebIoKGLMg/edit) - April 21, 2022: talk at [ESDSWG](https://urs.earthdata.nasa.gov/oauth/authorize?client_id=u1o_8zOuolqNjuLQz6wzYQ&response_type=code&redirect_uri=https%3A%2F%2Fwiki.earthdata.nasa.gov%2Fplugins%2Fservlet%2FConfluenceOAuth2&state=%2Fdisplay%2FESDSWG%2F2022%2BESDSWG%2BMeeting%2BAgenda) (40 minutes)
+-  [NASA Openscapes Lessons from Year 1](https://docs.google.com/presentation/d/1jtiku5yOTzBtW2vT1-qwZPri_O2Bc_uzXNebIoKGLMg/edit) - April 21, 2022: talk at [ESDSWG](https://urs.earthdata.nasa.gov/oauth/authorize?client_id=u1o_8zOuolqNjuLQz6wzYQ&response_type=code&redirect_uri=https%3A%2F%2Fwiki.earthdata.nasa.gov%2Fplugins%2Fservlet%2FConfluenceOAuth2&state=%2Fdisplay%2FESDSWG%2F2022%2BESDSWG%2BMeeting%2BAgenda) (requires login) (40 minutes)
 
 -  [Community Building: The NASA Openscapes Framework](https://openscapes.github.io/slides/esip_winter2022#/title-slide)- January 18, 2022: ESIP Winter Meeting (10 minutes)
 
@@ -116,11 +113,11 @@ title: ""
 
 -  [NASA DAACs Openscapes Framework](https://docs.google.com/presentation/d/1_2ybhWlbg_Y_NrTQ_FF8JqqmbsstCkt5IKZqHmwDtFg/edit) — March 25, 2021: NASA ESDS-ESDIS-DAACs-IMPACT Meeting (15 minutes)
 
--  [How you can do better science in less time](https://docs.google.com/presentation/d/1EGSTC-p0kKCV3TNpc65Kyy1S0OOFmDalO917S0UIRvE/edit) — March 5, 2021: University of South Florida – College of Marine Science Seminar Series with Dr. Marcus Beck: Open science lessons from Tampa Bay (20 minutes each) ([video](https://www.youtube.com/watch?v=21qS05Yv3GQ&t=195s))
+-  [How you can do better science in less time](https://docs.google.com/presentation/d/1EGSTC-p0kKCV3TNpc65Kyy1S0OOFmDalO917S0UIRvE/edit) — March 5, 2021: University of South Florida – College of Marine Science Seminar Series with Dr. Marcus Beck: [Open science lessons from Tampa Bay](https://www.canva.com/design/DAEXu-oE6M4/o4okxvLdSs6t3lrxfqApkA/edit#1) (requires login) (20 minutes each) ([video](https://www.youtube.com/watch?v=21qS05Yv3GQ&t=195s))
 
 -  [Open practices for better science in less time](https://openscapes.github.io/slides/betterscience/environment-canada#1) — February 24, 2021: Open Science Community of Practice, Environment and Climate Change Canada (40 minutes) (video)
 
--  [NASA DAACs Openscapes Framework](https://docs.google.com/presentation/d/11zgFIzYaMMsNTQVpUY5z3GnPUqTKQLJFTUsF4gi3qQ4/edit?usp=sharing) — February 10, 2021: NASA’s Earth Science Data System Working Groups (ESDSWG) (5 minutes)
+-  [NASA DAACs Openscapes Framework](https://docs.google.com/presentation/d/11zgFIzYaMMsNTQVpUY5z3GnPUqTKQLJFTUsF4gi3qQ4/edit?usp=sharing) — February 10, 2021: NASA’s Earth Science Data System Working Groups ([ESDSWG](https://urs.earthdata.nasa.gov/oauth/authorize?client_id=u1o_8zOuolqNjuLQz6wzYQ&response_type=code&redirect_uri=https%3A%2F%2Fwiki.earthdata.nasa.gov%2Fplugins%2Fservlet%2FConfluenceOAuth2&state=%2Fdisplay%2FESDSWG%2F2022%2BESDSWG%2BMeeting%2BAgenda), requires login) (5 minutes)
 
 -  [Openscapes](https://docs.google.com/presentation/d/1ty--0Jr7HRD3VXro5K8eMPaxApzeE1dkAZKVC4jyxm0/edit#slide=id.gb1d0505bec_0_0) — December 16, 2020 Invest in Open’s [Joint Roadmap for Open Science Tools (JROST) Conference](https://investinopen.org/community/jrost-2020-conference/) (5 minutes)
 

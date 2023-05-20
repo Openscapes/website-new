@@ -11,6 +11,7 @@ $medium-gray1: #999999;
 $medium-gray2: #555555; 
 $dark-gray: #333333; 
 $blue: #38A7BB;
+$light-blue: #53C9DF;
 $light-orange: #FFEFE1;
 $yellow: #F8D98F;
 
@@ -54,6 +55,10 @@ blockquote p { // align blockquotes
 
 .blue-underline { // underline text blue
   text-decoration: underline $blue;
+  //text-decoration: text-underline-offset $blue;
+  //border-bottom: 1px solid #000;
+  //padding-bottom: 3px;
+  
 }
 
 .large-body-text {
@@ -175,7 +180,7 @@ blockquote p { // align blockquotes
 
 // navbar hover color
 .navbar-dark .navbar-nav .show>.nav-link, .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active {
-    background-color: #38a7bb;
+    background-color: $light-blue;
 }
 
 // openscapes logo size/position (navbar top left); see https://github.com/robertmitchellv/robertmitchellv.github.io/blob/main/custom-dark.scss

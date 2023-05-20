@@ -21,26 +21,26 @@ title: ""
 
 *Click on an image to open at high resolution in a new tab.*
 
-<a href="images/banner_imgs/horst_openscapes_grassland_1500px.png" target="_blank">
-![](images/banner_imgs/horst_openscapes_grassland_1500px.png){fig-align="center" width="100%"}
+<a href="images/banner_imgs/original_banners/horst_openscapes_grassland_1500px.png" target="_blank">
+![](images/banner_imgs/original_banners/horst_openscapes_grassland_1500px.png){fig-align="center" width="100%"}
 </a>
 
 <br>
 
-<a href="images/banner_imgs/horst_openscapes_desert_1500px.png" target="_blank">
-![](images/banner_imgs/horst_openscapes_desert_1500px.png){fig-align="center" width="100%"}
+<a href="images/banner_imgs/original_banners/horst_openscapes_desert_1500px.png" target="_blank">
+![](images/banner_imgs/original_banners/horst_openscapes_desert_1500px.png){fig-align="center" width="100%"}
 </a>
 
 <br>
 
-<a href="images/banner_imgs/horst_openscapes_arctic_1500px.png" target="_blank">
-![](images/banner_imgs/horst_openscapes_arctic_1500px.png){fig-align="center" width="100%"}
+<a href="images/banner_imgs/original_banners/horst_openscapes_arctic_1500px.png" target="_blank">
+![](images/banner_imgs/original_banners/horst_openscapes_arctic_1500px.png){fig-align="center" width="100%"}
 </a>
 
 <br>
 
-<a href="images/banner_imgs/horst_openscapes_mountains_1500px.png" target="_blank">
-![](images/banner_imgs/horst_openscapes_mountains_1500px.png){fig-align="center" width="100%"}
+<a href="images/banner_imgs/original_banners/horst_openscapes_mountains_1500px.png" target="_blank">
+![](images/banner_imgs/original_banners/horst_openscapes_mountains_1500px.png){fig-align="center" width="100%"}
 </a>
 
 <br>

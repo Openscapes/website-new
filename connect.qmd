@@ -34,9 +34,9 @@ knitr::include_graphics("images/minis/horst_openscapes_mountains_salmon.png")
 
 We are excited to grow the Openscapes community and open data science communities more broadly. Here are several avenues to get involved, and please [email us](mailto:hello@openscapes.org) with more ideas.
 
-## Follow us on Twitter @openscapes
+## Follow us on Twitter and on Mastodon @openscapes
 
-We are [\@openscapes](https://twitter.com/openscapes) on Twitter. We tweet about Openscapes news and events, amplify Openscapes Champions, and sporadically retweet other awesome things going on around environmental open data science. Tag us in your tweets about your open data science wins and challenges and we'll retweet!
+We are [\@openscapes](https://twitter.com/openscapes) on Twitter and [@openscapes@fosstodon.org](https://fosstodon.org/@openscapes) on Mastodon. We tweet about Openscapes news and events, amplify Openscapes Champions, and sporadically retweet other awesome things going on around environmental open data science. Tag us in your tweets about your open data science wins and challenges and we'll retweet!
 
 ## Join our mailing list
 

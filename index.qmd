@@ -96,7 +96,7 @@ listing:
 # **ATTEND AN EVENT**
 :::
 
-The Openscapes team holds regular community calls, participates in conference talks, seminars, and webinars, and organizes opportunities through the Champions Program (and other new initiatives!). Check out some of our recent events or attend an upcoming one (and browse all events [here](events.qmd)): 
+The Openscapes team holds regular community calls, participates in conference talks, seminars, and webinars, and organizes opportunities through the Champions Program (and other new initiatives!). See our recent events below or attend an upcoming one. Browse [all events](events.qmd)). 
 
 ::: {#recent-events-listing}
 :::
@@ -145,7 +145,7 @@ knitr::include_graphics("images/clients/mozilla_nceas.png")
 ::: {.blue-underline .center-text}
 # **FROM OUR BLOG**
 :::
-Blog posts are both Openscapes stories and advice snippets for the community. Some are cross-posted on [Medium.com](https://medium.com/@openscapes). See our most recent posts below (and browse our full blog listing [here](blog.qmd)):
+Blog posts are both Openscapes stories and advice snippets for the community. Some are cross-posted on [Medium.com](https://medium.com/@openscapes). See our most recent posts below or browse our [full blog listing](blog.qmd)).
 
 ::: {#recent-blog-listing}
 :::

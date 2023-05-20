@@ -46,6 +46,8 @@ website:
         href: https://github.com/openscapes
       - icon: twitter
         href: https://twitter.com/openscapes
+      - icon: mastodon
+        href: https://fosstodon.org/@openscapes
       - icon: envelope
         href: mailto:hello@openscapes.org
   page-footer:    

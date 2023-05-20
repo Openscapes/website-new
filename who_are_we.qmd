@@ -112,7 +112,7 @@ Our logo, designed by Allison Horst, represents both the open landscapes and the
 ```{r}
 #| echo: false
 #| fig-align: center
-#| out-width: "17%"
+#| out-width: "10%"
 #| fig-alt: "A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment."
 knitr::include_graphics("images/logo/openscapes_hex_design_final_correct_dimensions.png")
 ```

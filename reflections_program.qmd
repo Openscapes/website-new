@@ -29,7 +29,7 @@ We launched this program in 2023 and plan to lead it annually in May!
 knitr::include_graphics("images/minis/beaver_hat.png")
 ```
 
-::: {.orange-bg }
+::: {.yellow-bg }
 ::: {.medium-body-text .center-text}
 {{< fa book-open title="An open book" >}} Check out our open educational resources!
 :::

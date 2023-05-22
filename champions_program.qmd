@@ -1,6 +1,6 @@
 ---
-title: ""
-# title-block-banner: images/banner_imgs/horst_openscapes_desert_breadcrumbs.png 
+title: " "
+# title-block-banner: images/banner_imgs/original_banners/horst_openscapes_desert_breadcrumbs.png 
 ---
 
 ::: column-screen
@@ -52,7 +52,7 @@ Each Cohort Call uses the [Champions Lesson Series](https://openscapes.github.io
 knitr::include_graphics("images/minis/fox_hat.png")
 ```
 
-::: {.orange-bg }
+::: {.yellow-bg }
 ::: {.medium-body-text .center-text}
 {{< fa book-open title="An open book" >}} Check out our open educational resources!
 :::

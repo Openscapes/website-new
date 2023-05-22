@@ -62,7 +62,7 @@ We share our most current thinking and showcase community efforts through talks 
 -   [Putting data to work](https://zenodo.org/record/4315009#.X_-P9OB7nOQ) --- Robinson 2020, invited Leptoukh Lecture at the American Geophysical Union Conference
 -   [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/) --- Lowndes 2019, Scientific American
 
-::: {.orange-bg }
+::: {.yellow-bg }
 ::: {.medium-body-text .center-text}
 {{< fa book-open title="An open book" >}} Check out our open educational resources!
 :::
@@ -93,7 +93,7 @@ knitr::include_graphics("images/diagrams/horst_pew_tools_practice_mindset.jpg")
 
 In mentoring research teams, we are interested in evaluating and understanding which open data science tools are adopted, who participates, and how questions and mindsets shift. Our hypothesis is that adoption of open data science tools will lead to robust, data-driven outcomes; that participation in open data science practices will lead to deeper inclusion and belonging; and that shifting mindsets and questions asked will lead to enduring partnerships and expanded questions. We define open data science as the tools and practices enabling reproducible, transparent, and inclusive data-driven research.
 
-::: orange-bg
+::: {.yellow-bg}
 **A Theory of Change (TOC)** is a way to think through and communicate the goals of a project to help track progress when it's not possible to use more traditional metrics (i.e. revenue). The purpose is to articulate the overall aim/long-term impact, and the outcomes expected through the activities you do. Outcomes must be measurable (through appropriate indicators) so you can use the TOC to track progress.
 
 Our Theory of Change is stylized after [Mozilla's AI TOC](https://wiki.mozilla.org/images/f/f9/MoFo_AI_Theory_of_Change_%28ToC%29_%E2%80%93_Landscape_Design.jpg). This is a useful resource for creating your own from [project-oracle](https://project-oracle.com/uploads/files/2.2_Project_Oracle_-_Theory_of_Change_guidance_-_June_2014.pdf) (recommended by Mozilla).

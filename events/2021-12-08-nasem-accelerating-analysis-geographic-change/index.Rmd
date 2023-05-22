@@ -8,7 +8,7 @@ author:
 date: 2021-12-08
 categories: 
   - workshop
-  - nasa-openscapes
+  - nasa-framework
 image: "nasem-geo-meeting.jpg"
 ---
 

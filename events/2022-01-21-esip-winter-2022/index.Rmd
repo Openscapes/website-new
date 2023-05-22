@@ -8,7 +8,7 @@ author:
 date: 2022-01-21
 categories: 
   - conference
-  - nasa-openscapes
+  - nasa-framework
 image: "esip-logo.png"
 ---
 

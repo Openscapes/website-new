@@ -27,7 +27,7 @@ We launched this program in 2023 and plan to lead it annually in January-March.
 knitr::include_graphics("images/minis/lizard_hat.png")
 ```
 
-::: {.orange-bg }
+::: {.yellow-bg }
 ::: {.medium-body-text .center-text}
 Learn more about the Pathways to Open Science Program!
 :::

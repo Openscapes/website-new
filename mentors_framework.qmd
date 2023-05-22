@@ -27,7 +27,7 @@ We began developing the Mentors Framework in 2021 in partnership with NASA. We h
 knitr::include_graphics("images/minis/hedgehog_hat.png")
 ```
 
-::: {.orange-bg }
+::: {.yellow-bg }
 ::: {.medium-body-text .center-text}
 Learn more about the teams who have adopted the Mentors Framework and explore their open work and resources!
 :::

@@ -8,7 +8,7 @@ author:
 date: 2021-10-14
 categories: 
   - workshop
-  - nasa-openscapes
+  - nasa-framework
 image: "nasa-science.png"
 ---
 

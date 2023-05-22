@@ -8,7 +8,7 @@ author:
 date: 2022-03-04
 categories:
   - champions
-  - nasa-openscapes
+  - nasa-framework
 image: "nasa-openscapes.png"   
 ---
 

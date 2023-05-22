@@ -13,7 +13,9 @@ $dark-gray: #333333;
 $blue: #38A7BB;
 $light-blue: #53C9DF;
 $light-orange: #FFEFE1;
-$yellow: #F8D98F;
+$banner-yellow: #F8DA92;
+$light-yellow: #FFF1CE;
+$lighter-yellow: #FFF6E1;
 
 // Base document colors
 $navbar-bg: $white;
@@ -116,8 +118,8 @@ blockquote p { // align blockquotes
    padding: 10px;
 }*/
 
-.orange-bg { // orange background color (see bottom of Our Approach for example)
-  background-color: $light-orange;
+.yellow-bg { // orange background color (see Our Approach and on Initiatives for example)
+  background-color: $light-yellow;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-right: 5px;

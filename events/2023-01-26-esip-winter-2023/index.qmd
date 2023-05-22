@@ -8,7 +8,7 @@ author:
 date: 2023-01-26
 categories: 
   - conference
-  - nasa-openscapes
+  - nasa-framework
   - noaa-fisheries
 image: "esip-logo.png"
 ---

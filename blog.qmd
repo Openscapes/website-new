@@ -11,9 +11,13 @@ listing:
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: "#F8D98F"
-#title-block-banner: images/banner_imgs/horst_openscapes_desert_breadcrumbs.png # adding text on top of image make image look glitchy?
+# title-block-banner: "#F8D98F" # use this for solid color banner
+title-block-banner: images/banner_imgs/original_banners/horst_openscapes_desert_breadcrumbs.png # adding text on top of image make image look glitchy?
 ---
+
+<!-- ::: column-screen -->
+<!-- ![](images/banner_imgs/text_banners/blog_banner.png) -->
+<!-- ::: -->
 
 <!-- SC NOTE: adding banner image below hides categories, but also renders banner full-size (unlike `title-block-banner1) -->
 <!-- ::: column-screen -->

@@ -8,7 +8,7 @@ author:
 date: 2021-12-17
 categories: 
   - conference
-  - nasa-openscapes
+  - nasa-framework
 image: "agu.png"
 ---
 

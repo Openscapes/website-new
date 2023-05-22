@@ -6,7 +6,7 @@ author:
   - name: Pangeo and Openscapes 
 date: 2021-06-30
 categories:
-  - nasa-openscapes
+  - nasa-framework
   - community
 image: "images/pangeologo.png"
 ---

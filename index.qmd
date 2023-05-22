@@ -109,6 +109,23 @@ The Openscapes team holds regular community calls, participates in conference ta
 ::: column-screen
 ::: white-div
 ::: {.blue-underline .center-text}
+# **FROM OUR BLOG**
+:::
+Blog posts are both Openscapes stories and advice snippets for the community. Some are cross-posted on [Medium.com](https://medium.com/@openscapes). See our most recent posts below or browse our [full blog listing](blog.qmd)).
+
+::: {#recent-blog-listing}
+:::
+
+<!-- blog listing: see Garrick Aden-Buie's site: https://github.com/gadenbuie/garrickadenbuie-com/blob/quarto/index.qmd  & Robert Mitchell's blog post: https://robertmitchellv.com/blog/2022-08-building-with-quarto/building-with-quarto.html -->
+
+::: 
+:::
+
+<br>
+
+::: column-screen
+::: light-gray-div
+::: {.blue-underline .center-text}
 # **INCUBATED BY MOZILLA AND NCEAS**
 :::
 
@@ -123,7 +140,7 @@ Openscapes bridges data-intensive environmental science with the open movement. 
 #| fig-align: center
 #| out-width: "100%"
 #| fig-alt: "Sidy-by-side Mozilla and NCEAS logos, written in white text on black background; The Mozilla logo is spelled, 'moz://a`; the NCEAS logo is the morpho butterfly to the left the the aconymn, 'NCEAS' atop the full name, 'National Center for Ecological Analysis and Synthesis'"
-knitr::include_graphics("images/clients/mozilla_nceas.png")
+knitr::include_graphics("images/clients/mozilla_nceas_gray.png")
 ```
 
 <!-- ::: {.grid} -->
@@ -135,22 +152,6 @@ knitr::include_graphics("images/clients/mozilla_nceas.png")
 <!-- ::: -->
 <!-- ::: -->
 
-::: 
-:::
-
-<br>
-
-::: column-screen
-::: light-gray-div
-::: {.blue-underline .center-text}
-# **FROM OUR BLOG**
-:::
-Blog posts are both Openscapes stories and advice snippets for the community. Some are cross-posted on [Medium.com](https://medium.com/@openscapes). See our most recent posts below or browse our [full blog listing](blog.qmd)).
-
-::: {#recent-blog-listing}
-:::
-
-<!-- blog listing: see Garrick Aden-Buie's site: https://github.com/gadenbuie/garrickadenbuie-com/blob/quarto/index.qmd  & Robert Mitchell's blog post: https://robertmitchellv.com/blog/2022-08-building-with-quarto/building-with-quarto.html -->
 :::
 :::
 

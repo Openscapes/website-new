@@ -7,6 +7,8 @@ slug: faseb-dataworks-salon
 categories:
   - community
 image: ../../img/blog/faseb.png
+aliases: 
+  - https://www.openscapes.org/blog/2021/10/04/faseb-dataworks-salon/
 ---
 
 ## FASEB DataWorks! Salon

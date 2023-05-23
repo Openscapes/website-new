@@ -5,9 +5,11 @@ author: Luis Lopez and the NASA Openscapes Mentors
 date: 2022-11-17
 slug: cloud-infrastructure
 categories:
-  - community
+  # - community
   - nasa-framework
 image: ../../img/blog/cloud-infrastructure-lopez-screenshot-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2022/11/17/nasa-earthdata-cloud-infrastructure/
 ---
 
 ## The why, what, and how of our NASA Openscapes cloud infrastructure: 2i2c JupyterHub and corn environment

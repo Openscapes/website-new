@@ -5,11 +5,13 @@ author: Froehlich Lab
 date: 2019-06-11
 slug: froehlich-lab
 categories:
-  - community
+  # - community
   - champions
   # - impact
   - case-study
 image: ../../img/blog/froehlich-lab.png
+aliases: 
+  - https://www.openscapes.org/blog/2019/06/11/case-study-froehlich-lab/
 ---
 
 # Champions Case Study: Froehlich Lab 

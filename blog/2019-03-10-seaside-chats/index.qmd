@@ -5,13 +5,15 @@ author: Julie Lowndes
 date: 2019-03-10
 slug: seaside-chats
 categories:
-  - community
+  # - community
   - champions
   - coding
   # - how-to
   # - impact
   - study-group
 image: ../../img/blog/mrlowndes_DSC01492.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2019/03/10/seaside-chats/
 ---
 
 # [Sea]side Chats for data workflows   

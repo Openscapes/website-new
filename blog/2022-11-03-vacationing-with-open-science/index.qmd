@@ -5,8 +5,11 @@ author: Julie Lowndes
 date: 2022-11-03
 slug: vacation-open-science
 categories:
-  - community
+  # - community
+  - how-we-work
 image: ../../img/blog/vacation-2022/grasmere_gate_elowndes_DSCF7411_square.jpeg
+aliases: 
+  - https://www.openscapes.org/blog/2022/11/03/vacationing-with-open-science/
 ---
 
 *I've just taken a 2+ week vacation and truly unplugged. While this post seems a bit personal for the Openscapes blog, I wanted to share a bit about how our open science process made it possible, because one of the things we hear often from researchers is that they feel like they can't take vacation - too much rests solely on their shoulders, solely on their laptops. And I have felt this way too, which was one reason why time off was a long time coming. Taking time off in some ways was an experiment, a stress-test of our workflow, and it had very positive results with everything working more-than-smoothly in my absence, room for leadership and grow of others, and me returning feeling fresh. This post shares a bit about our teamwork and shared workflows setup, as well as some highlights from visiting family in the UK and Italy.*

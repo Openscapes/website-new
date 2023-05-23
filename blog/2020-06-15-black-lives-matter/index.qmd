@@ -5,8 +5,11 @@ author: Julie Lowndes
 date: 2020-06-15
 slug: lessons-remote-meetings
 categories:
-  - community 
+  #- community 
+  - how-we-work
 image: ../../img/blog/mountainscape-jsl-square.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2020/06/15/black-lives-matter/
 ---
 
 *Over the past weeks, protests throughout the US and around the world have been calling out systemic, anti-Black racism and calling for justice for George Floyd, Breonna Taylor, Ahmaud Arbery, and countless others. Our country is facing a reckoning and we need to take individual and collective action to fight for justice and anti-racism.*

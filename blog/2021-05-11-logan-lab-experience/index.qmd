@@ -5,10 +5,12 @@ author: Arie Dash
 date: 2021-05-11
 slug: logan-lab-experience
 categories:
-  - community
+  # - community
   - champions
   # - impact
 image: ../../img/blog/zoom-logan-lab-square.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2021/05/11/logan-lab-experience/
 ---
 
 *Arie Dash is a first year Master’s student at Moss Landing Marine Labs and California State University, Monterey Bay. He is studying how climate change affects rockfish gene expression and is excited to approach his thesis from an open science perspective.*

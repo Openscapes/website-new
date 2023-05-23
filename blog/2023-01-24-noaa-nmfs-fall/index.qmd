@@ -5,11 +5,13 @@ author: Molly Stevens, Adyan Rios, Amanda Bradford, Kevin Stierhoff, Juliette Ve
 date: '2023-01-24'
 slug: "2022-noaa-nmfs-fall"
 categories:
-  - community
+  # - community
   - champions
   #- impact
   - noaa-fisheries
 image: ../../img/blog/2022-noaa-sefsc-fall-tpb-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2023/01/24/2022-noaa-nmfs-fall/
 ---
 
 *This blog post is co-written by NOAA Fisheries research staff who are Openscapes Mentors who supported colleagues during our four concurrent Champions Cohorts in Fall 2022. We'll share what we did across all four Cohorts, as well as specific stories from each Cohort! We've also been building resources for NOAA Fisheries and beyond:*

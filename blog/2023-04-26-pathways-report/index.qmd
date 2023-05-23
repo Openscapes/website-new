@@ -5,9 +5,12 @@ author: Ileana Fenwick, Alex Davis, Aneese Williams, Stefanie Butland, Julie Low
 date: 2023-04-26
 slug: pathways-report
 categories:
-  - community
+  #- community
+  - pathways
   # - impact
 image: ../../img/blog/PathwaysToOpenScience_GroupZoom_square_2023_01_26.png
+aliases: 
+  - https://www.openscapes.org/blog/2023/04/26/pathways-report/
 ---
 
 *Welcome to Pathways to Open Science, a remote event series for Black environmental & marine researchers to build community for the future of data intensive science! What you will read here includes numbers and facts we've reported to our gracious funders, but more than anything we provided an inclusive onramp for open science in an intentional way that will continue to inspire more equitable open science programming moving forward. The Pathways team is so excited to report that this series provided tangible skills that will accelerate the science of incredible Black researchers across the globe (we even had international participants!). While difficult to capture with numbers, the community, hope, and excitement within this space was invaluable. This program was a true labor of love for us as organizers who have often felt the burden of being one of few or the only Black researcher in the room. It is also a powerful testament to the powerful allyship of our organizers and funders in centering Black leadership in efforts to successfully serve our community as demonstrated here. It was an honor to create this space with our team and spearhead this effort, and we look forward to improving our approach to build even more community in the years to come.*

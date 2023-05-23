@@ -5,10 +5,12 @@ author: Allison Horst and Julie Lowndes
 date: 2022-05-27
 slug: github-illustrated-series
 categories:
-  - community
+  # - community
   - art
   - coding
 image: ../../img/blog/github-illustrated-series/github_hi_five_square.png 
+aliases: 
+  - https://www.openscapes.org/blog/2022/05/27/github-illustrated-series/
 ---
 
 *Welcome! This illustrated series tells a story about why GitHub is so powerful for supporting, reusing, contributing, and failing safely. It is here as a blog post and also as slides to be most flexible for teaching. This complements the [Tidy Data Illustrated Series](https://www.openscapes.org/blog/2020/10/12/tidy-data/) and is a collaboration around open science, coding, teaching, and art.*

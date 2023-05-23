@@ -5,10 +5,12 @@ author: Amy Steiker, Alexis Hunzinger, Luis Lopez, Catalina Oaida Taglialatela, 
 date: 2022-12-12
 slug: nasa-se-tim
 categories:
-  - community
+  # - community
   # - impact
   - nasa-framework
 image: ../../img/blog/nasa-se-tim-learn-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2022/12/12/nasa-se-tim/
 ---
 
 *We are a mentor community across NASA Earth science data centers (Distributed Active Archive Centers - DAACs). We are co-creating and teaching common tutorials to support researchers as they migrate analytical workflows to the Cloud.*

@@ -5,12 +5,14 @@ author: Tara Robertson, Stefanie Butland, Julie Lowndes
 date: 2023-05-17
 slug: mentor-coach
 categories:
-  - community
+  # - community
   # - impact
   # - impact
   - noaa-fisheries
   - nasa-framework
 image: mrlowndes-bee-square.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2023/05/17/mentor-coach/
 ---
 
 *February through May 2023, Openscapes Mentors from across governments and academia came together for some hands-on learning and practice that had a profound effect on the way we will teach and lead going forward. We learned coaching skills that can help us as professionals -- skills like listening rather than solutioneering, asking open-ended questions that empower people to find their own agency and meet their needs. This is a program designed and facilitated by Tara Robertson, a Certified Professional Co-Active and International Coaching Federation Associate Certified Coach. Openscapes has been developing a professional collaborative relationship with Tara since [2021](https://www.openscapes.org/blog/2021/05/27/tara-robertson/). It was also impactful because it brought together Openscapes Mentors from across government groups (NASA Earthdata, NOAA Fisheries, EPA, California Waterboard) so they can learn together and support each other in the 2023 Year of Open Science.*

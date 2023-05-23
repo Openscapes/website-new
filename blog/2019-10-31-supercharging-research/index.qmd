@@ -5,10 +5,12 @@ author: Julie Lowndes
 date: 2019-10-31
 slug: supercharge
 categories:
-  - community
+  # - community
   - champions
   # - impact
 image: ../../img/blog/horst-seaside-chats-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2019/10/31/supercharging-research/
 ---
 
 ## Supercharging research with open data science and teamwork

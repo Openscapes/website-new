@@ -5,11 +5,14 @@ author: Lauren Buckley
 date: 2020-01-16
 slug: how-we-work
 categories:
-  - community
+  # - community
   # - impact
   # - how-to
   - case-study
+  - how-we-work
 image: ../../img/blog/buckleylab-trenchproject-getty-thermal.png
+aliases: 
+  - https://www.openscapes.org/blog/2020/01/16/how-we-work-buckley/
 ---
 
 *Dr. Lauren Buckley spent her fall sabbatical at NCEAS, where she chatted with Julie Lowndes about her lab practices and open data science. Here she shares how she is using practices from Openscapes in her own research group at the University of Washington. Learn more about her research at [faculty.washington.edu/lbuckley](http://faculty.washington.edu/lbuckley).*

@@ -5,10 +5,12 @@ author: Julie Lowndes, Erin Robinson
 date: 2021-10-18
 slug: nasa-open-source-science
 categories:
-  - community
+  # - community
   # - impact
   - nasa-framework
 image: ../../img/blog/nasa-science-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2021/10/18/nasa-open-source-science/
 ---
 
 *Last week NASA led an [Open Source Science for Data Processing and Archives Workshop](https://science.nasa.gov/researchers/science-data/open-source-science-workshop), announcing new initiatives to support open science. This was very exciting to be a part of — we learned about NASA's continuing leadership in open science and presented some of our work with Openscapes. This is a brief summary, and will be updated with links to slides and recordings.*

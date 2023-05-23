@@ -5,11 +5,13 @@ author: Julie Lowndes
 date: 2022-08-10
 slug: quarto-keynote
 categories:
-  - community
+  # - community
   # - how-to
   - quarto
   - conference
 image: ../../img/blog/horst_collaborate_penguins_telescope_square.png
+aliases: 
+  - https://www.openscapes.org/blog/2022/08/10/quarto-keynote/
 ---
 
 *This is a brief post summarizing my co-keynote at [rstudio::conf(2022)](https://www.rstudio.com/conference/), with [Mine Cetinkaya-Rundel](https://twitter.com/minebocek) titled Hello Quarto: share, collaborate, teach, reimagine.*

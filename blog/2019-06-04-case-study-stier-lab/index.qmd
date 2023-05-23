@@ -5,11 +5,13 @@ author: Stier Lab
 date: 2019-06-04
 slug: stier-lab
 categories:
-  - community
+  # - community
   - champions
   # - impact
   - case-study  
 image: ../../img/blog/stier-lab.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2019/06/04/case-study-stier-lab/
 ---
 
 # Champions Case Study: Stier Lab 

@@ -5,12 +5,14 @@ author: Allison Horst
 date: 2019-05-02
 slug: tidytuesday
 categories:
-  - community
+  # - community
   - champions
   # - how-to
   - study-group
   # - impact
 image: ../../img/blog/tidy_tuesday_3square.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/
 ---
 
 # Starting our \#tidytuesday hacky hours

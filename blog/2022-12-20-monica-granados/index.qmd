@@ -8,6 +8,8 @@ categories:
   # - community
   - community-call
 image: ../../img/blog/monica-granados-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2022/12/20/monica-granados/
 ---
 
 ## Reimagining open science as part of the climate movement

@@ -4,10 +4,12 @@ author: Erin Robinson, Julie Lowndes
 date: 2021-09-15
 slug: better-science-future-us
 categories:
-  - community
+  # - community
   - newsletter
   - nasa-framework
 image: ../../img/blog/horst_mentors_square.png
+aliases: 
+  - https://www.openscapes.org/blog/2021/09/15/better-science-for-future-us/
 ---
 
 ## Openscapes Newsletter #4: Better Science for Future Us

@@ -5,10 +5,12 @@ author: Arie Dash
 date: '2021-07-08'
 slug: csu-coast-cohort
 categories:
-  - community
+  # - community
   - champions
   # - impact
 image: ../../img/blog/horst_openscapes_champions-square.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2021/07/08/csu-coast-cohort/
 ---
 
 

@@ -5,10 +5,12 @@ author: Darcy Bradley
 date: 2020-07-06
 slug: rstudioconf-2020
 categories:
-  - community
+  # - community
   - art
   - coding
 image: ../../img/blog/emLab-code-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2020/07/06/better-data-management-for-better-science/
 ---
 
 ***Cross-posted at [emLab](https://emlab.msi.ucsb.edu/news/blog/better-data-management-better-data-science)***

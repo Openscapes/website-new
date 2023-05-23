@@ -8,6 +8,8 @@ categories:
   #- community
   - community-call
 image: ../../img/blog/kyber-design-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2023/04/06/kyber/
 ---
 
 ## **How the Kyber R package connects Google Sheets, RMarkdown, GitHub, and Agenda docs for open education**

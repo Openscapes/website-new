@@ -5,12 +5,14 @@ author: Ashleigh Novak
 date: 2020-03-31
 slug: fay-lab-experience
 categories:
-  - community
+  # - community
   - champions
   # - impact
   - case-study
   - study-group
 image: ../../img/blog/tweet-thefaylab-zoom-meeting-square.jpeg
+aliases: 
+  - https://www.openscapes.org/blog/2020/03/31/faylab-our-openscapes-experience/
 ---
 
 *[Ashleigh Novak](https://ashleighnovak.weebly.com/) is a spatial ecologist at the University of Massachusetts Dartmouth’s School for Marine Science & Technology (SMAST), focused on  integrating tagging data into stock assessments that inform fisheries management. As a technical associate with the Fay Lab, Ashleigh participated at our [first in-person Openscapes Workshop](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/) at NOAA NEFSC in February 2020 and shares her experiences here. She notes below that “given the current, global situation of transitioning to at-home research, our lab is leaning on many of the tools and skills learned from Openscapes.” We hope our resources can help: please see our previous post on [tips for how to run remote workshops and meetings](https://www.openscapes.org/blog/2020/03/11/how-to-run-a-remote-workshop/). Thanks Ashleigh!*

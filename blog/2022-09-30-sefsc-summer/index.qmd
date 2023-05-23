@@ -5,11 +5,13 @@ author: "Molly Stevens, Adyan Rios, Erica Rule"
 date: 2022-09-30
 slug: 2022-sefsc-summer
 categories:
- - community
+ # - community
  - champions
  #- impact
  - noaa-fisheries 
 image: ../../img/blog/sefsc-fates-commsplan-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2022/09/30/2022-sefsc-summer/
 ---
 
 *Note from Openscapes: This summer, we led a 2-month Champions Cohort with the National Oceanic and Atmospheric Administration (NOAA) Fisheries at the Southeast Fisheries Science Center, working with 40 staff and affiliates. These participants were from research teams, supervisors, and IT, and were interested in exploring new approaches to collaborating around complex workflows required in analyses and reports involving diverse teams, data flows, and analyses.*

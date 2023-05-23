@@ -6,10 +6,12 @@ date: 2019-04-25
 slug: summit-2
 categories:
   - champions
-  - community
+  # - community
   # - impact
   - medium.com  
 image: ../../img/blog/summit/elevator-selfie-square.jpg 
+aliases: 
+  - https://www.openscapes.org/blog/2019/04/25/summit-reflections2/
 ---
 
 # Openscapes summit reflections 2 — Changing the way we do science

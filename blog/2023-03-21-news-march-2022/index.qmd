@@ -5,11 +5,13 @@ author: Julie Lowndes and Erin Robinson
 date: 2022-03-21
 slug: news-spring-2022
 categories:
-  - community
+  # - community
   - newsletter
   - nasa-framework
   - noaa-fisheries
 image: ../../img/blog/ocean-square.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2022/03/21/news-march-2022/
 ---
 
 ## **Openscapes Newsletter #5: Spring 2022**

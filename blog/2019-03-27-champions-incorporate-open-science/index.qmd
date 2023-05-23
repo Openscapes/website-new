@@ -5,11 +5,13 @@ author: Julie Lowndes
 date: 2019-03-27
 slug: introducing-openscapes
 categories:
-  - community
+  # - community
   - champions
   - medium.com
   # - impact
 image: ../../img/blog/mrlowndes20131007-131005-7311_520x480.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2019/03/27/champions-incorporate-open-science/
 ---
 
 # Openscapes Champions incorporate open practices in their science

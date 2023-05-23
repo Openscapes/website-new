@@ -5,13 +5,15 @@ author: Julie Lowndes
 date: 2019-08-22
 slug: keynote-useR
 categories:
-  - community
+  # - community
   - conference
   - champions
   # - impact
   - art
   - medium.com  
 image: ../../img/blog/keynote/user-keynote-titleslide-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2019/08/22/user-keynote/
 ---
 
 ***This article is cross-posted on [medium.com](https://medium.com/read-write-participate/keynote-at-the-user-conference-ab91ee41803d)***

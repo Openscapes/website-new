@@ -5,10 +5,12 @@ author: Xiaohua Pan
 date: 2023-05-11
 slug: pathway-cloud-pan
 categories:
-  - community
+  # - community
   - nasa-framework
   # - impact
 image: ../../img/blog/pan-talk-case-study-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2023/05/11/pathway-cloud-computing/
 ---
 
 *This post is by Xiaohua Pan, from NASA GSFC/Goddard Earth Sciences Data and Information Services Center (GES DISC). Pan participated in the 2021 Cloud Hackathon, led by NASA Data Center (DAAC) staff who are part of the NASA Openscapes Mentor community. Following this first hands-on introduction to NASA Earthdata in the cloud, Pan continued to experiment with transitioning her workflow to the cloud. Sharing her experience through posters, talks, and here in this blog post, she is a research scientist, a data curator, and a bridge-builder between data centers and the user community.*

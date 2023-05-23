@@ -5,10 +5,12 @@ author: Julie Lowndes
 date: 2018-12-17
 slug: learn-r
 categories:
-  - community
+  # - community
   - coding
   # - how-to
 image: ../../img/blog/mrlowndes_140512-1160-2.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2018/12/17/want-to-learn-r/
 ---
 
 *updated with [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/) resource Apr 2020*

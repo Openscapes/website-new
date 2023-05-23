@@ -5,10 +5,12 @@ author: Julie Lowndes
 date: 2018-11-16
 slug: start-coding-club
 categories:
-  - community
+  # - community
   - study-group
   # - how-to
 image: ../../img/blog/mrlowndes_20150725-DSC_4217.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2018/11/16/how-to-start-a-coding-club/
 ---
 
 # How to start a coding club

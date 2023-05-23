@@ -5,9 +5,11 @@ author: Advisory Group
 date: 2020-09-30
 slug: advisory-meeting
 categories:
-  - community
+  # - community
   - champions
 image: ../../img/blog/mrlowndes-20141209-DSC_2356-square.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2020/09/30/advisory-meeting/
 ---
 
 ***Cross-posted: [Mozilla](https://foundation.mozilla.org/en/blog/advising-the-future-of-Openscapes/), [NCEAS](https://www.nceas.ucsb.edu/news/advising-future-openscapes)***

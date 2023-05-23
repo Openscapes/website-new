@@ -5,11 +5,13 @@ author: Corey Clatterbuck, Ileana Fenwick, Josh London, Luis Lopez, Cassie Nickl
 date: 2023-03-16
 slug: esip-winter-2023
 categories:
-  - community
+  # - community
   # - impact
   - noaa-fisheries
   - nasa-framework
 image: ../../img/blog/esip-2023-speakers-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2023/03/16/esip-winter-2023/
 ---
 
 *At the 2023 ESIP Winter Meeting, "Opening Doors to Open Science", we held a session called "[Better Science for Future Us: Openscapes stories and approaches for the Year of Open Science](https://2023januaryesipmeeting.sched.com/event/1EwXx)" with speakers from University of North Carolina (UNC), National Oceanic and Atmospheric Administration (NOAA) Fisheries, California Water Boards, NASA's National Snow and Ice Data Center, and NASA's Physical Oceanography Distributed Active Archive Center. The goals of this session were to hear from and boost a diverse set of leaders from across the US government and academia to highlight open science in daily work, including peer-teaching, mentoring, and learning. Building from our session at ESIP Winter 2022, we hope to create more channels for inter- and cross-agency learning, and share open science stories across agencies, as part of the [2023 Year of Open Science](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/) as recently declared by the US Biden-Harris Administration. Speakers shared stories about open science in government and their experiences with Openscapes. Stories were shared in a "Fishbowl" format, where speakers each shared and then there was a broader discussion with the 50+ participants. This blog is co-authored with the speakers.*

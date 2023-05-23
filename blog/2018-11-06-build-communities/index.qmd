@@ -5,10 +5,13 @@ author: Julie Lowndes
 date: 2018-11-06
 slug: build-communities
 categories:
-  - community
+  # - community
   #- study group
   #- how to
+  - how-we-work
 image: ../../img/blog/mrlowndes20131007-131005-7311.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2018/11/06/build-communities/
 ---
 
 # Build communities

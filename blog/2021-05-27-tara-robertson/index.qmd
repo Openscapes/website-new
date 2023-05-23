@@ -8,6 +8,8 @@ categories:
   # - community
   - community-call
 image: ../../img/blog/tara-hi.png
+aliases: 
+  - https://www.openscapes.org/blog/2021/05/27/tara-robertson/
 ---
 
 ## A Chat with Tara Robertson

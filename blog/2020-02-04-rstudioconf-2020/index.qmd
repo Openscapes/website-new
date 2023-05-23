@@ -5,11 +5,13 @@ author: Julie Lowndes
 date: 2020-02-04
 slug: rstudioconf-2020
 categories:
-  - community
+  # - community
   - conference
   - art
   - coding
 image: ../../img/blog/rstudioconf-horst-postcard-square.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2020/02/04/rstudioconf-2020/
 ---
 
 *Last week Openscapes went to the RStudio Conference! This is a brief summary of a conference that truly made history, both globally as RStudio announced it is a Public Benefit Corporation, and personally for me, since it marked five years of being part of the #rstats community. It is brief (and does not begin to provide a full summary!), but will be complemented by forthcoming blogs.*

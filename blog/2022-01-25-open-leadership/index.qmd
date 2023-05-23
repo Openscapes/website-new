@@ -9,6 +9,8 @@ categories:
   # - impact
   - community-call
 image: ../../img/blog/moz-movement-building-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2022/01/25/open-leadership/
 ---
 
 ## Open Leadership w/ Abby Cabunoc Mayes and Chad Sansing (and more!)

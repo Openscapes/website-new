@@ -5,9 +5,11 @@ author: Erin Robinson, Amanda Tan, Julie Lowndes
 date: '2021-03-10'
 slug: nasa-announcement
 categories:
-  - community
+  # - community
   - nasa-framework
 image: ../../img/blog/nasa-logo.png
+aliases: 
+  - https://www.openscapes.org/blog/2021/03/10/nasa-announcement/
 ---
 
 ## Announcing the NASA Openscapes Framework

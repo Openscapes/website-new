@@ -5,10 +5,12 @@ author: Anna Holder, Corey Clatterbuck
 date: 2021-12-07
 slug: california-waterboards-mentors
 categories:
-  - community
+  # - community
   - champions
   #- impact
 image: ../../img/blog/sy-river-sycamore.jpeg
+aliases: 
+  - https://www.openscapes.org/blog/2021/12/07/california-waterboards-mentors/
 ---
 
 *Openscapes began to work with and onboard mentors over the summer while also beginning writing the [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/) to help document our process. This post focuses on what the California Water Boards mentors learned and did as they assisted with the Fall 2021 Fisheries Dependent Data Users ([FDD](https://openscapes.github.io/2021-fdd)) and NOAA’s National Marine Fishery Service ([NMFS](https://openscapes.github.io/2021-noaa-nmfs/)) Champions Cohorts.*

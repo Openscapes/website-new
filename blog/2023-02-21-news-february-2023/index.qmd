@@ -5,11 +5,13 @@ author: Julie Lowndes and Stefanie Butland
 date: 2023-02-21
 slug: news-winter-2023
 categories:
-  - community
+  # - community
   - newsletter
   - nasa-framework
   - noaa-fisheries
 images: ../../img/blog/sb_paradise_road.png
+aliases: 
+  - https://www.openscapes.org/blog/2023/02/21/news-february-2023/
 ---
 
 ## **Openscapes Newsletter #6: Winter 2023**

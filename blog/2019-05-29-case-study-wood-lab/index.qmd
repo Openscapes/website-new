@@ -5,11 +5,13 @@ author: Wood Lab
 date: 2019-05-29
 slug: wood-lab
 categories:
-  - community
+  # - community
   - champions
   # - impact
   - case-study  
 images: ../../img/blog/wood-lab-logo.png  
+aliases: 
+  - https://www.openscapes.org/blog/2019/05/29/case-study-wood-lab/
 ---
 
 # Champions Case Study: Wood Lab 

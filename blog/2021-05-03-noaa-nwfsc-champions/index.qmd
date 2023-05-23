@@ -5,11 +5,13 @@ author: Erin Robinson, Julie Lowndes, Eric Ward
 date: 2021-05-03
 slug: noaa-nwfsc-champions
 categories:
-  - community
+  # - community
   - champions
   # - impact
   - noaa-fisheries
 image: ../../img/blog/tara-robertson-psychsafety-square.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2021/05/03/noaa-nwfsc-champions/
 ---
 
 *Starting in March, Openscapes led a 2-month Champions Cohort with the National Oceanic and Atmospheric Administration (NOAA), working with thirty fisheries scientists from NOAA’s Northwest Fisheries Science Center (NWFSC). These scientists were interested in exploring new approaches to data analysis and stewardship, and connecting with others at NWFSC with the same intent. This post focuses on what the cohort setup and participants achieved. It is co-authored with Dr. Eric Ward from NOAA NWFSC. See [https://openscapes.org/champions](https://openscapes.org/champions) for more background on the Champions program.*

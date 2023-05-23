@@ -5,13 +5,15 @@ author: Julie Lowndes, Erin Robinson
 date: 2021-05-07
 slug: may-updates
 categories:
-  - community
+  # - community
   - champions
   # - impact
   - newsletter
   - noaa-fisheries
   - nasa-framework
 image: ../../img/blog/mrlowndes-DSCF5824-square.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2021/05/07/may-updates/
 ---
 
 *Hello! This is Openscapes’ third newsletter. If you’re interested in seeing these infrequent updates in your inbox, please[ sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from our[ get involved](https://openscapes.org/contact) page).*

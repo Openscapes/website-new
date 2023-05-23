@@ -5,9 +5,11 @@ author: Julia Lowndes and Nicholas Tierney
 date: 2020-08-25
 slug: open-publishing
 categories:
-  - community
+  # - community
   - coding
 image: ../../img/blog/open-pub-fest-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2020/08/25/entryway-open-publishing/
 ---
 
 *In May 2020 we presented a virtual fireside chat at the [Open Publishing Fest](https://openpublishingfest.org/) called "Data Science as an Entryway to Open Publishing". The premise was that the open source R programming language is a powerhouse for data analysis and statistics -- and it also is fueling open publishing through R Markdown and a large, engaged, and innovative community. We briefly showed community-created examples of tutorials, blogs, websites, manuscripts, books, etc, and discussed how they are an entryway to open science, preprints, and open scientific publishing. This post is some reflections from the experience and summary of our [slides](https://zenodo.org/record/3873698#.XtbQo8Z7nOQ).*

@@ -5,11 +5,13 @@ author: Jayasundara Lab
 date: 2019-06-03
 slug: jayasundara-lab
 categories:
-  - community
+  # - community
   - champions
   # - impact
   - case-study  
 image: ../../img/blog/jayasundara-lab.png
+aliases: 
+  - https://www.openscapes.org/blog/2019/06/03/case-study-jayasundara-lab/
 ---
 
 # Champions Case Study: Jayasundara Lab 

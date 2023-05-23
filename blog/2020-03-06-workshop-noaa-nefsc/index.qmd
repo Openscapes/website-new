@@ -5,12 +5,14 @@ author: Julie Lowndes
 date: 2020-03-06
 slug: nefsc-2020
 categories:
-  - community
+  # - community
   - champions
   - coding
   # - impact
   - noaa-fisheries
 image: ../../img/blog/northeast_aliciamiller_square.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/
 ---
 
 *Last week Openscapes had its first-ever in-person 2-day workshop (the [Champions Program is remote-by-design](https://www.openscapes.org/blog/2019/01/28/introducing-champions-program/) so this was an in-person adaptation). The workshop was at the National Oceanic and Atmospheric Administration (NOAA) with six teams of fisheries scientists from NOAA's Northeast Fisheries Science Center (NEFSC), Woods Hole Oceanographic Institute (WHOI), and University of Massachusetts Dartmouth's School for Marine Science & Technology (SMAST). It was really wonderful to meet and work with these thoughtful scientists in person, and to see them leave the workshop energized to strengthen teamwork and community-based learning around open data science. This post will focus on what the participants did and achieved and a following post will include more details about the workshop structure.*

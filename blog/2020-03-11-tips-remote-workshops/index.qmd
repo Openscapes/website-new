@@ -5,9 +5,13 @@ author: Julie Lowndes
 date: 2020-03-11
 slug: tips-remote-workshops
 categories:
-  - community
+  # - community
   # - how-to
+  - how-we-work
+  - conference
 image: ../../img/blog/Cohort1_zoom_square.png
+aliases: 
+  - https://www.openscapes.org/blog/2020/03/11/how-to-run-a-remote-workshop/
 ---
 
 <!---

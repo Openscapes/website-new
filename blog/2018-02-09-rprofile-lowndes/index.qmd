@@ -5,10 +5,12 @@ author: Sean Kross and Kelly O'Briant
 date: 2018-02-09
 slug: rprofile-jsl
 categories:
-  - community
+  # - community
   - coding
   - conference
 image: ../../img/blog/mrlowndes_20141123-DSC_1304.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2018/02/09/rprofile_lowndes/
 ---
 
 # .rProfile Julia Stewart Lowndes

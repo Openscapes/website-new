@@ -5,11 +5,13 @@ author: Julie Lowndes
 date: 2020-11-30
 slug: incentivizing-nasem
 categories:
-  - community
+  # - community
   - champions
   # - impact
   - art
 image: ../../img/blog/NASEM-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2020/11/30/incentivizing-open-science/
 ---
 
 *In early November I had the honor to speak at the National Academies of Sciences, Engineering, and Medicine (NASEM) [Roundtable on Aligning Incentives for Open Science](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science). This Roundtable has been convening thought leaders and stakeholders to identify the whats, whys, and hows of open science policies and incentives. I was invited to provide a researcher perspective and opinions on priorities for funding open science. The first part of this post is a summary of my talk. The second part is some ideas about the Roundtable's draft Toolkit a document primarily intended for university leadership, academic department chairs, research funders, and government agencies audiences. Ideas about the Toolkit are from discussions with [Erin Robinson](https://twitter.com/connector_erin).*

@@ -5,12 +5,14 @@ author: Kourtney Burger for NOAA Fisheries
 date: 2022-12-09
 slug: case-study-swfsc-sael
 categories:
-  - community
+  # - community
   - champions
   #- impact
   - case-study
   - noaa-fisheries
 image: ../../img/blog/swfsc-sael-site-kourtney-burger_square.png
+aliases: 
+  - https://www.openscapes.org/blog/2022/12/09/case-study-swfsc-sael/
 ---
 
 *This blog post is authored by Kourtney Burger and is [cross-posted from the NOAA Fisheries Science blog](https://www.fisheries.noaa.gov/science-blog/sound-bytes-championing-open-science). Kourtney works as a biological science technician with the SWFSC Acoustic Ecology Lab. She is responsible for the lab's data management and general lab management and maintenance. Her current research interests include using passive acoustics monitoring as a non-invasive way to study marine mammals in their natural environments. When Kourtney's not working, you can find her spending time outdoors and hanging out with her dog.*

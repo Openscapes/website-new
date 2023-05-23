@@ -5,11 +5,13 @@ author: Therkildsen Lab
 date: 2019-06-10
 slug: therkildsen-lab
 categories:
-  - community
+  # - community
   - champions
   # - impact
   - case-study  
 image: ../../img/blog/therkildsen-logo.png
+aliases: 
+  - https://www.openscapes.org/blog/2019/06/10/case-study-therkildsen-lab/
 ---
 
 # Champions Case Study: Therkildsen Lab 

@@ -5,10 +5,12 @@ author: Julie Lowndes and Allison Horst
 date: 2020-10-12 
 slug: tidy-data
 categories:
-  - community
+  # - community
   - art
   - coding
 image: ../../img/blog/tidydata/tidydata_7-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2020/10/12/tidy-data/
 ---
 
 *This illustrated series was a collaboration between Julie and Allison, who like to talk endlessly about data, code, teaching, open science, and art. We've been collaborating since the beginnings of Openscapes: Allison created all artwork for the Openscapes website and slides and was part of the [inaugural Champions cohort](https://www.openscapes.org/blog/2019/06/12/wins-cohort1/). Here, we wanted these illustrations to tell a story about why tidy data is so powerful for efficiency, repeatability, and collaboration, but also stand alone to be most flexible for teaching.*

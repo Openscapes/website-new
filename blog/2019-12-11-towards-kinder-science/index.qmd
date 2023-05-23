@@ -5,9 +5,12 @@ author: Julie Lowndes
 date: 2019-12-11
 slug: kinder-science
 categories:
-  - community
+  # - community
   # - impact
+  - how-we-work
 image: ../../img/blog/horst_openscapes_desert_1500px_square.png
+aliases: 
+  - https://www.openscapes.org/blog/2019/12/11/towards-kinder-science/
 ---
 
 ## Towards kinder science

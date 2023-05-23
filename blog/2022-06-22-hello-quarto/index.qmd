@@ -11,6 +11,8 @@ categories:
   - quarto
   - nasa-framework
 image: ../../img/blog/nasa-openscapes-rladies-quarto-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2022/06/22/hello-quarto/
 ---
 
 ## Hello Quarto! A Quarto Chat with NASA Openscapes, co-hosted with R-Ladies Santa Barbara

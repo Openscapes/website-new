@@ -8,6 +8,8 @@ categories:
   # - community
   - community-call
 image: ../../img/blog/apreshill-web.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2021/10/01/alison-hill/
 ---
 
 ## An R Markdown Chat with Alison Hill

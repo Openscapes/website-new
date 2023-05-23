@@ -10,6 +10,8 @@ categories:
   - noaa-fisheries
   - newsletter
 image: ../../img/blog/mr-lowndesDSCF1746-square.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2021/11/03/champions-fall-cohorts-2021/
 ---
 
 _This Fall we have been leading three Champions Cohorts, with Fisheries Dependent Data Users ([FDD](https://openscapes.github.io/2021-fdd)), NOAA’s National Marine Fishery Service ([NMFS](https://openscapes.github.io/2021-noaa-nmfs/)), and the Gordon and Betty Moore Foundation’s Symbiosis in Aquatic Systems Initiative ([SASI](https://openscapes.github.io/2021-sasi)). We’ll share separate blog posts about each Cohort; here we wanted to focus on how we have been iterating the Champions program._

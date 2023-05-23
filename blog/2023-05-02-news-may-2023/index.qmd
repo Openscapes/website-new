@@ -5,9 +5,11 @@ author: Julie Lowndes and Ileana Fenwick
 date: 2023-05-02
 slug: news-spring-2023
 categories:
-  - community
+  # - community
   - newsletter
 image: ../../img/blog/fig-mountain-2023-square.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2023/05/02/news-may-2023/
 ---
 
 *Welcome to Openscapes' seventh newsletter! If you're interested in seeing these infrequent updates in your inbox, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from our [get involved](https://openscapes.org/contact) page). And! If you have signed up but did not see this in your inbox, please check your spam folder!*

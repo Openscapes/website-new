@@ -5,9 +5,12 @@ author: Julie Lowndes
 date: 2020-06-25
 slug: lessons-remote-meetings
 categories:
-  - community 
+  #- community 
   # - how-to
+  - how-we-work
 image: ../../img/blog/lakesabrina_square.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2020/06/25/lessons-remote-meetings/
 ---
 
 I had the pleasure of writing a piece with Abby Cabunoc Mayes and Chad Sansing that was just published in Open Source Way called [**3 lessons from remote meetings we’re taking back to the office**](https://opensource.com/article/20/6/remote-meetings). For me, this includes our scientific offices and labs.  

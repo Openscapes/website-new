@@ -8,6 +8,8 @@ categories:
   # - community
   - community-call
 image: ../../img/blog/duckles-square.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2022/04/26/beth-duckles/
 ---
 
 ## A Qualitative Data Analysis Chat with Dr. Beth Duckles

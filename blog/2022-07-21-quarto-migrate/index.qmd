@@ -5,10 +5,12 @@ author: Stefanie Butland, Ileana Fenwick
 date: 2022-07-21
 slug: quarto-migrate
 categories:
-  - community
+  # - community
   # - how-to
   - quarto
 image: ../../img/blog/quarto-commits-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2022/07/21/quarto-migrate/
 ---
 
 ## Learning by doing: migrating to Quarto from Bookdown

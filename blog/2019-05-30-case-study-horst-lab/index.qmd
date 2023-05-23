@@ -5,11 +5,13 @@ author: Horst Lab
 date: 2019-05-30
 slug: horst-lab
 categories:
-  - community
+  # - community
   - champions
   # - impact
   - case-study
 image: ../../img/blog/horst-tidyverse-nebula.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2019/05/30/case-study-horst-lab/
 ---
 
 # Champions Case Study: Horst Lab 

@@ -5,10 +5,12 @@ author: Erin Robinson & Julie Lowndes
 date: '2021-07-13'
 slug: css-cohort
 categories:
-  - community
+  # - community
   - champions
   # - impact
 images: ../../img/blog/pathway-example-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2021/07/13/css-cohort/
 ---
 
 ## Introducing the CS&S Champions Cohort

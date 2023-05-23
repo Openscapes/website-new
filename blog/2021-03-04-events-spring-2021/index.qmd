@@ -5,10 +5,12 @@ author: Julie Lowndes and Erin Robinson
 date: 2021-03-04
 slug: events-spring-2021
 categories:
-  - community
+  # - community
   - champions
   - newsletter
 image: ../../img/blog/mrlowndes_DSCF1808-HDR-square.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2021/03/04/events-spring-2021/
 ---
 
 *Welcome to Openscapes’ second newsletter! If you’re interested in seeing these infrequent updates in your inbox, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from our [get involved](https://openscapes.org/contact) page.* 

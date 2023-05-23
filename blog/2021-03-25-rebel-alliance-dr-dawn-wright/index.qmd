@@ -9,6 +9,8 @@ categories:
   # - impact
   - community-call
 image: ../../img/blog/mozfest-welcome-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2021/03/25/rebel-alliance-dr-dawn-wright/
 ---
 
 

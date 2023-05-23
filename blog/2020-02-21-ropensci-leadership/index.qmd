@@ -5,11 +5,13 @@ author: Julie Lowndes
 date: 2020-02-21
 slug: rstudioconf-2020
 categories:
-  - community
+  # - community
   # - impact
   - coding
   - conference
 image: ../../img/blog/tweet-jafflerbach-runconf15-photo.png
+aliases: 
+  - https://www.openscapes.org/blog/2020/02/21/ropensci-leadership/
 ---
 
 ***Cross-posted on [rOpenSci](https://ropensci.org/blog/2020/02/21/ropensci-leadership/)*** 

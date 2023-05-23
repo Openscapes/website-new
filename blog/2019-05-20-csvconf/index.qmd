@@ -5,10 +5,12 @@ author: Julie Lowndes
 date: 2019-05-20
 slug: twitter-community
 categories:
-  - community
+  # - community
   - coding
   # - impact
 image: ../../img/blog/csvconf_llama.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2019/05/20/csvconf/
 ---
 
 # A conference for open data leaders

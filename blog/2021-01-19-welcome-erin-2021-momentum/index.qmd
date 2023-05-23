@@ -5,10 +5,12 @@ author: Julie Lowndes and Erin Robinson
 date: 2021-01-19
 slug: welcome-erin
 categories:
-  - community
+  # - community
   # - impact
   - newsletter
 image: ../../img/blog/zoom_erin_julie_square.png
+aliases: 
+  - https://www.openscapes.org/blog/2021/01/19/welcome-erin-2021-momentum/
 ---
 
 *Welcome! This blog post is also Openscapes’ first newsletter. If you’re interested in seeing these infrequent updates in your inbox, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from the [get involved](https://openscapes.org/contact) page).* 

@@ -5,9 +5,13 @@ author: Julie Lowndes
 date: 2020-01-05
 slug: openscapes-2020
 categories:
-  - community
+  # - community
   # - impact
+  - champions
+  - how-we-work
 image: ../../img/blog/nineteen-oaks-khora.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2020/01/05/openscapes-2020/
 ---
 
 *Openscapes' vision is a scientific culture that is more efficient and collaborative, and can uncover data-driven solutions faster. We engage and empower scientists with open data science, which not only increases transparency and reproducibility in science, but also enables [kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). This is a brief recap of how we began doing this in 2019 and how we will continue in 2020.*

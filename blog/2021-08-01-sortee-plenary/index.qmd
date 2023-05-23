@@ -5,12 +5,14 @@ author: Julie Lowndes and Erin Robinson
 date: 2021-08-01
 slug: plenary-sortee
 categories:
-  - community
+  # - community
   - champions
   - conference
   # - impact
   - art
 image: ../../img/blog/sortee-betterscience-slide-square.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2021/08/01/sortee-plenary/
 ---
 
 *In July 2021 we gave a plenary at the inaugural [Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (SORTEE) conference](https://www.sortee.org/events/). SORTEE is a research community organization working to improve reliability and transparency through cultural and institutional changes in ecology, evolutionary biology, and related fields broadly defined. SORTEE is doing important work elevating open science within environmental science, and it was an honor to present about Openscapes at their inaugural conference. It was also a nice moment to reflect about Openscapes, as this year marks ten years of [Ocean Health Index assessments](http://ohi-science.org), three years since Julie's Mozilla Fellowship that launched Openscapes, two years after the [useR!2019 keynote](https://www.openscapes.org/blog/2019/08/22/user-keynote/) and one year after the [ESIP plenary](https://www.openscapes.org/blog/2020/08/03/esip-plenary/) where we've been able to iteratively describe the vision and momentum of Openscapes. This post is some highlights about this 30-minute talk where we shared what we've been learning through Openscapes and working with Champions Cohorts together this past year and how we are approaching scaling and movement building going forward.*

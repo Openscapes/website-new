@@ -5,9 +5,11 @@ author: Julie Lowndes
 date: 2018-11-20
 slug: introducing-openscapes
 categories:
-  - community
+  # - community
   - medium.com
 image: ../../img/blog/snyder.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2018/11/20/introducing-openscapes/
 ---
 
 # Introducing Openscapes

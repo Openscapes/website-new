@@ -5,11 +5,13 @@ author: Pinsky Lab
 date: 2019-06-06
 slug: pinsky-lab
 categories:
-  - community
+  # - community
   - champions
   # - impact
   - case-study  
 image: ../../img/blog/pinsky-lab.jpg
+aliases: 
+  - https://www.openscapes.org/blog/2019/06/06/case-study-pinsky-lab/
 ---
 
 # Champions Case Study: Pinsky Lab 

@@ -5,11 +5,13 @@ author: Allison Horst and Julie Lowndes
 date: 2020-02-18
 slug: r-for-excel
 categories:
-  - community 
+  # - community 
   - conference
   - art
   - coding
 image: ../../img/blog/r-for-excel-monsters-square.png
+aliases: 
+  - https://www.openscapes.org/blog/2020/02/18/r-for-excel/
 # photo:
 #  url: img/r-for-excel-monsters.jpg
 #  author: photo by Brunel Johnson with art by Allison Horst

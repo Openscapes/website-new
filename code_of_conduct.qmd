@@ -4,7 +4,7 @@ title: ""
 ::: column-screen
 ![](images/banner_imgs/text_banners/CoC_banner.png)
 
-::: white-div
+::: {.white-div}
 ## Code of Conduct
 
 **Version 2.1, June 2022**

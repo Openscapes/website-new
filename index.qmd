@@ -30,12 +30,12 @@ listing:
     fields: [title, image, description, date, categories]
 ---
 
-::: column-screen
+::: {.column-screen}
 ![](images/banner_imgs/original_banners/horst_openscapes_grassland_big-text.png)
 :::
 
-::: column-screen
-::: white-div
+::: {.column-screen}
+::: {.white-div}
 ::: {.blue-underline .center-text}
 # **WHAT WE DO**
 :::
@@ -44,8 +44,8 @@ listing:
 :::
 :::
 
-::: column-screen
-::: white-div
+::: {.column-screen}
+::: {.white-div}
 ::: {.center-text}
 ::: {.grid}
 
@@ -90,8 +90,8 @@ listing:
 :::
 :::
 
-::: column-screen
-::: light-gray-div
+::: {.column-screen}
+::: {.light-gray-div}
 ::: {.blue-underline .center-text}
 # **ATTEND AN EVENT**
 :::
@@ -106,8 +106,8 @@ The Openscapes team holds regular community calls, participates in conference ta
 
 <br>
 
-::: column-screen
-::: white-div
+::: {.column-screen}
+::: {.white-div}
 ::: {.blue-underline .center-text}
 # **FROM OUR BLOG**
 :::
@@ -123,8 +123,8 @@ Blog posts are both Openscapes stories and advice snippets for the community. So
 
 <br>
 
-::: column-screen
-::: light-gray-div
+::: {.column-screen}
+::: {.light-gray-div}
 ::: {.blue-underline .center-text}
 # **INCUBATED BY MOZILLA AND NCEAS**
 :::
@@ -137,7 +137,7 @@ Openscapes bridges data-intensive environmental science with the open movement. 
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "100%"
 #| fig-alt: "Sidy-by-side Mozilla and NCEAS logos, written in white text on black background; The Mozilla logo is spelled, 'moz://a`; the NCEAS logo is the morpho butterfly to the left the the aconymn, 'NCEAS' atop the full name, 'National Center for Ecological Analysis and Synthesis'"
 knitr::include_graphics("images/clients/mozilla_nceas_gray.png")
@@ -157,8 +157,8 @@ knitr::include_graphics("images/clients/mozilla_nceas_gray.png")
 
 <br>
 
-::: column-screen
-::: white-div
+::: {.column-screen}
+::: {.white-div}
 ::: {.grid}
 
 ::: {.g-col-6}

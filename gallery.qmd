@@ -2,12 +2,12 @@
 title: ""
 ---
 
-::: column-screen
+::: {.column-screen}
 ![](images/banner_imgs/text_banners/gallery_banner.png)
 
 <br>
 
-::: white-div
+::: {.white-div}
 
 ::: {.medium-body-text .center-text}
 **Original artwork by [Dr. Allison Horst](https://allisonhorst.com/) helps bring Openscapes ideas and feelings to life.** 
@@ -49,7 +49,7 @@ title: ""
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "25%"
 #| fig-alt: "A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment."
 knitr::include_graphics("images/logo/openscapes_hex_design_final_correct_dimensions.png")
@@ -63,7 +63,7 @@ knitr::include_graphics("images/logo/openscapes_hex_design_final_correct_dimensi
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "85%"
 #| fig-alt: "A landscape consisting of a grassy meadow next to a sandy beach and ocean, a winding river, and distant mountains. In the foreground, a sad bunny and skunk are working alone on their laptops, each with a rain cloud over their heads. Nearby is a trailhead with a fox holding a 'Welcome!' sign for a variety of different critters to see. Past the trailhead are branching pathways through the Openscapes landscape. No matter the path, however, there are small groups of animals working together to find their way. Nods to data science are scattered throughout the image, including mountains made of data points and a satellite in the sky."
 knitr::include_graphics("images/page_imgs/horst_openscapes_champions.jpg")
@@ -81,7 +81,7 @@ knitr::include_graphics("images/page_imgs/horst_openscapes_champions.jpg")
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "50%"
 #| fig-alt: "The Openscapes theory of change illustrated as concentric circles. The outer gray circle represents approaches. The phrases, 'Data, Evidence, Knowledge', 'Theory, Understanding', and 'Methods, Science, Policy' are written aatop this gray circle. Blue  boxes sit atop the gray circle as well. They say, 'QUESTIONS teams tackle', 'TEAMS: scientists, researchers, practitioners', 'PARTNERS + COMMUNITIES'. A green circle representing Open Data Science Practices sits within the gray outer cricle. The following words are writtedn atop the green circle: 'Kindess + Inclusion', 'Robust Analyses', 'Streamlined Collaboration', 'Expanded Communications'. At the center of this diagram is a Ven Diagram of three overlapping orange circles representing Open Data Science Tools. Once circle represents 'Code + Version Control' (tools such as git, R, Python), 'Contribution Platforms' (tools such as GitHub, disqus), and 'Publication + Distribution' (tools such as R Markdown, dashboards, websites)."
 knitr::include_graphics("images/diagrams/horst_pew_tools_practice_mindset.jpg")
@@ -99,7 +99,7 @@ knitr::include_graphics("images/diagrams/horst_pew_tools_practice_mindset.jpg")
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "60%"
 #| fig-alt: "Three people working and learning together. Two people sit at their open laptop computers at a round table. A third person stands near the table and points to a large projection screen on the wall, which displays a workflow for wrangling data. A large window provides a view of the rolling green hills made of data points outside."
 knitr::include_graphics("images/seaside_chats/horst-seaside-chats.png")
@@ -123,7 +123,7 @@ From Allison’s [openscapes artwork on github](https://github.com/allisonhorst/
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "75%"
 #| fig-alt: "A three-part schematic. On the left is a natural landscape made of data points -- the stars in the sky, the mountain ridge, and the rocks in the river represent data points and line graphs. The flowers in the foreground are actually a part of a lolipop chart. A satellite hovers in the sky overhead. The words 'Environmental data' are written at the top of the image. An arrow leads us from 'Enviornmental Data' to the step, 'import', then to 'TIDY' as we transition to the middle schematic. At the center of this middle 'Data Analysis' schematic is the 'Transform' > 'Visualize' > 'Model' > repeat cycle. Different data science community logos surround this cycle, including RStudio, R-Ladies, Mozilla, The Carpentries, and rOpenSci. The right-hand side of the image illustrates the communication phase of environmental data science. At the top, a person presents data visualizations with the slide title, 'Conservation Benefits' to an audience. In the middle is a naturalist on the beach with a family. The naturalist is holding kelp and pointing to a whale in the ocean. At the bottom is a paper report with text and a data visualization sitting next to an open laptop. On the laptop screen reads the words, 'My Science Blog!' atop some text and another data visualization."
 knitr::include_graphics("images/useR_2019_illustrations/horst-eco-r4ds.png")
@@ -137,7 +137,7 @@ knitr::include_graphics("images/useR_2019_illustrations/horst-eco-r4ds.png")
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "75%"
 #| fig-alt: "A feedback loop. On one half of the loop, differnt colored hands reach towards the center of a circle. On the other half of the loop is a field with three trees standing against blue sky. A light grid underlies the landscape as if it were a data visualization."
 knitr::include_graphics("images/useR_2019_illustrations/horst-lowndes-loop.png")
@@ -151,7 +151,7 @@ knitr::include_graphics("images/useR_2019_illustrations/horst-lowndes-loop.png")
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "75%"
 #| fig-alt: "In the foreground, Luke sits on the bank of a bog with his head hanging in his lap. R2D2 leans up agains a tree. In the background, an X-wing is half submerged in the bog."
 knitr::include_graphics("images/useR_2019_illustrations/horst-starwars-luke.png")
@@ -165,7 +165,7 @@ knitr::include_graphics("images/useR_2019_illustrations/horst-starwars-luke.png"
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "75%"
 #| fig-alt: "In the foreground, Yoda stands facing towards the bog and his right arm outstretched. In the background, Luke and R2D2 stand on the opposite bank looking up at the X-wing, which hovers just above the water's surface. Water and bog vegetation drip off of it."
 knitr::include_graphics("images/useR_2019_illustrations/horst-starwars-yoda.png")
@@ -179,7 +179,7 @@ knitr::include_graphics("images/useR_2019_illustrations/horst-starwars-yoda.png"
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "75%"
 #| fig-alt: "Rey uses the force to levitate open data science tools, platforms, and data visualizations, including the R, GitHut, and Twitter logos, a bar plot, line plot, area plot, and petal plot."
 knitr::include_graphics("images/useR_2019_illustrations/horst-starwars-rey.png")
@@ -193,7 +193,7 @@ knitr::include_graphics("images/useR_2019_illustrations/horst-starwars-rey.png")
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "75%"
 #| fig-alt: "Yoda, Han, C3PO, R2D2, Luke, Lei, and Chewbacca all put their hands in a circle."
 knitr::include_graphics("images/useR_2019_illustrations/horst-starwars-hands.png")
@@ -211,7 +211,7 @@ knitr::include_graphics("images/useR_2019_illustrations/horst-starwars-hands.png
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "100%"
 #| fig-alt: "Digital illustration of two cute fuzzy monsters sitting on a park bench with a smiling data table between them, all eating ice cream together. In text above the illustration are the hand drawn words 'make friends with tidy data'."
 knitr::include_graphics("images/tidydata/tidydata_7.jpg")

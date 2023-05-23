@@ -2,12 +2,12 @@
 title: ""
 ---
 
-::: column-screen
+::: {.column-screen}
 ![](images/banner_imgs/text_banners/mentors_framework_banner.png)
 
 <br>
 
-::: white-div
+::: {.white-div}
 
 ::: {.medium-body-text .center-text}
 **The Mentors Framework is a multi-year engine for culture change within organizations.**
@@ -21,13 +21,13 @@ We began developing the Mentors Framework in 2021 in partnership with NASA. We h
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "10%"
 #| fig-alt: "A hedgehog wearing a purple baseball cap with the orange Openscapes logo on the front has a single map tucked under one arm and holds a stack of maps in its other outstretched arm."
 knitr::include_graphics("images/minis/hedgehog_hat.png")
 ```
 
-::: {.yellow-bg }
+::: {.yellow-bg}
 ::: {.medium-body-text .center-text}
 Learn more about the teams who have adopted the Mentors Framework and explore their open work and resources!
 :::

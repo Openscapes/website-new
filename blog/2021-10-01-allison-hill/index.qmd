@@ -5,7 +5,8 @@ author: Erin Robinson, Julie Lowndes, Alison Hill
 date: 2021-10-01
 slug: alison-hill
 categories:
-  - community
+  # - community
+  - community-call
 image: ../../img/blog/apreshill-web.jpg
 ---
 

@@ -2,12 +2,12 @@
 title: ""
 ---
 
-::: column-screen
+::: {.column-screen}
 ![](images/banner_imgs/text_banners/faq_banner.png)
 
 <br>
 
-::: white-div
+::: {.white-div}
 
 ::: {.medium-body-text .center-text}
 The Openscapes Champions Program is not a typical training workshop for individuals. **Through Openscapes, you focus on your own work with your team.**

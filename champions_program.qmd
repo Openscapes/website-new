@@ -3,12 +3,12 @@ title: " "
 # title-block-banner: images/banner_imgs/original_banners/horst_openscapes_desert_breadcrumbs.png 
 ---
 
-::: column-screen
+::: {.column-screen}
 ![](images/banner_imgs/text_banners/champions_program_banner.png)
 
 <br>
 
-::: white-div
+::: {.white-div}
 
 ::: {.medium-body-text .center-text}
 **Openscapes Champions is an open data science mentorship program for science teams.**
@@ -24,7 +24,7 @@ We support researchers to reimagine data analysis & stewardship as a collaborati
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "85%"
 #| fig-alt: "A landscape consisting of a grassy meadow next to a sandy beach and ocean, a winding river, and distant mountains. In the foreground, a sad bunny and skunk are working alone on their laptops, each with a rain cloud over their heads. Nearby is a trailhead with a fox holding a 'Welcome!' sign for a variety of different critters to see. Past the trailhead are branching pathways through the Openscapes landscape. No matter the path, however, there are small groups of animals working together to find their way. Nods to data science are scattered throughout the image, including mountains made of data points and a satellite in the sky."
 knitr::include_graphics("images/page_imgs/horst_openscapes_champions.jpg")
@@ -46,13 +46,13 @@ Each Cohort Call uses the [Champions Lesson Series](https://openscapes.github.io
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "10%"
 #| fig-alt: "An orange fox wearing a purple baseball cap with the orange Openscapes logo on the front holds a white flag that says, 'Welcome!' in its outstretched arm."
 knitr::include_graphics("images/minis/fox_hat.png")
 ```
 
-::: {.yellow-bg }
+::: {.yellow-bg}
 ::: {.medium-body-text .center-text}
 {{< fa book-open title="An open book" >}} Check out our open educational resources!
 :::

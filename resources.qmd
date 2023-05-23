@@ -2,12 +2,12 @@
 title: ""
 ---
 
-::: column-screen
+::: {.column-screen}
 ![](images/banner_imgs/text_banners/resources_banner.png)
 
 <br>
 
-::: white-div
+::: {.white-div}
 
 ::: {.medium-body-text .center-text}
 **This curated list of resources is meant to welcome environmental scientists who are interested in engaging with the open data science movement.**
@@ -19,7 +19,7 @@ This R-focused list is not meant to be comprehensive of all the incredible resou
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "10%"
 #| fig-alt: "A green tree with a tall and wide canopy. Only a small amount of the brown trunk is visible."
 knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
@@ -38,7 +38,7 @@ For example, the Ocean Health Index describes how open software and borrowing pr
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "10%"
 #| fig-alt: "An orange fox with a fluffy white-tipped tail and white chin, facing right."
 knitr::include_graphics("images/minis/horst_openscapes_grassland_fox.png")
@@ -54,7 +54,7 @@ Learning to code should be fun since you are learning powerful and empowering to
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "10%"
 #| fig-alt: "A brown deer with small antlers, facing left."
 knitr::include_graphics("images/minis/horst_openscapes_grassland_deer.png")
@@ -74,7 +74,7 @@ We recommend using R with RStudio, which not only provides a supportive infrastr
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "10%"
 #| fig-alt: "A California condor soaring above so that we are viewing it's underside. It has a reddish head, black body, and black and white wings."
 knitr::include_graphics("images/minis/horst_openscapes_grassland_condor.png")

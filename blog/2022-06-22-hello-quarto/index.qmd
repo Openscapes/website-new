@@ -5,8 +5,8 @@ author: Sam Csik, Julie Lowndes, Amy Steiker, Catalina Oaida Taglialatela, Aaron
 date: 2022-06-22
 slug: hello-quarto
 categories:
-  - community
-  # - community-call
+  # - community
+  - community-call
   # - how-to
   - quarto
   - nasa-framework

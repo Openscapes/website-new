@@ -5,8 +5,8 @@ author: Monica Granados, Julie Lowndes, Stefanie Butland
 date: 2022-12-20
 slug: monica-granados
 categories:
-  - community
-  # - community-call
+  # - community
+  - community-call
 image: ../../img/blog/monica-granados-square.png
 ---
 

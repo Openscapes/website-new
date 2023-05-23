@@ -35,7 +35,7 @@ website:
       - text: "BLOG"
         href: blog.qmd
       - text: "GET INVOLVED"
-        menu: 
+        menu:
           - text: "CONNECT WITH US"
             href: connect.qmd
           - text: "ATTEND AN EVENT"
@@ -50,6 +50,7 @@ website:
         href: https://fosstodon.org/@openscapes
       - icon: envelope
         href: mailto:hello@openscapes.org
+  
   page-footer:    
     background: light
     left: Openscapes is licensed under a [Creative Commons Attributions 4.0 International License](https://creativecommons.org/licenses/by/4.0/)

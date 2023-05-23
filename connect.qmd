@@ -2,12 +2,12 @@
 title: ""
 ---
 
-::: column-screen
+::: {.column-screen}
 ![](images/banner_imgs/text_banners/connect_with_us_banner.png) 
 
 <br>
 
-::: white-div
+::: {.white-div}
 ::: {.medium-body-text .center-text}
 **Openscapes is about engaging, empowering, and amplifying each other as we increase the visibility, value, and practice of open data science within our scientific communities.**
 :::
@@ -26,7 +26,7 @@ title: ""
 
 ```{r}
 #| echo: false
-#| fig-align: center
+#| fig-align: "center"
 #| out-width: "13%"
 #| fig-alt: "An orange salmon with dark brown spots speckled down its back."
 knitr::include_graphics("images/minis/horst_openscapes_mountains_salmon.png")

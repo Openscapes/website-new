@@ -2,14 +2,16 @@
 title: ""
 ---
 
-::: column-screen
+::: {.column-screen}
 ![](images/banner_imgs/text_banners/media_banner.png)
 
 <br>
 
-<div class="white-div">
+::: {.white-div}
 
-<p class="medium-body-text center-text">**Explore publications, media appearances, lessons, and presentations by the Openscapes team and affiliated cohorts.**</p>
+::: {.medium-body-text .center-text}
+**Explore publications, media appearances, lessons, and presentations by the Openscapes team and affiliated cohorts.**
+:::
 
 <br>
 
@@ -177,6 +179,6 @@ title: ""
 
 -  [Increasing the value and practice of environmental open data science](https://docs.google.com/presentation/d/13k_Vl5O7CXhgoWYxyUZJv1QfVRu3gv1gcpe7-GjBuJM/edit?usp=sharing) - October 17, 2018: Protein Sustainability Working Group, NCEAS, Santa Barbara, California (10 minutes)
 
-</div>
+:::
 
 :::

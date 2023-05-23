@@ -3,7 +3,7 @@
 // Import fonts
 @import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap'); // Sen is similar to Avenir? Imported Regular, Bold, Extra Bold -- can only specify font weights that exist in this Google font set and are imported here
 
-// Colors
+// Colors (define Sass color variables here)
 $white: #FFFFFF;
 $light-gray1: #EEEEEE; 
 $light-gray2: #DBDBDA; 
@@ -12,10 +12,7 @@ $medium-gray2: #555555;
 $dark-gray: #333333; 
 $blue: #38A7BB;
 $light-blue: #53C9DF;
-$light-orange: #FFEFE1;
-$banner-yellow: #F8DA92;
-$light-yellow: #FFF1CE;
-$lighter-yellow: #FFF6E1;
+$light-yellow: #FFF6E1;
 
 // Base document colors
 $navbar-bg: $white;
@@ -25,10 +22,6 @@ $body-bg: $white;
 $body-color: $dark-gray;
 $footer-bg: $medium-gray2; 
 $link-color: $blue;
-
-// Inline code
-
-// Code blocks
 
 ///////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////
@@ -55,12 +48,10 @@ blockquote p { // align blockquotes
 
 /////////////////////////// Class selectors (self-defined) ///////////////////////////
 
-.blue-underline { // underline text blue
+.blue-underline { // see https://stackoverflow.com/questions/1734618/how-to-increase-the-gap-between-text-and-underlining-in-css
   text-decoration: underline $blue;
-  //text-decoration: text-underline-offset $blue;
-  //border-bottom: 1px solid #000;
-  //padding-bottom: 3px;
-  
+  text-underline-offset: 10px; // https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-offset
+  text-decoration-thickness: 4px;
 }
 
 .large-body-text {
@@ -80,17 +71,13 @@ blockquote p { // align blockquotes
   color: $medium-gray2;
 }
 
-.blue-text{
+.blue-text {
   color: $blue;
 }
 
 .medium-gray1-text{
   color: $medium-gray1;
 }
-
-/*.dark-gray-text{
-  color: $medium-gray2//$dark-gray;
-} */
 
 .center-text { // center text
   text-align: center;
@@ -104,7 +91,7 @@ blockquote p { // align blockquotes
   padding-left: 160px;
 }
 
-.light-gray-div { // used to create light gray div 
+.light-gray-div { // used to create light gray div on landing page
   background-color: $light-gray2;
   padding-top: 15px;
   padding-bottom: 15px;
@@ -112,13 +99,7 @@ blockquote p { // align blockquotes
   padding-left: 160px;
 }
 
-/*.imageColumn { // NOT WORKING
-   float: left;
-   width: 25%;
-   padding: 10px;
-}*/
-
-.yellow-bg { // orange background color (see Our Approach and on Initiatives for example)
+.yellow-bg { // yellow background color (see Our Approach and on Initiatives for example)
   background-color: $light-yellow;
   padding-top: 5px;
   padding-bottom: 5px;
@@ -127,56 +108,19 @@ blockquote p { // align blockquotes
   border-radius: 15px;
 }
 
-.container { // create flexbox container (https://www.youtube.com/watch?v=phWxA89Dy94)
+/*.container { // create flexbox container (https://www.youtube.com/watch?v=phWxA89Dy94)
   display: flex;
   flex-direction: row; // default
   justify-content: space-around; //center, space-between
-}
+}*/
 
-.center-img { // center mozilla & nceas logos side-by-side: SC NOTE: NOT CENTERED 
+/*.center-img { // center mozilla & nceas logos side-by-side: SC NOTE: NOT CENTERED 
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
-}
-
-/*.column { // Create three equal columns that floats next to each other NOT WORKING
-  float: left;
-  width: 33.33%;
-  padding: 10px;
 }*/
 
-/*.row:after { // Clear floats after the columns NOT WORKING IDK?
-  content: "";
-  display: table;
-  clear: both;
-}*/
-
-/*@media screen and (max-width: 600px) { // Responsive layout - makes the three columns stack on top of each other instead of next to each other NOT WORKING IDK?
-  .column {
-    width: 100%;
-  }
-}*/
-
-/*.button-styling { // button styling
-  background: $white;
-  border-color: $blue;
-  color: $blue;
-  border-width: thin;
-  border-style: solid; // get rid of black border on bottom half
-  border: 2px, $blue; // get rid of black border on bottom half
-  font-size: 18px;
-  padding-top: 2px;
-  padding-bottom: 2px;
-  padding-right: 6px;
-  padding-left: 6px;
-  transition-duration: 0.4s;
-}*/
-
-/*.button-styling:hover { // button hover styling
-  background-color: $blue; 
-  color: $white;
-}*/
 
 /////////////////////////// Class selectors (identified by "Inspect"ing the site) ///////////////////////////
 
@@ -187,41 +131,11 @@ blockquote p { // align blockquotes
 
 // openscapes logo size/position (navbar top left); see https://github.com/robertmitchellv/robertmitchellv.github.io/blob/main/custom-dark.scss
 .navbar-brand img { 
-  max-height: 70px; // was 200px when using logo.png
+  max-height: 70px; // was 200px when using alt logo (from blogdown site)
   width: auto;
   padding-left: 20px;
 }
 
-.card { // blog listing card color on landing page
+.card { // udpate blog listing card color on landing page
   background-color: $light-gray1;
 }
-
-/*.btn-primary{ // can delete if we don't end up using buttons at bottom of index page
-  color: $white;
-}*/
-
-/*h1.title, .title.h1 { // banner text white
-  color: $white;
-} */
-
-/*.quarto-title-block .quarto-title-banner { // changes title-block-banner height (set in yaml)
-  height: 160%; 
-}*/
-
-/*.features {
-  padding-bottom: 2em;
-  height: calc(100% + 250px);
-}
-
-.feature {
-  margin-top: 20px;
-}
-
-.feature-top {
-  height: 75%;
-}
-
-.feature-bottom {
-  height: 25%;
-}*/
-

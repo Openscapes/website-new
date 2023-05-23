@@ -74,7 +74,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-title','listing-image','listing-description','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
+      page: 3,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
@@ -102,7 +103,7 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-title','listing-image','listing-description','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      page: 18,
+      page: 3,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
@@ -318,7 +319,64 @@ ul.task-list li input[type="checkbox"] {
 <p>The Openscapes team holds regular community calls, participates in conference talks, seminars, and webinars, and organizes opportunities through the Champions Program (and other new initiatives!). See our recent events below or attend an upcoming one. Browse <a href="./events.html">all events</a>).</p>
 <div id="listing-recent-events-listing" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="community" data-listing-date-sort="1680246000000" data-listing-file-modified-sort="1683602971765" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="0" data-categories="mentorship" data-listing-date-sort="1683529200000" data-listing-file-modified-sort="1684817062999" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./events/2023-05-08-reflections/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./events/2023-05-08-reflections/fig-mountain-2023-square.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+2023 Reflections Program
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('mentorship'); return false;">
+mentorship
+</div>
+</div>
+<div class="card-text listing-description">
+<p>An open data science coaching program for researchers and those who support research.</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 8, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="champions,nasa-framework" data-listing-date-sort="1681887600000" data-listing-file-modified-sort="1684817055406" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./events/2023-04-19-nasa-champions/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./events/2023-04-19-nasa-champions/nasa-openscapes.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+NASA Openscapes Champions Cohort
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('champions'); return false;">
+champions
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('nasa-framework'); return false;">
+nasa-framework
+</div>
+</div>
+<div class="card-text listing-description">
+Openscapes Champions Cohort for research teams using data from NASA Distributed Active Archive Centers (DAACs) and interested in open science and migrating their analytical…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 19, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="community" data-listing-date-sort="1680246000000" data-listing-file-modified-sort="1683602971765" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <a href="./events/2023-03-31-utm-biology/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -345,11 +403,11 @@ Mar 31, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="community-call" data-listing-date-sort="1679986800000" data-listing-file-modified-sort="1684733191898" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="3" data-categories="community-call" data-listing-date-sort="1679986800000" data-listing-file-modified-sort="1684733191898" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <a href="./events/2023-03-28-sean-kross-kyber/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./events/2023-03-28-sean-kross-kyber/sean-kross.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img data-src="./events/2023-03-28-sean-kross-kyber/sean-kross.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -372,11 +430,11 @@ Mar 28, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="conference" data-listing-date-sort="1678262400000" data-listing-file-modified-sort="1683601728803" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="4" data-categories="conference" data-listing-date-sort="1678262400000" data-listing-file-modified-sort="1683601728803" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <a href="./events/2023-03-08-wids/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./events/2023-03-08-wids/wids-matrix-1line-cropped.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img data-src="./events/2023-03-08-wids/wids-matrix-1line-cropped.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -399,11 +457,129 @@ Mar 8, 2023
 </div>
 </a>
 </div>
+<div class="g-col-1" data-index="5" data-categories="champions" data-listing-date-sort="1676448000000" data-listing-file-modified-sort="1683601775675" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./events/2023-02-15-epa-champions/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./events/2023-02-15-epa-champions/openscapes_hex.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Openscapes Champions: EPA Cohort
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('champions'); return false;">
+champions
+</div>
+</div>
+<div class="card-text listing-description">
+Openscapes Champions Cohort for the U.S. Environmental Protection Agency (EPA)
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Feb 15, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="conference,nasa-framework,noaa-fisheries" data-listing-date-sort="1674720000000" data-listing-file-modified-sort="1684732930023" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<a href="./events/2023-01-26-esip-winter-2023/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./events/2023-01-26-esip-winter-2023/esip-logo.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+ESIP 2023: Opening Doors to Open Science
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('conference'); return false;">
+conference
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('nasa-framework'); return false;">
+nasa-framework
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('noaa-fisheries'); return false;">
+noaa-fisheries
+</div>
+</div>
+<div class="card-text listing-description">
+<p>“Better science for future us: Openscapes stories and approaches for the Year of Open Science”</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jan 26, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-categories="mentorship" data-listing-date-sort="1674720000000" data-listing-file-modified-sort="1683602002472" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./events/2023-01-26-pathways-to-open-science/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./events/2023-01-26-pathways-to-open-science/openscapes-bims-bweems.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Pathways to Open Science with HBCU Research Teams
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('mentorship'); return false;">
+mentorship
+</div>
+</div>
+<div class="card-text listing-description">
+<p>Convening Black environmental and marine researchers to build community for the future of data intensive science</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jan 26, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="8" data-categories="community" data-listing-date-sort="1673424000000" data-listing-file-modified-sort="1683602035042" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./events/2023-01-11-hpc/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./events/2023-01-11-hpc/ecp-logo.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Openscapes: supporting better science for future us
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('community'); return false;">
+community
+</div>
+</div>
+<div class="card-text listing-description">
+<p>A talk by Julie Lowndes for the Best Practices for HPC Software Developers Webinar Series</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jan 11, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="recent-events-listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div>
+<p><br></p>
 </div>
 </div>
 <p><br></p>
@@ -493,6 +669,181 @@ newsletter
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 May 2, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="pathways" data-listing-date-sort="1682492400000" data-listing-file-modified-sort="1684808401363" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14">
+<a href="./blog/2023-04-26-pathways-report/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./img/blog/PathwaysToOpenScience_GroupZoom_square_2023_01_26.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Community building for Black environmental and marine researchers: Pathways to Open Science
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('pathways'); return false;">
+pathways
+</div>
+</div>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 26, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="community-call" data-listing-date-sort="1680764400000" data-listing-file-modified-sort="1684814223100" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<a href="./blog/2023-04-06-kyber/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./img/blog/kyber-design-square.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Designing automated workflows, a chat with Dr.&nbsp;Sean Kross
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('community-call'); return false;">
+community-call
+</div>
+</div>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 6, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="noaa-fisheries,nasa-framework" data-listing-date-sort="1678950000000" data-listing-file-modified-sort="1684814135965" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="15">
+<a href="./blog/2023-03-16-esip-winter-2023/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./img/blog/esip-2023-speakers-square.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+3 approaches for the year of open science
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('noaa-fisheries'); return false;">
+noaa-fisheries
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('nasa-framework'); return false;">
+nasa-framework
+</div>
+</div>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 16, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="newsletter,nasa-framework,noaa-fisheries" data-listing-date-sort="1676966400000" data-listing-file-modified-sort="1684814147675" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<a href="./blog/2023-02-21-news-february-2023/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img data-src="img/blog/sb_paradise_road.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Openscapes Newsletter #6: Winter 2023
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('newsletter'); return false;">
+newsletter
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('nasa-framework'); return false;">
+nasa-framework
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('noaa-fisheries'); return false;">
+noaa-fisheries
+</div>
+</div>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Feb 21, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-categories="champions,noaa-fisheries" data-listing-date-sort="1676534400000" data-listing-file-modified-sort="1684814120438" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11">
+<a href="./blog/2023-02-16-noaa-afsc-fall/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./img/blog/2022-afsc-zoom-square.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Impacts of Openscapes Training on Open Science Movement Building Inside NOAA’s Alaska Fisheries Science Center
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('champions'); return false;">
+champions
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('noaa-fisheries'); return false;">
+noaa-fisheries
+</div>
+</div>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Feb 16, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="8" data-categories="champions,noaa-fisheries" data-listing-date-sort="1674547200000" data-listing-file-modified-sort="1684814106883" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11">
+<a href="./blog/2023-01-24-noaa-nmfs-fall/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./img/blog/2022-noaa-sefsc-fall-tpb-square.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Nationwide Openscapes Training at NOAA Fisheries Science Centers: Facilitating Collaboration, Skill-sharing, and Open Science
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('champions'); return false;">
+champions
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('noaa-fisheries'); return false;">
+noaa-fisheries
+</div>
+</div>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jan 24, 2023
 </div>
 </div>
 </div>

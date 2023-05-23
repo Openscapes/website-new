@@ -12,14 +12,13 @@ categories:
 image: "nasa-openscapes.png"   
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 This is a mentorship and professional development opportunity for research teams; please see [**nasa-openscapes.github.io/champions**](https://nasa-openscapes.github.io/champions) for details.
 
 <br>
 
-```{r, out.width="40%", fig.align='center', preview=TRUE}
+```{r}
+#| out-width: "40%"
+#| fig-align: "center"
+#| preview: true
 knitr::include_graphics("nasa-openscapes.png")  
 ```

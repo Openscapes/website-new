@@ -1,5 +1,7 @@
 ---
 title: ""
+aliases: 
+  - https://www.openscapes.org/code-of-conduct/
 ---
 ::: column-screen
 ![](images/banner_imgs/text_banners/CoC_banner.png)

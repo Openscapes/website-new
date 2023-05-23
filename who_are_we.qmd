@@ -1,6 +1,8 @@
 ---
 title: ""
 # title-block-banner: images/banner_imgs/original_banners/horst_openscapes_arctic_1500px.png
+aliases: 
+  - https://www.openscapes.org/about/
 ---
 
 ::: {.column-screen}

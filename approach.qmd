@@ -1,5 +1,7 @@
 ---
 title: ""
+aliases: 
+  - https://www.openscapes.org/approach/
 ---
 
 ::: {.column-screen}

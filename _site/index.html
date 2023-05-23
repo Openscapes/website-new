@@ -73,10 +73,10 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-image','listing-description','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-image','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       page: 3,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -102,10 +102,10 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-image','listing-description','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-image','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       page: 3,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -253,7 +253,8 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(112)</span></div><div class="category" data-category="art">art <span class="quarto-category-count">(10)</span></div><div class="category" data-category="case-study">case-study <span class="quarto-category-count">(12)</span></div><div class="category" data-category="champions">champions <span class="quarto-category-count">(48)</span></div><div class="category" data-category="coding">coding <span class="quarto-category-count">(15)</span></div><div class="category" data-category="community">community <span class="quarto-category-count">(2)</span></div><div class="category" data-category="community-call">community-call <span class="quarto-category-count">(12)</span></div><div class="category" data-category="conference">conference <span class="quarto-category-count">(13)</span></div><div class="category" data-category="how-we-work">how-we-work <span class="quarto-category-count">(9)</span></div><div class="category" data-category="medium.com">medium.com <span class="quarto-category-count">(7)</span></div><div class="category" data-category="mentorship">mentorship <span class="quarto-category-count">(3)</span></div><div class="category" data-category="nasa-framework">nasa-framework <span class="quarto-category-count">(19)</span></div><div class="category" data-category="newsletter">newsletter <span class="quarto-category-count">(9)</span></div><div class="category" data-category="noaa-fisheries">noaa-fisheries <span class="quarto-category-count">(23)</span></div><div class="category" data-category="pathways">pathways <span class="quarto-category-count">(1)</span></div><div class="category" data-category="quarto">quarto <span class="quarto-category-count">(3)</span></div><div class="category" data-category="study-group">study-group <span class="quarto-category-count">(4)</span></div></div></div>
 <!-- main -->
 <main class="content page-columns page-full column-body" id="quarto-document-content">
 
@@ -334,9 +335,6 @@ ul.task-list li input[type="checkbox"] {
 mentorship
 </div>
 </div>
-<div class="card-text listing-description">
-<p>An open data science coaching program for researchers and those who support research.</p>
-</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 May 8, 2023
@@ -364,9 +362,6 @@ champions
 nasa-framework
 </div>
 </div>
-<div class="card-text listing-description">
-Openscapes Champions Cohort for research teams using data from NASA Distributed Active Archive Centers (DAACs) and interested in open science and migrating their analytical…
-</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 19, 2023
@@ -390,9 +385,6 @@ Openscapes: supporting kinder science for future us
 <div class="listing-category" onclick="window.quartoListingCategory('community'); return false;">
 community
 </div>
-</div>
-<div class="card-text listing-description">
-<p>Julie Lowndes and Ileana Fenwick speaking in University of Toronto Missisauga Biology Seminar Series</p>
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -418,9 +410,6 @@ Designing automated workflows with Dr.&nbsp;Sean Kross
 community-call
 </div>
 </div>
-<div class="card-text listing-description">
-<p>How the kyber R package connects Google Sheets, RMarkdown, GitHub, and Agenda docs for open education</p>
-</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Mar 28, 2023
@@ -445,9 +434,6 @@ WiDS Stanford 2023
 conference
 </div>
 </div>
-<div class="card-text listing-description">
-<p>Julie Lowndes speaking at Women in Data Science Stanford</p>
-</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Mar 8, 2023
@@ -471,9 +457,6 @@ Openscapes Champions: EPA Cohort
 <div class="listing-category" onclick="window.quartoListingCategory('champions'); return false;">
 champions
 </div>
-</div>
-<div class="card-text listing-description">
-Openscapes Champions Cohort for the U.S. Environmental Protection Agency (EPA)
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -505,9 +488,6 @@ nasa-framework
 noaa-fisheries
 </div>
 </div>
-<div class="card-text listing-description">
-<p>“Better science for future us: Openscapes stories and approaches for the Year of Open Science”</p>
-</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jan 26, 2023
@@ -532,9 +512,6 @@ Pathways to Open Science with HBCU Research Teams
 mentorship
 </div>
 </div>
-<div class="card-text listing-description">
-<p>Convening Black environmental and marine researchers to build community for the future of data intensive science</p>
-</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jan 26, 2023
@@ -558,9 +535,6 @@ Openscapes: supporting better science for future us
 <div class="listing-category" onclick="window.quartoListingCategory('community'); return false;">
 community
 </div>
-</div>
-<div class="card-text listing-description">
-<p>A talk by Julie Lowndes for the Best Practices for HPC Software Developers Webinar Series</p>
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -609,9 +583,6 @@ noaa-fisheries
 nasa-framework
 </div>
 </div>
-<div class="card-text listing-description">
-
-</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 May 17, 2023
@@ -635,9 +606,6 @@ Introducing pathway of cloud computing to the NASA user community
 <div class="listing-category" onclick="window.quartoListingCategory('nasa-framework'); return false;">
 nasa-framework
 </div>
-</div>
-<div class="card-text listing-description">
-
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -663,9 +631,6 @@ Openscapes Newsletter #7: Inviting you to the Reflections Program
 newsletter
 </div>
 </div>
-<div class="card-text listing-description">
-
-</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 May 2, 2023
@@ -690,9 +655,6 @@ Community building for Black environmental and marine researchers: Pathways to O
 pathways
 </div>
 </div>
-<div class="card-text listing-description">
-
-</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 26, 2023
@@ -716,9 +678,6 @@ Designing automated workflows, a chat with Dr.&nbsp;Sean Kross
 <div class="listing-category" onclick="window.quartoListingCategory('community-call'); return false;">
 community-call
 </div>
-</div>
-<div class="card-text listing-description">
-
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -746,9 +705,6 @@ noaa-fisheries
 <div class="listing-category" onclick="window.quartoListingCategory('nasa-framework'); return false;">
 nasa-framework
 </div>
-</div>
-<div class="card-text listing-description">
-
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -778,9 +734,6 @@ nasa-framework
 noaa-fisheries
 </div>
 </div>
-<div class="card-text listing-description">
-
-</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Feb 21, 2023
@@ -808,9 +761,6 @@ champions
 noaa-fisheries
 </div>
 </div>
-<div class="card-text listing-description">
-
-</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Feb 16, 2023
@@ -837,9 +787,6 @@ champions
 <div class="listing-category" onclick="window.quartoListingCategory('noaa-fisheries'); return false;">
 noaa-fisheries
 </div>
-</div>
-<div class="card-text listing-description">
-
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">

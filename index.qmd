@@ -13,10 +13,10 @@ listing:
     type: grid
     max-items: 9
     page-size: 3
-    categories: false
+    categories: true
     sort-ui: false
     filter-ui: false
-    fields: [title, image, description, date, categories]
+    fields: [title, image, date, categories]
   - id: recent-blog-listing
     contents:
       - "blog/*/index.qmd"
@@ -24,10 +24,10 @@ listing:
     type: grid
     max-items: 9
     page-size: 3
-    categories: false
+    categories: true
     sort-ui: false
     filter-ui: false
-    fields: [title, image, description, date, categories]
+    fields: [title, image, date, categories]
 ---
 
 ::: {.column-screen}

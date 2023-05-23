@@ -11,10 +11,6 @@ categories:
 image: "fig-mountain-2023-square.jpg"   
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 Over the last five years Openscapes has helped hundreds of researchers improve how they work, and we know that many more are interested to get involved. We know many like you have been looking for a lighter-weight way to get involved to support yourself and your colleagues. We\'ve designed the Reflections Program to meet this need and be more accessible and affordable; a welcoming place to reflect and grow the open science movement.
 
 **Openscapes Reflections is a 3-week program May 8-26 2023** that is a light-weight way to reflect on your workflows and make goals going into summer. This program provides a space to reflect on your workflows and plan how open data science practices can improve your daily habits and fuel institutional culture change. This can mean moving away from workflows with folders full of files with names like \"analysis_final_2b.xlsx\" and redirecting that energy to the parts of your work you really care about.
@@ -25,5 +21,8 @@ We are hoping Reflections can be useful for colleagues who haven\'t been part of
 <br>
 
 ```{r, out.width="40%", fig.align='center', preview=TRUE}
+#| out-width: "40%"
+#| fig-align: "center"
+#| preview: true
 knitr::include_graphics("fig-mountain-2023-square.jpg")  
 ```

@@ -11,8 +11,8 @@ listing:
       - "events/*/index.qmd"
     sort: "date desc"
     type: grid
-    max-items: 3
-    #page-size: 3
+    max-items: 9
+    page-size: 3
     categories: false
     sort-ui: false
     filter-ui: false
@@ -22,8 +22,8 @@ listing:
       - "blog/*/index.qmd"
     sort: "date desc"
     type: grid
-    max-items: 3
-    #page-size: 3
+    max-items: 9
+    page-size: 3
     categories: false
     sort-ui: false
     filter-ui: false
@@ -100,6 +100,8 @@ The Openscapes team holds regular community calls, participates in conference ta
 
 ::: {#recent-events-listing}
 :::
+
+<br>
 
 :::
 :::

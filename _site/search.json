@@ -3008,5 +3008,12 @@
     "title": "NASA Openscapes Champions Cohort",
     "section": "",
     "text": "This is a mentorship and professional development opportunity for research teams; please see nasa-openscapes.github.io/champions for details.\n\n\n\n\n\n\n\n\n\n\n\n\n\nReusehttps://creativecommons.org/licenses/by/4.0/CitationBibTeX citation:@online{2023,\n  author = {, Openscapes and and NASA, Openscapes},\n  title = {NASA {Openscapes} {Champions} {Cohort}},\n  date = {2023-04-19},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nOpenscapes, and Openscapes and NASA. 2023. “NASA Openscapes\nChampions Cohort.” April 19, 2023."
+  },
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "",
+    "section": "",
+    "text": "This is text that does not have any styling applied\n\nThis text will be underlined in blue\n\n\nThis text will be underlined in blue and centered on the page\n\n \n\n\n\n\n\n\n\n\n\n\nThis is caption text, which has a font size of 15px and font color gray. We also center it by adding the .center-text class selector. Bounding this text with single asterisks italicizes it.\n\n\nEverything inside the .yellow-bg fences will fall within a yellow block to draw attention\n\nWe can nest divs within divs – this text is larger and centered\n\n\nThis text is mostly gray but the last word is colored blue"
   }
 ]

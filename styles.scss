@@ -23,12 +23,9 @@ $body-color: $dark-gray;
 $footer-bg: $medium-gray2; 
 $link-color: $blue;
 
-///////////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////////////
-
 /*-- scss:rules --*/
 
-/////////////////////////// Element selectors ///////////////////////////
+//////////// Element selectors ////////////
 
 body { // set body text size & line height
   line-height: 1.5; // min 1.5 suggested for assistive tech
@@ -46,7 +43,7 @@ blockquote p { // align blockquotes
   display: inline-block;
 }
 
-/////////////////////////// Class selectors (identified by "Inspect"ing the site) ///////////////////////////
+//////////// Class selectors (identified by "Inspect"ing the site) ////////////
 
 // navbar hover color
 .navbar-dark .navbar-nav .show>.nav-link, .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active {
@@ -64,7 +61,7 @@ blockquote p { // align blockquotes
   background-color: $light-gray1;
 }
 
-/////////////////////////// Class selectors (self-defined) ///////////////////////////
+//////////// Class selectors (self-defined) ////////////
 
 .blue-underline { // see https://stackoverflow.com/questions/1734618/how-to-increase-the-gap-between-text-and-underlining-in-css
   text-decoration: underline $blue;

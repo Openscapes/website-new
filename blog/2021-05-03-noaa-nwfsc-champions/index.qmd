@@ -1,6 +1,5 @@
 ---
 title: "NOAA NWFSC Openscapes Champions Cohort"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Erin Robinson, Julie Lowndes, Eric Ward
 date: 2021-05-03
 slug: noaa-nwfsc-champions

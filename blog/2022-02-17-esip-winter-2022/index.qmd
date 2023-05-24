@@ -1,6 +1,5 @@
 ---
 title: "3 takeaways for planning for the year of open science"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Aaron Friesz, Ileana Fenwick, Eli Holmes, Anna Holder, Amy Steiker, Erin Robinson, Julie Lowndes
 date: 2022-02-17
 slug: esip-winter-2022

@@ -1,6 +1,5 @@
 ---
 title: "Community building for Black environmental and marine researchers: Pathways to Open Science"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Ileana Fenwick, Alex Davis, Aneese Williams, Stefanie Butland, Julie Lowndes
 date: 2023-04-26
 slug: pathways-report

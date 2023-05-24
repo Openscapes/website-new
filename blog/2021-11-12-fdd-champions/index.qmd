@@ -1,6 +1,5 @@
 ---
 title: "Identifying common approaches and needs for fisheries dependent data"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Gavin Fay, Andy Jones, Anna Holder, Julie Lowndes
 date: 2021-11-12
 slug: fdd-champions

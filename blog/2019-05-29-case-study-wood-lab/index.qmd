@@ -1,6 +1,5 @@
 ---
 title: "Champions Case Study: Wood Lab"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Wood Lab
 date: 2019-05-29
 slug: wood-lab

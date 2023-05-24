@@ -1,6 +1,5 @@
 ---
 title: "Openscapes Champions Program: Fall 2021 Updates"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Julie Lowndes, Erin Robinson
 date: 2021-11-03
 slug: champions-fall-2021

@@ -1,6 +1,5 @@
 ---
 title: "Lessons from remote meetings to bring to science"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Julie Lowndes
 date: 2020-06-25
 slug: lessons-remote-meetings

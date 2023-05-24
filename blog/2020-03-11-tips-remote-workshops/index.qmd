@@ -1,6 +1,5 @@
 ---
 title: "How to run a remote workshop, Openscapes/Open Leaders-style"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Julie Lowndes
 date: 2020-03-11
 slug: tips-remote-workshops

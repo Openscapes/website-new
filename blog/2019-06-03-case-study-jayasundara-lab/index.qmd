@@ -1,6 +1,5 @@
 ---
 title: "Champions Case Study: Jayasundara Lab"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Jayasundara Lab
 date: 2019-06-03
 slug: jayasundara-lab

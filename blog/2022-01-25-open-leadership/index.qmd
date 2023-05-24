@@ -1,6 +1,5 @@
 ---
 title: "Open Leadership with Abby Cabunoc Mayes and Chad Sansing (and more!)"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Abby Cabunoc Mayes, Chad Sansing, Erin Robinson, Julie Lowndes
 date: 2022-01-25
 slug: open-leadership

@@ -1,6 +1,5 @@
 ---
 title: "A Chat with Tara Robertson"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Erin Robinson, Julie Lowndes, Tara Robertson
 date: 2021-05-27
 slug: tara-robertson

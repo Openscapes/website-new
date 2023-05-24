@@ -1,6 +1,5 @@
 ---
 title: "Champions Case Study: Therkildsen Lab"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Therkildsen Lab
 date: 2019-06-10
 slug: therkildsen-lab

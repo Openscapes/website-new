@@ -1,6 +1,5 @@
 ---
 title: "Nationwide Openscapes Training at NOAA Fisheries Science Centers: Facilitating Collaboration, Skill-sharing, and Open Science"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Molly Stevens, Adyan Rios, Amanda Bradford, Kevin Stierhoff, Juliette Verstaen, Eli Holmes, Emily Markowitz, Margaret Siple, Josh London, and 150 NOAA Fisheries Openscapes Champions
 date: '2023-01-24'
 slug: "2022-noaa-nmfs-fall"

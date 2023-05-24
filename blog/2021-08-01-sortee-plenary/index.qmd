@@ -1,6 +1,5 @@
 ---
 title: "Better Science for Future Us: Plenary at the SORTEE Conference"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Julie Lowndes and Erin Robinson
 date: 2021-08-01
 slug: plenary-sortee

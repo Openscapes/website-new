@@ -1,6 +1,5 @@
 ---
 title: "NASA Openscapes: efforts to support end users in the journey to the cloud"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Amy Steiker, Alexis Hunzinger, Luis Lopez, Catalina Oaida Taglialatela, Aaron Friesz and the NASA Openscapes Mentors
 date: 2022-12-12
 slug: nasa-se-tim

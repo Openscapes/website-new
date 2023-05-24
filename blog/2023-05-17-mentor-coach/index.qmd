@@ -1,6 +1,5 @@
 ---
 title: "How coaching skills have made us better open data science mentors"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Tara Robertson, Stefanie Butland, Julie Lowndes
 date: 2023-05-17
 slug: mentor-coach

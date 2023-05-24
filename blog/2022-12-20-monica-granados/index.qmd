@@ -1,6 +1,5 @@
 ---
 title: "Open Science for the Climate Movement, a chat with Dr Monica Granados"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Monica Granados, Julie Lowndes, Stefanie Butland
 date: 2022-12-20
 slug: monica-granados

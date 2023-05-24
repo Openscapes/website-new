@@ -1,6 +1,5 @@
 ---
 title: "Our Supercharge Experience: The Logan Lab"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Arie Dash
 date: 2021-05-11
 slug: logan-lab-experience

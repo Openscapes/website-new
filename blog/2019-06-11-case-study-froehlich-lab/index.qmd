@@ -1,6 +1,5 @@
 ---
 title: "Champions Case Study: Froehlich Lab"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Froehlich Lab
 date: 2019-06-11
 slug: froehlich-lab

@@ -1,6 +1,5 @@
 ---
 title: "Hello Quarto! A Chat with NASA Openscapes, co-hosted with R-Ladies Santa Barbara"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Sam Csik, Julie Lowndes, Amy Steiker, Catalina Oaida Taglialatela, Aaron Friesz, J.J. Allaire, Erin Robinson, Stefanie Butland
 date: 2022-06-22
 slug: hello-quarto

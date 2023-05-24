@@ -1,6 +1,5 @@
 ---
 title: "Champions Case Study: Pinsky Lab"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Pinsky Lab
 date: 2019-06-06
 slug: pinsky-lab

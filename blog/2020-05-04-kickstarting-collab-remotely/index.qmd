@@ -1,6 +1,5 @@
 ---
 title: "Kick-starting scientific collaborations remotely"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Julie Lowndes, Carrie Kappel, Julien Brun
 date: 2020-05-04
 slug: kickstarting-collab

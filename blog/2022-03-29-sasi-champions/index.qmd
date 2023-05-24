@@ -1,6 +1,5 @@
 ---
 title: "Towards collaborative protocols with the Symbiosis in Aquatic Systems Initiative"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Julie Lowndes, Erin Robinson, Lenny Teytelman, Emma Ganley
 date: 2022-03-29
 slug: sasi-champions

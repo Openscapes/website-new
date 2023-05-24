@@ -1,6 +1,5 @@
 ---
 title: "How we work: the Buckley Lab"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Lauren Buckley
 date: 2020-01-16
 slug: how-we-work

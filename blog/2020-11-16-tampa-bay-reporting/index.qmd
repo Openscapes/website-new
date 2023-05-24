@@ -1,6 +1,5 @@
 ---
 title: "Automated reporting in Tampa Bay with open science"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Marcus Beck
 date: 2020-11-16
 slug: tampa-bay-reporting

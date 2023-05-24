@@ -1,6 +1,5 @@
 ---
 title: "Better Data Management for Better Data Science"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Darcy Bradley
 date: 2020-07-06
 slug: rstudioconf-2020

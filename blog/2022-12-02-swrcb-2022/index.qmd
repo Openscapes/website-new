@@ -1,6 +1,5 @@
 ---
 title: "Adapting the Champions Program for the California Water Boards"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Corey Clatterbuck and Anna Holder
 date: 2022-12-02
 slug: swrcb-2022

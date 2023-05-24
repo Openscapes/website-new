@@ -1,6 +1,5 @@
 ---
 title: "Champions Case Study: Horst Lab"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Horst Lab
 date: 2019-05-30
 slug: horst-lab

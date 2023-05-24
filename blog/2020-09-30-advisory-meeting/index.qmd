@@ -1,6 +1,5 @@
 ---
 title: "Advising the future of Openscapes"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Advisory Group
 date: 2020-09-30
 slug: advisory-meeting

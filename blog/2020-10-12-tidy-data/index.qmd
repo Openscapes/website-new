@@ -1,6 +1,5 @@
 ---
 title: "Tidy data for efficiency, reproducibility, and collaboration"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Julie Lowndes and Allison Horst
 date: 2020-10-12 
 slug: tidy-data

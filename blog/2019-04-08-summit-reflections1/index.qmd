@@ -1,6 +1,5 @@
 ---
 title: "Openscapes Summit reflections — becoming champions"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Julie Lowndes
 date: 2019-04-08
 slug: summit-1

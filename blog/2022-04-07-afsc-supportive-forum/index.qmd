@@ -1,6 +1,5 @@
 ---
 title: "A supportive forum for continued learning and collaboration at NOAA Fisheries Alaska"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Em Markowitz, Josh London, Megsie Siple
 date: 2022-04-07
 slug: afsc-champions

@@ -1,6 +1,5 @@
 ---
 title: "Build communities"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Julie Lowndes
 date: 2018-11-06
 slug: build-communities

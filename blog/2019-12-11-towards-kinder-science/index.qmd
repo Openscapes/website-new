@@ -1,6 +1,5 @@
 ---
 title: "Towards kinder science"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Julie Lowndes
 date: 2019-12-11
 slug: kinder-science

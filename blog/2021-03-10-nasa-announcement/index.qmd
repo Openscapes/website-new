@@ -1,6 +1,5 @@
 ---
 title: "Announcing the NASA Openscapes Framework"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Erin Robinson, Amanda Tan, Julie Lowndes
 date: '2021-03-10'
 slug: nasa-announcement

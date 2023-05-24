@@ -1,6 +1,5 @@
 ---
 title: "Data Science as an Entryway to Open Publishing"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Julia Lowndes and Nicholas Tierney
 date: 2020-08-25
 slug: open-publishing

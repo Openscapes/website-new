@@ -1,6 +1,5 @@
 ---
 title: "Openscapes Newsletter #5: Spring 2022"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Julie Lowndes and Erin Robinson
 date: 2022-03-21
 slug: news-spring-2022

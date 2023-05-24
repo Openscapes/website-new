@@ -1,6 +1,5 @@
 ---
 title: "Openscapes Newsletter #6: Winter 2023"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Julie Lowndes and Stefanie Butland
 date: 2023-02-21
 slug: news-winter-2023

@@ -1,6 +1,5 @@
 ---
 title: "GitHub for supporting, reusing, contributing, and failing safely"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Allison Horst and Julie Lowndes
 date: 2022-05-27
 slug: github-illustrated-series

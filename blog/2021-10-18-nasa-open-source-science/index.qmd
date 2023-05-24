@@ -1,6 +1,5 @@
 ---
 title: "NASA Open Source Science Workshop"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Julie Lowndes, Erin Robinson
 date: 2021-10-18
 slug: nasa-open-source-science

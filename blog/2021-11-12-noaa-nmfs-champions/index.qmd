@@ -1,6 +1,5 @@
 ---
 title: "Strengthening scientific workflow and team collaboration at NOAA Fisheries"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Eli Holmes, Eric Ward, Hélène Scalliet, Corey Clatterbuck, Julie Lowndes
 date: 2021-11-12
 slug: noaa-nwfsc-champions

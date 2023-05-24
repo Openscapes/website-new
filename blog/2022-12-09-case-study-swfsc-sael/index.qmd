@@ -1,6 +1,5 @@
 ---
 title: "Sound Bytes: Championing Open Science"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Kourtney Burger for NOAA Fisheries
 date: 2022-12-09
 slug: case-study-swfsc-sael

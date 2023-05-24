@@ -1,6 +1,5 @@
 ---
 title: "A conference for open data leaders"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Julie Lowndes
 date: 2019-05-20
 slug: twitter-community

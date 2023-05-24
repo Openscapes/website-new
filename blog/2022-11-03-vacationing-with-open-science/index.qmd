@@ -1,6 +1,5 @@
 ---
 title: "Vacationing with Open Science"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Julie Lowndes
 date: 2022-11-03
 slug: vacation-open-science

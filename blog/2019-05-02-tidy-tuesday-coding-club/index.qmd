@@ -1,6 +1,5 @@
 ---
 title: "Starting our #tidytuesday hacky hours"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Allison Horst
 date: 2019-05-02
 slug: tidytuesday

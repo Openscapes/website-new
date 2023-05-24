@@ -1,6 +1,5 @@
 ---
 title: "RStudio Conference 2020"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Julie Lowndes
 date: 2020-02-04
 slug: rstudioconf-2020

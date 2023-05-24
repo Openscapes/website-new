@@ -1,6 +1,5 @@
 ---
 title: "Impacts of Openscapes Training on Open Science Movement Building Inside NOAA's Alaska Fisheries Science Center"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Emily Markowitz, Margaret Siple, Josh London
 date: 2023-02-16
 slug: 2022-noaa-afsc-fall

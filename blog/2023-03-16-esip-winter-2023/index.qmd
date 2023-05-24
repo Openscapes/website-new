@@ -1,6 +1,5 @@
 ---
 title: "3 approaches for the year of open science"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Corey Clatterbuck, Ileana Fenwick, Josh London, Luis Lopez, Cassie Nickles, Adyan Rios, Stefanie Butland, Julie Lowndes, Erin Robinson
 date: 2023-03-16
 slug: esip-winter-2023

@@ -1,6 +1,5 @@
 ---
 title: "Openscapes Newsletter #7: Inviting you to the Reflections Program"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: Julie Lowndes and Ileana Fenwick
 date: 2023-05-02
 slug: news-spring-2023

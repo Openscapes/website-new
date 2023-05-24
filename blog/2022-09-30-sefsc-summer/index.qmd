@@ -1,6 +1,5 @@
 ---
 title: "Aligning mission around collaborative practices, with researchers, supervisors, and IT"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: "Molly Stevens, Adyan Rios, Erica Rule"
 date: 2022-09-30
 slug: 2022-sefsc-summer

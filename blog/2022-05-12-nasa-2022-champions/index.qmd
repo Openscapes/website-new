@@ -1,6 +1,5 @@
 ---
 title: "From downloading data to Cloud access: NASA Openscapes Champions Wrap-up"
-description: " " # added bank space here for landing page blog listing (will print first few lines of blog if not)
 author: NASA Openscapes Mentors, Erin Robinson, Julie Lowndes, Andy Barrett, Aaron Friesz, Alexis Hunzinger, Luis Lopez, Catalina Oaida, Jack McNelis, Christine Smit, Amy Steiker, Makhan Virdi
 date: 2022-05-12
 slug: nasa-2022-champions

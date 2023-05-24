@@ -1,9 +1,9 @@
 /*-- scss:defaults --*/
 
 // Import fonts
-@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap'); // Sen is similar to Avenir? Imported Regular, Bold, Extra Bold -- can only specify font weights that exist in this Google font set and are imported here
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap'); // Sen is similar to Avenir? Imported Regular, Bold, Extra Bold -- can only specify font weights that exist in this Google font set and are imported here; Sen is applied as the main website font in `_quarto.yml`
 
-// Colors (define Sass color variables here)
+// Colors (define Sass color variables here; syntax = `$varName: value;`)
 $white: #FFFFFF;
 $light-gray1: #EEEEEE; 
 $light-gray2: #DBDBDA; 
@@ -14,7 +14,7 @@ $blue: #38A7BB;
 $light-blue: #53C9DF;
 $light-yellow: #FFF6E1;
 
-// Base document colors
+// Base document colors (find more Quarto Sass vars here: https://quarto.org/docs/output-formats/html-themes.html#sass-variables)
 $navbar-bg: $white;
 $navbar-fg: $dark-gray; 
 $navbar-hl: $dark-gray; 
@@ -44,6 +44,24 @@ blockquote { // style blockquotes
 
 blockquote p { // align blockquotes
   display: inline-block;
+}
+
+/////////////////////////// Class selectors (identified by "Inspect"ing the site) ///////////////////////////
+
+// navbar hover color
+.navbar-dark .navbar-nav .show>.nav-link, .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active {
+    background-color: $light-blue;
+}
+
+// openscapes logo size/position (navbar top left); see https://github.com/robertmitchellv/robertmitchellv.github.io/blob/main/custom-dark.scss
+.navbar-brand img { 
+  max-height: 70px; // was 200px when using alt logo (from blogdown site)
+  width: auto;
+  padding-left: 20px;
+}
+
+.card { // udpate blog listing card color on landing page
+  background-color: $light-gray1;
 }
 
 /////////////////////////// Class selectors (self-defined) ///////////////////////////
@@ -122,20 +140,3 @@ blockquote p { // align blockquotes
 }*/
 
 
-/////////////////////////// Class selectors (identified by "Inspect"ing the site) ///////////////////////////
-
-// navbar hover color
-.navbar-dark .navbar-nav .show>.nav-link, .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active {
-    background-color: $light-blue;
-}
-
-// openscapes logo size/position (navbar top left); see https://github.com/robertmitchellv/robertmitchellv.github.io/blob/main/custom-dark.scss
-.navbar-brand img { 
-  max-height: 70px; // was 200px when using alt logo (from blogdown site)
-  width: auto;
-  padding-left: 20px;
-}
-
-.card { // udpate blog listing card color on landing page
-  background-color: $light-gray1;
-}

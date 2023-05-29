@@ -2,6 +2,18 @@
 title: ""
 aliases: 
   - https://www.openscapes.org/contact/
+listing:
+  - id: recent-events-listing
+    contents:
+      - "events/*/index.qmd"
+    sort: "date desc"
+    type: grid
+    max-items: 9
+    page-size: 3
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    fields: [title, image, date, categories]
 ---
 
 ::: {.column-screen}
@@ -11,63 +23,61 @@ aliases:
 
 ::: {.white-div}
 ::: {.medium-body-text .center-text}
-**Openscapes is about engaging, empowering, and amplifying each other as we increase the visibility, value, and practice of open data science within our scientific communities.**
+**We're part of a global movement for open and inclusive practices for actionable, data-driven environmental research. We're excited to connect.**
 :::
 
 ::: {.medium-body-text .center-text}
-*We are happy you are here.*
 :::
 
 <br>
 
-## Check out our current projects
-
--   [NASA Openscapes Framework](https://nasa-openscapes.github.io/) --- We support researchers using NASA Earthdata served from the Distributed Active Archive Centers (DAACs) as they migrate workflows to the cloud
-
--   [Openscapes Champions Cohorts](champions_program.qmd) --- We aim to lead Champions Cohorts each year while also developing Mentors who can lead Cohorts for their own communities as part of their jobs
-
 ```{r}
 #| echo: false
 #| fig-align: "center"
-#| out-width: "13%"
+#| out-width: "8%"
 #| fig-alt: "An orange salmon with dark brown spots speckled down its back."
 knitr::include_graphics("images/minis/horst_openscapes_mountains_salmon.png")
 ```
 
-We are excited to grow the Openscapes community and open data science communities more broadly. Here are several avenues to get involved, and please [email us](mailto:hello@openscapes.org) with more ideas.
+## Join the movement
 
-## Follow us on Twitter and on Mastodon @openscapes
+- Follow us on social media: [\@openscapes](https://twitter.com/openscapes) on Twitter and [\@openscapes@fosstodon.org](https://fosstodon.org/@openscapes) on Mastodon
+- Sign up for our newsletter [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (4x/year)
+- Join an upcoming [event](events.qmd), including Openscapes initiatives, talks, and seminars
+- Talk to your colleagues; consider [Supercharge your research](https://openscapes.github.io/supercharge-research/) for your next journal club or lab meeting
 
-We are [\@openscapes](https://twitter.com/openscapes) on Twitter and [@openscapes@fosstodon.org](https://fosstodon.org/@openscapes) on Mastodon. We tweet about Openscapes news and events, amplify Openscapes Champions, and sporadically retweet other awesome things going on around environmental open data science. Tag us in your tweets about your open data science wins and challenges and we'll retweet!
+<!---TODO Move to Approach Guide
+We tweet about Openscapes news and events, amplify Openscapes Champions, and sporadically retweet other awesome things going on around environmental open data science. Tag us in your tweets about your open data science wins and challenges and we'll retweet!
+--->
 
-## Join our mailing list
+## Work with us
 
-Sign up for our [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) to receive infrequent emails from Openscapes so you can be aware of opportunities to participate in and amplify Openscapes efforts as they unfold.
+Please [email us](mailto:hello@openscapes.org) if you're interested in booking cohorts, partnering with us, sponsoring our initiatives, or sharing your wild ideas.
 
-## Join an upcoming event
-
-Please see our [events page](events.qmd) for **Openscapes Community Calls, conference talks and seminars/webinars**, and opportunities through the **Champions Program**.
-
-## Book a Champions Cohort
-
-Cohorts are led remotely over 2.5 months and involve \~7 participating research groups. Please [email us](mailto:hello@openscapes.org) if you're interested in booking a cohort.
-
-## Sponsor Champions Cohorts and Workshops
-
-We are thankful for the funding support that makes Openscapes possible, and are interested in further partnerships. If you are interested in sponsoring research groups to participate in the Openscapes Champions program, please [email us](mailto:hello@openscapes.org).
-
-## Talk with your colleagues
-
-Share your enthusiasm with others! Open data science is so powerful and empowering, we think the best way to engage others is to talk about it more. You can do this informally and in data-centric meetings ("Seaside Chats"). We hope our column [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4) can help start and continue these conversations. And please share your experiences --- [tag us](https://twitter.com/openscapes) on Twitter, or add additional weekly activities in the column's [GitHub repository](https://github.com/Openscapes/supercharge-research).
-
+<!---For Approach Guide? 
 ## Amplify through media and events
 
 In your next presentations and publications, include a slide or sentence about open data science --- what you have done and/or why it's important. You're welcome to use/remix slides from our [presentations](media.qmd).
 
 As you plan department seminar series, conferences, or webinar series, consider inviting Openscapes or others from the open data science community as a speaker!
+--->
 
-## Email us with your ideas
 
-There are more awesome ways to get involved with Openscapes and open data science than we have written above --- please [email us](mailto:hello@openscapes.org) with your ideas for getting involved!
+:::
+:::
+
+
+::: {.column-screen}
+::: {.light-gray-div}
+::: {.blue-underline .center-text}
+# **UPCOMING EVENTS**
+:::
+
+The Openscapes team holds regular community calls, participates in conference talks, webinars, and organizes opportunities through the Champions Program (and other new initiatives!). See our recent events below or attend an upcoming one. Browse [all events](events.qmd)). 
+
+<br>
+
+::: {#recent-events-listing}
+:::
 :::
 :::

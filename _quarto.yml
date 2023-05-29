@@ -32,16 +32,16 @@ website:
            href: reflections_program.qmd
          - text: "PATHWAYS TO OPEN SCIENCE PROGRAM"
            href: pathways_to_open_science_program.qmd
+      - text: "IMPACT"
+        href: impact.qmd
       - text: "BLOG"
         href: blog.qmd
-      - text: "GET INVOLVED"
-        menu:
-          - text: "CONNECT WITH US"
-            href: connect.qmd
-          - text: "ATTEND AN EVENT"
-            href: events.qmd
-          - text: "FIND LEARNING RESOURCES"
-            href: resources.qmd
+      - text: "CONNECT"
+        href: connect.qmd # TODO maybe rename url
+          #- text: "OUR EVENTS"
+           # href: events.qmd
+ #         - text: "FIND LEARNING RESOURCES" TODO: review & move to Champions series
+ #            href: resources.qmd
       - icon: github
         href: https://github.com/openscapes
       - icon: twitter

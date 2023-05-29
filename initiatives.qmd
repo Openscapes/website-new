@@ -1,0 +1,12 @@
+
+
+
+::: {.white-div}
+::: {.medium-body-text .center-text}
+**We offer mentorship, teaching, coaching and community organizing with an approach that introduces modern concepts, tooling, and examples from peers.**
+:::
+
+Openscapes is a movement to support kinder science for future us. We work with environmental and Earth science teams in government, academia, & NGOs, including NASA Earthdata, NOAA Fisheries, California Water Boards, EPA
+
+
+TODO: combine separate initiatives into this page 

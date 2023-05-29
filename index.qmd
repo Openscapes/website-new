@@ -29,7 +29,7 @@ listing:
 # **WHAT WE DO**
 :::
 
-**At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster.** Regardless of research question, environmental scientists are united by the need to analyze data --- and to do so in a way that is efficient, reproducible, and easily communicated. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. [Our approach](approach.qmd):
+**Openscapes is an [approach](approach.qmd) and a movement to support better science in less time, together — we call this kinder science for future us.** We champion open practices in environmental science to help uncover data-driven solutions faster. Regardless of research question, environmental scientists are united by the need to analyze data --- and to do so in a way that is efficient, reproducible, and easily communicated. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. Here's how:
 :::
 :::
 
@@ -46,7 +46,7 @@ listing:
 **ENGAGE**
 :::
 :::{.medium-gray1-text .small-body-text} 
-**We build awareness and excitement.** We engage scientists with the possibilities of open data science with empathy, art, and storytelling, using narratives like our own [path to better science in less time](https://www.nature.com/articles/s41559-017-0160)
+**We build awareness and excitement.** We engage scientists with the possibilities of open data science with empathy, art, and storytelling.
 :::
 :::
 
@@ -84,8 +84,7 @@ listing:
 ::: {.blue-underline .center-text}
 # **GROWING THE OPEN MOVEMENT**
 :::
-
-We help research groups focused on the cascading impacts of climate change develop inclusive daily workflows and connect to the growing open movement. Learn more about our [initiatives](initiatives.qmd) and [impact](impact.qmd), and [connect](connect.qmd) with us.
+We help research groups focused on the cascading impacts of climate change develop collaborative daily workflows that are more reproducible, transparent, inclusive, and kind while they connect to the growing open movement. Learn more about our [initiatives](initiatives.qmd) and [impact](impact.qmd), and [connect](connect.qmd) with us.
 
 <!---
 We work at the intersection of actionable environmental science, open source, and data science, motivated to empower and connect groups working to mitigate the cascading impacts of climate change. Our focus is mentoring researchers and those who support research and growing the open movement around the world.

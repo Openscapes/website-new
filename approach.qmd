@@ -25,7 +25,7 @@ knitr::include_graphics("images/minis/horst_openscapes_desert_agave.png")
 ```
 
 
-**We approach open science as a spectrum, as a behavior change, and as a movement.** There are many ways to practice open science and to welcome others to participate. We see data analysis and stewardship as powerful entryways for open science, and we meet scientists where they are, helping them develop new skillsets and mindsets of immediate value while empowering them as leaders. We are influenced and inspired by many leaders and community organizers, particularly in climate justice and get out the vote movements. 
+**We approach open science as a spectrum, as a behavior change, and as a movement.** There are many ways to practice open science and to welcome others to participate. We see data analysis and stewardship as powerful entryways for open science, and we meet scientists where they are, helping them develop new skillsets and mindsets of immediate value while empowering them as leaders. Our work centers around **open data science,** which we define as the tooling and people enabling reproducible, transparent, inclusive practices for data-intensive research. We are influenced and inspired by many leaders and community organizers, particularly in climate justice and get out the vote movements. 
 
 We know that daily demands leave little time for researchers to transition to better data practices and open science, which can be lonely and overwhelming. **Openscapes helps researchers reimagine data-intensive science, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams.** 
 

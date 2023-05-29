@@ -39,6 +39,7 @@ knitr::include_graphics("images/minis/horst_openscapes_mountains_salmon.png")
 
 ## Join the movement
 
+- Reuse our lessons, slides, and more linked on our [media page](media.qmd)
 - Follow us on social media: [\@openscapes](https://twitter.com/openscapes) on Twitter and [\@openscapes@fosstodon.org](https://fosstodon.org/@openscapes) on Mastodon
 - Sign up for our newsletter [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (4x/year)
 - Join an upcoming [event](events.qmd), including Openscapes initiatives, talks, and seminars

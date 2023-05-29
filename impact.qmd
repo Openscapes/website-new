@@ -1,0 +1,79 @@
+---
+title: ""
+---
+
+::: {.column-screen}
+![TODO: rename banner "Communicating Impact" ](images/banner_imgs/text_banners/faq_banner.png)
+
+<br>
+
+::: {.white-div}
+
+::: {.medium-body-text .center-text}
+**We communicate impact through stories of skill building, mindset shifts, and culture change**
+:::
+
+<br>
+
+> “To address our climate emergency, we must rapidly, radically reshape society. We need every solution and every solver”.  
+- Ayana Elizabeth Johnson & Katharine Wilkinson, All We Can Save
+
+We are inspired by many movements, including climate and social justice movements. These impacts aren’t easily measured and that’s ok. We communicate impact through stories first, then numbers.
+
+## STORIES
+
+We see impact happening in small and big ways that combine and grow as part of the [flywheel](approach.qmd#openscapes-flywheel). This happens as people feel empowered in their own work and then stepping up to support others. We're seeing people build skills, reuse what works, and change their trajectories. 
+
+We see this on daily basis in research: [TODO CONNECT to Champions/Pathways page and/or blog posts]
+
+> "I didn't know open science was for me, but now I'm excited"
+
+> "That keyboard shortcut is my go-to, it saves me so much time"
+
+We're seeing people shift workflows and teach others [TODO CONNECT to Mentors page and/or blog posts]
+
+> “I never thought I could learn GitHub, but I did, and I've also taught my boss”
+
+> "My team has saved 400 would-be emails in 4 months”
+
+We're seeing improved morale and people leveling up in new leadership roles [TODO CONNECT to Champions page and/or blog posts]
+
+> "I got promoted and introduce live Google Docing agendas for all our director meetings"
+
+> "I’m staying in the job because of Openscapes”
+
+We're seeing large-scale culture shift, building from many years of community building and technical expertise 
+
+> "The impact Openscapes has had in the last two years is unprecedented at NASA"
+
+## BY THE NUMBERS
+
+Numbers also help communicate the growing movement.
+
+From 2018-2022 we've led 18 Champions Cohorts — 
+
+Graphic - what are some numbers to include?
+
+- X Participants in Openscapes events (Champions +?)
+- Y Organizations (logos)
+- Z invited talks
+
+
+Graphic: logos
+
+
+## RECENT HIGHLIGHTS
+
+We share our most current thinking and showcase community efforts through talks and publications on our [media page](media.qmd) and [blog](blog.qmd). Some recent highlights include:
+
+TODO: UPDATE
+
+-   [Better Science for Future Us](https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit) --- Lowndes & Robinson 2021, invited plenary at the inaugural Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (SORTEE) conference
+-   [How to empower researchers with open science through meeting analytical needs and supporting people](https://docs.google.com/presentation/d/1AmnPV8eLQl9_0EuHQAqp7xBMHcUlcFkM30509BwJkMA/edit#slide=id.p) --- Lowndes 2020, invited talk at the National Academies of Sciences, Engineering, and Medicine (NASEM) Roundtable
+-   [Entryways to open data science and the power of welcome](https://docs.google.com/presentation/d/1DjrMaEOw1F7zAIEXq3ZjiiyaqVAjydLyYww7huGfch8/edit?usp=sharing) --- Lowndes 2020, invited plenary at the Earth Science Information Partners Conference
+-   [Putting data to work](https://zenodo.org/record/4315009#.X_-P9OB7nOQ) --- Robinson 2020, invited Leptoukh Lecture at the American Geophysical Union Conference
+-   [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/) --- Lowndes 2019, Scientific American
+
+:::
+
+:::

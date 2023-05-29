@@ -11,11 +11,7 @@ aliases:
 
 ::: {.white-div}
 ::: {.medium-body-text .bold700 .center-text}
-**We believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science.**
-:::
-
-::: {.center-text}
-These are critical to uncovering enduring science-based solutions faster, as well as for the well-being and resilience of research communities. We work towards **kinder science**.
+**We believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science and beyond.**
 :::
 
 <br>
@@ -23,20 +19,29 @@ These are critical to uncovering enduring science-based solutions faster, as wel
 ```{r}
 #| echo: false
 #| fig-align: "center"
-#| out-width: "17%"
-#| fig-alt: "A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment."
-knitr::include_graphics("images/logo/openscapes_hex_design_final_correct_dimensions.png")
+#| out-width: "13%"
+#| fig-alt: "A green agave plant."
+knitr::include_graphics("images/minis/horst_openscapes_desert_agave.png")
 ```
 
-<br>
 
-**We approach open science as a spectrum, as a behavior change, and as a movement.** There are many ways to practice open science and to welcome others to participate. We see data analysis and stewardship as powerful entryways for open science, and we meet scientists where they are, helping them develop new skillsets and mindsets of immediate value while empowering them as leaders. We are influenced and inspired by many leaders and community organizers, particularly in climate justice and get out the vote movements.
+**We approach open science as a spectrum, as a behavior change, and as a movement.** There are many ways to practice open science and to welcome others to participate. We see data analysis and stewardship as powerful entryways for open science, and we meet scientists where they are, helping them develop new skillsets and mindsets of immediate value while empowering them as leaders. We are influenced and inspired by many leaders and community organizers, particularly in climate justice and get out the vote movements. 
 
-We know that daily demands leave little time for researchers to transition to better data practices and open science, which can be lonely and overwhelming. **Openscapes helps researchers reimagine data-intensive science, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams.** We do this through mentorship, coaching, teaching, and community organizing, leveraging existing [resources](resources.qmd) from the open community along with our own. Our activities include:
+We know that daily demands leave little time for researchers to transition to better data practices and open science, which can be lonely and overwhelming. **Openscapes helps researchers reimagine data-intensive science, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams.** 
 
+We help research teams develop the mindset and skills for **kinder science for future us**.
+
+## OPENSCAPES FLYWHEEL
+
+Our approach for movement building and sustainability is underpinned by our Openscapes Flywheel ([Robinson & Lowndes 2022](https://eartharxiv.org/repository/view/4560/)). The Flywheel concept was developed by [Jim Collins](https://www.jimcollins.com/) in the book Good to Great. No matter how dramatic the end result, building something to last never happen in one fell swoop. Rather, the process resembles relentlessly pushing a giant, heavy flywheel, turn upon turn, building momentum until a point of breakthrough, and beyond. It is never one big thing, it is many little things reinforced over time. Our Flywheel drives how we work and how we can communicate [impact](impact.qmd).
+
+
+<!--- For Approach Guide? OR just cut if already there
 1.  [**Openscapes Champions Program:**](champions_program.qmd) A remote-by-design, cohort-based open data science mentorship program for research groups. Cohorts of research groups are mentored with their peers over several months following the [Champions Lesson Series](https://openscapes.github.io/series), and learn how to [supercharge their research](https://www.nature.com/articles/d41586-019-03335-4).
 
 2.  **Openscapes Framework:** A scalable leadership and community building framework that supports researchers and staff transitioning to open data science. The framework involves developing a Mentor community, empowering science teams through the Champions Program, and scaling the Champions program with the Mentors in a way that is sustainable and supported. See our [flywheel](https://www.jimcollins.com/concepts/the-flywheel.html) below, and an example: [NASA Openscapes](https://nasa-openscapes.github.io/).
+
+--->
 
 <br>
 
@@ -48,34 +53,23 @@ We know that daily demands leave little time for researchers to transition to be
 knitr::include_graphics("images/diagrams/openscapes-flywheel-vpub.png")
 ```
 
-<br>
-
-::: {.caption-text .center-text}
-*Openscapes Flywheel (Robinson & Lowndes 2022; preprint). The Flywheel concept was developed by Jim Collins in the book Good to Great. No matter how dramatic the end result, good-to-great transformations never happen in one fell swoop. Rather, the process resembles relentlessly pushing a giant, heavy flywheel, turn upon turn, building momentum until a point of breakthrough, and beyond.*
-:::
 
 <br>
 
-We share our most current thinking and showcase community efforts through talks and publications on our [media page](media.qmd). Some recent highlights include:
 
--   [Better Science for Future Us](https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit) --- Lowndes & Robinson 2021, invited plenary at the inaugural Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (SORTEE) conference
--   [How to empower researchers with open science through meeting analytical needs and supporting people](https://docs.google.com/presentation/d/1AmnPV8eLQl9_0EuHQAqp7xBMHcUlcFkM30509BwJkMA/edit#slide=id.p) --- Lowndes 2020, invited talk at the National Academies of Sciences, Engineering, and Medicine (NASEM) Roundtable
--   [Entryways to open data science and the power of welcome](https://docs.google.com/presentation/d/1DjrMaEOw1F7zAIEXq3ZjiiyaqVAjydLyYww7huGfch8/edit?usp=sharing) --- Lowndes 2020, invited plenary at the Earth Science Information Partners Conference
--   [Putting data to work](https://zenodo.org/record/4315009#.X_-P9OB7nOQ) --- Robinson 2020, invited Leptoukh Lecture at the American Geophysical Union Conference
--   [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/) --- Lowndes 2019, Scientific American
 
 ::: {.yellow-bg }
 ::: {.medium-body-text .center-text}
-{{< fa book-open title="An open book" >}} Check out our open educational resources!
+{{< fa book-open title="An open book" >}} Openscapes Approach Guide
 :::
 ::: {.center-text}
-Creating the [**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/) is an attempt to codify our approach so that we can onboard others to the team. Aligned with our values for kinder, open science, we are developing it openly and designing it so that others can also use the Openscapes Approach on their own too.
+The [**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/) is our "lab manual", an attempt to codify our approach to onboard ourselves and new team members to how we work. It is an open source curriculum you can use too. 
 :::
 :::
 
-## OUR THEORY OF CHANGE
+## THEORY OF CHANGE
 
-Our theory of change is that by engaging, empowering, and amplifying researchers with open habits and mindsets for data-intensive science, they become leaders in the open science movement and have more enduring scientific impact while also creating a kinder, more inclusive scientific culture.
+Our theory of change is that by engaging, empowering, and amplifying research teams with open habits and mindsets for data-intensive science, they become leaders in the open science movement and have more enduring scientific impact while also creating a kinder, more inclusive scientific culture.
 
 We are iterating [our theory of change](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsku45HW-vQCPaVARXIo7a18KHdYxwn_0vk2QdNP5RZ7kUxNyqD466NYiagxZtyqoabXAilK32U5yx/pubhtml?gid=365554279&single=true) as we learn, and have also summarized it with this illustration:
 
@@ -95,10 +89,6 @@ knitr::include_graphics("images/diagrams/horst_pew_tools_practice_mindset.jpg")
 
 In mentoring research teams, we are interested in evaluating and understanding which open data science tools are adopted, who participates, and how questions and mindsets shift. Our hypothesis is that adoption of open data science tools will lead to robust, data-driven outcomes; that participation in open data science practices will lead to deeper inclusion and belonging; and that shifting mindsets and questions asked will lead to enduring partnerships and expanded questions. We define open data science as the tools and practices enabling reproducible, transparent, and inclusive data-driven research.
 
-::: {.yellow-bg}
-**A Theory of Change (TOC)** is a way to think through and communicate the goals of a project to help track progress when it's not possible to use more traditional metrics (i.e. revenue). The purpose is to articulate the overall aim/long-term impact, and the outcomes expected through the activities you do. Outcomes must be measurable (through appropriate indicators) so you can use the TOC to track progress.
-
-Our Theory of Change is stylized after [Mozilla's AI TOC](https://wiki.mozilla.org/images/f/f9/MoFo_AI_Theory_of_Change_%28ToC%29_%E2%80%93_Landscape_Design.jpg). This is a useful resource for creating your own from [project-oracle](https://project-oracle.com/uploads/files/2.2_Project_Oracle_-_Theory_of_Change_guidance_-_June_2014.pdf) (recommended by Mozilla).
-:::
+<br>
 :::
 :::

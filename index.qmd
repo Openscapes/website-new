@@ -85,7 +85,7 @@ listing:
 # **GROWING THE OPEN MOVEMENT**
 :::
 
-We help research groups focused on the cascading impacts of climate change develop inclusive daily workflows and connect to the growing open movement. Learn more about our [initiatives](initiatives.qmd) and our [impact](impact.qmd). 
+We help research groups focused on the cascading impacts of climate change develop inclusive daily workflows and connect to the growing open movement. Learn more about our [initiatives](initiatives.qmd) and [impact](impact.qmd), and [connect](connect.qmd) with us.
 
 <!---
 We work at the intersection of actionable environmental science, open source, and data science, motivated to empower and connect groups working to mitigate the cascading impacts of climate change. Our focus is mentoring researchers and those who support research and growing the open movement around the world.

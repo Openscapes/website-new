@@ -23,13 +23,11 @@ listing:
 
 ::: {.white-div}
 ::: {.medium-body-text .center-text}
-**We're part of a global movement for open and inclusive practices for actionable, data-driven environmental research. We're excited to connect.**
+**This is a global movement for open, inclusive, and actionable data-driven environmental research. We're excited to connect.**
 :::
 
 ::: {.medium-body-text .center-text}
 :::
-
-<br>
 
 ```{r}
 #| echo: false
@@ -73,7 +71,7 @@ As you plan department seminar series, conferences, or webinar series, consider 
 # **UPCOMING EVENTS**
 :::
 
-The Openscapes team holds regular community calls, participates in conference talks, webinars, and organizes opportunities through the Champions Program (and other new initiatives!). See our recent events below or attend an upcoming one. Browse [all events](events.qmd)). 
+The Openscapes team holds regular community calls, participates in conference talks, webinars, and organizes opportunities through the Champions Program (and other new initiatives!). See our recent events below and register to attend an upcoming one. You can also browse [all events](events.qmd). 
 
 <br>
 

@@ -12,16 +12,16 @@ website:
         href: index.qmd
       - text: "ABOUT"
         menu:
-          - text: "WHO ARE WE?"
-            href: who_are_we.qmd
+          - text: "ABOUT US"
+            href: about.qmd
           - text: "OUR APPROACH"
             href: approach.qmd
-          - text: "OUR TEAM"
+          - text: "OUR TEAM" # Do we need this as separate navbar item or is ABOUT US enough?
             href: team.qmd
           - text: "MEDIA"
             href: media.qmd
           - text: "CODE OF CONDUCT"
-            href: code_of_conduct.qmd
+            href: code_of_conduct.qmd # Let's change these all to - instead of _
       - text: "INITIATIVES"
         menu:
          - text: "CHAMPIONS PROGRAM"

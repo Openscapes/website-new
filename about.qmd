@@ -6,7 +6,7 @@ aliases:
 ---
 
 ::: {.column-screen}
-![TODO: Rename to "About Us"](images/banner_imgs/text_banners/who_are_we_banner.png)
+![](images/banner_imgs/text_banners/about_us_banner.png)
 
 <br>
 

@@ -3,7 +3,7 @@ title: ""
 ---
 
 ::: {.column-screen}
-![TODO: rename banner "Communicating Impact" ](images/banner_imgs/text_banners/faq_banner.png)
+![](images/banner_imgs/text_banners/impact_banner.png)
 
 <br>
 

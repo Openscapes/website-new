@@ -12,7 +12,7 @@ aliases:
 
 ::: {.white-div}
 ::: {.medium-body-text .center-text}
-**We are researchers who found open practices to be so game-changing that we are dedicating our careers to empowering others and growing the movement**
+**We are researchers whose work was so profoundly improved because of the open science community that we are dedicating our careers to empowering others and growing the movement.**
 :::
 
 <br>

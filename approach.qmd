@@ -29,7 +29,7 @@ knitr::include_graphics("images/minis/horst_openscapes_desert_agave.png")
 
 We know that daily demands leave little time for researchers to transition to better data practices and open science, which can be lonely and overwhelming. **Openscapes helps researchers reimagine data-intensive science, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams.** 
 
-We help research teams develop the mindset and skills for **kinder science for future us**.
+We help research teams develop the mindset and skills for **kinder science for future us**. This means intentionally building habits and workflows geared towards collaborators and computers other than ourselves.
 
 ## OPENSCAPES FLYWHEEL
 

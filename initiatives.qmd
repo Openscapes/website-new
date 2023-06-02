@@ -9,12 +9,12 @@ title: ""
 
 ::: {.white-div}
 ::: {.medium-body-text .center-text}
-**We offer mentorship, teaching, coaching and community organizing with an approach that introduces modern concepts, tooling, and examples from peers.**
+**We offer community-centered mentorship that builds technical and social skills<br>for teams and organizations.**
 :::
 
 ---
 
-Openscapes is a movement to support kinder science for future us. We work with environmental and Earth science teams in government, academia, & NGOs, including NASA Earthdata, NOAA Fisheries, California Water Boards, EPA. All of our initiatives are remote-by-design. Learn more about them, below!
+All of our initiatives are remote-by-design. Welcome!
 
 ```{r}
 #| echo: false
@@ -26,18 +26,21 @@ knitr::include_graphics("images/minis/fox_hat.png")
 
 ## CHAMPIONS PROGRAM
 
-**Openscapes Champions is an open data science mentorship program for science teams.** We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science.
+**Openscapes Champions is an open data science mentorship program for science teams.** It is a multi-month program that is designed to ignite incremental and sustainable change within research teams and beyond. It helps teams get their own work done, while building skills and community within the realities of scientists' busy schedules, varying expertise and needs.
 
-This is our flagship program that we first led in 2019. We partner with groups to coordinate cohorts of ~7 research teams.
+This is our flagship program, for research teams. We work with partners to coordinate cohorts of ~7 research teams for their organizations. From 2019-2022 we have led 18 Champions Cohorts!
 
 ::: {.yellow-bg}
 ::: {.medium-body-text .center-text}
-{{< fa book-open title="An open book" >}} Learn more about the Champions Program!
+{{< fa book-open title="An open book" >}} Openscapes Champions Lesson Series
 :::
 ::: {.center-text}
-Check out the [Champions Program webpage](champions_program.qmd), or explore the [Champions Lesson Series](https://openscapes.github.io/series/), which introduces the concepts, tooling, and examples that are discussed during Champions Program Cohort Calls. These materials are improved iteratively and the most recent version is always available online for reuse and remix. Want to read about the experiences of our past and current Champions cohorts? Head over to our [blog](blog.qmd).
+The [**Openscapes Champions Lesson Series**](https://openscapes.github.io/series) is our open source curriculum we use to teach Champions Cohorts, and you can use it too.
+
+Learn more on the [**Champions Program webpage**](champions_program.qmd), and read about the experiences of our past and current Champions cohorts on our [**blog**](blog.qmd).
 :::
 :::
+
 
 <br>
 
@@ -51,20 +54,22 @@ knitr::include_graphics("images/minis/hedgehog_hat.png")
 
 ## MENTORS FRAMEWORK
 
-**The Mentors Framework is a multi-year engine for culture change within organizations.** It is a creative approach developed with [Erin Robinson](https://erinrobinson.info/) that blends tech and community building; it’s remote-first and draws inspiration and skills from many places including mentoring, coaching, facilitating, art, open source, environment, inclusion, movements, and leaders we admire.
+**The Mentors Framework is a multi-year engine for culture change within organizations.** It is a creative approach co-developed with [Erin Robinson](https://erinrobinson.info/) that blends tech and community building and draws inspiration and skills from many places including mentoring, coaching, facilitating, art, open source, environment, inclusion, movements, and leaders we admire.
 
-We began developing the Mentors Framework in 2021 in partnership with NASA. We have also been informally growing the Mentors Framework with NOAA Fisheries and the California Water Boards and excited to expand what we are learning with other groups.
+We began developing the Mentors Framework in 2021 in partnership with NASA Earthdata. We have also been informally growing the Mentors Framework with NOAA Fisheries and the California Water Boards and excited to expand what we are learning with other groups.
 
 ::: {.yellow-bg}
 ::: {.medium-body-text .center-text}
-{{< fa book-open title="An open book" >}} Learn more about the teams who have adopted the Mentors Framework and explore their open work and resources!
+{{< fa book-open title="An open book" >}} Mentors Framework Open Source Resources
 :::
 ::: {.center-text}
-[NASA Openscapes](https://nasa-openscapes.github.io/) | [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/) | [blog posts]()   
+Learn more about the teams who have adopted the Mentors Framework and explore their open work and books:
 
-[NOAA Fisheries Openscapes](https://nmfs-openscapes.github.io/) | [Resource Book](https://nmfs-opensci.github.io/ResourceBook/) | [blog posts]()  
+[**NASA Openscapes**](https://nasa-openscapes.github.io/) | [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/) | [blog posts](blog.qmd#category=nasa-framework)     <!---TODO check these links--->
 
-[California Water Boards Openscapes](https://cawaterboarddatacenter.github.io/swrcb-openscapes/) | [blog post](blog/2022-12-02-swrcb-2022/index.qmd)
+[**NOAA Fisheries Openscapes**](https://nmfs-openscapes.github.io/) | [Resource Book](https://nmfs-opensci.github.io/ResourceBook/) | [blog posts](blog.qmd#category=noaa-fisheries)  
+
+[**California Water Boards Openscapes**](https://cawaterboarddatacenter.github.io/swrcb-openscapes/) | [blog post](blog/2022-12-02-swrcb-2022/index.qmd)
 :::
 :::
 
@@ -78,18 +83,18 @@ We began developing the Mentors Framework in 2021 in partnership with NASA. We h
 knitr::include_graphics("images/minis/beaver_hat.png")
 ```
 
-## REFLECTIONS PROGRAM
+## PATHWAYS TO OPEN SCIENCE PROGRAM
 
-**Openscapes Reflections is an open data science coaching program for researchers and those who support research.** We know many like you have been looking for a lighter-weight way to get involved or continue building habits to support yourself and your colleagues. We’ve designed the Reflections Program to meet this need; Reflections is a 3-week program modeled from leadership coaching, something now core to the Openscapes approach.
+**Pathways to Open Science is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science.** It is led by [Ileana Fenwick](https://twitter.com/_ileanaf) of Openscapes in partnership with [Black in Marine Science (BIMS)](https://www.blackinmarinescience.org/) and [Black Women in Ecology, Evolution, and Marine Science (BWEEMS)](https://www.bweems.org/).
 
-We launched this program in 2023 and plan to lead it annually in May!
+We launched this program in 2023 and plan to lead it annually in January-March.
 
 ::: {.yellow-bg}
 ::: {.medium-body-text .center-text}
-{{< fa book-open title="An open book" >}} Check out our open educational resources!
+{{< fa book-open title="An open book" >}} Pathways to Open Science Program Open Source Resources
 :::
 ::: {.center-text}
-Explore the [Openscapes Reflections Booklet](https://openscapes.github.io/booklet/), which introduces prompts to guide your reflections. These materials are improved iteratively and the most recent version is always available online for reuse and remix.
+Learn more on the [**Pathways to Open Science Program webpage**](https://openscapes.github.io/pathways-to-open-science/), and read about experiences on our [**blog**](blog.qmd##category=pathways).
 :::
 :::
 
@@ -103,18 +108,18 @@ Explore the [Openscapes Reflections Booklet](https://openscapes.github.io/bookle
 knitr::include_graphics("images/minis/lizard_hat.png")
 ```
 
-## PATHWAYS TO OPEN SCIENCE PROGRAM
+## REFLECTIONS PROGRAM
 
-**Pathways to Open Science is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science.** It is led by [Ileana Fenwick](https://twitter.com/_ileanaf) of Openscapes in partnership with [Black in Marine Science (BIMS)](https://www.blackinmarinescience.org/) and [Black Women in Ecology, Evolution, and Marine Science (BWEEMS)](https://www.bweems.org/).
+**Openscapes Reflections is an open data science coaching program for researchers and those who support research.** We know many like you have been looking for a lighter-weight way to get involved or continue building habits to support yourself and your colleagues. We’ve designed the Reflections Program to meet this need; Reflections is a 3-week program modeled from leadership coaching, something now core to the Openscapes approach.
 
-We launched this program in 2023 and plan to lead it annually in January-March.
+We launched this program in 2023 and plan to lead it annually in May!
 
 ::: {.yellow-bg}
 ::: {.medium-body-text .center-text}
-{{< fa book-open title="An open book" >}} Learn more about the Pathways to Open Science Program!
+{{< fa book-open title="An open book" >}} Reflections Program Booklet
 :::
 ::: {.center-text}
-Check out the [Pathways to Open Science webpage](https://openscapes.github.io/pathways-to-open-science/) for program details, scheduling, and registration, or read our [blogpost](blog/2023-04-26-pathways-report/index.qmd), where we summarize and reflect on our first Pathways series.
+Learn more in the [**Openscapes Reflections Booklet**](https://openscapes.github.io/booklet/), which introduces prompts to guide your reflections.
 :::
 :::
 

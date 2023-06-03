@@ -29,7 +29,8 @@ listing:
 # **WHAT WE DO**
 :::
 
-**Openscapes is an [approach](approach.qmd) and a movement to support better science in less time, together — we call this kinder science for future us.** We champion open practices in environmental science to help uncover data-driven solutions faster. Regardless of research question, environmental scientists are united by the need to analyze data --- and to do so in a way that is efficient, reproducible, and easily communicated. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. Here's how:
+<br>
+**Openscapes is an [approach](approach.qmd) and a movement to support better science in less time, together.** As part of the larger open science movement, we help research teams and organizations reimagine data-intensive science as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Here's how:
 :::
 :::
 
@@ -84,7 +85,8 @@ listing:
 ::: {.blue-underline .center-text}
 # **GROWING THE OPEN MOVEMENT**
 :::
-We help research groups focused on the cascading impacts of climate change develop collaborative daily workflows that are more reproducible, transparent, inclusive, and kind while they connect to the growing open movement. Learn more about our [initiatives](initiatives.qmd) and [impact](impact.qmd), and [connect](connect.qmd) with us.
+<br>
+We help research groups focused on the cascading impacts of climate change develop collaborative daily workflows that are more reproducible, transparent, inclusive, and kind while they connect to the growing open science movement. We call this **kinder science for future us**. Learn more about our [initiatives](initiatives.qmd) and [impact](impact.qmd), and [connect](connect.qmd) with us.
 
 <!---
 We work at the intersection of actionable environmental science, open source, and data science, motivated to empower and connect groups working to mitigate the cascading impacts of climate change. Our focus is mentoring researchers and those who support research and growing the open movement around the world.
@@ -93,17 +95,15 @@ We work at the intersection of actionable environmental science, open source, an
 <br>
 
 ::: {.blockquote-gray}
-*“Openscapes has created a collaborative environment for DAAC staff to collectively support open science initiatives for NASA Earthdata users. We’ve developed awesome material to help Earthdata users. Perhaps just as important as what we’ve done however, are mindsets we’ve grown into along the way. It’s okay to share imperfect works in progress. We are better at dreaming and implementing the future together.”*  
+“Openscapes has created a collaborative environment for DAAC staff to collectively support open science initiatives for NASA Earthdata users. We’ve developed awesome material to help Earthdata users. Perhaps just as important as what we’ve done however, are mindsets we’ve grown into along the way. It’s okay to share imperfect works in progress. We are better at dreaming and implementing the future together.”
 
-**– Cassandra Nickles, NASA Physical Oceanography Distributed Active Archive Center (DAAC)** 
+**– Cassandra Nickles, NASA Physical Oceanography Distributed Active Archive Center (DAAC)**
 :::
-
-<br>
 
 <!--- . --->
 
 ::: {.blockquote-gray}
-*“As fisheries scientists, we know that when we’re in rough seas, it’s important to keep the ship afloat AND get out of the storm. Openscapes helps teams steer out of the storm of email chains with 37 versions of the same spreadsheet and to the calmer waters of open science and meaningful collaboration, using tools like R.”* 
+“As fisheries scientists, we know that when we’re in rough seas, it’s important to keep the ship afloat AND get out of the storm. Openscapes helps teams steer out of the storm of email chains with 37 versions of the same spreadsheet and to the calmer waters of open science and meaningful collaboration, using tools like R.” 
 
 **- Adyan Rios, NOAA Southeast Fisheries Science Center**
 :::
@@ -124,6 +124,7 @@ We work at the intersection of actionable environmental science, open source, an
 ::: {.blue-underline .center-text}
 # **FROM OUR BLOG**
 :::
+<br>
 Blog posts share stories from the Openscapes community as well as document our learning openly. See our most recent posts below or browse our [full blog listing](blog.qmd)).
 
 ::: {#recent-blog-listing}
@@ -151,7 +152,7 @@ Openscapes bridges data-intensive environmental science with the open movement. 
 ```{r}
 #| echo: false
 #| fig-align: "center"
-#| out-width: "100%"
+#| out-width: "75%"
 #| fig-alt: "Sidy-by-side Mozilla and NCEAS logos, written in white text on black background; The Mozilla logo is spelled, 'moz://a`; the NCEAS logo is the morpho butterfly to the left the the aconymn, 'NCEAS' atop the full name, 'National Center for Ecological Analysis and Synthesis'"
 knitr::include_graphics("images/clients/mozilla_nceas_gray.png")
 ```
@@ -177,9 +178,9 @@ knitr::include_graphics("images/clients/mozilla_nceas_gray.png")
 ::: {.g-col-6}
 ### About
 
-Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster. Openscapes was incubated by NCEAS and a Mozilla Fellowship awarded to Julia Stewart Lowndes.
+Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster together. 
 
-[Learn more »](who_are_we.qmd)
+[Learn more »](about.qmd)
 :::
 
 ::: {.g-col-6}

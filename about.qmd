@@ -29,7 +29,7 @@ knitr::include_graphics("images/minis/horst_openscapes_arctic_squid.png")
 ::: {.white-div}
 ## OUR STORY
 
-The Openscapes story starts with file names like "data_analysis_final_v2b.xls" --- you know the ones. It is a story about reimagining what's possible when we modernize how we collaborate as part of the open movement.
+The Openscapes story starts with file names like "data_analysis_final_v2b.xls" --- you know the ones. It is a story about learning we're not the only one feeling lonely and stuck with this kind of workflow, and empowered that there is a better way. It is a story about reimagining what's possible when we modernize how we collaborate as part of the open movement.
 
 Openscapes has been co-developed by Julia Lowndes and Erin Robinson, combining their expertise of open data science and open data stewardship, community and program building, teaching and coaching, as well as their lived experience as researchers. Together, they built the Openscapes as a value-based initiative that builds momentum like a flywheel and sustainably supports research teams with open science. With the Openscapes Champions flagship program and the first cohort of research teams, Openscapes was initially launched by Julia through a Mozilla Fellowship in 2018, following her own team's [path to better science in less time](https://www.nature.com/articles/s41559-017-0160).
 

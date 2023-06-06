@@ -98,7 +98,7 @@ aliases:
 
 ## Mentors
 
-[**NASA Earthdata Mentors**](https://nasa-openscapes.github.io/mentors.html#mentor-cohort) are supporting researchers using NASA Earthdata as they migrate workflows to the Cloud
+[**NASA Earthdata Mentors**](https://nasa-openscapes.github.io/mentors.html#mentor-cohort) are supporting researchers using NASA Earthdata as they migrate workflows to the Cloud.
 
 [**NOAA Fisheries Mentors**](https://nmfs-openscapes.github.io/mentors.html) are supporting colleagues at NOAA Fisheries with open science practices for collaboration, particularly for shared project management and government reports.
 

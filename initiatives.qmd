@@ -14,7 +14,9 @@ title: ""
 
 ---
 
+::: {.center-text}
 All of our initiatives are remote-by-design. Welcome!
+:::
 
 ```{r}
 #| echo: false

@@ -92,6 +92,9 @@ We help research groups focused on the cascading impacts of climate change devel
 We work at the intersection of actionable environmental science, open source, and data science, motivated to empower and connect groups working to mitigate the cascading impacts of climate change. Our focus is mentoring researchers and those who support research and growing the open movement around the world.
 --->
 
+![](images/numbers.png)
+
+
 <br>
 
 ::: {.blockquote-gray}

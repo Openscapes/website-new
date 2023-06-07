@@ -20,6 +20,8 @@ website:
             href: team.qmd
           - text: "MEDIA"
             href: media.qmd
+          - text: "STORIES"
+            href: stories.qmd 
           - text: "CODE OF CONDUCT"
             href: code_of_conduct.qmd # Let's change these all to - instead of _
       - text: "INITIATIVES"
@@ -33,8 +35,6 @@ website:
         #    href: reflections_program.qmd
         #  - text: "PATHWAYS TO OPEN SCIENCE PROGRAM"
         #    href: pathways_to_open_science_program.qmd
-      - text: "IMPACT"
-        href: impact.qmd
       - text: "BLOG"
         href: blog.qmd
       - text: "CONNECT"

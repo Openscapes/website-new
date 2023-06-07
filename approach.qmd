@@ -19,17 +19,17 @@ aliases:
 ```{r}
 #| echo: false
 #| fig-align: "center"
-#| out-width: "13%"
+#| out-width: "10%"
 #| fig-alt: "A green agave plant."
 knitr::include_graphics("images/minis/horst_openscapes_desert_agave.png")
 ```
 
 
-**We approach open science as a spectrum, as a behavior change, and as a movement.** There are many ways to practice open science and to welcome others to participate. We see data analysis and stewardship as powerful entryways for open science, and we meet scientists where they are, helping them develop new skillsets and mindsets of immediate value while empowering them as leaders. Our work centers around **open data science,** which we define as the tooling and people enabling reproducible, transparent, inclusive practices for data-intensive research. We are influenced and inspired by many leaders and community organizers, particularly in climate justice and get out the vote movements. 
+**Openscapes helps researchers and those supporting research find each other and feel empowered to conduct data-intensive science by providing structure for technical skill-building, collaborative teamwork, and inclusive community development**. We call this kinder science for future us.
 
-We know that daily demands leave little time for researchers to transition to better data practices and open science, which can be lonely and overwhelming. **Openscapes helps researchers reimagine data-intensive science, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams.** 
+We know that daily demands leave little time to transition to better data practices and open science, which can be lonely and overwhelming. We approach open science as a spectrum, a behavior change, and a movement where there are many ways to practice open science and to welcome others to participate. We are influenced and inspired by many leaders and community organizers, particularly in climate and get out the vote movements. 
 
-We help research teams develop the mindset and skills for **kinder science for future us**. This means intentionally building habits and workflows geared towards collaborators and computers other than ourselves.
+<br>
 
 ## OPENSCAPES FLYWHEEL
 
@@ -63,9 +63,11 @@ knitr::include_graphics("images/diagrams/openscapes-flywheel-vpub.png")
 {{< fa book-open title="An open book" >}} Openscapes Approach Guide
 :::
 ::: {.center-text}
-The [**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/) is our "lab manual", an attempt to codify our approach to onboard ourselves and new team members to how we work. It is an open source curriculum you can use too. 
+The [**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/) is our "lab manual", an attempt to codify our approach to onboard ourselves and new team members to how we work. It is an open source resource you can use too. 
 :::
 :::
+
+<br>
 
 ## THEORY OF CHANGE
 

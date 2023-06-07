@@ -9,14 +9,10 @@ title: ""
 
 ::: {.white-div}
 ::: {.medium-body-text .center-text}
-**We offer community-centered mentorship that builds technical and social skills<br>for teams and organizations.**
+**We offer mentorship that builds technical and collaborative skills<br>for teams and organizations.**
 :::
 
 ---
-
-::: {.center-text}
-All of our initiatives are remote-by-design. Welcome!
-:::
 
 ```{r}
 #| echo: false
@@ -25,6 +21,11 @@ All of our initiatives are remote-by-design. Welcome!
 #| fig-alt: "An orange fox wearing a purple baseball cap with the orange Openscapes logo on the front holds a white flag that says, 'Welcome!' in its outstretched arm."
 knitr::include_graphics("images/minis/fox_hat.png")
 ```
+
+<br>
+
+Our initiatives are all remote-by-design, for researchers and those who support research. 
+ Welcome!
 
 ## CHAMPIONS PROGRAM
 

@@ -47,7 +47,7 @@ listing:
 **ENGAGE**
 :::
 :::{.medium-gray1-text .small-body-text} 
-**We build awareness and excitement.** We engage scientists with the possibilities of open data science with empathy, art, and storytelling.
+**We welcome and create space and place.** We engage researchers who want to work better and collaborate through empathy, art, storytelling, and technology.
 :::
 :::
 
@@ -59,7 +59,7 @@ listing:
 **EMPOWER**
 :::
 :::{.medium-gray1-text .small-body-text} 
-**We help build confidence and skills.** We empower scientists by connecting them with existing open software and communities that meet them where they are so they can develop the skills they need.
+**We invest in learning and trust, and work openly.** We empower researchers by growing their confidence and abilities as they put what they learn into practice quickly. 
 :::
 :::
 
@@ -71,7 +71,7 @@ listing:
 **AMPLIFY**
 :::
 :::{.medium-gray1-text .small-body-text} 
-**We build champions and communities.** We amplify scientists’ efforts through academic seminars as well as blogs and social media to increase the visibility of open practices on campus and online.
+**We leverage common workflows and inspire broader shifts.** We amplify progress through collaboration and reuse, celebrating people and small wins that accumulate.
 :::
 :::
 
@@ -96,6 +96,8 @@ We work at the intersection of actionable environmental science, open source, an
 
 
 <br>
+
+TODO: Quotes look less like text and more like speech bubbles. Litely boxed, with faces
 
 ::: {.blockquote-gray}
 “Openscapes has created a collaborative environment for DAAC staff to collectively support open science initiatives for NASA Earthdata users. We’ve developed awesome material to help Earthdata users. Perhaps just as important as what we’ve done however, are mindsets we’ve grown into along the way. It’s okay to share imperfect works in progress. We are better at dreaming and implementing the future together.”

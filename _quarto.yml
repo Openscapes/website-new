@@ -25,16 +25,18 @@ website:
           - text: "CODE OF CONDUCT"
             href: code_of_conduct.qmd # Let's change these all to - instead of _
       - text: "INITIATIVES"
-        href: initiatives.qmd
-        # menu:
-        #  - text: "CHAMPIONS PROGRAM"
-        #    href: champions_program.qmd
-        #  - text: "MENTORS FRAMEWORK"
-        #    href: mentors_framework.qmd
-        #  - text: "REFLECTIONS PROGRAM"
-        #    href: reflections_program.qmd
-        #  - text: "PATHWAYS TO OPEN SCIENCE PROGRAM"
-        #    href: pathways_to_open_science_program.qmd
+        menu:
+          - text: "ALL INITIATIVES"
+            href: initiatives.qmd
+          - text: "CHAMPIONS PROGRAM"
+            href: champions_program.qmd
+          - text: "NASA OPENSCAPES"
+            href: initiatives.qmd#nasa-openscapes
+          - text: "PATHWAYS TO OPEN SCIENCE PROGRAM"
+            href: initiatives.qmd#pathways-to-open-science-program
+          - text: "REFLECTIONS PROGRAM"
+            href: initiatives.qmd#reflections-program
+
       - text: "BLOG"
         href: blog.qmd
       - text: "CONNECT"

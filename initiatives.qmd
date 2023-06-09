@@ -24,8 +24,9 @@ knitr::include_graphics("images/minis/fox_hat.png")
 
 <br>
 
-Our initiatives are all remote-by-design, for researchers and those who support research. 
- Welcome!
+Our initiatives are all remote-by-design, for researchers and those who support research.  Welcome!
+ 
+<br> 
 
 ## CHAMPIONS PROGRAM
 
@@ -75,6 +76,23 @@ Learn more about the teams who have adopted the Mentors Framework and explore th
 [**California Water Boards Openscapes**](https://cawaterboarddatacenter.github.io/swrcb-openscapes/) | [blog post](blog/2022-12-02-swrcb-2022/index.qmd)
 :::
 :::
+
+<br>
+
+### NASA OPENSCAPES
+
+```{r}
+#| echo: false
+#| fig-align: "left"
+#| out-width: "15%"
+#| fig-alt: "The NASA 'meatball' logo that is blue, red, and white next to an orange Openscapes logo."
+knitr::include_graphics("images/logo/nasa-openscapes.png")
+```
+
+
+NASA Openscapes answers a NASA Earthdata call to support scientific researchers using data from NASA Distributed Active Archive Centers (DAACs) as they migrate workflows to the cloud.
+
+**Learn more at [nasa-openscapes.github.io](https://nasa-openscapes.github.io)**
 
 <br>
 

@@ -18,21 +18,26 @@ title: " "
 
 We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skill-sets and mindsets for modern data-intensive science. Learn these Champions' stories through our [blog](blog.qmd), [media](media.qmd), as well as steps for you to [supercharge your research](https://www.nature.com/articles/d41586-019-03335-4).
 
->***"Openscapes isn't just about coding and GitHub, it's about changing how we do science"*** --- Dr. Malin Pinsky, Rutgers University
-
 <br>
 
+::: {.yellow-bg}
+::: {.medium-body-text .center-text}
+{{< fa book-open title="An open book" >}} Openscapes Champions Lesson Series
+:::
+::: {.center-text}
+The [**Openscapes Champions Lesson Series**](https://openscapes.github.io/series) is our open source curriculum we use to teach Champions Cohorts, and you can use it too.
+:::
+:::
+
+<br> 
 ```{r}
 #| echo: false
-#| fig-align: "center"
-#| out-width: "85%"
-#| fig-alt: "A landscape consisting of a grassy meadow next to a sandy beach and ocean, a winding river, and distant mountains. In the foreground, a sad bunny and skunk are working alone on their laptops, each with a rain cloud over their heads. Nearby is a trailhead with a fox holding a 'Welcome!' sign for a variety of different critters to see. Past the trailhead are branching pathways through the Openscapes landscape. No matter the path, however, there are small groups of animals working together to find their way. Nods to data science are scattered throughout the image, including mountains made of data points and a satellite in the sky."
-knitr::include_graphics("images/page_imgs/horst_openscapes_champions.jpg")
+#| fig-align: center
+#| out-width: "10%"
+#| fig-alt: "A green agave plant."
+knitr::include_graphics("images/minis/horst_openscapes_desert_agave.png")
 ```
 
-::: {.caption-text .center-text}
-*In the the open data science landscape, there are many paths forward. Through the Champions program we help researchers move from lonely research to team science with community through exploring and navigating pathways together. Artwork by [Allison Horst](https://twitter.com/allison_horst).*
-:::
 
 <br>
 
@@ -44,22 +49,6 @@ Openscapes Champions is a multi-month program that is led remotely and designed 
 
 Each Cohort Call uses the [Champions Lesson Series](https://openscapes.github.io/series/), which is an open curriculum originally based on what was instrumental in the Ocean Health Index (OHI) team's [path to better science in less time](https://www.nature.com/articles/s41559-017-0160), and openly iterated as we experiment and learn. We start off each call with a reminder of our Code of Conduct and provide multiple channels for participation, including through silent contributions to the Google Doc Agenda, breakout groups, and full-group discussions. Each call closes with an efficiency tip and an inclusion tip to incorporate into daily practice.
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "10%"
-#| fig-alt: "An orange fox wearing a purple baseball cap with the orange Openscapes logo on the front holds a white flag that says, 'Welcome!' in its outstretched arm."
-knitr::include_graphics("images/minis/fox_hat.png")
-```
-
-::: {.yellow-bg}
-::: {.medium-body-text .center-text}
-{{< fa book-open title="An open book" >}} Check out our open educational resources!
-:::
-::: {.center-text}
-Explore the [Champions Lesson Series](https://openscapes.github.io/series/), which introduces the concepts, tooling, and examples that are discussed during Champions Program Cohort Calls. These materials are improved iteratively and the most recent version is always available online for reuse and remix.
-:::
-:::
 
 <br>
 
@@ -101,8 +90,6 @@ knitr::include_graphics("images/minis/horst_openscapes_desert_cactus.png")
 
 ## CHAMPIONS LESSON SERIES
 
-The Openscapes Champions Program is strongly motivated by open data science, and with that comes the mindset of openness, collaboration, inclusion, trust, and creating the culture we want in science.
-
 The [Openscapes Champions Lessons Series](https://openscapes.github.io/series/) is the core curriculum that we use in the Champions Program. It is iterated openly, with the most recent version always available online. Each Chapter has associated slides used in Cohort Calls, which we cover in Cohort Calls.
 
 The Lesson Series is originally framed around the the tools and practices critical to the OHI team's [path to better science in less time](https://www.nature.com/articles/s41559-017-0160), with examples from the open source programming language R and R communities. However, the concepts are relevant no matter the programming language, and we continually invest in this curriculum to incorporate examples from other languages and communities as well.
@@ -127,23 +114,16 @@ Our [Resources page](resources.qmd) has some resources meant to welcome environm
 #| echo: false
 #| fig-align: center
 #| out-width: "13%"
-#| fig-alt: "A green agave plant."
-knitr::include_graphics("images/minis/horst_openscapes_desert_agave.png")
+#| fig-alt: "A brown tortoise."
+knitr::include_graphics("images/minis/horst_openscapes_desert_tortoise.png")
 ```
+
 
 ## FAQ
 
 Learn more about how research groups participate in our [Frequently Asked Questions](faq.qmd).
 
 <br>
-
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "13%"
-#| fig-alt: "A brown tortoise."
-knitr::include_graphics("images/minis/horst_openscapes_desert_tortoise.png")
-```
 
 :::
 

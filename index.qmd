@@ -106,6 +106,9 @@ knitr::include_graphics("images/diagrams/openscapes-by-the-numbers-v2023.06.png"
 
 TODO: Quotes look less like text and more like speech bubbles. Litely boxed, with faces
 
+
+
+
 ::: {.blockquote-gray}
 “Openscapes has created a collaborative environment for DAAC staff to collectively support open science initiatives for NASA Earthdata users. We’ve developed awesome material to help Earthdata users. Perhaps just as important as what we’ve done however, are mindsets we’ve grown into along the way. It’s okay to share imperfect works in progress. We are better at dreaming and implementing the future together.”
 
@@ -120,6 +123,22 @@ TODO: Quotes look less like text and more like speech bubbles. Litely boxed, wit
 **- Adyan Rios, NOAA Southeast Fisheries Science Center**
 :::
 
+<!--- . --->
+
+::: {.blockquote-gray}
+"Because of Openscapes, I have renewed hope in how we can bring about a kinder future in science. I see a commitment in the open science community to bridging the gaps where we’ve left members of our community behind, and it inspires me."
+
+**- Ileana Fenwick, University of North Carolina**
+:::
+
+<!--- . --->
+
+::: {.blockquote-gray}
+
+"Openscapes isn't just about coding and GitHub, it's about changing how we do science"
+
+**- Dr. Malin Pinsky, University of California Santa Cruz**
+:::
 
 ::: {#recent-events-listing}
 :::

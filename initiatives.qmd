@@ -41,7 +41,7 @@ This is our flagship program, for research teams. We work with partners to coord
 ::: {.center-text}
 The [**Openscapes Champions Lesson Series**](https://openscapes.github.io/series) is our open source curriculum we use to teach Champions Cohorts, and you can use it too.
 
-Learn more on the [**Champions Program webpage**](champions_program.qmd), and read about the experiences of our past and current Champions cohorts on our [**blog**](blog.qmd).
+Learn more on the [**Champions Program webpage**](champions_program.qmd), and read about the experiences of our past and current Champions cohorts on our [**blog**](blog.qmd#category=champions).
 :::
 :::
 
@@ -56,11 +56,43 @@ Learn more on the [**Champions Program webpage**](champions_program.qmd), and re
 knitr::include_graphics("images/minis/hedgehog_hat.png")
 ```
 
+
+## NASA OPENSCAPES
+
+
+**NASA Openscapes is a multi-year effort to develop a mentor community across NASA Earth science data centers to support researchers as they migrate analytical workflows to the Cloud**. Co-led with [Erin Robinson](https://erinrobinson.info/), we approach this work as movement building, using the concept where transformations occur from relentlessly pushing a giant, heavy flywheel that builds momentum over time.
+
+We began in 2021, and currently working with Mentors from 7 of the 12 NASA Earth science data centers.
+
+::: {.yellow-bg}
+::: {.medium-body-text .center-text}
+{{< fa book-open title="An open book" >}} NASA Earthdata Cloud Cookbook
+:::
+::: {.center-text}
+
+The [**NASA Earthdata Cloud Cookbook**](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/) is a collection of common tutorials co-created and co-taught by NASA Openscapes Mentors, and it is an open source curriculum you can use too!
+
+Learn more on the [**NASA Openscapes website**](https://nasa-openscapes.github.io/), and read about the experiences of our past and current NASA Openscapes work on our [**blog**](blog.qmd#category=nasa-framework).
+:::
+:::
+
+<br>
+
+```{r}
+#| echo: false
+#| fig-align: "center"
+#| out-width: "18%"
+#| fig-alt: "The NASA 'meatball' logo that is blue, red, and white next to an orange Openscapes logo."
+knitr::include_graphics("images/logo/nasa-openscapes.png")
+```
+
+
 ## MENTORS FRAMEWORK
 
 **The Mentors Framework is a multi-year engine for culture change within organizations.** It is a creative approach co-developed with [Erin Robinson](https://erinrobinson.info/) that blends tech and community building and draws inspiration and skills from many places including mentoring, coaching, facilitating, art, open source, environment, inclusion, movements, and leaders we admire.
 
-We began developing the Mentors Framework in 2021 in partnership with NASA Earthdata. We have also been informally growing the Mentors Framework with NOAA Fisheries and the California Water Boards and excited to expand what we are learning with other groups.
+We began developing the Mentors Framework in 2021 through NASA Openscapes. The Framework includes regular peer-learning meetings and formal skillbuilding in teaching and coaching. We have also been growing the Mentors Framework with NOAA Fisheries, the California Water Boards, and Pathways to Open Science teams and excited to expand what we are learning with other groups.
+
 
 ::: {.yellow-bg}
 ::: {.medium-body-text .center-text}
@@ -69,30 +101,17 @@ We began developing the Mentors Framework in 2021 in partnership with NASA Earth
 ::: {.center-text}
 Learn more about the teams who have adopted the Mentors Framework and explore their open work and books:
 
-[**NASA Openscapes**](https://nasa-openscapes.github.io/) | [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/) | [blog posts](blog.qmd#category=nasa-framework)     <!---TODO check these links--->
+[**NASA Openscapes**](https://nasa-openscapes.github.io/) | [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/) | [blog posts](blog.qmd#category=nasa-framework)  
+
 
 [**NOAA Fisheries Openscapes**](https://nmfs-openscapes.github.io/) | [Resource Book](https://nmfs-opensci.github.io/ResourceBook/) | [blog posts](blog.qmd#category=noaa-fisheries)  
 
 [**California Water Boards Openscapes**](https://cawaterboarddatacenter.github.io/swrcb-openscapes/) | [blog post](blog/2022-12-02-swrcb-2022/index.qmd)
+
+[**Blog: How coaching skills have made us better open data science mentors**](https://www.openscapes.org/blog/2023/05/17/mentor-coach/)
+
 :::
 :::
-
-<br>
-
-### NASA OPENSCAPES
-
-```{r}
-#| echo: false
-#| fig-align: "left"
-#| out-width: "15%"
-#| fig-alt: "The NASA 'meatball' logo that is blue, red, and white next to an orange Openscapes logo."
-knitr::include_graphics("images/logo/nasa-openscapes.png")
-```
-
-
-NASA Openscapes answers a NASA Earthdata call to support scientific researchers using data from NASA Distributed Active Archive Centers (DAACs) as they migrate workflows to the cloud.
-
-**Learn more at [nasa-openscapes.github.io](https://nasa-openscapes.github.io)**
 
 <br>
 

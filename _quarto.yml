@@ -20,8 +20,8 @@ website:
             href: team.qmd
           - text: "MEDIA"
             href: media.qmd
-          - text: "STORIES"
-            href: stories.qmd 
+          # - text: "STORIES" ## HOLD OFF on stories - maybe this is actually how-we-work.
+          #   href: stories.qmd 
           - text: "CODE OF CONDUCT"
             href: code_of_conduct.qmd # Let's change these all to - instead of _
       - text: "INITIATIVES"

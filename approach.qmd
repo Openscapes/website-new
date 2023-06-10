@@ -38,7 +38,7 @@ knitr::include_graphics("images/page_imgs/horst_openscapes_champions.jpg")
 
 <br>
 
-We approach open science as a spectrum, a behavior change, and a movement where there are many ways to practice open science and to welcome others to participate. We are influenced and inspired by many leaders and community organizers, particularly in climate and get out the vote movements.
+**We approach open science as a spectrum, a behavior change, and a movement.** There are many ways to practice open science and to welcome others to participate. We share our work openly and share stories, in part through the [resources page](resources.qmd), [media page](media.qmd), [blog](blog.qmd), and [events](events.qmd). We are influenced and inspired by many leaders and community organizers, particularly in climate and get out the vote movements.
 
 <br>
 

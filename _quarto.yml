@@ -9,19 +9,21 @@ website:
     logo-alt: "A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment."
     right:
       - text: "HOME"
-        href: index.qmd
+        href: index.qmd    
+      - text: "APPROACH"
+        href: approach.qmd            
       - text: "ABOUT"
         menu:
           - text: "ABOUT US"
             href: about.qmd
-          - text: "OUR APPROACH"
-            href: approach.qmd
           - text: "OUR TEAM" # Do we need this as separate navbar item or is ABOUT US enough?
             href: team.qmd
+          # - text: "HOW WE WORK" ## HOLD OFF on stories - maybe this is actually how-we-work.
+          #   href: stories.qmd 
+          - text: "OPEN RESOURCES"
+            href: resources.qmd            
           - text: "MEDIA"
             href: media.qmd
-          # - text: "STORIES" ## HOLD OFF on stories - maybe this is actually how-we-work.
-          #   href: stories.qmd 
           - text: "CODE OF CONDUCT"
             href: code_of_conduct.qmd # Let's change these all to - instead of _
       - text: "INITIATIVES"
@@ -36,15 +38,12 @@ website:
             href: initiatives.qmd#pathways-to-open-science-program
           - text: "REFLECTIONS PROGRAM"
             href: initiatives.qmd#reflections-program
-
       - text: "BLOG"
         href: blog.qmd
       - text: "CONNECT"
         href: connect.qmd # TODO maybe rename url
           #- text: "OUR EVENTS"
            # href: events.qmd
- #         - text: "FIND LEARNING RESOURCES" TODO: review & move to Champions series
- #            href: resources.qmd
       - icon: github
         href: https://github.com/openscapes
       - icon: twitter

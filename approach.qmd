@@ -5,7 +5,7 @@ aliases:
 ---
 
 ::: {.column-screen}
-![TODO: UPDATE TO 'OUR APPROACH'](images/banner_imgs/text_banners/champions_program_banner.png)
+![](images/banner_imgs/text_banners/our_approach_banner.png)
 
 <br>
 

@@ -5,7 +5,7 @@ aliases:
 ---
 
 ::: column-screen
-![TODO UPDATE "RESOURCES"](images/banner_imgs/text_banners/initiatives_banner.png)
+![](images/banner_imgs/text_banners/resources_banner.png)
 
 <br>
 

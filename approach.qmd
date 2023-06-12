@@ -46,7 +46,7 @@ knitr::include_graphics("images/page_imgs/horst_openscapes_champions.jpg")
 
 ## OPENSCAPES FLYWHEEL
 
-Our approach for movement building and sustainability is underpinned by our Openscapes Flywheel ([Robinson & Lowndes 2022](https://eartharxiv.org/repository/view/4560/)). The Flywheel concept was developed by [Jim Collins](https://www.jimcollins.com/) in the book Good to Great. No matter how dramatic the end result, building something to last never happen in one fell swoop. Rather, the process resembles relentlessly pushing a giant, heavy flywheel, turn upon turn, building momentum until a point of breakthrough, and beyond. It is never one big thing, it is many little things reinforced over time. Our Flywheel drives how we work and how we can communicate [impact](impact.qmd).
+**Our approach for movement building and sustainability is underpinned by our Openscapes Flywheel** ([Robinson & Lowndes 2022](https://eartharxiv.org/repository/view/4560/)). The Flywheel concept was developed by [Jim Collins](https://www.jimcollins.com/) in the book Good to Great. No matter how dramatic the end result, building something to last never happen in one fell swoop. Rather, the process resembles relentlessly pushing a giant, heavy flywheel, turn upon turn, building momentum until a point of breakthrough, and beyond. It is never one big thing, it is many little things reinforced over time. Our Flywheel drives how we work and how we can communicate [impact](impact.qmd).
 
 
 <!--- For Approach Guide? OR just cut if already there

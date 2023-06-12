@@ -105,7 +105,9 @@ knitr::include_graphics("images/minis/horst_openscapes_grassland_deer.png")
 ::: {.medium-body-text .center-text}
 {{< fa book-open title="An open book" >}} NOAA FISHERIES RESOURCE BOOK
 
+::: center-text
 [**NOAA Fisheries Openscapes**](https://nmfs-openscapes.github.io/) \| [Resource Book](https://nmfs-opensci.github.io/ResourceBook/) \| [blog posts](blog.qmd#category=noaa-fisheries)
+:::
 :::
 :::
 

@@ -89,7 +89,7 @@ listing:
 # **GROWING THE OPEN MOVEMENT**
 :::
 <br>
-As part of the larger open science movement, we help research teams and organizations reimagine data-intensive science as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. <!-- We call this **kinder science for future us**. ---> <!---Learn more about our [initiatives](initiatives.qmd) and [impact](impact.qmd), and [connect](connect.qmd) with us.--->
+**As part of the larger open science movement**, Openscapes helps research teams and organizations reimagine data-intensive science as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. <!-- We call this **kinder science for future us**. ---> <!---Learn more about our [initiatives](initiatives.qmd) and [impact](impact.qmd), and [connect](connect.qmd) with us.--->
 
 <br>
 
@@ -110,7 +110,7 @@ TODO: Quotes look less like text and more like speech bubbles. Litely boxed, wit
 
 
 ::: {.blockquote-gray}
-“Openscapes has created a collaborative environment for DAAC staff to collectively support open science initiatives for NASA Earthdata users. We’ve developed awesome material to help Earthdata users. Perhaps just as important as what we’ve done however, are mindsets we’ve grown into along the way. It’s okay to share imperfect works in progress. We are better at dreaming and implementing the future together.”
+“Openscapes has created a collaborative environment for DAAC staff to collectively support open science initiatives and develop awesome material to help Earthdata users. Perhaps just as important as what we’ve done however, are mindsets we’ve grown into along the way...We are better at dreaming and implementing the future together.”
 
 **– Cassandra Nickles, NASA Physical Oceanography Distributed Active Archive Center (DAAC)**
 :::
@@ -137,7 +137,7 @@ TODO: Quotes look less like text and more like speech bubbles. Litely boxed, wit
 
 "Openscapes isn't just about coding and GitHub, it's about changing how we do science"
 
-**- Dr. Malin Pinsky, University of California Santa Cruz**
+**- Malin Pinsky, University of California Santa Cruz**
 :::
 
 ::: {#recent-events-listing}
@@ -156,7 +156,9 @@ TODO: Quotes look less like text and more like speech bubbles. Litely boxed, wit
 # **FROM OUR BLOG**
 :::
 <br>
-Blog posts share stories from the Openscapes community as well as document our learning openly. See our most recent posts below or browse our [full blog listing](blog.qmd)).
+Blog posts share stories from the Openscapes community and document our learning openly. See the recent posts below or browse our [full blog listing](blog.qmd).
+
+<br>
 
 ::: {#recent-blog-listing}
 :::
@@ -171,31 +173,15 @@ Blog posts share stories from the Openscapes community as well as document our l
 ::: {.column-screen}
 ::: {.light-gray-div}
 ::: {.blue-underline .center-text}
-# **INCUBATED BY MOZILLA AND NCEAS**
+# **SHOULD WE KEEP THIS SECTION?**
 :::
 
 ::: {.center-text}
-Openscapes bridges data-intensive environmental science with the open movement. Learn more [about us](who_are_we.qmd).
+Holding place
 :::
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "75%"
-#| fig-alt: "Sidy-by-side Mozilla and NCEAS logos, written in white text on black background; The Mozilla logo is spelled, 'moz://a`; the NCEAS logo is the morpho butterfly to the left the the aconymn, 'NCEAS' atop the full name, 'National Center for Ecological Analysis and Synthesis'"
-knitr::include_graphics("images/clients/mozilla_nceas_gray.png")
-```
-
-<!-- ::: {.grid} -->
-<!-- ::: {.g-col-6} -->
-<!-- ![](images/clients/mozilla.png){fig-align="center" width="80%"}  -->
-<!-- ::: -->
-<!-- :::{.g-col-6} -->
-<!-- ![](images/clients/nceas.png){fig-align="center" width="80%"} -->
-<!-- ::: -->
-<!-- ::: -->
 
 :::
 :::
@@ -209,7 +195,7 @@ knitr::include_graphics("images/clients/mozilla_nceas_gray.png")
 ::: {.g-col-6}
 ### About
 
-Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster together. 
+Our vision is a scientific culture that is more efficient, more kind, and more collaborative, and can uncover environmental solutions faster together
 
 [Learn more »](about.qmd)
 :::

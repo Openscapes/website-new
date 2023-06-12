@@ -14,18 +14,21 @@ title: ""
 
 ---
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "10%"
-#| fig-alt: "An orange fox wearing a purple baseball cap with the orange Openscapes logo on the front holds a white flag that says, 'Welcome!' in its outstretched arm."
-knitr::include_graphics("images/minis/fox_hat.png")
-```
-
 <br>
 
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "10%"
+#| fig-alt: "A green agave plant."
+knitr::include_graphics("images/minis/horst_openscapes_desert_agave.png")
+```
+<br>
+
+::: {.center-text}
 Our initiatives are all remote-by-design, for researchers and those who support research.  Welcome!
- 
+:::
+
 <br> 
 
 ## CHAMPIONS PROGRAM
@@ -50,12 +53,11 @@ Learn more on the [**Champions Program webpage**](champions_program.qmd), and re
 
 ```{r}
 #| echo: false
-#| fig-align: "center"
-#| out-width: "10%"
-#| fig-alt: "A hedgehog wearing a purple baseball cap with the orange Openscapes logo on the front has a single map tucked under one arm and holds a stack of maps in its other outstretched arm."
-knitr::include_graphics("images/minis/hedgehog_hat.png")
+#| fig-align: center
+#| out-width: "15%"
+#| fig-alt: "A brown rattlesnake snake with a darker brown pattern down its back."
+knitr::include_graphics("images/minis/horst_openscapes_desert_snake.png")
 ```
-
 
 ## NASA OPENSCAPES
 
@@ -117,10 +119,10 @@ Learn more about the teams who have adopted the Mentors Framework and explore th
 
 ```{r}
 #| echo: false
-#| fig-align: "center"
-#| out-width: "10%"
-#| fig-alt: "A brown beaver wearing a purple baseball cap with the orange Openscapes logo on the front holds a rock in its outstretched arms."
-knitr::include_graphics("images/minis/beaver_hat.png")
+#| fig-align: center
+#| out-width: "5%"
+#| fig-alt: "A green Saguaro cactus with two arms."
+knitr::include_graphics("images/minis/horst_openscapes_desert_cactus.png")
 ```
 
 ## PATHWAYS TO OPEN SCIENCE PROGRAM
@@ -142,10 +144,10 @@ Learn more on the [**Pathways to Open Science Program webpage**](https://opensca
 
 ```{r}
 #| echo: false
-#| fig-align: "center"
-#| out-width: "10%"
-#| fig-alt: "A green lizard wearing a purple baseball cap with the orange Openscapes logo on the front waves with an outstretched arm."
-knitr::include_graphics("images/minis/lizard_hat.png")
+#| fig-align: center
+#| out-width: "13%"
+#| fig-alt: "A brown road runner running to the left."
+knitr::include_graphics("images/minis/horst_openscapes_desert_roadrunner.png")
 ```
 
 ## REFLECTIONS PROGRAM
@@ -162,6 +164,14 @@ We launched this program in 2023 and plan to lead it annually in May!
 Learn more in the [**Openscapes Reflections Booklet**](https://openscapes.github.io/booklet/), which introduces prompts to guide your reflections.
 :::
 :::
+
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: "13%"
+#| fig-alt: "A brown tortoise."
+knitr::include_graphics("images/minis/horst_openscapes_desert_tortoise.png")
+```
 
 :::
 :::

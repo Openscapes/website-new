@@ -20,6 +20,16 @@ We support researchers to reimagine data analysis & stewardship as a collaborati
 
 <br>
 
+```{r}
+#| echo: false
+#| fig-align: "center"
+#| out-width: "10%"
+#| fig-alt: "An orange fox wearing a purple baseball cap with the orange Openscapes logo on the front holds a white flag that says, 'Welcome!' in its outstretched arm."
+knitr::include_graphics("images/minis/fox_hat.png")
+```
+
+<br>
+
 ::: {.yellow-bg}
 ::: {.medium-body-text .center-text}
 {{< fa book-open title="An open book" >}} Openscapes Champions Lesson Series
@@ -28,16 +38,6 @@ We support researchers to reimagine data analysis & stewardship as a collaborati
 The [**Openscapes Champions Lesson Series**](https://openscapes.github.io/series) is our open source curriculum we use to teach Champions Cohorts, and you can use it too.
 :::
 :::
-
-<br> 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "10%"
-#| fig-alt: "A green agave plant."
-knitr::include_graphics("images/minis/horst_openscapes_desert_agave.png")
-```
-
 
 <br>
 
@@ -64,10 +64,10 @@ The remote- and cohort-nature of the program is designed to reinforce each other
 
 ```{r}
 #| echo: false
-#| fig-align: center
-#| out-width: "15%"
-#| fig-alt: "A brown rattlesnake snake with a darker brown pattern down its back."
-knitr::include_graphics("images/minis/horst_openscapes_desert_snake.png")
+#| fig-align: "center"
+#| out-width: "10%"
+#| fig-alt: "A hedgehog wearing a purple baseball cap with the orange Openscapes logo on the front has a single map tucked under one arm and holds a stack of maps in its other outstretched arm."
+knitr::include_graphics("images/minis/hedgehog_hat.png")
 ```
 
 ## CHAMPIONS COHORTS
@@ -82,10 +82,10 @@ Explore previous [Openscapes Champions Cohorts](events.qmd) to learn about these
 
 ```{r}
 #| echo: false
-#| fig-align: center
-#| out-width: "6%"
-#| fig-alt: "A green Saguaro cactus with two arms."
-knitr::include_graphics("images/minis/horst_openscapes_desert_cactus.png")
+#| fig-align: "center"
+#| out-width: "10%"
+#| fig-alt: "A brown beaver wearing a purple baseball cap with the orange Openscapes logo on the front holds a rock in its outstretched arms."
+knitr::include_graphics("images/minis/beaver_hat.png")
 ```
 
 ## CHAMPIONS LESSON SERIES
@@ -98,10 +98,10 @@ The Lesson Series is originally framed around the the tools and practices critic
 
 ```{r}
 #| echo: false
-#| fig-align: center
-#| out-width: "13%"
-#| fig-alt: "A brown road runner running to the left."
-knitr::include_graphics("images/minis/horst_openscapes_desert_roadrunner.png")
+#| fig-align: "center"
+#| out-width: "10%"
+#| fig-alt: "A green lizard wearing a purple baseball cap with the orange Openscapes logo on the front waves with an outstretched arm."
+knitr::include_graphics("images/minis/lizard_hat.png")
 ```
 
 ## RESOURCES
@@ -109,14 +109,6 @@ knitr::include_graphics("images/minis/horst_openscapes_desert_roadrunner.png")
 Our [Resources page](resources.qmd) has some resources meant to welcome environmental scientists who are newly onboarding to open data science. We also have a public [Openscapes Zotero library](https://www.zotero.org/groups/4118402/openscapes/library) linking publications, talks, and curricula. Our [Openscapes GitHub Organization](https://github.com/openscapes) has pinned repositories of interest, including the [teaching-learning-resources repo](https://github.com/openscapes/teaching-learning-resources) where we use [Issues](https://github.com/Openscapes/teaching-learning-resources/issues) to jot down specific tools or learning resources for open, reproducible, inclusive science.
 
 <br>
-
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "13%"
-#| fig-alt: "A brown tortoise."
-knitr::include_graphics("images/minis/horst_openscapes_desert_tortoise.png")
-```
 
 
 ## FAQ

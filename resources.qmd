@@ -89,6 +89,8 @@ knitr::include_graphics("images/minis/horst_openscapes_grassland_fox.png")
 
 ::: center-text
 The [**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/) is our "lab manual", an attempt to codify our approach to onboard ourselves and new team members to how we work. It is an open source resource you can use too.
+
+*Cite as: Openscapes Core Team, Stefanie Butland, Erin Robinson, & Julia Stewart Lowndes. (2023). Openscapes Approach Guide (v2023.06). Zenodo. [https://doi.org/10.5281/zenodo.8034313](https://doi.org/10.5281/zenodo.8034313)*
 :::
 :::
 

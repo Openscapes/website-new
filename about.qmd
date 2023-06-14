@@ -15,7 +15,7 @@ aliases:
 **We are researchers whose work was so profoundly improved because of the open science community that we are dedicating our careers to empowering others and growing the movement.**
 :::
 
-<br>
+<!-- <br> -->
 
 ```{r}
 #| echo: false
@@ -122,8 +122,6 @@ knitr::include_graphics("images/minis/horst_openscapes_arctic_puffins.png")
 ## OUR WEBSITE
 
 The Openscapes website was originally built by [Julia Stewart Lowndes](https://jules32.github.io/) with [RMarkdown's blogdown](https://pkgs.rstudio.com/blogdown/) using the same open data science workflows used for research. The website was rebuilt by [Samantha Csik](https://samanthacsik.github.io/), Julie Lowndes, and [Stefanie Butland](https://stefaniebutland.netlify.app/) in spring 2023 with [Quarto](https://quarto.org/), a new open-source, scientific and technical publishing system the Openscapes community has used since its earliest days (see [quarto blog posts](blog.qmd#category=quarto)).
-
-
 
 <br>
 

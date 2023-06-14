@@ -77,32 +77,32 @@ blockquote p { // align blockquotes
   text-decoration-thickness: 4px;
 }
 
-.large-body-text {
+.large-body-text { // large-sized text
   font-size: 50px;
 }
 
-.medium-body-text {
+.medium-body-text { // medium-sized text
   font-size: 25px;
 }
 
-.small-body-text {
+.small-body-text { // small-sized text
   font-size: 15px;
 }
 
-.stat-text {
+.stat-text { // stat box (landing page) text
   font-size: 20px;
 }
 
-.caption-text { 
+.caption-text { // styled image caption text
   font-size: 15px;
   color: $medium-gray2;
 }
 
-.blue-text {
+.blue-text { // blue text
   color: $blue;
 }
 
-.medium-gray1-text{
+.medium-gray1-text{ // gray text
   color: $medium-gray1;
 }
 
@@ -112,32 +112,24 @@ blockquote p { // align blockquotes
 
 .white-div { // used to create white div 
   background-color: $white;
-  padding-top: 5px;
-  padding-bottom: 15px;
-  padding-right: 160px;
-  padding-left: 160px;
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  padding-top: 1%;//5px;
+  padding-bottom: 1%;//15px;
+  padding-right: 10%; //160px;
+  padding-left: 10%; //160px;
 }
 
 .light-gray-div { // used to create light gray div on landing page
   background-color: $light-gray2;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  padding-right: 160px;
-  padding-left: 160px;
-}
-
-.gray-overlay {
-    background-color:$light-gray2;
-    position:fixed;
-    width:100%;
-    height:100%;
-    top:0px;
-    left:0px;
-    z-index:1000;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    padding-right: 160px;
-    padding-left: 160px;
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  padding-top: 1%;//15px;
+  padding-bottom: 1%;//15px;
+  padding-right: 10%; //160px;
+  padding-left: 10%; //160px;
 }
 
 .stat-box { // used to create stat boxes on landing page
@@ -145,10 +137,10 @@ blockquote p { // align blockquotes
   background-color: $light-gray1;
   border: 6px solid $blue;
   padding: 15px;
-  margin: 10px;
+  margin: 20%;//10px;
 }
 
-.yellow-bg { // yellow background color (see Our Approach and on Initiatives for example)
+.yellow-bg { // yellow background color 
   background-color: $light-yellow;
   padding-top: 5px;
   padding-bottom: 5px;
@@ -161,13 +153,6 @@ blockquote p { // align blockquotes
   display: flex;
   flex-direction: row; // default
   justify-content: space-around; //center, space-between
-}*/
-
-/*.center-img { // center mozilla & nceas logos side-by-side: SC NOTE: NOT CENTERED 
-  display: flex;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
 }*/
 
 

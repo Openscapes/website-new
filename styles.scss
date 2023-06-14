@@ -115,7 +115,7 @@ blockquote p { // align blockquotes
   max-width: 100%;
   height: auto;
   width: auto;
-  padding-top: 1%;//5px;
+  padding-top: 1%;//5px; percentages necessary for content to adjust with viewport
   padding-bottom: 1%;//15px;
   padding-right: 10%; //160px;
   padding-left: 10%; //160px;
@@ -133,11 +133,11 @@ blockquote p { // align blockquotes
 }
 
 .stat-box { // used to create stat boxes on landing page
-  width: 300px;
+  width: 85%;//300px;
   background-color: $light-gray1;
   border: 6px solid $blue;
-  padding: 15px;
-  margin: 20%;//10px;
+  padding: 5%;//15px;
+  margin: 8%;//10px;
 }
 
 .yellow-bg { // yellow background color 

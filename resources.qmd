@@ -64,7 +64,7 @@ The [**NASA Earthdata Cloud Cookbook**](https://nasa-openscapes.github.io/earthd
 
 Learn more on the [**NASA Openscapes website**](https://nasa-openscapes.github.io/), and read about the experiences of our past and current NASA Openscapes work on our [**blog**](blog.qmd#category=nasa-framework).
 
-*Cite as: NASA Openscapes Mentors, Erin Robinson, & Julia Stewart Lowndes (2023). NASA EarthData Cloud Cookbook (v2023.03). Zenodo. <https://doi.org/10.5281/zenodo.7786711>*
+*Cite as: NASA Openscapes Mentors, Robinson, Lowndes (2023). NASA EarthData Cloud Cookbook (v2023.03). Zenodo. <https://doi.org/10.5281/zenodo.7786711>*
 :::
 :::
 
@@ -90,7 +90,7 @@ knitr::include_graphics("images/minis/horst_openscapes_grassland_fox.png")
 ::: center-text
 The [**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/) is our "lab manual", an attempt to codify our approach to onboard ourselves and new team members to how we work. It is an open source resource you can use too.
 
-*Cite as: Openscapes Core Team, Stefanie Butland, Erin Robinson, & Julia Stewart Lowndes. (2023). Openscapes Approach Guide (v2023.06). Zenodo. [https://doi.org/10.5281/zenodo.8034313](https://doi.org/10.5281/zenodo.8034313)*
+*Cite as: Openscapes Core Team, Butland, Robinson, Lowndes. (2023). Openscapes Approach Guide (v2023.06). Zenodo. [https://doi.org/10.5281/zenodo.8034313](https://doi.org/10.5281/zenodo.8034313)*
 :::
 :::
 

@@ -163,7 +163,7 @@ Blog posts share stories from the Openscapes community and document our learning
 
 <br>
 
-<!-- START testimonials -->
+<!-- START testimonials section-->
 ::: {.column-screen}
 ::: {.light-gray-div}
 
@@ -177,7 +177,6 @@ Blog posts share stories from the Openscapes community and document our learning
 ::: {.speech-bubble-bottom-left}
 > *"Openscapes has created a collaborative environment for DAAC staff to collectively support open science initiatives and develop awesome material to help Earthdata users. Perhaps just as important as what we’ve done however, are mindsets we’ve grown into along the way…We are better at dreaming and implementing the future together."*
 :::
-
 <!-- END C.Nickles quote -->
 
 <br>
@@ -201,7 +200,6 @@ Blog posts share stories from the Openscapes community and document our learning
 > *"As fisheries scientists, we know that when we’re in rough seas, it’s important to keep the ship afloat AND get out of the storm. Openscapes helps teams steer out of the storm of email chains with 37 versions of the same spreadsheet and to the calmer waters of open science and meaningful collaboration, using tools like R."*
 :::
 :::
-
 <!-- END A.Rios quote column -->
 
 :::
@@ -216,7 +214,6 @@ Blog posts share stories from the Openscapes community and document our learning
 > *"Because of Openscapes, I have renewed hope in how we can bring about a kinder future in science. I see a commitment in the open science community to bridging the gaps where we’ve left members of our community behind, and it inspires me."*
 :::
 :::
-
 <!-- END I.Fenwick quote column -->
 
 <!-- START A. Rios headshot column  -->
@@ -261,7 +258,7 @@ Blog posts share stories from the Openscapes community and document our learning
 
 :::
 :::
-<!-- END testimonials -->
+<!-- END testimonials section -->
 
 <br>
 

@@ -105,27 +105,27 @@ listing:
 ::: {.large-body-text .blue-text}
 **125**
 :::
-<!-- :::{.medium-gray1-text .small-body-text}  -->
+:::{.stat-text}
 Research teams through the Champions Program
-<!-- ::: -->
+:::
 :::
 
 ::: {.g-col-4 .stat-box}
 ::: {.large-body-text .blue-text}
 **40+**
 :::
-<!-- :::{.medium-gray1-text .small-body-text}  -->
+:::{.stat-text}
 Members onboarded 
-<!-- ::: -->
+:::
 :::
 
 ::: {.g-col-4 .stat-box}
 ::: {.large-body-text .blue-text}
 **22**
 :::
-<!-- :::{.medium-gray1-text .small-body-text}  -->
+:::{.stat-text}
 Contributors to the NASA Earthdata Cloud Cookbook
-<!-- ::: -->
+:::
 :::
 
 <br>

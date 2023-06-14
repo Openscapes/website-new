@@ -89,6 +89,10 @@ blockquote p { // align blockquotes
   font-size: 15px;
 }
 
+.stat-text {
+  font-size: 20px;
+}
+
 .caption-text { 
   font-size: 15px;
   color: $medium-gray2;
@@ -125,7 +129,7 @@ blockquote p { // align blockquotes
 .stat-box { // used to create stat boxes on landing page
   width: 300px;
   background-color: $light-gray1;
-  border: 8px solid $blue;
+  border: 6px solid $blue;
   padding: 15px;
   margin: 10px;
 }

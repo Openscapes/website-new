@@ -91,15 +91,47 @@ listing:
 <br>
 **As part of the larger open science movement**, Openscapes helps research teams and organizations reimagine data-intensive science as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. <!-- We call this **kinder science for future us**. ---> <!---Learn more about our [initiatives](initiatives.qmd) and [impact](impact.qmd), and [connect](connect.qmd) with us.--->
 
-<br>
-
 ```{r}
 #| echo: false
 #| fig-align: "center"
 #| out-width: "73%"
-#| fig-alt: "A diagram of the Openscapes flywheel. The Openscapes logo sits in the center of a cyclical process. The text around the logo reads as follows: 'Welcome bright spots (be they mentors or researchers) -- people who want to work better and collaborate' > 'Create space and place to connect and collaborate; remove barriers to participation (paid time, part of jobs)' > 'Invest in learning and trust; Everyone has something to learn, ask, teach; don't need to be an expert in everything. Cultivate psychological safety, growth mindset. Slowing down to speed up.' > 'Work Openly; Put what you learn into practice quickly, role-modeing sharing imperfect work and identifying common challenges and opportunities. Openness is a spectrum; first Future You and then Future Us' > Leverage common workflows, skills, tools; This is where we speed up: Iterate, reuse, remix with each other and teh broader community' > 'Inspire broader scientific communities through visible examples and leaders -- Open science shift' > repeat. These six steps are summarized by three overarching goals, which are also written around the logo: 'Engage a future us mindset', 'Empower learning culture', and 'Amplify open leaders'."
-knitr::include_graphics("images/diagrams/openscapes-by-the-numbers-v2023.06.png")
+# knitr::include_graphics("images/diagrams/openscapes-by-the-numbers-v2023.06.png")
 ```
+
+::: {.center-text}
+::: {.grid}
+
+::: {.g-col-4 .stat-box}
+::: {.large-body-text .blue-text}
+**125**
+:::
+<!-- :::{.medium-gray1-text .small-body-text}  -->
+Research teams through the Champions Program
+<!-- ::: -->
+:::
+
+::: {.g-col-4 .stat-box}
+::: {.large-body-text .blue-text}
+**40+**
+:::
+<!-- :::{.medium-gray1-text .small-body-text}  -->
+Members onboarded 
+<!-- ::: -->
+:::
+
+::: {.g-col-4 .stat-box}
+::: {.large-body-text .blue-text}
+**22**
+:::
+<!-- :::{.medium-gray1-text .small-body-text}  -->
+Contributors to the NASA Earthdata Cloud Cookbook
+<!-- ::: -->
+:::
+
+<br>
+
+:::
+:::
 
 <br>
 

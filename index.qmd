@@ -40,7 +40,7 @@ listing:
 ::: {.center-text}
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-12 .g-col-md-4} 
 ::: {.large-body-text .blue-text}
 {{< fa users title="Three people" >}}
 :::
@@ -52,7 +52,7 @@ listing:
 :::
 :::
 
-::: {.g-col-4}
+::: {.g-col-12 .g-col-md-4} 
 ::: {.large-body-text .blue-text}
 {{< fa lightbulb title="A lightbult" >}}
 :::
@@ -64,7 +64,7 @@ listing:
 :::
 :::
 
-::: {.g-col-4}
+::: {.g-col-12 .g-col-md-4} 
 ::: {.large-body-text .blue-text}
 {{< fa earth-americas title="Planet earth" >}}
 :::
@@ -101,7 +101,7 @@ listing:
 ::: {.center-text}
 ::: {.grid}
 
-::: {.g-col-4 .stat-box}
+::: {.g-col-12 .g-col-md-4 .stat-box}
 ::: {.large-body-text .blue-text}
 **125**
 :::
@@ -110,7 +110,7 @@ Research teams through the Champions Program
 :::
 :::
 
-::: {.g-col-4 .stat-box}
+::: {.g-col-12 .g-col-md-4 .stat-box}
 ::: {.large-body-text .blue-text}
 **40+**
 :::
@@ -119,7 +119,7 @@ Members onboarded
 :::
 :::
 
-::: {.g-col-4 .stat-box}
+::: {.g-col-12 .g-col-md-4 .stat-box}
 ::: {.large-body-text .blue-text}
 **22**
 :::

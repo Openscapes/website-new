@@ -101,7 +101,6 @@ As part of the larger open science movement, we help research teams and organiza
 knitr::include_graphics("images/diagrams/openscapes-by-the-numbers-v2023.06.png")
 ```
 
-
 <br>
 
 TODO: Quotes look less like text and more like speech bubbles. Litely boxed, with faces

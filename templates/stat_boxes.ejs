@@ -1,0 +1,37 @@
+```{=html}
+<% for (const item of items) { %>
+<div class="dataviz-page">
+<div class="dataviz-title">
+  <h1><%- item.title %></h1>
+  <p><%- item.byline %></p>
+</div>
+
+<div class="gallery">
+<% for (const viz of item.visuals) { %>
+<div class="thumbnails">
+<img src=<%- viz.img %> alt=<%- viz.name %>>
+<div class="black"></div>
+<div class="title"><%- viz.name %></div>
+</div>
+<% } %>
+</div>
+<% } %>
+</div>
+
+<script>
+window.addEventListener('load', function () {
+  // external js: isotope.pkgd.js
+
+// init Isotope
+var iso = new Isotope( '.gallery', {
+  itemSelector: '.thumbnails',
+  percentPosition: true,
+  layoutMode: 'masonry',
+  masonry: { 
+            percentPosition: true,
+            gutter: 15
+        }
+  });
+})
+</script>
+```

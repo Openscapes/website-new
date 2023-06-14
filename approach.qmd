@@ -14,6 +14,8 @@ aliases:
 **We believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science and beyond.**
 :::
 
+<br>
+
 ```{r}
 #| echo: false
 #| fig-align: "center"
@@ -22,11 +24,13 @@ aliases:
 knitr::include_graphics("images/minis/fox_hat.png")
 ```
 
+<br>
 
 We know that daily demands leave little time to transition to better data practices and open science, which can be lonely and overwhelming. Openscapes helps shift culture by mentoring researchers to move from lonely science as they skillbuild and navigate the open science landscape safely with their teams. 
 
 We call this kinder science for future us.
 
+<br>
 
 ```{r}
 #| echo: false

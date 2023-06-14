@@ -121,7 +121,7 @@ knitr::include_graphics("images/minis/horst_openscapes_arctic_puffins.png")
 ::: {.white-div}
 ## OUR WEBSITE
 
-The Openscapes website was originally built by [Julia Stewart Lowndes](https://jules32.github.io/) with [RMarkdown's blogdown](https://pkgs.rstudio.com/blogdown/) using the same open data science workflows used for research. The website was rebuilt by [Samantha Csik](https://samanthacsik.github.io/) in spring 2023 with [Quarto](https://quarto.org/), a new open-source, scientific and technical publishing system the Openscapes community has used since its earliest days (see [quarto blog posts](blog.qmd#category=quarto)).
+The Openscapes website was originally built by [Julia Stewart Lowndes](https://jules32.github.io/) with [RMarkdown's blogdown](https://pkgs.rstudio.com/blogdown/) using the same open data science workflows used for research. The website was rebuilt by [Samantha Csik](https://samanthacsik.github.io/), Julie Lowndes, and [Stefanie Butland](https://stefaniebutland.netlify.app/) in spring 2023 with [Quarto](https://quarto.org/), a new open-source, scientific and technical publishing system the Openscapes community has used since its earliest days (see [quarto blog posts](blog.qmd#category=quarto)).
 
 
 

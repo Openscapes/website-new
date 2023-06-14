@@ -72,7 +72,7 @@ knitr::include_graphics("images/minis/hedgehog_hat.png")
 
 ## CHAMPIONS COHORTS
 
-Explore previous [Openscapes Champions Cohorts](events.qmd) to learn about these inspiring teams' research and open data science momentum.
+Explore previous [Openscapes Champions Cohorts](events.qmd#category=champions) to learn about these inspiring teams' research and open data science momentum.
 
 >***"This program has honestly completely re-made how I think about my science. Openscapes is a supportive training course for moving your lab toward open science, that meets you where you are."*** --- Dr. Chelsea Wood, University of Washington
 

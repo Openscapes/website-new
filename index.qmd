@@ -223,7 +223,7 @@ Holding place
 ::: {.white-div}
 ::: {.grid}
 
-::: {.g-col-6}
+::: {.g-col-12 .g-col-md-6}
 ### About
 
 Our vision is a scientific culture that is more efficient, more kind, and more collaborative, and can uncover environmental solutions faster together
@@ -231,7 +231,7 @@ Our vision is a scientific culture that is more efficient, more kind, and more c
 [Learn more »](about.qmd)
 :::
 
-::: {.g-col-6}
+::: {.g-col-12 .g-col-md-6}
 ### Contact
 
 **Openscapes**\

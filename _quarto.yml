@@ -41,13 +41,13 @@ website:
       - text: "BLOG"
         href: blog.qmd
       - text: "CONNECT"
-        href: connect.qmd # TODO maybe rename url
-          #- text: "OUR EVENTS"
-           # href: events.qmd
+        menu: 
+           - text: "CONNECT WITH US"
+             href: connect.qmd 
+           - text: "EVENTS"
+             href: events.qmd
       - icon: github
         href: https://github.com/openscapes
-      - icon: twitter
-        href: https://twitter.com/openscapes
       - icon: mastodon
         href: https://fosstodon.org/@openscapes
       - icon: envelope

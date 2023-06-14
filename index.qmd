@@ -32,7 +32,7 @@ listing:
 
 <br>
 
-**Openscapes is an approach and a movement** that helps researchers and those supporting research find each other and feel empowered to conduct data-intensive science by providing structure for technical skill-building, collaborative teamwork, and inclusive community development. Here's how:
+**Openscapes is an approach and a movement** that helps researchers and those supporting research find each other and feel empowered to conduct data-intensive science. Through a creative approach drawing inspiration and skills from many places, we provide structures for technical skill-building, collaborative teamwork, and inclusive community development. Here's how:
 <!-- ::: -->
 :::
 :::
@@ -50,7 +50,7 @@ listing:
 **ENGAGE**
 :::
 :::{.medium-gray1-text .small-body-text} 
-**We welcome and create space and place.** We engage researchers who want to work better and collaborate through empathy, art, storytelling, and technology.
+**We welcome, and create space & place.** We engage researchers who want to work better and collaborate through empathy, art, storytelling, and technology.
 :::
 :::
 
@@ -62,7 +62,7 @@ listing:
 **EMPOWER**
 :::
 :::{.medium-gray1-text .small-body-text} 
-**We invest in learning and trust, and work openly.** We empower researchers by growing their confidence and abilities as they put what they learn into practice quickly. 
+**We invest in learning & trust, and work openly.** We empower researchers by growing their confidence and abilities as they put what they learn into practice quickly. 
 :::
 :::
 
@@ -74,7 +74,7 @@ listing:
 **AMPLIFY**
 :::
 :::{.medium-gray1-text .small-body-text} 
-**We leverage common workflows and inspire broader shifts.** We amplify progress through collaboration and reuse, celebrating people and small wins that accumulate.
+**We leverage common workflows & tools, and inspire broader shifts.** We amplify progress through collaboration and reuse, celebrating people and small wins that accumulate.
 :::
 :::
 
@@ -91,7 +91,7 @@ listing:
 # **GROWING THE OPEN MOVEMENT**
 :::
 <br>
-**As part of the larger open science movement**, Openscapes helps research teams and organizations reimagine data-intensive science as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. <!-- We call this **kinder science for future us**. ---> <!---Learn more about our [initiatives](initiatives.qmd) and [impact](impact.qmd), and [connect](connect.qmd) with us.--->
+**As part of the larger open science movement**, Openscapes helps research teams and organizations reimagine data-intensive science and grow community-centered leadership skills. <!-- as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities.  We call this **kinder science for future us**. ---> 
 
 ```{r}
 #| echo: false
@@ -114,10 +114,10 @@ Research teams through the Champions Program
 
 ::: {.g-col-12 .g-col-md-4 .stat-box}
 ::: {.large-body-text .blue-text}
-**40+**
+**40**
 :::
 :::{.stat-text}
-Members onboarded 
+Mentors onboarded 
 :::
 :::
 
@@ -211,11 +211,12 @@ Blog posts share stories from the Openscapes community and document our learning
 ::: {.column-screen}
 ::: {.light-gray-div}
 ::: {.blue-underline .center-text}
-# **SHOULD WE KEEP THIS SECTION?**
+# **OPEN RESOURCES**
 :::
 
 ::: {.center-text}
-Holding place
+We openly share our curricula, approach, any many other [open resources](resources.qmd), as well as stories and what we're learning via our [media](media.qmd), [blog](blog.qmd), and [events](events.qmd).
+Learn more about our [initiatives](initiatives.qmd), and [connect](connect.qmd) with us.
 :::
 
 <br>
@@ -233,7 +234,7 @@ Holding place
 ::: {.g-col-12 .g-col-md-6}
 ### About
 
-Our vision is a scientific culture that is more efficient, more kind, and more collaborative, and can uncover environmental solutions faster together
+Our vision is a scientific culture that is more efficient, more kind, and more collaborative, and can uncover environmental solutions faster together.
 
 [Learn more »](about.qmd)
 :::
@@ -247,7 +248,7 @@ California, USA
 ------------------------------------------------------------------------
 
 hello \@ openscapes.org\
-Twitter & GitHub: @openscapes
+Mastodon & GitHub: @openscapes
 
 [Get Involved »](connect.qmd)
 :::

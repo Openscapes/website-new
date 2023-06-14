@@ -22,7 +22,7 @@ aliases:
 knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
 ```
 
-See also our media page for publications, slides, and videos describing our work.
+See also our [media](media.qmd) for publications, slides, and videos about our work.
 
 ## CHAMPIONS LESSON SERIES
 

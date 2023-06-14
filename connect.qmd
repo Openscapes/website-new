@@ -39,10 +39,10 @@ knitr::include_graphics("images/minis/horst_openscapes_mountains_salmon.png")
 
 ## Join the movement
 
-- Reuse our lessons, slides, and more linked on our [media page](media.qmd)
-- Follow us on social media: [\@openscapes](https://twitter.com/openscapes) on Twitter and [\@openscapes@fosstodon.org](https://fosstodon.org/@openscapes) on Mastodon
+- Reuse our open lessons, slides, and more linked from our [media](media.qmd) and github: [\@openscapes](https://github.com/openscapes), [\@nasa-openscapes](https://github.com/nasa-openscapes)
+- Follow us on social media: [\@openscapes@fosstodon.org](https://fosstodon.org/@openscapes) on Mastodon
 - Sign up for our newsletter [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (4x/year)
-- Join an upcoming [event](events.qmd), including Openscapes initiatives, talks, and seminars
+- Join an upcoming [event](events.qmd), including Openscapes initiatives, community calls, and talks
 - Talk to your colleagues; consider [Supercharge your research](https://openscapes.github.io/supercharge-research/) for your next journal club or lab meeting
 
 <!---TODO Move to Approach Guide
@@ -72,7 +72,7 @@ As you plan department seminar series, conferences, or webinar series, consider 
 # **UPCOMING EVENTS**
 :::
 
-The Openscapes team holds regular community calls, participates in conference talks, webinars, and organizes opportunities through the Champions Program (and other new initiatives!). See our recent events below and register to attend an upcoming one. You can also browse [all events](events.qmd). 
+Openscapes holds regular community calls, participates in conference talks, webinars, and organizes opportunities through the Champions Program and other initiatives. Browse [our events listings](events.qmd) and register to attend! 
 
 <br>
 

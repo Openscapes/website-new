@@ -13,7 +13,7 @@ listing:
     type: grid
     max-items: 9
     page-size: 3
-    categories: true
+    categories: false
     sort-ui: false
     filter-ui: false
     fields: [title, image, date, categories]

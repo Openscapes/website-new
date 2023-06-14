@@ -35,10 +35,13 @@ See also our media page for publications, slides, and videos describing our work
 The [**Openscapes Champions Lesson Series**](https://openscapes.github.io/series) is our open source curriculum we use to teach Champions Cohorts, and you can use it too.
 
 Learn more on the [**Champions Program webpage**](champions_program.qmd), and read about the experiences of our past and current Champions cohorts on our [**blog**](blog.qmd#category=champions).
+
+*Cite as: Lowndes & Robinson (2022). Openscapes Champions Lesson Series (2022.12). Zenodo. <https://doi.org/10.5281/zenodo.7407247>*
 :::
 :::
 
 <br>
+
 ```{r}
 #| echo: false
 #| fig-align: "center"
@@ -60,6 +63,8 @@ knitr::include_graphics("images/minis/horst_openscapes_grassland_condor.png")
 The [**NASA Earthdata Cloud Cookbook**](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/) is a collection of common tutorials co-created and co-taught by NASA Openscapes Mentors, and it is an open source curriculum you can use too!
 
 Learn more on the [**NASA Openscapes website**](https://nasa-openscapes.github.io/), and read about the experiences of our past and current NASA Openscapes work on our [**blog**](blog.qmd#category=nasa-framework).
+
+*Cite as: NASA Openscapes Mentors, Erin Robinson, & Julia Stewart Lowndes (2023). NASA EarthData Cloud Cookbook (v2023.03). Zenodo. <https://doi.org/10.5281/zenodo.7786711>*
 :::
 :::
 
@@ -84,6 +89,8 @@ knitr::include_graphics("images/minis/horst_openscapes_grassland_fox.png")
 
 ::: center-text
 The [**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/) is our "lab manual", an attempt to codify our approach to onboard ourselves and new team members to how we work. It is an open source resource you can use too.
+
+*Cite as: Openscapes Core Team, Stefanie Butland, Erin Robinson, & Julia Stewart Lowndes. (2023). Openscapes Approach Guide (v2023.06). Zenodo. [https://doi.org/10.5281/zenodo.8034313](https://doi.org/10.5281/zenodo.8034313)*
 :::
 :::
 
@@ -105,7 +112,9 @@ knitr::include_graphics("images/minis/horst_openscapes_grassland_deer.png")
 ::: {.medium-body-text .center-text}
 {{< fa book-open title="An open book" >}} NOAA FISHERIES RESOURCE BOOK
 
+::: center-text
 [**NOAA Fisheries Openscapes**](https://nmfs-openscapes.github.io/) \| [Resource Book](https://nmfs-opensci.github.io/ResourceBook/) \| [blog posts](blog.qmd#category=noaa-fisheries)
+:::
 :::
 :::
 
@@ -127,7 +136,7 @@ knitr::include_graphics("images/minis/horst_openscapes_grassland_deer.png")
 
 ## HELLO QUARTO
 
-Our work with NASA and Posit (formerly RStudio) led us to keynote the global launch of Quarto in 2022 (Cetinkaya-Rundel & Lowndes). NASA Openscapes was the first Quarto external users. 
+Our work with NASA and Posit (formerly RStudio) led us to keynote the global launch of Quarto in 2022 (Cetinkaya-Rundel & Lowndes). NASA Openscapes was the first Quarto external users.
 
 ::: yellow-bg
 ::: {.medium-body-text .center-text}
@@ -135,7 +144,7 @@ Our work with NASA and Posit (formerly RStudio) led us to keynote the global lau
 :::
 
 ::: center-text
-[**Making shareable documents with Quarto**](https://openscapes.github.io/quarto-website-tutorial/) | [keynote slides](https://mine.quarto.pub/hello-quarto) | [keynote video](https://www.youtube.com/watch?v=p7Hxu4coDl8) | [keynote blog](https://www.openscapes.org/blog/2022/08/10/quarto-keynote/)
+[**Making shareable documents with Quarto**](https://openscapes.github.io/quarto-website-tutorial/) \| [keynote slides](https://mine.quarto.pub/hello-quarto) \| [keynote video](https://www.youtube.com/watch?v=p7Hxu4coDl8) \| [keynote blog](https://www.openscapes.org/blog/2022/08/10/quarto-keynote/)
 :::
 :::
 
@@ -143,11 +152,11 @@ Our work with NASA and Posit (formerly RStudio) led us to keynote the global lau
 
 ## R FOR EXCEL USERS
 
--   [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel)  Lowndes & Horst 2020
-
+-   [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel) Lowndes & Horst 2020
 :::
 :::
 
+```{=html}
 <!---
 We recommend using R with RStudio, which not only provides a supportive infrastructure but enables direct connection to GitHub.com (i.e. without additional software or use of the command line). Further, workflows with RStudio's tidyverse & friends and with RMarkdown create good practices for collaborative, reproducible workflows.
 
@@ -170,7 +179,8 @@ Teaching official university courses is a great idea! These are a few examples o
 -   [Reproducible quantative methods](https://cbahlai.github.io/rqm-template/) - Dr. Christie Bahlai, Kent State University
 -   [Data carpentry for biologists](https://datacarpentry.org/semester-biology/) --- Dr. Ethan White & Dr. Zachary Brym,
 -   [Reproducibility for Data Science](https://canvas.uw.edu/courses/1354201) --- Dr. Ben Marwick, University of Washington <!---https://twitter.com/benmarwick/status/1233340012554383361--->
-
+```
+````{=html}
 <!---
 -   [Data Science: A First Introduction](https://ubc-dsci.github.io/introduction-to-datascience/index.html) --- Dr.Tiffany Timbers et al, University of British Columbia
 -   [Super advanced R](https://github.com/super-advanced-r-fall-2019) --- Dr. Dan Ovando, University of Washington
@@ -243,8 +253,9 @@ Teaching official university courses is a great idea! These are a few examples o
 - [Data carpentry for biologists](https://datacarpentry.org/semester-biology/) — Dr. Ethan White & Dr. Zachary Brym, 
 - [Reproducibility for Data Science](https://canvas.uw.edu/courses/1354201) — Dr. Ben Marwick, University of Washington
 <!---https://twitter.com/benmarwick/status/1233340012554383361--->
+````
 
-
+```{=html}
 <!---
 -   [Data Science: A First Introduction](https://ubc-dsci.github.io/introduction-to-datascience/index.html) --- Dr.Tiffany Timbers et al, University of British Columbia
 -   [Super advanced R](https://github.com/super-advanced-r-fall-2019) --- Dr. Dan Ovando, University of Washington
@@ -258,3 +269,4 @@ We have focused on openly communicating the process behind our development of Oc
 -   [Champions Lesson Series](https://openscapes.github.io/series/) --- lesson book for the Champions program, with links to slides and course agendas
 
 --->
+```

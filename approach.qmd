@@ -50,7 +50,7 @@ knitr::include_graphics("images/page_imgs/horst_openscapes_champions.jpg")
 
 ## OPENSCAPES FLYWHEEL
 
-Our approach for movement building and sustainability is underpinned by our Openscapes Flywheel ([Robinson & Lowndes 2022](https://eartharxiv.org/repository/view/4560/)). The Flywheel concept was developed by [Jim Collins](https://www.jimcollins.com/) in the book Good to Great. No matter how dramatic the end result, building something to last never happen in one fell swoop. Rather, the process resembles relentlessly pushing a giant, heavy flywheel, turn upon turn, building momentum until a point of breakthrough, and beyond. It is never one big thing, it is many little things reinforced over time. Our Flywheel drives how we work and how we can communicate [impact](impact.qmd).
+**Our approach for movement building and sustainability is underpinned by our Openscapes Flywheel** ([Robinson & Lowndes 2022](https://eartharxiv.org/repository/view/4560/)). The Flywheel concept was developed by [Jim Collins](https://www.jimcollins.com/) in the book Good to Great. No matter how dramatic the end result, building something to last never happen in one fell swoop. Rather, the process resembles relentlessly pushing a giant, heavy flywheel, turn upon turn, building momentum until a point of breakthrough, and beyond. It is never one big thing, it is many little things reinforced over time. Our Flywheel drives how we work and and share stories.
 
 
 <!--- For Approach Guide? OR just cut if already there
@@ -86,11 +86,13 @@ The [**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/
 
 <br>
 
-## THEORY OF CHANGE
+## HOW WE WORK
 
-Our theory of change is that by engaging, empowering, and amplifying research teams with open habits and mindsets for data-intensive science, they become leaders in the open science movement and have more enduring scientific impact while also creating a kinder, more inclusive scientific culture.
+**Openscapes helps teams transition to inclusive open science workflows.**
+We mentor teams to better tackle their questions by strengthening shared practices, underpinned by existing community-developed tools. 
 
-We are iterating [our theory of change](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsku45HW-vQCPaVARXIo7a18KHdYxwn_0vk2QdNP5RZ7kUxNyqD466NYiagxZtyqoabXAilK32U5yx/pubhtml?gid=365554279&single=true) as we learn, and have also summarized it with this illustration:
+<!---As teams identify their focus and the people involved (blue), we provide mentorship and scaffolding around open data science practices (green), which are underpinned by existing community-developed tools (orange).--->
+
 
 ```{r}
 #| echo: false
@@ -100,13 +102,19 @@ We are iterating [our theory of change](https://docs.google.com/spreadsheets/d/e
 knitr::include_graphics("images/diagrams/horst_pew_tools_practice_mindset.jpg")
 ```
 
+
+Our [our theory of change](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsku45HW-vQCPaVARXIo7a18KHdYxwn_0vk2QdNP5RZ7kUxNyqD466NYiagxZtyqoabXAilK32U5yx/pubhtml?gid=365554279&single=true) is that by engaging, empowering, and amplifying research teams with open habits and mindsets for data-intensive science, they become leaders in the open science movement and have more enduring scientific impact while also creating a kinder, more inclusive scientific culture.
+
+
 <br>
 
-::: {.caption-text .center-text}
-*Openscapes Theory of Change: As teams tackle research questions (blue), their approaches (grey) can be accelerated through open data science practices (green), which are underpinned by existing open source tools (orange).*
-:::
 
+
+
+<!---
 In mentoring research teams, we are interested in evaluating and understanding which open data science tools are adopted, who participates, and how questions and mindsets shift. Our hypothesis is that adoption of open data science tools will lead to robust, data-driven outcomes; that participation in open data science practices will lead to deeper inclusion and belonging; and that shifting mindsets and questions asked will lead to enduring partnerships and expanded questions. We define open data science as the tools and practices enabling reproducible, transparent, and inclusive data-driven research.
+
+--->
 
 <br>
 :::

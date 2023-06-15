@@ -134,42 +134,13 @@ Contributors to the NASA Earthdata Cloud Cookbook
 :::
 <!-- END center text and grid  -->
 
-<br>
-
-:::
-:::
-
-<br>
-
-<!-- START blog listing -->
-::: {.column-screen}
-::: {.white-div}
-::: {.blue-underline .center-text}
-# **FROM OUR BLOG**
-:::
-<br>
-Blog posts share stories from the Openscapes community and document our learning openly. See the recent posts below or browse our [full blog listing](blog.qmd).
-
-<br>
-
-::: {#recent-blog-listing}
-:::
-
-<!-- blog listing: see Garrick Aden-Buie's site: https://github.com/gadenbuie/garrickadenbuie-com/blob/quarto/index.qmd  & Robert Mitchell's blog post: https://robertmitchellv.com/blog/2022-08-building-with-quarto/building-with-quarto.html -->
-
-::: 
-:::
-<!-- END blog listing -->
-
-<br>
-
 <!-- START testimonials section-->
-::: {.column-screen}
+<!-- ::: {.column-screen} -->
 ::: {.light-gray-div}
 
-::: {.blue-underline .center-text}
-# **TESTIMONIALS**
-:::
+<!-- ::: {.blue-underline .center-text} -->
+<!-- # **TESTIMONIALS** -->
+<!-- ::: -->
 
 <br>
 
@@ -253,17 +224,42 @@ Blog posts share stories from the Openscapes community and document our learning
 <!-- **- Malin Pinsky, University of California Santa Cruz** -->
 <!-- ::: -->
 
-
-<br>
-
 :::
-:::
+<!-- ::: -->
 <!-- END testimonials section -->
 
 <br>
 
+:::
+:::
+<!-- END gray box -->
+
+<br>
+
+<!-- START blog listing -->
 ::: {.column-screen}
 ::: {.white-div}
+::: {.blue-underline .center-text}
+# **FROM OUR BLOG**
+:::
+<br>
+Blog posts share stories from the Openscapes community and document our learning openly. See the recent posts below or browse our [full blog listing](blog.qmd).
+
+<br>
+
+::: {#recent-blog-listing}
+:::
+
+<!-- blog listing: see Garrick Aden-Buie's site: https://github.com/gadenbuie/garrickadenbuie-com/blob/quarto/index.qmd  & Robert Mitchell's blog post: https://robertmitchellv.com/blog/2022-08-building-with-quarto/building-with-quarto.html -->
+
+::: 
+:::
+<!-- END blog listing -->
+
+<br>
+
+::: {.column-screen}
+::: {.light-gray-div}
 ::: {.blue-underline .center-text}
 # **OPEN RESOURCES**
 :::
@@ -273,6 +269,15 @@ We openly share our curricula, approach, any many other [open resources](resourc
 Learn more about our [initiatives](initiatives.qmd), and [connect](connect.qmd) with us.
 <br>
 :::
+
+```{r}
+#| echo: false
+#| fig-align: "center"
+#| out-width: "10%"
+#| fig-alt: "A green tree with a tall and wide canopy. Only a small amount of the brown trunk is visible."
+knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
+```
+
 :::
 :::
 

@@ -14,87 +14,83 @@ aliases:
 **Meet the many folks behind Openscapes!**
 :::
 
+<br>
+
 ## Openscapes Core Team
 
 <br>
 
-:::: {style="display: grid; grid-template-columns: 0.5fr 2fr; grid-column-gap: 10px;"}
+::: {.column-screen}
+::: {.white-div}
 
-::: {}
-
-![](images/headshots/lowndes_round.png)
-
-:::
-
-::: {}
-
+<!---------------- START J. Lowndes ---------------->
 ::: {.center-text}
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<img width="80%" src="images/headshots/lowndes_round.png">
+:::
+::: {.g-col-12 .g-col-md-9}
+<br>
 [**Julia Stewart Lowndes**](https://jules32.github.io/) is a core Openscapes team member and founding director. She is a marine ecologist working at the intersection of actionable environmental science, data science, and open science. She is a Mozilla Fellow and Senior Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California Santa Barbara, having earned her PhD from Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate.
 :::
-
 :::
-
-::::
+:::
+<!---------------- END J. Lowndes ---------------->
 
 <br>
 
-:::: {style="display: grid; grid-template-columns: 2fr 0.5fr; grid-column-gap: 10px;"}
-
-::: {}
-
+<!---------------- START E. Robinson ---------------->
 ::: {.center-text}
+::: {.grid}
+::: {.g-col-12 .g-col-md-9}
+<br>
 [**Erin Robinson**](https://erinrobinson.info/) is a core Openscapes team member and advisor. She co-leads the NASA Framework project with Julie and has been instrumental in scaling Openscapes with lessons learned from their NASA work, including developing our Flywheel. Erin works at the intersection of community informatics, Earth science and non-profit management.
 :::
-
+::: {.g-col-12 .g-col-md-3}
+<img width="80%" src="images/headshots/robinson_round.png">
 :::
-
-::: {}
-
-![](images/headshots/robinson_round.png)
-
 :::
-
-::::
+:::
+<!---------------- START E. Robinson ---------------->
 
 <br>
 
-:::: {style="display: grid; grid-template-columns: 0.5fr 2fr; grid-column-gap: 10px;"}
-
-::: {}
-
-![](images/headshots/fenwick_round.png)
-
-:::
-
-::: {}
-
+<!---------------- START I. Fenwick ---------------->
 ::: {.center-text}
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<img width="80%" src="images/headshots/fenwick_round.png">
+:::
+::: {.g-col-12 .g-col-md-9}
+<br>
 [**Ileana Fenwick**](https://twitter.com/_ileanaf) is a core Openscapes team member and leads the Pathways to Open Science program. She is an open science advocate and Marine Sciences Ph.D. Student at UNC Chapel Hill. Ileana’s research focuses on evaluating how marine communities respond to climate change and human impacts. Her work uses innovative quantitative methods to improve our ocean management outcomes. In addition to her research, Ileana is also a fierce advocate for HBCU engagement and equity in open science and marine science through her consulting and volunteer work.
 :::
-
 :::
-
-::::
+:::
+<!---------------- END I. Fenwick ---------------->
 
 <br>
 
-:::: {style="display: grid; grid-template-columns: 2fr 0.5fr; grid-column-gap: 10px;"}
-
-::: {}
-
+<!---------------- START S. Butland ---------------->
 ::: {.center-text}
+::: {.grid}
+::: {.g-col-12 .g-col-md-9}
+<br>
+<br>
 [**Stefanie Butland**](https://stefaniebutland.netlify.app/) is a core Openscapes team member and co-leads Champions Cohorts. She is a research scientist by training and an open science and tech community builder by passion. Stefanie is a Fellow of the Center for Scientific Collaboration and Community Engagement.
 :::
+::: {.g-col-12 .g-col-md-3}
+<img width="80%" src="images/headshots/butland_round.png">
+:::
+:::
+:::
+<!---------------- END S. Butland ---------------->
 
 :::
-
-::: {}
-
-![](images/headshots/butland_round.png)
-
 :::
 
-::::
+::: {.column-screen}
+::: {.white-div}
 
 ## Mentors
 
@@ -120,3 +116,5 @@ aliases:
 
 [**Mozilla**](https://www.mozilla.org/en-US/) helped incubate Openscapes. It believes the internet must always remain a global public resource, open and accessible to all. Its work is guided by the [Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/). Mozilla focuses on fueling the movement for a healthy internet by supporting a diverse group of [fellows](https://foundation.mozilla.org/en/what-we-fund/fellowships-and-awards-directory/) working on key internet issues; by connecting open internet leaders at events like [MozFest](https://www.mozillafestival.org/en/); by publishing critical research in the [Internet Health Report](https://internethealthreport.org/2018/); and by rallying citizens around advocacy issues that connect the well being of the internet directly to everyday life.
 
+:::
+:::

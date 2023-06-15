@@ -98,11 +98,11 @@ aliases:
 
 ## Mentors
 
-[**NASA Earthdata Mentors**](https://nasa-openscapes.github.io/mentors.html#mentor-cohort) are supporting researchers using NASA Earthdata as they migrate workflows to the Cloud.
+[**NASA Earthdata Mentors**](https://nasa-openscapes.github.io/mentors.html#mentor-cohort) are supporting colleagues and researchers using NASA Earthdata as they migrate workflows to the Cloud.
 
 [**NOAA Fisheries Mentors**](https://nmfs-openscapes.github.io/mentors.html) are supporting colleagues at NOAA Fisheries with open science practices for collaboration, particularly for shared project management and government reports.
 
-[**California Water Board / CalEPA Co-leads**](https://github.com/cawaterboarddatacenter) Anna Holder and Corey Clatterbuck, both environmental scientists in the [Office of Information Management and Analysis](https://www.waterboards.ca.gov/resources/oima/) and the [Surface Water Ambient Monitoring Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/), mentored Champions Cohorts in 2021 and began co-leading annual Champions Cohorts at the Water Boards in 2022! Regardless of her role, Anna uses ecology, data science, and science communication to contribute to and inform the sustainable and equitable management of natural resources. Anna obtained her M.S. and B.S. from CSU Monterey Bay in Applied Marine and Watershed Science. [Corey](https://www.coreyclatterbuck.com/) is an ecologist who uses data science to assess the condition of our natural resources and identify opportunities for conservation action. Corey earned her PhD from the Joint Doctoral Program in Ecology at San Diego State University and the University of California, Davis in 2021.
+[**California Water Board / CalEPA Mentors**](https://cawaterboarddatacenter.github.io/swrcb-openscapes/contact.html) are supporting colleagues to contribute to and inform the sustainable and equitable management of natural resources and identify opportunities for conservation action. 
 
 ## Advisors & Collaborators
 

@@ -43,7 +43,7 @@ aliases:
 ::: {}
 
 ::: {.center-text}
-[**Erin Robinson**](https://erinrobinson.info/) is a core Openscapes team member and advisor. She co-leads the NASA Framework project with Julie and has been instrumental in scaling Openscapes with lessons learned from their NASA work, including developing our Flywheel. Erin works at the intersection of community informatics, Earth science and non-profit management.
+[**Erin Robinson**](https://erinrobinson.info/) is a core Openscapes team member and chief strategist. She co-leads NASA Openscapes and has been instrumental in scaling Openscapes with lessons learned from the NASA work, including developing our Flywheel. Erin works at the intersection of community informatics, Earth science and non-profit management.
 :::
 
 :::

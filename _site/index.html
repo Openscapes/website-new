@@ -66,35 +66,6 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-recent-events-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-image','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      page: 3,
-    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-recent-events-listing'] = new List('listing-recent-events-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-recent-blog-listing .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -105,7 +76,7 @@ ul.task-list li input[type="checkbox"] {
       valueNames: ['listing-title','listing-image','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       page: 3,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -149,22 +120,26 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
  <span class="menu-text">HOME</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./approach.html" rel="" target="">
+ <span class="menu-text">APPROACH</span></a>
+  </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">ABOUT</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
         <li>
-    <a class="dropdown-item" href="./who_are_we.html" rel="" target="">
- <span class="dropdown-text">WHO ARE WE?</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./approach.html" rel="" target="">
- <span class="dropdown-text">OUR APPROACH</span></a>
+    <a class="dropdown-item" href="./about.html" rel="" target="">
+ <span class="dropdown-text">ABOUT US</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./team.html" rel="" target="">
  <span class="dropdown-text">OUR TEAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./resources.html" rel="" target="">
+ <span class="dropdown-text">OPEN RESOURCES</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./media.html" rel="" target="">
@@ -182,20 +157,24 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
         <li>
+    <a class="dropdown-item" href="./initiatives.html" rel="" target="">
+ <span class="dropdown-text">ALL INITIATIVES</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="./champions_program.html" rel="" target="">
  <span class="dropdown-text">CHAMPIONS PROGRAM</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./mentors_framework.html" rel="" target="">
- <span class="dropdown-text">MENTORS FRAMEWORK</span></a>
+    <a class="dropdown-item" href="./initiatives.html#nasa-openscapes" rel="" target="">
+ <span class="dropdown-text">NASA OPENSCAPES</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./reflections_program.html" rel="" target="">
- <span class="dropdown-text">REFLECTIONS PROGRAM</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./pathways_to_open_science_program.html" rel="" target="">
+    <a class="dropdown-item" href="./initiatives.html#pathways-to-open-science-program" rel="" target="">
  <span class="dropdown-text">PATHWAYS TO OPEN SCIENCE PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./initiatives.html#reflections-program" rel="" target="">
+ <span class="dropdown-text">REFLECTIONS PROGRAM</span></a>
   </li>  
     </ul>
   </li>
@@ -204,31 +183,22 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">BLOG</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-get-involved" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
- <span class="menu-text">GET INVOLVED</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-connect" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">CONNECT</span>
     </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-get-involved">    
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-connect">    
         <li>
     <a class="dropdown-item" href="./connect.html" rel="" target="">
  <span class="dropdown-text">CONNECT WITH US</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./events.html" rel="" target="">
- <span class="dropdown-text">ATTEND AN EVENT</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./resources.html" rel="" target="">
- <span class="dropdown-text">FIND LEARNING RESOURCES</span></a>
+ <span class="dropdown-text">EVENTS</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/openscapes" rel="" target=""><i class="bi bi-github" role="img">
-</i> 
- <span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/openscapes" rel="" target=""><i class="bi bi-twitter" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
@@ -253,29 +223,31 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(112)</span></div><div class="category" data-category="art">art <span class="quarto-category-count">(10)</span></div><div class="category" data-category="case-study">case-study <span class="quarto-category-count">(12)</span></div><div class="category" data-category="champions">champions <span class="quarto-category-count">(48)</span></div><div class="category" data-category="coding">coding <span class="quarto-category-count">(15)</span></div><div class="category" data-category="community">community <span class="quarto-category-count">(2)</span></div><div class="category" data-category="community-call">community-call <span class="quarto-category-count">(12)</span></div><div class="category" data-category="conference">conference <span class="quarto-category-count">(13)</span></div><div class="category" data-category="how-we-work">how-we-work <span class="quarto-category-count">(9)</span></div><div class="category" data-category="medium.com">medium.com <span class="quarto-category-count">(7)</span></div><div class="category" data-category="mentorship">mentorship <span class="quarto-category-count">(3)</span></div><div class="category" data-category="nasa-framework">nasa-framework <span class="quarto-category-count">(19)</span></div><div class="category" data-category="newsletter">newsletter <span class="quarto-category-count">(9)</span></div><div class="category" data-category="noaa-fisheries">noaa-fisheries <span class="quarto-category-count">(23)</span></div><div class="category" data-category="pathways">pathways <span class="quarto-category-count">(1)</span></div><div class="category" data-category="quarto">quarto <span class="quarto-category-count">(3)</span></div><div class="category" data-category="study-group">study-group <span class="quarto-category-count">(4)</span></div></div></div>
+    
 <!-- main -->
 <main class="content page-columns page-full column-body" id="quarto-document-content">
 
 
 
+<!-- START banner -->
 <div class="column-screen">
 <p><img src="images/banner_imgs/original_banners/horst_openscapes_grassland_big-text.png" class="img-fluid"></p>
 </div>
+<!-- END banner -->
 <div class="column-screen">
 <div class="white-div">
 <section id="what-we-do" class="level1 blue-underline center-text">
 <h1><strong>WHAT WE DO</strong></h1>
 </section>
-<p><strong>At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster.</strong> Regardless of research question, environmental scientists are united by the need to analyze data — and to do so in a way that is efficient, reproducible, and easily communicated. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. <a href="./approach.html">Our approach</a>:</p>
+<p><br></p>
+<p><strong>Openscapes is an approach and a movement</strong> that helps researchers and those supporting research find each other and feel empowered to conduct data-intensive science. Through a creative approach drawing inspiration and skills from many places, we provide structures for technical skill-building, collaborative teamwork, and inclusive community development. Here’s how:</p>
 </div>
 </div>
 <div class="column-screen">
 <div class="white-div">
 <div class="center-text">
 <div class="grid">
-<div class="g-col-4">
+<div class="g-col-12 g-col-md-4">
 <div class="large-body-text blue-text">
 <p><i class="fa-solid fa-users" title="Three people" aria-label="users"></i></p>
 </div>
@@ -283,10 +255,10 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>ENGAGE</strong></p>
 </div>
 <div class="medium-gray1-text small-body-text">
-<p><strong>We build awareness and excitement.</strong> We engage scientists with the possibilities of open data science with empathy, art, and storytelling, using narratives like our own <a href="https://www.nature.com/articles/s41559-017-0160">path to better science in less time</a></p>
+<p><strong>We welcome, and create space &amp; place.</strong> We engage researchers who want to work better and collaborate through empathy, art, storytelling, and technology.</p>
 </div>
 </div>
-<div class="g-col-4">
+<div class="g-col-12 g-col-md-4">
 <div class="large-body-text blue-text">
 <p><i class="fa-solid fa-lightbulb" title="A lightbult" aria-label="lightbulb"></i></p>
 </div>
@@ -294,10 +266,10 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>EMPOWER</strong></p>
 </div>
 <div class="medium-gray1-text small-body-text">
-<p><strong>We help build confidence and skills.</strong> We empower scientists by connecting them with existing open software and communities that meet them where they are so they can develop the skills they need.</p>
+<p><strong>We invest in learning &amp; trust, and work openly.</strong> We empower researchers by growing their confidence and abilities as they put what they learn into practice quickly.</p>
 </div>
 </div>
-<div class="g-col-4">
+<div class="g-col-12 g-col-md-4">
 <div class="large-body-text blue-text">
 <p><i class="fa-solid fa-earth-americas" title="Planet earth" aria-label="earth-americas"></i></p>
 </div>
@@ -305,264 +277,68 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>AMPLIFY</strong></p>
 </div>
 <div class="medium-gray1-text small-body-text">
-<p><strong>We build champions and communities.</strong> We amplify scientists’ efforts through academic seminars as well as blogs and social media to increase the visibility of open practices on campus and online.</p>
+<p><strong>We leverage common workflows &amp; tools, and inspire broader shifts.</strong> We amplify progress through collaboration and reuse, celebrating people and small wins that accumulate.</p>
 </div>
 </div>
+<p><br></p>
 </div>
 </div>
 </div>
 </div>
 <div class="column-screen">
 <div class="light-gray-div">
-<section id="attend-an-event" class="level1 blue-underline center-text">
-<h1><strong>ATTEND AN EVENT</strong></h1>
+<section id="growing-the-open-movement" class="level1 blue-underline center-text">
+<h1><strong>GROWING THE OPEN MOVEMENT</strong></h1>
 </section>
-<p>The Openscapes team holds regular community calls, participates in conference talks, seminars, and webinars, and organizes opportunities through the Champions Program (and other new initiatives!). See our recent events below or attend an upcoming one. Browse <a href="./events.html">all events</a>).</p>
-<div id="listing-recent-events-listing" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="mentorship" data-listing-date-sort="1683529200000" data-listing-file-modified-sort="1684818887404" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
-<a href="./events/2023-05-08-reflections/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./events/2023-05-08-reflections/fig-mountain-2023-square.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-2023 Reflections Program
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('mentorship'); return false;">
-mentorship
+<p><br> <strong>As part of the larger open science movement</strong>, Openscapes helps research teams and organizations reimagine data-intensive science and grow community-centered leadership skills. <!-- as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities.  We call this **kinder science for future us**. ---></p>
+<!-- START center text and grid -->
+<div class="center-text">
+<div class="grid">
+<!-- START Champions stat box -->
+<div class="g-col-12 g-col-md-4 stat-box">
+<div class="large-body-text blue-text">
+<p><strong>125</strong></p>
 </div>
+<div class="stat-text">
+<p>Research teams through the Champions Program</p>
 </div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-May 8, 2023
 </div>
+<!-- END Champions stat box -->
+<!-- START members stat box -->
+<div class="g-col-12 g-col-md-4 stat-box">
+<div class="large-body-text blue-text">
+<p><strong>40</strong></p>
 </div>
+<div class="stat-text">
+<p>Mentors onboarded</p>
 </div>
 </div>
-</a>
+<!-- END members stat box -->
+<!-- START contributers stat box -->
+<div class="g-col-12 g-col-md-4 stat-box">
+<div class="large-body-text blue-text">
+<p><strong>22</strong></p>
 </div>
-<div class="g-col-1" data-index="1" data-categories="champions,nasa-framework" data-listing-date-sort="1681887600000" data-listing-file-modified-sort="1684818887404" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<a href="./events/2023-04-19-nasa-champions/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./events/2023-04-19-nasa-champions/nasa-openscapes.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-NASA Openscapes Champions Cohort
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('champions'); return false;">
-champions
+<div class="stat-text">
+<p>Contributors to the NASA Earthdata Cloud Cookbook</p>
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('nasa-framework'); return false;">
-nasa-framework
 </div>
+<!-- END contributers stat box -->
 </div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Apr 19, 2023
 </div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="community" data-listing-date-sort="1680246000000" data-listing-file-modified-sort="1683602971765" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
-<a href="./events/2023-03-31-utm-biology/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./events/2023-03-31-utm-biology/utm-biology.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Openscapes: supporting kinder science for future us
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('community'); return false;">
-community
-</div>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Mar 31, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="community-call" data-listing-date-sort="1679986800000" data-listing-file-modified-sort="1684733191898" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
-<a href="./events/2023-03-28-sean-kross-kyber/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img data-src="./events/2023-03-28-sean-kross-kyber/sean-kross.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Designing automated workflows with Dr.&nbsp;Sean Kross
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('community-call'); return false;">
-community-call
-</div>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Mar 28, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="conference" data-listing-date-sort="1678262400000" data-listing-file-modified-sort="1683601728803" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
-<a href="./events/2023-03-08-wids/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img data-src="./events/2023-03-08-wids/wids-matrix-1line-cropped.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-WiDS Stanford 2023
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('conference'); return false;">
-conference
-</div>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Mar 8, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-categories="champions" data-listing-date-sort="1676448000000" data-listing-file-modified-sort="1683601775675" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
-<a href="./events/2023-02-15-epa-champions/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img data-src="./events/2023-02-15-epa-champions/openscapes_hex.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Openscapes Champions: EPA Cohort
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('champions'); return false;">
-champions
-</div>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Feb 15, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="6" data-categories="conference,nasa-framework,noaa-fisheries" data-listing-date-sort="1674720000000" data-listing-file-modified-sort="1684732930023" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
-<a href="./events/2023-01-26-esip-winter-2023/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img data-src="./events/2023-01-26-esip-winter-2023/esip-logo.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-ESIP 2023: Opening Doors to Open Science
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('conference'); return false;">
-conference
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('nasa-framework'); return false;">
-nasa-framework
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('noaa-fisheries'); return false;">
-noaa-fisheries
-</div>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Jan 26, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="7" data-categories="mentorship" data-listing-date-sort="1674720000000" data-listing-file-modified-sort="1683602002472" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
-<a href="./events/2023-01-26-pathways-to-open-science/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img data-src="./events/2023-01-26-pathways-to-open-science/openscapes-bims-bweems.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Pathways to Open Science with HBCU Research Teams
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('mentorship'); return false;">
-mentorship
-</div>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Jan 26, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="8" data-categories="community" data-listing-date-sort="1673424000000" data-listing-file-modified-sort="1683602035042" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<a href="./events/2023-01-11-hpc/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img data-src="./events/2023-01-11-hpc/ecp-logo.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Openscapes: supporting better science for future us
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('community'); return false;">
-community
-</div>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Jan 11, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-<nav id="recent-events-listing-pagination" class="listing-pagination" aria-label="Page Navigation">
-  <ul class="pagination"></ul>
-</nav>
-</div>
+<!-- END center text and grid  -->
 <p><br></p>
 </div>
 </div>
 <p><br></p>
+<!-- START blog listing -->
 <div class="column-screen">
 <div class="white-div">
 <section id="from-our-blog" class="level1 blue-underline center-text">
 <h1><strong>FROM OUR BLOG</strong></h1>
 </section>
-<p>Blog posts are both Openscapes stories and advice snippets for the community. Some are cross-posted on <a href="https://medium.com/@openscapes">Medium.com</a>. See our most recent posts below or browse our <a href="./blog.html">full blog listing</a>).</p>
+<p><br> Blog posts share stories from the Openscapes community and document our learning openly. See the recent posts below or browse our <a href="./blog.html">full blog listing</a>.</p>
+<p><br></p>
 <div id="listing-recent-blog-listing" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-categories="noaa-fisheries,nasa-framework" data-listing-date-sort="1684306800000" data-listing-file-modified-sort="1684889312772" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14">
@@ -808,56 +584,122 @@ No matching items
 <!-- blog listing: see Garrick Aden-Buie's site: https://github.com/gadenbuie/garrickadenbuie-com/blob/quarto/index.qmd  & Robert Mitchell's blog post: https://robertmitchellv.com/blog/2022-08-building-with-quarto/building-with-quarto.html -->
 </div>
 </div>
+<!-- END blog listing -->
 <p><br></p>
+<!-- START testimonials section-->
 <div class="column-screen">
 <div class="light-gray-div">
-<section id="incubated-by-mozilla-and-nceas" class="level1 blue-underline center-text">
-<h1><strong>INCUBATED BY MOZILLA AND NCEAS</strong></h1>
+<section id="testimonials" class="level1 blue-underline center-text">
+<h1><strong>TESTIMONIALS</strong></h1>
 </section>
-<div class="center-text">
-<p>Openscapes bridges data-intensive environmental science with the open movement. Learn more <a href="./who_are_we.html">about us</a>.</p>
-</div>
 <p><br></p>
-<div class="cell" data-layout-align="center">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/clients/mozilla_nceas_gray.png" class="img-fluid figure-img" style="width:100.0%" alt="Sidy-by-side Mozilla and NCEAS logos, written in white text on black background; The Mozilla logo is spelled, 'moz://a`; the NCEAS logo is the morpho butterfly to the left the the aconymn, 'NCEAS' atop the full name, 'National Center for Ecological Analysis and Synthesis'"></p>
-</figure>
+<!-- START C.Nickles quote -->
+<div class="speech-bubble-bottom-left">
+<blockquote class="blockquote">
+<p><em>“Openscapes has created a collaborative environment for DAAC staff to collectively support open science initiatives and develop awesome material to help Earthdata users. Perhaps just as important as what we’ve done however, are mindsets we’ve grown into along the way…We are better at dreaming and implementing the future together.”</em></p>
+</blockquote>
+</div>
+<!-- END C.Nickles quote -->
+<p><br></p>
+<!-- START grid (C.Nickels photo + A.Rios quote) -->
+<div class="grid">
+<!-- START C.Nickles headshot column -->
+<div class="g-col-4 g-col-md-4">
+<p><img width="80%" src="images/headshots/nickles_round.png"></p>
+<p><strong>– Cassandra Nickles,</strong><br>
+<em>NASA Physical Oceanography</em><br>
+<em>Distributed Active Archive Center (DAAC)</em></p>
+</div>
+<!-- END C.Nickles headshot column -->
+<!-- START A.Rios quote column -->
+<div class="g-col-8 g-col-md-8">
+<div class="speech-bubble-bottom-right">
+<blockquote class="blockquote">
+<p><em>“As fisheries scientists, we know that when we’re in rough seas, it’s important to keep the ship afloat AND get out of the storm. Openscapes helps teams steer out of the storm of email chains with 37 versions of the same spreadsheet and to the calmer waters of open science and meaningful collaboration, using tools like R.”</em></p>
+</blockquote>
 </div>
 </div>
+<!-- END A.Rios quote column -->
 </div>
-<!-- ::: {.grid} -->
-<!-- ::: {.g-col-6} -->
-<!-- ![](images/clients/mozilla.png){fig-align="center" width="80%"}  -->
+<!-- END grid (C.Nickels photo + A.Rios quote) -->
+<!-- START grid (I.Fenwick quote + A.Rios photo) -->
+<div class="grid">
+<!-- START I.Fenwick quote column -->
+<div class="g-col-8 g-col-md-8">
+<div class="speech-bubble-bottom-down">
+<blockquote class="blockquote">
+<p><em>“Because of Openscapes, I have renewed hope in how we can bring about a kinder future in science. I see a commitment in the open science community to bridging the gaps where we’ve left members of our community behind, and it inspires me.”</em></p>
+</blockquote>
+</div>
+</div>
+<!-- END I.Fenwick quote column -->
+<!-- START A. Rios headshot column  -->
+<div class="g-col-4 g-col-md-4">
+<p><img width="80%" src="images/headshots/rios_round.png"></p>
+<p><strong>– Adyan Rios,</strong><br>
+<em>NOAA Southeast Fisheries</em><br>
+<em>Science Center</em></p>
+</div>
+<!-- END A. Rios headshot column  -->
+</div>
+<!-- END grid (I.Fenwick quote + A.Rios photo) -->
+<!-- START grid (I.Fenwick photo + ?) -->
+<div class="grid">
+<div class="g-col-4 g-col-md-4">
+<p><img width="80%" src="images/headshots/fenwick_round.png"></p>
+<p><strong>– Ileana Fenwick,</strong><br>
+<em>University of North Carolina</em></p>
+</div>
+</div>
+<!-- END grid (I.Fenwick photo + ?) -->
+<!-- <!--- . --->
+<!-- ::: {.blockquote-gray} -->
+<!-- "Openscapes isn't just about coding and GitHub, it's about changing how we do science" -->
+<!-- **- Malin Pinsky, University of California Santa Cruz** -->
 <!-- ::: -->
-<!-- :::{.g-col-6} -->
-<!-- ![](images/clients/nceas.png){fig-align="center" width="80%"} -->
-<!-- ::: -->
-<!-- ::: -->
+<p><br></p>
 </div>
 </div>
+<!-- END testimonials section -->
 <p><br></p>
 <div class="column-screen">
 <div class="white-div">
-<div class="grid">
-<section id="about" class="level3 g-col-6">
-<h3 class="anchored" data-anchor-id="about">About</h3>
-<p>Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster. Openscapes was incubated by NCEAS and a Mozilla Fellowship awarded to Julia Stewart Lowndes.</p>
-<p><a href="./who_are_we.html">Learn more »</a></p>
+<section id="open-resources" class="level1 blue-underline center-text">
+<h1><strong>OPEN RESOURCES</strong></h1>
 </section>
-<section id="contact" class="level3 g-col-6">
+<div class="center-text">
+<p>We openly share our curricula, approach, any many other <a href="./resources.html">open resources</a>, as well as stories and what we’re learning via our <a href="./media.html">media</a>, <a href="./blog.html">blog</a>, and <a href="./events.html">events</a>. Learn more about our <a href="./initiatives.html">initiatives</a>, and <a href="./connect.html">connect</a> with us. <br></p>
+</div>
+</div>
+</div>
+<!-- START about & contact section -->
+<div class="column-screen">
+<div class="white-div">
+<!-- START grid (about & contact) -->
+<div class="grid">
+<!-- START about column -->
+<section id="about" class="level3 g-col-12 g-col-md-6">
+<h3 class="anchored" data-anchor-id="about">About</h3>
+<p>Our vision is a scientific culture that is more efficient, more kind, and more collaborative, and can uncover environmental solutions faster together.</p>
+<p><a href="./about.html">Learn more »</a></p>
+</section>
+<!-- END about column -->
+<!-- START contact column -->
+<section id="contact" class="level3 g-col-12 g-col-md-6">
 <h3 class="anchored" data-anchor-id="contact">Contact</h3>
 <p><strong>Openscapes</strong><br>
 California, USA</p>
 <hr>
 <p>hello @ openscapes.org<br>
-Twitter &amp; GitHub: <span class="citation" data-cites="openscapes">@openscapes</span></p>
+Mastodon &amp; GitHub: <span class="citation" data-cites="openscapes">@openscapes</span></p>
 <p><a href="./connect.html">Get Involved »</a></p>
 </section>
+<!-- END contact column -->
+</div>
+<!-- END grid (about & contact) -->
 </div>
 </div>
-</div>
+<!-- END about & contact section -->
 
 
 

@@ -1,0 +1,72 @@
+---
+title: ""
+---
+
+::: {.column-screen}
+![](images/banner_imgs/text_banners/impact_banner.png)
+
+<br>
+
+::: {.white-div}
+
+::: {.medium-body-text .center-text}
+**Impacts of movement building aren’t easily measured, and that’s okay. Stories of shifting research practices and growing as leaders are important here.**
+:::
+
+## Shifting daily research practice 
+
+Ileana's story. 2 paragraphs max
+
+In 2023 Ileana launched the Pathways to Open Science program for Black environmental and marine researchers in partnership with BIMS, BWEEMS, and faculty from HBCUs. This was a remote event series to welcome Black scientists to open data science and the first event had 80 people. She is part of the core Openscapes team and we are committed to lead this program annually. Eli has co-led dozens of learning events, including in Fall 2023 coordinating and co-leading 4 Openscapes cohorts for 160 NOAA staff across 6 science centers, the Office of Science and Technology and the West Coast Regional Office. She is increasingly involved in open science efforts within NOAA and across federal agencies.
+
+These are examples of learners becoming leaders within and across institutions. 
+
+
+Learn more: 
+
+- [A Journey to Data Science: Tools for Equity and Diversity in STEM](https://github.com/IleanaF/rstudio-conf22) - July 28, 2022: Talk by Ileana Fenwick at RStudio Conference
+
+## Teambuliding
+
+<br>
+
+<!--- Don't lose this but too much. 
+We are supporting culture shifts in data-intensive environmental research, which often show up in ways are difficult to capture. This is particularly true in community building, where an "n of 1" can have cascading effects. We are inspired by other movements and are attempting to communicate impact through stories and depth first, then numbers.
+
+We see impact happening in small and big ways that compound and gain momentum like a [flywheel](approach.qmd#openscapes-flywheel). This happens as people feel empowered in their own work ("That keyboard shortcut is my go-to, it saves me so much time") and then show up to teach others ("I never thought I could learn GitHub, but I did, and I've also taught my boss"). We're seeing people build skills, change mindsets, reuse what works, and change their trajectories through participating across all our [initiatives](initiatives.qmd) ("I got promoted and introduced live journaling in our director meetings"). We amplify their lessons learned through our [blog](blog.qmd) and in presentations on our [media page](media.qmd), including: 
+
+- [NASA Openscapes: Movement building with the Flywheel](https://docs.google.com/presentation/d/1BK678MADRg6QkejRQI_5KREGn6DzzQqAS4StsjXmi-k/edit#slide=id.g1b5922f14f8_0_83) - May 31, 2023, Erin Robinson & Julie Lowndes
+- [Openscapes: supporting kinder science for future us](https://docs.google.com/presentation/d/1WzNaQWVBTLSq4IX0GkvGlQWbDJ4isVpSvGnjb_rdEKU/edit?usp=sharing) - March 31, 2023 — Julie Lowndes & Ileana Fenwick
+
+--->
+
+<br>
+
+## STORIES
+
+### Shifting daily research practice becoming leaders within and across institutions
+
+TODO: Separate. 
+
+Ileana Fenwick. Job Title. 
+
+IEA Reproducible Reports - Teams and Productivity story. 
+
+Ileana Fenwick and Eli Holmes are both marine scientists and data scientists. They are at different careers stages: Ileana is a PhD candidate at University of North Carolina Chapel Hill who just completed her third year and Eli is a NOAA Fisheries (NMFS)  Research Scientist and University of Washington Affiliate Professor for over 20 years. Both participated in Openscapes in 2021, as learners in the Champions Program. They learned what they needed to for their specific research needs:
+
+Ileana learned how to code collaboratively in R. This meant writing code that others would see and be able to run on different computers. It also meant reusing other people’s code, and actually building relationships with the authors and asking them questions. She learned to use GitHub for collaboration and publishing. She has talked about how important Openscapes was for onboarding to her PhD program during COVID, since it connected her to others and made her feel less alone. Eli learned how to build spaces to have difficult conversations around succession planning. She’s a long time GitHub user, using it for version control. Through Openscapes she learned how to use Issues for project management collaboratively with her team, and she learned Quarto, a new open source technical publishing system developed by Posit. 
+
+But they’re not only learners, they are mentors and leaders — 
+
+ ([video](https://www.rstudio.com/conference/2022/talks/journey-to-data-science-tools/))
+- TODO Eli's ESIP slides and video
+
+<br>
+
+## LEARN MORE
+
+Media page
+
+
+:::
+:::

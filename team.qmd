@@ -29,7 +29,7 @@ aliases:
 ::: {}
 
 ::: {.center-text}
-[**Julia Stewart Lowndes**](https://jules32.github.io/) launched and directs Openscapes. She is a marine ecologist working at the intersection of actionable environmental science, data science, and open science. She is a Mozilla Fellow and Senior Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California Santa Barbara, having earned her PhD from Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate.
+[**Julia Stewart Lowndes**](https://jules32.github.io/) is a core Openscapes team member and founding director. She is a marine ecologist working at the intersection of actionable environmental science, data science, and open science. She is a Mozilla Fellow and Senior Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California Santa Barbara, having earned her PhD from Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate.
 :::
 
 :::
@@ -43,7 +43,7 @@ aliases:
 ::: {}
 
 ::: {.center-text}
-[**Erin Robinson**](https://erinrobinson.info/) is a core Openscapes team member and advisor. She co-leads the NASA Framework project with Julie and has been instrumental in scaling Openscapes with lessons learned from their NASA work. Erin works at the intersection of community informatics, Earth science and non-profit management.
+[**Erin Robinson**](https://erinrobinson.info/) is a core Openscapes team member and advisor. She co-leads the NASA Framework project with Julie and has been instrumental in scaling Openscapes with lessons learned from their NASA work, including developing our Flywheel. Erin works at the intersection of community informatics, Earth science and non-profit management.
 :::
 
 :::
@@ -69,7 +69,7 @@ aliases:
 ::: {}
 
 ::: {.center-text}
-[**Ileana Fenwick**](https://twitter.com/_ileanaf) is a core Openscapes team member; she is an open science advocate and Marine Sciences Ph.D. Student at UNC Chapel Hill. Ileana’s research focuses on evaluating how marine communities respond to climate change and human impacts. Her work uses innovative quantitative methods to improve our ocean management outcomes. In addition to her research, Ileana is also a fierce advocate for HBCU engagement and equity in open science and marine science through her consulting and volunteer work.
+[**Ileana Fenwick**](https://twitter.com/_ileanaf) is a core Openscapes team member and leads the Pathways to Open Science program. She is an open science advocate and Marine Sciences Ph.D. Student at UNC Chapel Hill. Ileana’s research focuses on evaluating how marine communities respond to climate change and human impacts. Her work uses innovative quantitative methods to improve our ocean management outcomes. In addition to her research, Ileana is also a fierce advocate for HBCU engagement and equity in open science and marine science through her consulting and volunteer work.
 :::
 
 :::
@@ -98,7 +98,7 @@ aliases:
 
 ## Mentors
 
-[**NASA Earthdata Mentors**](https://nasa-openscapes.github.io/mentors.html#mentor-cohort) are supporting researchers using NASA Earthdata as they migrate workflows to the Cloud
+[**NASA Earthdata Mentors**](https://nasa-openscapes.github.io/mentors.html#mentor-cohort) are supporting researchers using NASA Earthdata as they migrate workflows to the Cloud.
 
 [**NOAA Fisheries Mentors**](https://nmfs-openscapes.github.io/mentors.html) are supporting colleagues at NOAA Fisheries with open science practices for collaboration, particularly for shared project management and government reports.
 

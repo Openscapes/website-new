@@ -1,0 +1,136 @@
+---
+title: ""
+# title-block-banner: images/banner_imgs/original_banners/horst_openscapes_arctic_1500px.png
+aliases: 
+  - https://www.openscapes.org/about/
+---
+
+::: {.column-screen}
+![](images/banner_imgs/text_banners/about_us_banner.png)
+
+<br>
+
+::: {.white-div}
+::: {.medium-body-text .center-text}
+**We are researchers whose work was so profoundly improved because of the open science community that we are dedicating our careers to empowering others and growing the movement.**
+:::
+
+<!-- <br> -->
+
+```{r}
+#| echo: false
+#| fig-align: "center"
+#| out-width: "13%"
+#| fig-alt: "Two purple squid, swimming side-by-side heading left."
+knitr::include_graphics("images/minis/horst_openscapes_arctic_squid.png")
+```
+:::
+
+::: {.white-div}
+## OUR STORY
+
+The Openscapes story starts with file names like "data_analysis_final_v2b.xls" --- you know the ones. It is a story about learning we're not the only one feeling lonely and stuck with this kind of workflow, and empowered that there is a better way. It is a story about reimagining what's possible when we modernize how we collaborate as part of the open movement.
+
+Openscapes has been co-developed by Julia Lowndes and Erin Robinson, combining their expertise of open data science and open data stewardship, community and program building, teaching and coaching, as well as their lived experience as researchers. Together, they built the Openscapes as a value-based initiative that builds momentum like a flywheel and sustainably supports research teams with open science. With the Openscapes Champions flagship program and the first cohort of research teams, Openscapes was initially launched by Julia through a Mozilla Fellowship in 2018, following her own team's [path to better science in less time](https://www.nature.com/articles/s41559-017-0160).
+
+Erin joined in 2020 and together they created the Openscapes Mentors Framework that supports scaling Openscapes into a movement with the Openscapes mentor community. Openscapes mentors are people embedded in science organizations that learn to lead Openscapes Champions programs for their organization. This framework was developed through a NASA grant that Julia and Erin lead. Beyond NASA, the Mentors Framework has supported mentors at several other organizations like NOAA, and the California Water Boards.
+
+We are excited to continue learning and iterating with the open movement towards kinder science for future us.
+
+<br>
+
+```{r}
+#| echo: false
+#| fig-align: "center"
+#| out-width: "13%"
+#| fig-alt: "A red sea urchin and a slightly smaller purple sea urchin sitting side-by-side"
+knitr::include_graphics("images/minis/horst_openscapes_arctic_urchins.png")
+```
+:::
+
+::: {.white-div}
+## OUR TEAM
+
+Learn about our [**our team**](team.qmd) who are helping grow and improve Openscapes!
+
+<br>
+
+```{r}
+#| echo: false
+#| fig-align: "center"
+#| out-width: "13%"
+#| fig-alt: "A blue-colored narwhal swimming to the left."
+knitr::include_graphics("images/minis/horst_openscapes_arctic_narwhal.png")
+```
+:::
+
+::: {.white-div}
+## OUR CODE OF CONDUCT
+
+Openscapes is committed to providing a welcoming, safe, inclusive, and harassment-free experience for everyone.
+
+We expect all participants to adhere to our [Code of Conduct](code_of_conduct.qmd), which was influenced and adapted from [rOpenSci](https://ropensci.org/code-of-conduct/) and [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+
+<br>
+
+```{r}
+#| echo: false
+#| fig-align: "center"
+#| out-width: "13%"
+#| fig-alt: "A blue-colored humpback whale swimming to the right."
+knitr::include_graphics("images/minis/horst_openscapes_arctic_humpback.png")
+```
+:::
+
+::: {.white-div}
+## OUR ART
+
+[Allison Horst](https://allisonhorst.github.io/) creates original art for Openscapes. Formerly an artist in residence at NCEAS and Assistant Teaching Professor at the Bren School of Environmental Science & Management at the University of California, Santa Barbara, Allison now works as a Data Scientist Advocate at [Observable](https://observablehq.com/). She is also one of the inaugural Openscapes Champions. Allison has a background in the fine arts, and in recent years, began creating digital open artwork for data science and statistics education -- explore her [Openscapes gallery](gallery.qmd), her [stats illustrations](https://allisonhorst.com/) and follow her on [Twitter](https://twitter.com/allison_horst).
+
+See all of Allison's Openscapes artwork on the [gallery page](gallery.qmd), including our logo, which represents open landscapes of possibility and the data within them.
+
+<br>
+
+```{r}
+#| echo: false
+#| fig-align: "center"
+#| out-width: "10%"
+#| fig-alt: "A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment."
+knitr::include_graphics("images/logo/openscapes_hex_design_final_correct_dimensions.png")
+```
+:::
+
+::: {.white-div}
+## OUR FUNDING
+
+We are funded through grants and contracts with our partners, which supports investment in [our flywheel](about.qmd#openscapes-flywheel) to iterate our [initiatives](initiatives.qmd) and share stories through [blogs](blog.qmd) and [media](media.qmd). We are grateful for our funding partners and the broader open community that supports tooling, people, and communities. 
+
+Openscapes launched through funding from [Mozilla](https://www.mozilla.org/), via an Open Science Fellowship awarded to Julia Stewart Lowndes. <!---Mozilla also sponsored the [first Champions Cohort](events/2019-01-21-inaugural/index.Rmd) for seven academic science teams. ---> Openscapes grew with funding from [NASA Earthdata](https://www.earthdata.nasa.gov/), via decades-long community building leadership by Erin Robinson. Early funders also include the [Gordon and Betty Moore Foundation](https://www.moore.org/), who supported us to develop a strategic growth plan, and [Code for Science and Society](https://eventfund.codeforscience.org/), who supported us to improve daily practices for how we work and teach to more bravely align with our values for diversity, equity, inclusion, and belonging. 
+
+<br>
+
+```{r}
+#| echo: false
+#| fig-align: "center"
+#| out-width: "13%"
+#| fig-alt: "Three small puffins in a cluster facing left."
+knitr::include_graphics("images/minis/horst_openscapes_arctic_puffins.png")
+```
+:::
+
+::: {.white-div}
+## OUR WEBSITE
+
+The Openscapes website was originally built by Julia Stewart Lowndes with [RMarkdown's blogdown](https://pkgs.rstudio.com/blogdown/) using the same open data science workflows used for research. The website was rebuilt by [Samantha Csik](https://samanthacsik.github.io/) in spring 2023 with [Quarto](https://quarto.org/), a new open-source, scientific and technical publishing system the Openscapes community has used since its earliest days (see [quarto blog posts](blog.qmd#category=quarto)).
+
+<br>
+
+```{r}
+#| echo: false
+#| fig-align: "center"
+#| out-width: "13%"
+#| fig-alt: "A ship with an organge hull and silver instrumentation floats in blue water."
+knitr::include_graphics("images/minis/horst_openscapes_arctic_ship.png")
+```
+:::
+:::

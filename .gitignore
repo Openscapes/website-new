@@ -4,5 +4,6 @@
 .Ruserdata
 
 /.quarto/
+/_site/
 
 **/.DS_Store

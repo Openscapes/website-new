@@ -56,8 +56,6 @@ blockquote { // style blockquotes (for speech bubbles)
   background-color: $light-gray2;
 } */
 
-// ABOVE RULES FOR ORIGINAL BLOCKQUOTES (BLUE VERT LINE TO LEFT OF TEXT)
-
 //////////// Class selectors (identified by "Inspect"ing the site) ////////////
 
 // navbar hover color
@@ -172,7 +170,7 @@ blockquote { // style blockquotes (for speech bubbles)
 	border-radius: .4em;
 }
 
-.speech-bubble-bottom-left:after { // creates arrow
+.speech-bubble-bottom-left:after { // creates down left-facing arrow
 	content: '';
 	position: absolute;
 	bottom: 0;
@@ -193,7 +191,7 @@ blockquote { // style blockquotes (for speech bubbles)
 	border-radius: .4em;
 }
 
-.speech-bubble-bottom-right:after { // creates arrow
+.speech-bubble-bottom-right:after { // creates down right-facing arrow
 	content: '';
 	position: absolute;
 	bottom: 0;
@@ -214,7 +212,7 @@ blockquote { // style blockquotes (for speech bubbles)
 	border-radius: .4em;
 }
 
-.speech-bubble-bottom-down:after { // creates arrow
+.speech-bubble-bottom-down:after { // creates down arrow
 	content: '';
 	position: absolute;
 	bottom: 0;

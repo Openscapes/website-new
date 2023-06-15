@@ -9,43 +9,45 @@ website:
     logo-alt: "A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment."
     right:
       - text: "HOME"
-        href: index.qmd
+        href: index.qmd    
+      - text: "APPROACH"
+        href: approach.qmd            
       - text: "ABOUT"
         menu:
-          - text: "WHO ARE WE?"
-            href: who_are_we.qmd
-          - text: "OUR APPROACH"
-            href: approach.qmd
-          - text: "OUR TEAM"
+          - text: "ABOUT US"
+            href: about.qmd
+          - text: "OUR TEAM" # Do we need this as separate navbar item or is ABOUT US enough?
             href: team.qmd
+          # - text: "HOW WE WORK" ## HOLD OFF on stories - maybe this is actually how-we-work.
+          #   href: stories.qmd 
+          - text: "OPEN RESOURCES"
+            href: resources.qmd            
           - text: "MEDIA"
             href: media.qmd
           - text: "CODE OF CONDUCT"
-            href: code_of_conduct.qmd
+            href: code_of_conduct.qmd # Let's change these all to - instead of _
       - text: "INITIATIVES"
         menu:
-         - text: "CHAMPIONS PROGRAM"
-           href: champions_program.qmd
-         - text: "MENTORS FRAMEWORK"
-           href: mentors_framework.qmd
-         - text: "REFLECTIONS PROGRAM"
-           href: reflections_program.qmd
-         - text: "PATHWAYS TO OPEN SCIENCE PROGRAM"
-           href: pathways_to_open_science_program.qmd
+          - text: "ALL INITIATIVES"
+            href: initiatives.qmd
+          - text: "CHAMPIONS PROGRAM"
+            href: initiatives.qmd#champions-program
+          - text: "NASA OPENSCAPES"
+            href: initiatives.qmd#nasa-openscapes
+          - text: "PATHWAYS TO OPEN SCIENCE PROGRAM"
+            href: initiatives.qmd#pathways-to-open-science-program
+#          - text: "  REFLECTIONS PROGRAM"
+#            href: initiatives.qmd#reflections-program
       - text: "BLOG"
         href: blog.qmd
-      - text: "GET INVOLVED"
-        menu:
-          - text: "CONNECT WITH US"
-            href: connect.qmd
-          - text: "ATTEND AN EVENT"
-            href: events.qmd
-          - text: "FIND LEARNING RESOURCES"
-            href: resources.qmd
+      - text: "CONNECT"
+        menu: 
+           - text: "CONNECT WITH US"
+             href: connect.qmd 
+           - text: "EVENTS"
+             href: events.qmd
       - icon: github
         href: https://github.com/openscapes
-      - icon: twitter
-        href: https://twitter.com/openscapes
       - icon: mastodon
         href: https://fosstodon.org/@openscapes
       - icon: envelope
@@ -59,6 +61,7 @@ website:
 format:
   html:
     page-layout: full
+    toc: false
     theme: 
       - styles.scss
     mainfont: Sen

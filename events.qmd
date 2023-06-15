@@ -8,9 +8,10 @@ listing:
   date-format: medium
   categories: numbered
 page-layout: full
-# title-block-banner: "#38A7BB" # use this for solid color banner
+title-block-banner: "#38A7BB" # use this for solid color banner
+title-block-banner-color: "#FFFFFF"
 # title-block-banner: images/banner_imgs/text_banners/events_banner.png
-title-block-banner: images/banner_imgs/original_banners/horst_openscapes_desert_breadcrumbs.png # adding text on top of image make image look glitchy?
+# title-block-banner: images/banner_imgs/original_banners/horst_openscapes_desert_breadcrumbs.png # adding text on top of image make image look glitchy?
 aliases: 
   - https://openscapes.github.io/events/
 --- 

@@ -12,7 +12,7 @@ aliases:
 ::: {.white-div}
 
 ::: {.medium-body-text .center-text}
-The Openscapes Champions Program is not a typical training workshop for individuals. **Through Openscapes, you focus on your own work with your team.**
+The Openscapes Champions Program is not a typical training workshop for individuals. **Through Openscapes cohorts, you focus on your own work with your team.**
 :::
 
 <br>

@@ -31,13 +31,13 @@ website:
           - text: "ALL INITIATIVES"
             href: initiatives.qmd
           - text: "CHAMPIONS PROGRAM"
-            href: champions_program.qmd
+            href: initiatives.qmd#champions-program
           - text: "NASA OPENSCAPES"
             href: initiatives.qmd#nasa-openscapes
           - text: "PATHWAYS TO OPEN SCIENCE PROGRAM"
             href: initiatives.qmd#pathways-to-open-science-program
-          - text: "REFLECTIONS PROGRAM"
-            href: initiatives.qmd#reflections-program
+#          - text: "  REFLECTIONS PROGRAM"
+#            href: initiatives.qmd#reflections-program
       - text: "BLOG"
         href: blog.qmd
       - text: "CONNECT"

@@ -263,7 +263,7 @@ Blog posts share stories from the Openscapes community and document our learning
 <br>
 
 ::: {.column-screen}
-::: {.light-gray-div}
+::: {.white-div}
 ::: {.blue-underline .center-text}
 # **OPEN RESOURCES**
 :::

@@ -143,7 +143,7 @@ blockquote { // style blockquotes (for speech bubbles)
   border: 6px solid $blue;
   padding: 5%;//15px;
   margin: 8%;//10px;
-  //border-radius: 15px; // for rounded corners
+  border-radius: 15px; // for rounded corners
 }
 
 .speech-bubble-headshot-box { 
@@ -156,6 +156,7 @@ blockquote { // style blockquotes (for speech bubbles)
 
 .yellow-bg { // yellow background color 
   background-color: $light-yellow;
+  width: 100%;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-right: 5px;

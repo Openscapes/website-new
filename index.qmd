@@ -120,7 +120,7 @@ listing:
 **40**
 :::
 :::{.stat-text}
-**Mentors** onboarded 
+**Mentors** onboarded in the Mentors Framework
 :::
 :::
 
@@ -153,7 +153,8 @@ listing:
 <img width="60%" src="images/headshots/fenwick_round.png">
 
 **- Ileana Fenwick,**\
-*University of North Carolina*
+*University of North Carolina*\
+*2021 Champion, Mentor, and Program Lead*
 :::
 
 ::: {.g-col-8 .g-col-md-8}
@@ -170,7 +171,8 @@ listing:
 <img width="30%" src="images/headshots/pinsky_round.png">
 
 **– Malin Pinsky,**\
-*University of California, Santa Cruz*
+*University of California, Santa Cruz*\
+*2019 Champion*
 :::
 
 :::
@@ -199,7 +201,7 @@ listing:
 :::
 <br>
 
-Blog posts share stories from the Openscapes community and document our learning openly. See the recent posts below or browse our [full blog listing](blog.qmd).
+Our blog shares stories from the community and documents our learning openly. See the recent posts below or browse our [full blog listing](blog.qmd).
 
 <br>
 
@@ -221,9 +223,11 @@ Blog posts share stories from the Openscapes community and document our learning
 # **OPEN RESOURCES**
 :::
 
+<br>
+
 ::: {.center-text}
-We openly share our curricula, approach, any many other [open resources](resources.qmd), as well as stories and what we're learning via our [media](media.qmd), [blog](blog.qmd), and [events](events.qmd).
-Learn more about our [initiatives](initiatives.qmd), and [connect](connect.qmd) with us.
+We share our curricula, approach, any many other [open resources](resources.qmd) for reuse.\
+Learn more about our [initiatives](initiatives.qmd) through our [media](media.qmd), and [events](events.qmd) and [connect](connect.qmd) with us.
 <br>
 :::
 

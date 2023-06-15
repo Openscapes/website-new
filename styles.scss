@@ -32,14 +32,19 @@ body { // set body text size & line height
   font-size: 17px;
 }
 
-blockquote { // style blockquotes
+blockquote { // style blockquotes (for speech bubbles)
   background: $white;
-  border-left: 3px solid $blue;
+  border-left: 3px solid $white;//$blue;
   margin: 1.5em 10px;
   padding: 0.5em 10px;
 }
 
-blockquote p { // align blockquotes
+.blockquote-blue { // style blockquotes (for blue vert line)
+  background: $white;
+  border-left: 3px solid $blue;
+}
+
+/*blockquote p { // align blockquotes
   display: inline-block;
 }
 
@@ -49,7 +54,9 @@ blockquote p { // align blockquotes
   margin: 1.5em 10px;
   padding: 0.5em 10px;
   background-color: $light-gray2;
-}
+} */
+
+// ABOVE RULES FOR ORIGINAL BLOCKQUOTES (BLUE VERT LINE TO LEFT OF TEXT)
 
 //////////// Class selectors (identified by "Inspect"ing the site) ////////////
 
@@ -138,6 +145,15 @@ blockquote p { // align blockquotes
   border: 6px solid $blue;
   padding: 5%;//15px;
   margin: 8%;//10px;
+  //border-radius: 15px; // for rounded corners
+}
+
+.speech-bubble-headshot-box { 
+  width: 85%;//300px;
+  background-color: transparent;
+  border: 6px solid transparent;
+  padding: 5%;//15px;
+  //margin: 8%;//10px;
 }
 
 .yellow-bg { // yellow background color 
@@ -149,10 +165,122 @@ blockquote p { // align blockquotes
   border-radius: 15px;
 }
 
-/*.container { // create flexbox container (https://www.youtube.com/watch?v=phWxA89Dy94)
-  display: flex;
-  flex-direction: row; // default
-  justify-content: space-around; //center, space-between
-}*/
+// SPEECH BUBBLES, see https://projects.verou.me/bubbly/
+.speech-bubble-bottom-left { // creates box
+	position: relative;
+	background: $white;
+	border-radius: .4em;
+}
 
+.speech-bubble-bottom-left:after { // creates arrow
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 30%;
+	width: 0;
+	height: 0;
+	border: 49px solid transparent;
+	border-top-color: $white;
+	border-bottom: 0;
+	border-left: 0;
+	margin-left: -24.5px;
+	margin-bottom: -49px;
+}
+
+.speech-bubble-bottom-right { // creates box
+	position: relative;
+	background: $white;
+	border-radius: .4em;
+}
+
+.speech-bubble-bottom-right:after { // creates arrow
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	width: 0;
+	height: 0;
+	border: 23px solid transparent;
+	border-top-color: $white;
+	border-bottom: 0;
+	border-right: 0;
+	margin-left: -11.5px;
+	margin-bottom: -23px;
+} 
+
+.speech-bubble-bottom-down { // creates box
+	position: relative;
+	background: $white;
+	border-radius: .4em;
+}
+
+.speech-bubble-bottom-down:after { // creates arrow
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 30%;
+	width: 0;
+	height: 0;
+	border: 23px solid transparent;
+	border-top-color: $white;
+	border-bottom: 0;
+	margin-left: -23px;
+	margin-bottom: -23px;
+} 
+/**/
+
+
+
+
+
+
+
+// Following from: https://weekendprojects.dev/posts/how-to-create-speech-bubble-in-css/#:~:text=The%20trick%20to%20creating%20speech,right%2C%20bottom%20borders. 
+
+/*.testimonial blockquote { // creates box
+  //margin: 1% 1% 0% 0%; // top, right, bottom, left
+ // width: 50%;
+  background: $white;
+  padding: 2%;
+  position: relative;
+  border: none;
+  border-radius: 8px;
+  //font-style: italic;
+}
+
+.testimonial blockquote:before, // adds beginning and end quotes (top of box)
+.testimonial blockquote:after {
+  content: "\201C";
+  position: absolute;
+  font-size: 300%;
+  line-height: 1;
+  color: $blue;
+  font-style: normal;
+}
+
+.testimonial blockquote:before { 
+  top: 0;
+  left: 10px;
+}
+
+.testimonial blockquote:after { // places quotes at top left and bottom right
+  content: "\201D";
+  right: 10px;
+  bottom: -0.5em;
+}
+
+.testimonial div {
+  width: 0;
+  height: 0;
+  border-left: 0 solid transparent;
+  border-right: 20px solid transparent;
+  border-top: 20px solid #efefef;
+  margin: 0 0 0 60px;
+}
+
+.testimonial p { // text color
+  margin: 8px 0 0 20px;
+  text-align: left;
+  color: $dark-gray;
+} */
 

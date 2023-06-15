@@ -44,7 +44,7 @@ This is our flagship program, for research teams. We work with partners to coord
 ::: {.center-text}
 The [**Openscapes Champions Lesson Series**](https://openscapes.github.io/series) is our open source curriculum we use to teach Champions Cohorts, and you can use it too.
 
-Learn more on the [**Champions Program webpage**](champions_program.qmd), and read about the experiences of our past and current Champions cohorts on our [**blog**](blog.qmd#category=champions).
+Learn more on the [**Champions Program webpage**](champions-program.qmd), and read about the experiences of our past and current Champions cohorts on our [**blog**](blog.qmd#category=champions).
 :::
 :::
 

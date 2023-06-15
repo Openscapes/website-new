@@ -25,7 +25,7 @@ website:
           - text: "MEDIA"
             href: media.qmd
           - text: "CODE OF CONDUCT"
-            href: code_of_conduct.qmd # Let's change these all to - instead of _
+            href: code-o-conduct.qmd 
       - text: "INITIATIVES"
         menu:
           - text: "ALL INITIATIVES"

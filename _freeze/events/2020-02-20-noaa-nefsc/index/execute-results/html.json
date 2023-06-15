@@ -1,0 +1,14 @@
+{
+  "hash": "25604fbbd694bbbf57daf3199ef9e9cb",
+  "result": {
+    "markdown": "---\ntitle: \"Openscapes Champions: NOAA NEFSC Cohort\"\ndescription: \"Openscapes Champions Cohort for the NOAA Northeast Fisheries Science Center (NEFSC)\"\nauthor:\n  - name: Openscapes and NEFSC\n    url: {}\ndate: 2020-02-20\ncategories:\n  - champions\n  - noaa-fisheries\nimage:  \"../2021-09-17-nwfsc/NOAA_logo.png\"\n---\n\n\n\n\n## Cohort Summary \n\nSponsored by NOAA, coordinated by Scott Large and Gavin Fay  \n(National Oceanic and Atmospheric Administration Northeast Fisheries Science Center)\n\n**Related blog posts**: \n\n- [Our first Openscapes workshop](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/)\n- [Our Openscapes experience: the Fay Lab](https://www.openscapes.org/blog/2020/03/31/faylab-our-openscapes-experience/)\n\n\n**Participating teams:** \n\n- Ecosystem Dynamics and Assessment group \n- Population Dynamics team\n- Protected Species Branch\n- Social Science Branch\n- Fay Lab, University of Massachusetts Dartmouth\n- WHOI NES-LTER: Woods Hole Oceanographic Institution, Northeast US Shelf Long-Term Ecological Research project\n\n\n## Program Overview\n\nThis is a mentorship and professional development opportunity for research teams; please see the following for details:\n\n- [Our first Openscapes workshop](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/)\n- [Our Openscapes experience: the Fay Lab](https://www.openscapes.org/blog/2020/03/31/faylab-our-openscapes-experience/)\n\n\n::: {.cell layout-align=\"center\" preview='true'}\n::: {.cell-output-display}\n![](../2021-09-17-nwfsc/NOAA_logo.png){fig-align='center' width=40%}\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

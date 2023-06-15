@@ -1,0 +1,14 @@
+{
+  "hash": "fcdc9749b3469d7d937274858e9ac5dd",
+  "result": {
+    "markdown": "---\ntitle: \"NASA Openscapes Champions Cohort\"\ndescription: |\n  Openscapes Champions Cohort for research teams using data from NASA Distributed Active Archive Centers (DAACs) and interested in open science and migrating their analytical workflows to the cloud.\nauthor:\n  - name: Openscapes and NASA\n    url: {}\ndate: 2022-03-04\ncategories:\n  - champions\n  - nasa-framework\nimage: \"nasa-openscapes.png\"   \n---\n\n\n\n\nThis is a mentorship and professional development opportunity for research teams; please see [**nasa-openscapes.github.io/champions**](https://nasa-openscapes.github.io/champions) for details.\n\n<br>\n\n\n::: {.cell layout-align=\"center\" preview='true'}\n::: {.cell-output-display}\n![](nasa-openscapes.png){fig-align='center' width=40%}\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

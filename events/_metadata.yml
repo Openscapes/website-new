@@ -1,7 +1,7 @@
 # options specified here will apply to all posts in this folder
 
-# Freeze computed outputs (SC NOTE 2023-04-01: changed to false while troubleshooting)
-freeze: false
+# Freeze computed outputs 
+freeze: true
 
 # Enable banner style title blocks
 # title-block-banner: true

@@ -1,0 +1,14 @@
+{
+  "hash": "7e66f7d45215957a0ff5b5e91ce71dad",
+  "result": {
+    "markdown": "---\ntitle: \"Openscapes Champions: NOAA AFSC Cohort\"\ndescription: \"Openscapes Champions Cohort for the NOAA Alaska Fisheries Science Center (AFSC)\"\nauthor:\n  - name: Openscapes and AFSC\n    url: {}\ndate: 2022-01-28\ncategories:\n  - champions\n  - noaa-fisheries\nimage: \"NOAA_logo.png\"\n---\n\n\n\n\nThis is a mentorship and professional development opportunity for research teams; please see [**openscapes.github.io/2022-noaa-afsc**](https://openscapes.github.io/2022-noaa-afsc) for details.\n\n<br>\n\n\n::: {.cell layout-align=\"center\" preview='true'}\n::: {.cell-output-display}\n![](NOAA_logo.png){fig-align='center' width=40%}\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

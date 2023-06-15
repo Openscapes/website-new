@@ -1,0 +1,14 @@
+{
+  "hash": "44fe645ade05000520f2c9c4e8cf77a3",
+  "result": {
+    "markdown": "---\ntitle: \"A Qualitative Data Analysis Chat with Beth Duckles\"\ndescription: |\n  A casual conversation with Beth Duckles, PhD to discuss qualitative data analysis\n#author:\n#  - name: Openscapes\n#    url: {}\ndate: \"2022-04-08\"\ncategories: \n  # - community\n  - community-call\nimage: duckles.jpg  \n---\n\n\n\n\n**[View event summary and video](https://www.openscapes.org/blog/2022/04/26/beth-duckles/)**  \n**Date: April 8, 2022**\\\n**Time: 11:00-11:50am PT** (UTC-7)\\\n**Where: Zoom**\\\n**Free event. **\n<!---[**Video Recording**]() --->\n\nPlease join us for a conversation with [Beth Duckles, PhD](https://bethduckles.com/), a research consultant and social scientist who helps technologists, designers and scientists gather and use human-centered data. We'll discuss qualitative data analysis - what it is and how it can be used for evaluation. \n\n\n\n::: {.cell layout-align=\"center\" preview='true'}\n::: {.cell-output-display}\n![](duckles.jpg){fig-align='center' width=45%}\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d6b5923b1abaec6b5f6d7dd5091f51f7",
+  "result": {
+    "markdown": "---\ntitle: \"Nature Webcast\"\ndescription: |\n  \"How to start learning to code in research\" with Jeff Perkel, Julie Lowndes, and JooYoung Seo\nauthor:\n  - name: Nature\ndate: 2021-06-04\ncategories:\n  - community\nimage: \"nature-webcast.png\"\n---\n\n\n\n\n**Date: June 4, 2021**  \n**Time: 7am PT / 10am EDT / 3pm BST / 4pm CEST**  \n**Register: [nature.com/webcasts](https://www.nature.com/webcasts/event/how-to-start-learning-to-code-in-research/)**  \n\n\"This introductory webcast, from Nature Careers, will aim to help attendees who are interested in learning computer programming, but aren’t sure where to start. Speakers will share tips and advice from their own careers, as well as advice to find more resources.\" \n\nJulie Lowndes will be sharing her experience and motivation for Openscapes alongside Jeff Perkel (Springer Nature) and JooYoung Seo (Penn State University and upcoming prof at the Illinois iSchool).\n\n\n::: {.cell preview='true'}\n::: {.cell-output-display}\n![](nature-webcast.png){width=65% style=\"background-color: white; padding:2px; display: inline-block;\"}\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

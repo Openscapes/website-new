@@ -19,12 +19,16 @@ listing:
     fields: [title, image, date, categories]
 ---
 
-<!-- START banner -->
+<!---------------------------------------------->
+<!---------------- START banner ---------------->
 ::: {.column-screen}
 ![](images/banner_imgs/original_banners/horst_openscapes_grassland_big-text.png)
 :::
-<!-- END banner -->
+<!---------------- END banner ---------------->
+<!-------------------------------------------->
 
+<!---------------------------------------------------------------------->
+<!---------------- START what we do section (white div) ---------------->
 ::: {.column-screen}
 ::: {.white-div}
 ::: {.blue-underline .center-text}
@@ -84,7 +88,11 @@ listing:
 :::
 :::
 :::
+<!---------------- END what we do section (white div) ---------------->
+<!-------------------------------------------------------------------->
 
+<!------------------------------------------------------------------------------------>
+<!---------------- START growing the open movement section (gray div) ---------------->
 ::: {.column-screen}
 ::: {.light-gray-div}
 ::: {.blue-underline .center-text}
@@ -93,156 +101,104 @@ listing:
 <br>
 **As part of the larger open science movement**, Openscapes helps research teams and organizations reimagine data-intensive science and grow community-centered leadership skills. <!-- as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities.  We call this **kinder science for future us**. ---> 
 
-<!-- START center text and grid -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ START stat boxes ~~~~~~~~~~~~-->
 ::: {.center-text}
 ::: {.grid}
 
-<!-- START Champions stat box -->
 ::: {.g-col-12 .g-col-md-4 .stat-box}
 ::: {.large-body-text .blue-text}
 **125**
 :::
 :::{.stat-text}
-Research teams through the Champions Program
+**Research teams** through the Champions Program
 :::
 :::
-<!-- END Champions stat box -->
 
-<!-- START members stat box -->
 ::: {.g-col-12 .g-col-md-4 .stat-box}
 ::: {.large-body-text .blue-text}
 **40**
 :::
 :::{.stat-text}
-Mentors onboarded 
+**Mentors** onboarded 
 :::
 :::
-<!-- END members stat box -->
 
-<!-- START contributers stat box -->
 ::: {.g-col-12 .g-col-md-4 .stat-box}
 ::: {.large-body-text .blue-text}
 **22**
 :::
 :::{.stat-text}
-Contributors to the NASA Earthdata Cloud Cookbook
+**Contributors** to the NASA Earthdata Cloud Cookbook
 :::
 :::
-<!-- END contributers stat box -->
 
 :::
 :::
-<!-- END center text and grid  -->
-
-<!-- START testimonials section-->
-<!-- ::: {.column-screen} -->
-::: {.light-gray-div}
-
-<!-- ::: {.blue-underline .center-text} -->
-<!-- # **TESTIMONIALS** -->
-<!-- ::: -->
+<!--~~~~~~~~~~~~~~ END stat boxes ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <br>
 
-<!-- START C.Nickles quote -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ START testimonials ~~~~~~~~~~~~-->
 ::: {.speech-bubble-bottom-left}
-> *"Openscapes has created a collaborative environment for DAAC staff to collectively support open science initiatives and develop awesome material to help Earthdata users. Perhaps just as important as what we’ve done however, are mindsets we’ve grown into along the way…We are better at dreaming and implementing the future together."*
+> *"Because of Openscapes, I have renewed hope in how **we can bring about a kinder future in science**. I see a commitment in the open science community to bridging the gaps where we’ve left members of our community behind, and it inspires me."*
 :::
-<!-- END C.Nickles quote -->
 
 <br>
 
-<!-- START grid (C.Nickels photo + A.Rios quote) -->
 ::: {.grid}
-
-<!-- START C.Nickles headshot column -->
 ::: {.g-col-4 .g-col-md-4}
-<img width="80%" src="images/headshots/nickles_round.png">
+<img width="60%" src="images/headshots/fenwick_round.png">
 
-**– Cassandra Nickles,**\
-*NASA Physical Oceanography*\
-*Distributed Active Archive Center (DAAC)*
-:::
-<!-- END C.Nickles headshot column -->
-
-<!-- START A.Rios quote column -->
-::: {.g-col-8 .g-col-md-8}
-::: {.speech-bubble-bottom-right}
-> *"As fisheries scientists, we know that when we’re in rough seas, it’s important to keep the ship afloat AND get out of the storm. Openscapes helps teams steer out of the storm of email chains with 37 versions of the same spreadsheet and to the calmer waters of open science and meaningful collaboration, using tools like R."*
-:::
-:::
-<!-- END A.Rios quote column -->
-
-:::
-<!-- END grid (C.Nickels photo + A.Rios quote) -->
-
-<!-- START grid (I.Fenwick quote + A.Rios photo) -->
-::: {.grid}
-
-<!-- START I.Fenwick quote column -->
-::: {.g-col-8 .g-col-md-8}
-::: {.speech-bubble-bottom-down}
-> *"Because of Openscapes, I have renewed hope in how we can bring about a kinder future in science. I see a commitment in the open science community to bridging the gaps where we’ve left members of our community behind, and it inspires me."*
-:::
-:::
-<!-- END I.Fenwick quote column -->
-
-<!-- START A. Rios headshot column  -->
-::: {.g-col-4 .g-col-md-4}
-<img width="80%" src="images/headshots/rios_round.png">
-
-**– Adyan Rios,**\
-*NOAA Southeast Fisheries*\
-*Science Center*
-:::
-<!-- END A. Rios headshot column  -->
-
-:::
-<!-- END grid (I.Fenwick quote + A.Rios photo) -->
-
-<!-- START grid (I.Fenwick photo + ?) -->
-::: {.grid}
-
-::: {.g-col-4 .g-col-md-4}
-<img width="80%" src="images/headshots/fenwick_round.png">
-
-**– Ileana Fenwick,**\
+**- Ileana Fenwick,**\
 *University of North Carolina*
 :::
 
-:::
-<!-- END grid (I.Fenwick photo + ?) -->
-
-
-
-<!-- <!--- . ---> 
-
-<!-- ::: {.blockquote-gray} -->
-
-<!-- "Openscapes isn't just about coding and GitHub, it's about changing how we do science" -->
-
-<!-- **- Malin Pinsky, University of California Santa Cruz** -->
-<!-- ::: -->
-
-:::
-<!-- ::: -->
-<!-- END testimonials section -->
+::: {.g-col-8 .g-col-md-8}
 
 <br>
 
+::: {.speech-bubble-bottom-right}
+> *"Openscapes isn't just about coding and GitHub, it's about **changing how we do science**"*
 :::
-:::
-<!-- END gray box -->
 
 <br>
 
-<!-- START blog listing -->
+::: {.right-align}
+<img width="30%" src="images/headshots/pinsky_round.png">
+
+**– Malin Pinsky,**\
+*University of California, Santa Cruz*
+:::
+
+:::
+:::
+
+<!-- OTHER QUOTES: -->
+<!-- "Openscapes has created a collaborative environment for DAAC staff to collectively support open science initiatives and develop awesome material to help Earthdata users. Perhaps just as important as what we’ve done however, are mindsets we’ve grown into along the way…We are better at dreaming and implementing the future together." - Cassandra Nickles (NASA Physical Oceanography Distributed Active Archive Center (DAAC)-->
+<!-- "As fisheries scientists, we know that when we’re in rough seas, it’s important to keep the ship afloat AND get out of the storm. Openscapes helps teams steer out of the storm of email chains with 37 versions of the same spreadsheet and to the calmer waters of open science and meaningful collaboration, using tools like R." - Adyan Rios (NOAA Southeast Fisheries Science Center) -->
+<!--~~~~~~~~~~~~~~ END testimonials ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+
+:::
+:::
+<!---------------- END growing the open movement section (gray div) ---------------->
+<!---------------------------------------------------------------------------------->
+
+<br>
+
+<!------------------------------------------------------------------------>
+<!---------------- START blog listing section (white div) ---------------->
 ::: {.column-screen}
 ::: {.white-div}
 ::: {.blue-underline .center-text}
 # **FROM OUR BLOG**
 :::
 <br>
+
 Blog posts share stories from the Openscapes community and document our learning openly. See the recent posts below or browse our [full blog listing](blog.qmd).
 
 <br>
@@ -250,14 +206,15 @@ Blog posts share stories from the Openscapes community and document our learning
 ::: {#recent-blog-listing}
 :::
 
-<!-- blog listing: see Garrick Aden-Buie's site: https://github.com/gadenbuie/garrickadenbuie-com/blob/quarto/index.qmd  & Robert Mitchell's blog post: https://robertmitchellv.com/blog/2022-08-building-with-quarto/building-with-quarto.html -->
-
 ::: 
 :::
-<!-- END blog listing -->
+<!---------------- END blog listing section (white div) ---------------->
+<!---------------------------------------------------------------------->
 
 <br>
 
+<!------------------------------------------------------------------------->
+<!---------------- START open resources section (gray div) ---------------->
 ::: {.column-screen}
 ::: {.light-gray-div}
 ::: {.blue-underline .center-text}
@@ -280,16 +237,15 @@ knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
 
 :::
 :::
+<!---------------- END open resources section (gray div) ---------------->
+<!----------------------------------------------------------------------->
 
-
-<!-- START about & contact section -->
+<!--------------------------------------------------------------------------->
+<!---------------- START about & contact section (white div) ---------------->
 ::: {.column-screen}
 ::: {.white-div}
 
-<!-- START grid (about & contact) -->
 ::: {.grid}
-
-<!-- START about column -->
 ::: {.g-col-12 .g-col-md-6}
 ### About
 
@@ -297,9 +253,7 @@ Our vision is a scientific culture that is more efficient, more kind, and more c
 
 [Learn more »](about.qmd)
 :::
-<!-- END about column -->
 
-<!-- START contact column -->
 ::: {.g-col-12 .g-col-md-6}
 ### Contact
 
@@ -313,11 +267,10 @@ Mastodon & GitHub: @openscapes
 
 [Get Involved »](connect.qmd)
 :::
-<!-- END contact column -->
+::: 
 
 :::
-<!-- END grid (about & contact) -->
 :::
-:::
-<!-- END about & contact section -->
+<!---------------- END about & contact section (white div) ---------------->
+<!------------------------------------------------------------------------->
 

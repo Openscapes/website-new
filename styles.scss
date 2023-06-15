@@ -115,6 +115,10 @@ blockquote { // style blockquotes (for speech bubbles)
   text-align: center;
 }
 
+.right-align { // right-align elements
+  text-align: right;
+}
+
 .white-div { // used to create white div 
   background-color: $white;
   max-width: 100%;
@@ -164,7 +168,8 @@ blockquote { // style blockquotes (for speech bubbles)
   border-radius: 15px;
 }
 
-// SPEECH BUBBLES, see https://projects.verou.me/bubbly/
+// SPEECH BUBBLES, created using https://projects.verou.me/bubbly/
+
 .speech-bubble-bottom-left { // creates box
 	position: relative;
 	background: $white;
@@ -175,15 +180,15 @@ blockquote { // style blockquotes (for speech bubbles)
 	content: '';
 	position: absolute;
 	bottom: 0;
-	left: 30%;
+	left: 25%;
 	width: 0;
 	height: 0;
-	border: 49px solid transparent;
+	border: 50px solid transparent;
 	border-top-color: $white;
 	border-bottom: 0;
 	border-left: 0;
 	margin-left: -24.5px;
-	margin-bottom: -49px;
+	margin-bottom: -50px;
 }
 
 .speech-bubble-bottom-right { // creates box
@@ -196,90 +201,14 @@ blockquote { // style blockquotes (for speech bubbles)
 	content: '';
 	position: absolute;
 	bottom: 0;
-	left: 50%;
+	left: 65%;
 	width: 0;
 	height: 0;
-	border: 23px solid transparent;
+	border: 50px solid transparent; 
 	border-top-color: $white;
 	border-bottom: 0;
 	border-right: 0;
 	margin-left: -11.5px;
-	margin-bottom: -23px;
+	margin-bottom: -50px; 
 } 
-
-.speech-bubble-bottom-down { // creates box
-	position: relative;
-	background: $white;
-	border-radius: .4em;
-}
-
-.speech-bubble-bottom-down:after { // creates down arrow
-	content: '';
-	position: absolute;
-	bottom: 0;
-	left: 30%;
-	width: 0;
-	height: 0;
-	border: 23px solid transparent;
-	border-top-color: $white;
-	border-bottom: 0;
-	margin-left: -23px;
-	margin-bottom: -23px;
-} 
-/**/
-
-
-
-
-
-
-
-// Following from: https://weekendprojects.dev/posts/how-to-create-speech-bubble-in-css/#:~:text=The%20trick%20to%20creating%20speech,right%2C%20bottom%20borders. 
-
-/*.testimonial blockquote { // creates box
-  //margin: 1% 1% 0% 0%; // top, right, bottom, left
- // width: 50%;
-  background: $white;
-  padding: 2%;
-  position: relative;
-  border: none;
-  border-radius: 8px;
-  //font-style: italic;
-}
-
-.testimonial blockquote:before, // adds beginning and end quotes (top of box)
-.testimonial blockquote:after {
-  content: "\201C";
-  position: absolute;
-  font-size: 300%;
-  line-height: 1;
-  color: $blue;
-  font-style: normal;
-}
-
-.testimonial blockquote:before { 
-  top: 0;
-  left: 10px;
-}
-
-.testimonial blockquote:after { // places quotes at top left and bottom right
-  content: "\201D";
-  right: 10px;
-  bottom: -0.5em;
-}
-
-.testimonial div {
-  width: 0;
-  height: 0;
-  border-left: 0 solid transparent;
-  border-right: 20px solid transparent;
-  border-top: 20px solid #efefef;
-  margin: 0 0 0 60px;
-}
-
-.testimonial p { // text color
-  margin: 8px 0 0 20px;
-  text-align: left;
-  color: $dark-gray;
-} */
 

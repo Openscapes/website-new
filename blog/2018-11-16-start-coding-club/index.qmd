@@ -5,7 +5,8 @@ date: 2018-11-16
 slug: start-coding-club
 categories:
   # - community
-  - study-group
+  - how-we-work
+  - coding
   # - how-to
 image: ../../img/blog/mrlowndes_20150725-DSC_4217.jpg
 aliases: 

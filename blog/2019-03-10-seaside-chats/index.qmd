@@ -9,7 +9,7 @@ categories:
   - coding
   # - how-to
   # - impact
-  - study-group
+  - how-we-work
 image: ../../img/blog/mrlowndes_DSC01492.jpg
 aliases: 
   - https://www.openscapes.org/blog/2019/03/10/seaside-chats/

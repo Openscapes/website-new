@@ -7,7 +7,8 @@ categories:
   # - community
   - champions
   # - how-to
-  - study-group
+  - how-we-work
+  - coding
   # - impact
 image: ../../img/blog/tidy_tuesday_3square.jpg
 aliases: 

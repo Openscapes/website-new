@@ -5,7 +5,7 @@ date: 2018-11-20
 slug: introducing-openscapes
 categories:
   # - community
-  - medium.com
+  - how-we-work
 image: ../../img/blog/snyder.jpg
 aliases: 
   - https://www.openscapes.org/blog/2018/11/20/introducing-openscapes/

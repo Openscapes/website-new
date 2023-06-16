@@ -6,7 +6,6 @@ slug: tampa-bay-reporting
 categories:
   # - community
   - coding
-  - case-study
 image: ../../img/blog/tampa-bay-seagrass.jpg
 aliases: 
   - https://www.openscapes.org/blog/2020/11/16/tampa-bay-reporting/

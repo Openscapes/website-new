@@ -7,7 +7,6 @@ categories:
   - champions
   # - community
   # - impact
-  - medium.com  
 image: ../../img/blog/summit/elevator-selfie-square.jpg 
 aliases: 
   - https://www.openscapes.org/blog/2019/04/25/summit-reflections2/

@@ -7,7 +7,6 @@ categories:
   # - community
   # - impact
   # - how-to
-  - case-study
   - how-we-work
 image: ../../img/blog/buckleylab-trenchproject-getty-thermal.png
 aliases: 

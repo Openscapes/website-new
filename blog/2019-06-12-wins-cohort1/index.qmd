@@ -6,9 +6,7 @@ slug: concluding-first-cohort
 categories:
   # - community
   - champions
-  - case-study
   # - impact
-  - medium.com  
 image: ../../img/blog/Cohort1_zoom_square.png
 aliases: 
   - https://www.openscapes.org/blog/2019/06/12/wins-cohort1/

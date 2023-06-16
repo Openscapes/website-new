@@ -7,7 +7,6 @@ categories:
   # - community
   - champions
   # - impact
-  - case-study  
 image: ../../img/blog/jayasundara-lab.png
 aliases: 
   - https://www.openscapes.org/blog/2019/06/03/case-study-jayasundara-lab/

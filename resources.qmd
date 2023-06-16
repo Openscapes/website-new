@@ -43,7 +43,7 @@ knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
 <!---------------- START Champions Program ---------------->
 ::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
 [**I want to revisit or share Champions Program resources**]{.med-sm-text}   
-
+<br>
 [{{< fa people-carry-box title="Two people carry a box together" >}}]{.large-body-text} 
 ---
 

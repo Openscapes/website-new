@@ -253,7 +253,7 @@ knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
 ::: {.g-col-12 .g-col-md-6}
 ### About
 
-Our vision is a scientific culture that is more efficient, more kind, and more collaborative, and can uncover environmental solutions faster together.
+Our vision is a scientific culture that is more efficient, more kind, and more collaborative, and that can uncover environmental solutions faster together.
 
 [Learn more »](about.qmd)
 :::

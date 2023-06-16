@@ -42,7 +42,7 @@ knitr::include_graphics("images/page_imgs/horst_openscapes_champions.jpg")
 
 <br>
 
-**We approach open science as a spectrum, a behavior change, and a movement.** There are many ways to practice open science and to welcome others to participate. We share our work openly and share stories, in part through the [resources](resources.qmd), [media](media.qmd), [blog](blog.qmd), and [events](events.qmd). We are influenced and inspired by many leaders and community organizers, particularly in climate and get out the vote movements.
+**We approach open science as a spectrum, a behavior change, and a movement.** There are many ways to practice open science and to welcome others to participate. We share our work openly and share stories, in part through our [resources](resources.qmd), [media](media.qmd), [blog](blog.qmd), and [events](events.qmd). We are influenced and inspired by many leaders and community organizers, particularly in climate and get out the vote movements.
 
 <br>
 
@@ -50,7 +50,7 @@ knitr::include_graphics("images/page_imgs/horst_openscapes_champions.jpg")
 
 ## OPENSCAPES FLYWHEEL
 
-**Our approach for movement building and sustainability is underpinned by our Flywheel** ([Robinson & Lowndes 2022](https://eartharxiv.org/repository/view/4560/)). The Flywheel concept was developed by [Jim Collins](https://www.jimcollins.com/) in the book Good to Great. No matter how dramatic the end result, building something to last never happen in one fell swoop. Rather, the process resembles relentlessly pushing a giant, heavy flywheel, turn upon turn, building momentum. It is never one big thing, it is many little things reinforced over time. Our Flywheel drives how we work on a daily basis and how we plan for years to come.
+**Our approach for movement building and sustainability is underpinned by our Flywheel** ([Robinson & Lowndes 2022](https://eartharxiv.org/repository/view/4560/)). The Flywheel concept was developed by [Jim Collins](https://www.jimcollins.com/) in the book Good to Great. No matter how dramatic the end result, building something to last never happens in one fell swoop. Rather, the process resembles relentlessly pushing a giant, heavy flywheel, turn upon turn, building momentum. It is never one big thing, it is many little things reinforced over time. Our Flywheel drives how we work on a daily basis and how we plan for years to come.
 
 
 <!--- For Approach Guide? OR just cut if already there
@@ -80,7 +80,9 @@ knitr::include_graphics("images/diagrams/openscapes-flywheel-v2023.06.png")
 {{< fa book-open title="An open book" >}} Openscapes Approach Guide
 :::
 ::: {.center-text}
-The [**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/) is our "lab manual", an attempt to codify our approach to onboard ourselves and new team members to how we work. It is an open source resource you can use too. 
+The [**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/) is our "lab manual", an attempt to codify our approach to onboard ourselves and new team members to how we work. It is an open source resource you can use too.
+
+*Cite as: Openscapes Core Team, Butland, Robinson, Lowndes. (2023). Openscapes Approach Guide (v2023.06). Zenodo. [https://doi.org/10.5281/zenodo.8034313](https://doi.org/10.5281/zenodo.8034313)*
 :::
 :::
 

@@ -6,6 +6,7 @@ aliases:
 
 ::: column-screen
 ![](images/banner_imgs/text_banners/team_banner.png)
+:::
 
 <br>
 
@@ -14,8 +15,6 @@ aliases:
 
 ::: {.medium-body-text .center-text}
 **Meet the many folks behind Openscapes!**
-:::
-
 :::
 
 <br>

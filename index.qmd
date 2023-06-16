@@ -110,7 +110,7 @@ listing:
 ::: {.large-body-text .blue-text}
 **125**
 :::
-:::{.stat-text}
+:::{.med-sm-text}
 **Research teams** through the Champions Program
 :::
 :::
@@ -119,7 +119,7 @@ listing:
 ::: {.large-body-text .blue-text}
 **40**
 :::
-:::{.stat-text}
+:::{.med-sm-text}
 **Mentors** onboarded in the Mentors Framework
 :::
 :::
@@ -128,7 +128,7 @@ listing:
 ::: {.large-body-text .blue-text}
 **22**
 :::
-:::{.stat-text}
+:::{.med-sm-text}
 **Contributors** to the NASA Earthdata Cloud Cookbook
 :::
 :::

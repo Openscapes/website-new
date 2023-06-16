@@ -26,8 +26,7 @@ listing:
 **This is a global movement for open, inclusive, and actionable data-driven environmental research. We're excited to connect.**
 :::
 
-::: {.medium-body-text .center-text}
-:::
+<br>
 
 ```{r}
 #| echo: false

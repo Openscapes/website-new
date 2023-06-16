@@ -89,12 +89,12 @@ blockquote { // style blockquotes (for speech bubbles)
   font-size: 25px;
 }
 
-.small-body-text { // small-sized text
-  font-size: 15px;
+.med-sm-text { // medium/small text
+  font-size: 20px;
 }
 
-.stat-text { // stat box (landing page) text
-  font-size: 20px;
+.small-body-text { // small-sized text
+  font-size: 15px;
 }
 
 .caption-text { // styled image caption text
@@ -147,6 +147,14 @@ blockquote { // style blockquotes (for speech bubbles)
   padding: 5%;//15px;
   margin: 8%;//10px;
   border-radius: 15px; // for rounded corners
+}
+
+.resource-box { // used to create boxes on resoure page
+  width: 85%;//300px;
+  background-color: $white;
+  border: 6px solid $blue;
+  padding: 5%;//15px;
+  margin: 8%;//10px;
 }
 
 .speech-bubble-headshot-box { 

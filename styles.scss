@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 
 // Import fonts
-@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap'); // Sen is similar to Avenir? Imported Regular, Bold, Extra Bold -- can only specify font weights that exist in this Google font set and are imported here; Sen is applied as the main website font in `_quarto.yml`
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap'); 
 
 // Colors (define Sass color variables here; syntax = `$varName: value;`)
 $white: #FFFFFF;
@@ -49,7 +49,6 @@ blockquote { // style blockquotes (for speech bubbles)
 }
 
 .blockquote-gray { // style gray blockquotes (used inside light-gray-div)
-  border-left: 3px solid $blue;
   border-left: 3px solid $blue;
   margin: 1.5em 10px;
   padding: 0.5em 10px;

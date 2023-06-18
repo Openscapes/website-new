@@ -15,6 +15,9 @@ aliases:
 **Explore, remix, and reuse our open source resources, developed by the Openscapes community.**
 
 Looking for some guidance on where to start? *Find yourself, below!*
+
+---
+
 :::
 
 ```{r}
@@ -22,7 +25,7 @@ Looking for some guidance on where to start? *Find yourself, below!*
 #| fig-align: "center"
 #| out-width: "10%"
 #| fig-alt: "A green tree with a tall and wide canopy. Only a small amount of the brown trunk is visible."
-knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
+#knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
 ```
 
 <!--------------------------------------------->
@@ -31,7 +34,7 @@ knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
 
 <!---------------- START NASA ---------------->
 ::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
-[**I use NASA Earthdata and I'm interested in transitioning my workflow to the cloud**]{.med-sm-text}   
+[I use **NASA Earthdata** and I'm interested in transitioning my workflow to the **cloud**]{.med-sm-text}   
 [{{< fa earth-americas title="Planet Earth rotated so that the Americas are visible" >}}]{.large-body-text} 
 
 ---
@@ -42,7 +45,7 @@ knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
 
 <!---------------- START Champions Program ---------------->
 ::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
-[**I want to revisit or share Champions Program resources**]{.med-sm-text}   
+[I want to revisit or share **Champions Program** resources]{.med-sm-text}   
 <br>
 [{{< fa people-carry-box title="Two people carry a box together" >}}]{.large-body-text} 
 ---
@@ -67,7 +70,7 @@ knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
 
 <!---------------- START Approach Guide ---------------->
 ::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
-[**I want to adapt or reuse Openscapes' facilitation approach and style**]{.med-sm-text}   
+[I want to adapt or reuse **Openscapes' facilitation approach** and style]{.med-sm-text}   
 <br>
 [{{< fa person-chalkboard title="A person standing in front of and pointing at a chalkboard" >}}]{.large-body-text} 
 
@@ -79,7 +82,7 @@ knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
 
 <!---------------- START RR & Collab ---------------->
 ::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
-[**I'm looking for hands-on reproducible research or collaborative documentation tutorials?**]{.med-sm-text}   
+[I'm looking for hands-on **reproducible research** or **collaborative documentation** tutorials?]{.med-sm-text}   
 [{{< fa laptop-code title="An open laptop computer with the code symbol, </>, on the screen" >}}]{.large-body-text} 
 ---
 
@@ -103,7 +106,7 @@ knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
 
 <!---------------- START Approach Guide ---------------->
 ::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
-[**I'm looking for NOAA-specific guidelines**]{.med-sm-text}   
+[I'm looking for **NOAA**-specific guidelines]{.med-sm-text}   
 
 [{{< fa fish title="A fish" >}}]{.large-body-text} 
 
@@ -115,7 +118,7 @@ knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
 
 <!---------------- START ? ---------------->
 ::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
-[**I'm looking for California Water Board-specific guidelines**]{.med-sm-text} 
+[I'm looking for **California Water Board**-specific guidelines]{.med-sm-text} 
 
 [{{< fa water title="Water waves" >}}]{.large-body-text} 
 ---

@@ -151,10 +151,11 @@ blockquote { // style blockquotes (for speech bubbles)
 
 .resource-box { // used to create boxes on resoure page
   width: 85%;//300px;
-  background-color: $white;
-  border: 6px solid $blue;
+  background-color: $light-gray1;
+  border: 4px solid $blue;
   padding: 5%;//15px;
   margin: 8%;//10px;
+  border-radius: 8px;
 }
 
 .speech-bubble-headshot-box { 

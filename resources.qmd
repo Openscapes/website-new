@@ -35,6 +35,7 @@ Looking for some guidance on where to start? *Find yourself, below!*
 <!---------------- START NASA ---------------->
 ::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
 [I use **NASA Earthdata** and I'm interested in transitioning my workflow to the **cloud**]{.med-sm-text}   
+
 [{{< fa earth-americas title="Planet Earth rotated so that the Americas are visible" >}}]{.large-body-text} 
 
 ---
@@ -46,7 +47,7 @@ Looking for some guidance on where to start? *Find yourself, below!*
 <!---------------- START Champions Program ---------------->
 ::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
 [I want to revisit or share **Champions Program** resources]{.med-sm-text}   
-<br>
+
 [{{< fa people-carry-box title="Two people carry a box together" >}}]{.large-body-text} 
 ---
 
@@ -71,7 +72,7 @@ Looking for some guidance on where to start? *Find yourself, below!*
 <!---------------- START Approach Guide ---------------->
 ::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
 [I want to adapt or reuse **Openscapes' facilitation approach** and style]{.med-sm-text}   
-<br>
+
 [{{< fa person-chalkboard title="A person standing in front of and pointing at a chalkboard" >}}]{.large-body-text} 
 
 ---
@@ -82,7 +83,8 @@ Looking for some guidance on where to start? *Find yourself, below!*
 
 <!---------------- START RR & Collab ---------------->
 ::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
-[I'm looking for hands-on **reproducible research** or **collaborative documentation** tutorials?]{.med-sm-text}   
+[I'm looking for **reproducible workflow** or **collaborative documentation** tutorials]{.med-sm-text}   
+
 [{{< fa laptop-code title="An open laptop computer with the code symbol, </>, on the screen" >}}]{.large-body-text} 
 ---
 
@@ -106,7 +108,7 @@ Looking for some guidance on where to start? *Find yourself, below!*
 
 <!---------------- START Approach Guide ---------------->
 ::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
-[I'm looking for **NOAA**-specific guidelines]{.med-sm-text}   
+[I'm looking for **NOAA Fisheries**-specific guidelines]{.med-sm-text}   
 
 [{{< fa fish title="A fish" >}}]{.large-body-text} 
 
@@ -116,7 +118,7 @@ Looking for some guidance on where to start? *Find yourself, below!*
 :::
 <!---------------- END Approach Guide ---------------->
 
-<!---------------- START ? ---------------->
+<!---------------- START CA Water ---------------->
 ::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
 [I'm looking for **California Water Board**-specific guidelines]{.med-sm-text} 
 
@@ -125,7 +127,7 @@ Looking for some guidance on where to start? *Find yourself, below!*
 
 [**California Water Boards Openscapes**](https://cawaterboarddatacenter.github.io/swrcb-openscapes/) 
 :::
-<!---------------- END ? ---------------->
+<!---------------- END CA Water ---------------->
 
 :::
 
@@ -140,6 +142,15 @@ See also our **[media](media.qmd)** for publications, slides, and videos about o
 
 :::
 :::
+
+<!-- --- -->
+
+<!-- -  I use **NASA Earthdata** and I'm interested in transitioning my workflow to the **cloud** {{< fa arrow-right title="right pointing arrow" >}} [**NASA Earthdata Cloud Cookbook**](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/)   -->
+<!-- -  I want to revisit or share **Champions Program** resources {{< fa arrow-right title="right pointing arrow" >}} [**Openscapes Champions Lesson Series**](https://openscapes.github.io/series)   -->
+<!-- -  I want to adapt or reuse **Openscapes' facilitation approach** and style {{< fa arrow-right title="right pointing arrow" >}} [**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/)   -->
+<!-- -  I'm looking for **reproducible workflow** or **collaborative documentation** tutorials {{< fa arrow-right title="right pointing arrow" >}} [**R for Excel Users**](https://rstudio-conf-2020.github.io/r-for-excel) or [**Making sharable documents with Quarto**](https://openscapes.github.io/quarto-website-tutorial/)   -->
+<!-- -  I'm looking for **NOAA Fisheries**-specific guidelines {{< fa arrow-right title="right pointing arrow" >}} [**NOAA Fisheries Openscapes**](https://nmfs-openscapes.github.io/)   -->
+<!-- -  I'm looking for **California Water Board**-specific guidelines {{< fa arrow-right title="right pointing arrow" >}} [**California Water Boards Openscapes**](https://cawaterboarddatacenter.github.io/swrcb-openscapes/)  -->
 
 
 <!-- ::: {.medium-body-text .center-text} -->

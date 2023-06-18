@@ -15,7 +15,7 @@ aliases:
 **We are researchers whose work was so profoundly improved because of the open science community that we are dedicating our careers to empowering others and growing the movement.**
 :::
 
-<!-- <br> -->
+<br>
 
 ```{r}
 #| echo: false

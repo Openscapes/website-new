@@ -11,7 +11,13 @@ aliases:
 
 ::: white-div
 ::: {.medium-body-text .center-text}
-**Open source resources developed by the Openscapes community.**
+<!-- **Open source resources developed by the Openscapes community.** -->
+**Explore, remix, and reuse our open source resources, developed by the Openscapes community.**
+
+Looking for some guidance on where to start? *Find yourself, below!*
+
+---
+
 :::
 
 ```{r}
@@ -19,254 +25,121 @@ aliases:
 #| fig-align: "center"
 #| out-width: "10%"
 #| fig-alt: "A green tree with a tall and wide canopy. Only a small amount of the brown trunk is visible."
-knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
+#knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
 ```
 
-See also our [media](media.qmd) for publications, slides, and videos about our work.
+<!--------------------------------------------->
+<!---------------- START row 1 ---------------->
+::: {.grid}
 
-## CHAMPIONS LESSON SERIES
+<!---------------- START NASA ---------------->
+::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
+[I use **NASA Earthdata** and I'm interested in transitioning my workflow to the **cloud**]{.med-sm-text}   
 
-::: yellow-bg
-::: {.medium-body-text .center-text}
-{{< fa book-open title="An open book" >}} Openscapes Champions Lesson Series
+[{{< fa earth-americas title="Planet Earth rotated so that the Americas are visible" >}}]{.large-body-text} 
+
+---
+
+[**NASA Earthdata Cloud Cookbook**](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/) 
+:::
+<!---------------- END NASA ---------------->
+
+<!---------------- START Champions Program ---------------->
+::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
+[I want to revisit or share **Champions Program** resources]{.med-sm-text}   
+
+[{{< fa people-carry-box title="Two people carry a box together" >}}]{.large-body-text} 
+---
+
+[**Openscapes Champions Lesson Series**](https://openscapes.github.io/series)
+:::
+<!---------------- END Champions Program ---------------->
+
+:::
+<!--------------------------------------------->
+<!---------------- END row 1 ------------------>
+
+
+<!--------------------------------------------------------------------->
+<!--------------------------------------------------------------------->
+<!--------------------------------------------------------------------->
+
+
+<!--------------------------------------------->
+<!---------------- START row 2 ---------------->
+::: {.grid}
+
+<!---------------- START Approach Guide ---------------->
+::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
+[I want to adapt or reuse **Openscapes' facilitation approach** and style]{.med-sm-text}   
+
+[{{< fa person-chalkboard title="A person standing in front of and pointing at a chalkboard" >}}]{.large-body-text} 
+
+---
+
+[**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/)
+:::
+<!---------------- END Approach Guide ---------------->
+
+<!---------------- START RR & Collab ---------------->
+::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
+[I'm looking for **reproducible workflow** or **collaborative documentation** tutorials]{.med-sm-text}   
+
+[{{< fa laptop-code title="An open laptop computer with the code symbol, </>, on the screen" >}}]{.large-body-text} 
+---
+
+[**R for Excel Users**](https://rstudio-conf-2020.github.io/r-for-excel)  
+[**Making sharable documents with Quarto**](https://openscapes.github.io/quarto-website-tutorial/)
+:::
+<!---------------- END RR & Collab ---------------->
+
+:::
+<!--------------------------------------------->
+<!---------------- END row 2 ------------------>
+
+<!--------------------------------------------------------------------->
+<!--------------------------------------------------------------------->
+<!--------------------------------------------------------------------->
+
+
+<!--------------------------------------------->
+<!---------------- START row 3 ---------------->
+::: {.grid}
+
+<!---------------- START Approach Guide ---------------->
+::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
+[I'm looking for **NOAA Fisheries**-specific guidelines]{.med-sm-text}   
+
+[{{< fa fish title="A fish" >}}]{.large-body-text} 
+
+---
+
+[**NOAA Fisheries Openscapes**](https://nmfs-openscapes.github.io/)
+:::
+<!---------------- END Approach Guide ---------------->
+
+<!---------------- START CA Water ---------------->
+::: {.g-col-12 .g-col-md-6 .resource-box .center-text}
+[I'm looking for **California Water Board**-specific guidelines]{.med-sm-text} 
+
+[{{< fa water title="Water waves" >}}]{.large-body-text} 
+---
+
+[**California Water Boards Openscapes**](https://cawaterboarddatacenter.github.io/swrcb-openscapes/) 
+:::
+<!---------------- END CA Water ---------------->
+
 :::
 
-::: center-text
-The [**Openscapes Champions Lesson Series**](https://openscapes.github.io/series) is our open source curriculum we use to teach Champions Cohorts, and you can use it too.
-
-Learn more on the [**Champions Program webpage**](champions_program.qmd), and read about the experiences of our past and current Champions cohorts on our [**blog**](blog.qmd#category=champions).
-
-*Cite as: Lowndes & Robinson (2022). Openscapes Champions Lesson Series (2022.12). Zenodo. <https://doi.org/10.5281/zenodo.7407247>*
-:::
-:::
+<!--------------------------------------------->
+<!---------------- END row 3 ------------------>
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "10%"
-#| fig-alt: "A California condor soaring above so that we are viewing it's underside. It has a reddish head, black body, and black and white wings."
-knitr::include_graphics("images/minis/horst_openscapes_grassland_condor.png")
-```
-
-<br>
-
-## NASA EARTHDATA CLOUD COOKBOOK
-
-::: yellow-bg
-::: {.medium-body-text .center-text}
-{{< fa book-open title="An open book" >}} NASA Earthdata Cloud Cookbook
+::: {.med-sm-text .center-text}
+See also our **[media](media.qmd)** for publications, slides, and videos about our work.
 :::
 
-::: center-text
-The [**NASA Earthdata Cloud Cookbook**](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/) is a collection of common tutorials co-created and co-taught by NASA Openscapes Mentors, and it is an open source curriculum you can use too!
-
-Learn more on the [**NASA Openscapes website**](https://nasa-openscapes.github.io/), and read about the experiences of our past and current NASA Openscapes work on our [**blog**](blog.qmd#category=nasa-framework).
-
-*Cite as: NASA Openscapes Mentors, Robinson, Lowndes (2023). NASA EarthData Cloud Cookbook (v2023.03). Zenodo. <https://doi.org/10.5281/zenodo.7786711>*
 :::
 :::
 
-<br>
-
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "10%"
-#| fig-alt: "An orange fox with a fluffy white-tipped tail and white chin, facing right."
-knitr::include_graphics("images/minis/horst_openscapes_grassland_fox.png")
-```
-
-<br>
-
-## OPENSCAPES APPROACH GUIDE
-
-::: yellow-bg
-::: {.medium-body-text .center-text}
-{{< fa book-open title="An open book" >}} Openscapes Approach Guide
-:::
-
-::: center-text
-The [**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/) is our "lab manual", an attempt to codify our approach to onboard ourselves and new team members to how we work. It is an open source resource you can use too.
-
-*Cite as: Openscapes Core Team, Butland, Robinson, Lowndes. (2023). Openscapes Approach Guide (v2023.06). Zenodo. [https://doi.org/10.5281/zenodo.8034313](https://doi.org/10.5281/zenodo.8034313)*
-:::
-:::
-
-<br>
-
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "10%"
-#| fig-alt: "A brown deer with small antlers, facing left."
-knitr::include_graphics("images/minis/horst_openscapes_grassland_deer.png")
-```
-
-<br>
-
-## NOAA FISHERIES OPENSCI RESOURCE BOOK
-
-::: yellow-bg
-::: {.medium-body-text .center-text}
-{{< fa book-open title="An open book" >}} NOAA FISHERIES RESOURCE BOOK
-
-::: center-text
-[**NOAA Fisheries Openscapes**](https://nmfs-openscapes.github.io/) \| [Resource Book](https://nmfs-opensci.github.io/ResourceBook/) \| [blog posts](blog.qmd#category=noaa-fisheries)
-:::
-:::
-:::
-
-<br>
-
-## CALIFORNIA WATER BOARDS OPENSCAPES
-
-::: yellow-bg
-::: {.medium-body-text .center-text}
-{{< fa book-open title="An open book" >}} California Water Boards Resource Book
-:::
-
-::: center-text
-[**California Water Boards Openscapes**](https://cawaterboarddatacenter.github.io/swrcb-openscapes/) \| [blog post](blog/2022-12-02-swrcb-2022/index.qmd)
-:::
-:::
-
-<br>
-
-## HELLO QUARTO
-
-Our work with NASA and Posit (formerly RStudio) led us to keynote the global launch of Quarto in 2022 (Cetinkaya-Rundel & Lowndes). NASA Openscapes was the first Quarto external users.
-
-::: yellow-bg
-::: {.medium-body-text .center-text}
-{{< fa book-open title="An open book" >}} Making shareable documents with Quarto
-:::
-
-::: center-text
-[**Making shareable documents with Quarto**](https://openscapes.github.io/quarto-website-tutorial/) \| [keynote slides](https://mine.quarto.pub/hello-quarto) \| [keynote video](https://www.youtube.com/watch?v=p7Hxu4coDl8) \| [keynote blog](https://www.openscapes.org/blog/2022/08/10/quarto-keynote/)
-:::
-:::
-
-<br>
-
-## R FOR EXCEL USERS
-
--   [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel) Lowndes & Horst 2020
-:::
-:::
-
-```{=html}
-<!---
-We recommend using R with RStudio, which not only provides a supportive infrastructure but enables direct connection to GitHub.com (i.e. without additional software or use of the command line). Further, workflows with RStudio's tidyverse & friends and with RMarkdown create good practices for collaborative, reproducible workflows.
-
-See also [So you want to learn R?](blog/2018-12-17-want-to-learn-r/index.qmd)
-
--   [Big Book of R](https://www.bigbookofr.com/index.html) --- Oscar Baruffa, combines \> 200 publically available books, tutorials, and workshops about R
--   [UO R Psych Bootcamp](https://uopsych-r-bootcamp-2020.netlify.app/) --- Branden Cullen, University of Oregon
--   [Reproducible Research Data and Project Management in R](https://annakrystalli.me/rrresearchACCE20/) - Dr. Anna Krystalli
--   [Resources for R and data science](http://ohi-science.org/news/Resources-for-R-and-Data-Science)
--   [The importance of open data science tools in science: a list of references](http://ohi-science.org/news/importance-of-open-data-science-tools)
-
-
-## QUARTER/SEMESTER-LONG COURSES
-
-Teaching official university courses is a great idea! These are a few examples of course materials that you can reuse as-is or adapt for your own context --- many are environmental science focused. From our experience, we don't recommend mix-and-matching between resources --- especially if this is your first time teaching. This is because there is logic and cadence to each one and trying to combine them can result in reinventing more wheels than intended. Instead, we recommend finding one that best suits you (based on length, content, or audience) and potentially adapting it to your needs.
-
--   [STAT 545: Data wrangling, exploration, and analysis with R](https://stat545.com/) by Dr. Jenny Bryan, University of British Columbia 
--   [Introduction to Statistics and Data Analysis in Environmental Science and Management](https://github.com/allisonhorst/esm-206-2018) by Dr. Allison Horst, University of California Santa Barbara  The first 5 weeks of Allison Horst's intro course uses environmental science examples for data wrangling; SC NOTE: original link pointed to allison's personal website, which does not currently have links to her Bren course materials -- added github repos for ESM 206 & 244 instead 
--   [Advanced Data Analysis](https://github.com/allisonhorst/esm-244-2019) by Dr. Allison Horst, University of California, Santa Barbara
--   [Reproducible quantative methods](https://cbahlai.github.io/rqm-template/) - Dr. Christie Bahlai, Kent State University
--   [Data carpentry for biologists](https://datacarpentry.org/semester-biology/) --- Dr. Ethan White & Dr. Zachary Brym,
--   [Reproducibility for Data Science](https://canvas.uw.edu/courses/1354201) --- Dr. Ben Marwick, University of Washington <!---https://twitter.com/benmarwick/status/1233340012554383361--->
-```
-````{=html}
-<!---
--   [Data Science: A First Introduction](https://ubc-dsci.github.io/introduction-to-datascience/index.html) --- Dr.Tiffany Timbers et al, University of British Columbia
--   [Super advanced R](https://github.com/super-advanced-r-fall-2019) --- Dr. Dan Ovando, University of Washington
-
-## OPENSCAPES RESOURCES, MEDIA, & PRESENTATIONS
-
-We have focused on openly communicating the process behind our development of Oceanscapes. Here are presentations we have given about Openscapes, and materials for the Openscapes Champions series. They are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/); You are welcome to reuse and remix with attrbution.
-
--   [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4) --- Nature Career Column co-authored by Openscapes Champions
--   [Media & Presentations](media.qmd) --- media and slides about Openscapes for various audiences
--   [Champions Lesson Series](https://openscapes.github.io/series/) --- lesson book for the Champions program, with links to slides and course agendas
-:::
-:::
-
-**This curated list of resources is meant to welcome environmental scientists who are interested in engaging with the open data science movement.**
-:::
-
-::: {.center-text}
-This R-focused list is not meant to be comprehensive of all the incredible resources available; it represents a selection of material immediately useful to scientists we have worked with. It is an evolving effort and Openscapes resources are also listed below.
-:::
-
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "10%"
-#| fig-alt: "A green tree with a tall and wide canopy. Only a small amount of the brown trunk is visible."
-knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
-```
-
-## WORKING COLLABORATIVELY, OPENLY, & EFFICIENTLY
-
-Thinking deliberately about data and embracing existing open tools and workflows for science increases efficiency, broadens the scientific questions that can be asked, introduces a network of online allies outside scientific domains, and makes it easier to ask for help.
-
-For example, the Ocean Health Index describes how open software and borrowing practices from software engineers was game-changing for collaborative coding and communication.
-
-- [Our path to better science in less time using open data science tools — *Lowndes et al. 2017 Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-017-0160)
-- [Data-intensive ecological research is catalyzed by open science and team science - *Cheruvelil & Soranno 2018 BioScience*](https://academic.oup.com/bioscience/article/68/10/813/5088531)
-- [Skills and knowledge for data-intensive environmental research - *Hampton et al. 2017 BioScience*](https://dx.doi.org/10.1093%2Fbiosci%2Fbix025)
-- [Creating and maintaining high‐performing collaborative research teams: the importance of diversity and interpersonal skills — *Cheruvelil et al. 2014 Frontiers in Ecology & the Environment*](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/130001)
-
-
-## JOINING & BUILDING LEARNING COMMUNITIES
-
-Learning to code should be fun since you are learning powerful and empowering tools that will be game-changing for your science. So learn with friends, and grow your community. 
-
-- [Start a coding club](blog/2018-11-16-start-coding-club/index.qmd)
-- [Build communities locally](blog/2018-11-06-build-communities/index.qmd)
-- [Starting our #tidytuesday hacky hours](blog/2019-05-02-tidy-tuesday-coding-club/index.qmd)
-
-## R WITH RSTUDIO & GITHUB
-
-We recommend using R with RStudio, which not only provides a supportive infrastructure but enables direct connection to GitHub.com (i.e. without additional software or use of the command line). Further, workflows with RStudio's tidyverse & friends and with RMarkdown create good practices for collaborative, reproducible workflows.
-
-- [So you want to learn R?](blog/2018-12-17-want-to-learn-r/index.qmd)
-- [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel) — Lowndes & Horst 2020
-- [Big Book of R](https://www.bigbookofr.com/index.html) — Oscar Baruffa, combines > 200 publically available books, tutorials, and workshops about R
-- [UO R Psych Bootcamp](https://uopsych-r-bootcamp-2020.netlify.app/) — Branden Cullen, University of Oregon
-- [Reproducible Research Data and Project Management in R](https://annakrystalli.me/rrresearchACCE20/) - Dr. Anna Krystalli
-- [Resources for R and data science](http://ohi-science.org/news/Resources-for-R-and-Data-Science)
-- [The importance of open data science tools in science: a list of references](http://ohi-science.org/news/importance-of-open-data-science-tools)
-
-## QUARTER/SEMESTER-LONG COURSES
-
-Teaching official university courses is a great idea! These are a few examples of course materials that you can reuse as-is or adapt for your own context — many are environmental science focused. From our experience, we don't recommend mix-and-matching between resources — especially if this is your first time teaching. This is because there is logic and cadence to each one and trying to combine them can result in reinventing more wheels than intended. Instead, we recommend finding one that best suits you (based on length, content, or audience) and potentially adapting it to your needs. 
-
-- [STAT 545: Data wrangling, exploration, and analysis with R](https://stat545.com/) by Dr. Jenny Bryan, University of British Columbia 
-- [Introduction to Statistics and Data Analysis in Environmental Science and Management](https://github.com/allisonhorst/esm-206-2018) by Dr. Allison Horst, University of California Santa Barbara Note: The first 5 weeks of Allison Horst's intro course uses environmental science examples for data wrangling; SC NOTE: original link pointed to allison's personal website, which does not currently have links to her Bren course materials -- added github repos for ESM 206 & 244 instead 
-- [Advanced Data Analysis](https://github.com/allisonhorst/esm-244-2019) by Dr. Allison Horst, University of California, Santa Barbara
-- [Reproducible quantative methods](https://cbahlai.github.io/rqm-template/) - Dr. Christie Bahlai, Kent State University
-- [Data carpentry for biologists](https://datacarpentry.org/semester-biology/) — Dr. Ethan White & Dr. Zachary Brym, 
-- [Reproducibility for Data Science](https://canvas.uw.edu/courses/1354201) — Dr. Ben Marwick, University of Washington
-<!---https://twitter.com/benmarwick/status/1233340012554383361--->
-````
-
-```{=html}
-<!---
--   [Data Science: A First Introduction](https://ubc-dsci.github.io/introduction-to-datascience/index.html) --- Dr.Tiffany Timbers et al, University of British Columbia
--   [Super advanced R](https://github.com/super-advanced-r-fall-2019) --- Dr. Dan Ovando, University of Washington
-
-## OPENSCAPES RESOURCES, MEDIA, & PRESENTATIONS
-
-We have focused on openly communicating the process behind our development of Oceanscapes. Here are presentations we have given about Openscapes, and materials for the Openscapes Champions series. They are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/); You are welcome to reuse and remix with attrbution.
-
--   [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4) --- Nature Career Column co-authored by Openscapes Champions
--   [Media & Presentations](media.qmd) --- media and slides about Openscapes for various audiences
--   [Champions Lesson Series](https://openscapes.github.io/series/) --- lesson book for the Champions program, with links to slides and course agendas
-
---->
-```

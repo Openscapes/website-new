@@ -5,7 +5,6 @@ date: 2021-10-04
 slug: faseb-dataworks-salon
 categories:
   # - community
-  - how-we-work
 image: ../../img/blog/faseb.png
 aliases: 
   - https://www.openscapes.org/blog/2021/10/04/faseb-dataworks-salon/

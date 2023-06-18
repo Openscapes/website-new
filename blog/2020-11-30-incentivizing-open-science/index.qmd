@@ -7,7 +7,6 @@ categories:
   # - community
   - champions
   # - impact
-  - art
 image: ../../img/blog/NASEM-square.png
 aliases: 
   - https://www.openscapes.org/blog/2020/11/30/incentivizing-open-science/

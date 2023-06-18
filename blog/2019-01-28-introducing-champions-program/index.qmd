@@ -5,7 +5,6 @@ date: 2019-01-28
 slug: champions-program
 categories:
   - champions
-  - medium.com
 image: ../../img/blog/mrlowndes_150127-7169-Edit.jpg 
 aliases: 
   - https://www.openscapes.org/blog/2019/01/28/introducing-champions-program/

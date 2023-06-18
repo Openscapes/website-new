@@ -6,7 +6,6 @@ slug: introducing-openscapes
 categories:
   # - community
   - champions
-  - medium.com
   # - impact
 image: ../../img/blog/mrlowndes20131007-131005-7311_520x480.jpg
 aliases: 

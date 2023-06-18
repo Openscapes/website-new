@@ -8,6 +8,7 @@ categories:
   # - how-to
   - quarto
   - conference
+  - art
 image: ../../img/blog/horst_collaborate_penguins_telescope_square.png
 aliases: 
   - https://www.openscapes.org/blog/2022/08/10/quarto-keynote/

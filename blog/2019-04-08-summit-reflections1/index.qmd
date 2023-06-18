@@ -7,7 +7,6 @@ categories:
   - champions
   # - community
   # - impact
-  - medium.com  
 image: ../../img/blog/summit/openscapes-pillows-solo.jpg 
 aliases: 
   - https://www.openscapes.org/blog/2019/04/08/summit-reflections1/

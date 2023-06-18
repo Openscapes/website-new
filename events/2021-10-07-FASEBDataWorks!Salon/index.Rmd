@@ -7,7 +7,7 @@ author:
     url: {}
 date: 2021-10-07
 categories: 
-  - community
+  - talk
 image: "faseb.png"
 ---
 

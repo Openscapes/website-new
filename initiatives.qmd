@@ -35,7 +35,7 @@ Our initiatives are all remote-by-design, for researchers and those who support 
 
 **Openscapes Champions is an open data science mentorship program for science teams.** It is a multi-month program that is designed to ignite incremental and sustainable change within research teams and beyond. It helps teams get their own work done, while building skills and community within the realities of scientists' busy schedules, varying expertise and needs.
 
-This is our flagship program, and from 2019-2022 we have led 18 cohorts. We work with partners to coordinate cohorts of ~7 research teams. 
+This is our flagship program, and from 2019-2022 we have led 18 cohorts. We work with partners to coordinate cohorts of 5 to 7 research teams. 
 
 ::: {.yellow-bg}
 ::: {.medium-body-text .center-text}
@@ -95,7 +95,7 @@ knitr::include_graphics("images/logo/nasa-openscapes.png")
 
 <!---The Framework involves connecting open leaders with each other and leadership and includes regular peer-learning meetings and formal skillbuilding in teaching and coaching. --->
 
-We began developing the Mentors Framework in 2021 through NASA Openscapes ([Robinson & Lowndes 2022](https://eartharxiv.org/repository/view/4560/)) and emphasize amplifying open leaders through the Flywheel. We have also been growing the Mentors Framework with NOAA Fisheries, the California Water Boards, and Pathways to Open Science teams and excited to expand what we are learning with other groups.
+We began developing the Mentors Framework in 2021 through NASA Openscapes. We have also been growing the Mentors Framework with NOAA Fisheries, the California Water Boards, and Pathways to Open Science teams and are excited to expand what we are learning with other groups.
 
 
 ::: {.yellow-bg}
@@ -129,7 +129,7 @@ knitr::include_graphics("images/minis/horst_openscapes_desert_cactus.png")
 
 ## PATHWAYS TO OPEN SCIENCE PROGRAM
 
-**Pathways to Open Science is an event series for Black environmental & marine researchers.** It is led by [Ileana Fenwick](https://twitter.com/_ileanaf) of Openscapes in partnership with [Black in Marine Science (BIMS)](https://www.blackinmarinescience.org/) and [Black Women in Ecology, Evolution, and Marine Science (BWEEMS)](https://www.bweems.org/), focused on building community for the future of data intensive science.
+**Pathways to Open Science is an event series for Black environmental & marine researchers.** It is led by [Ileana Fenwick](team.qmd) of Openscapes in partnership with [Black in Marine Science (BIMS)](https://www.blackinmarinescience.org/) and [Black Women in Ecology, Evolution, and Marine Science (BWEEMS)](https://www.bweems.org/), focused on building community for the future of data-intensive science.
 
 We launched this program in 2023 and plan to lead it annually in January-March.
 

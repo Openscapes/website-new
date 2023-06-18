@@ -7,8 +7,7 @@ categories:
   # - community
   - champions
   # - impact
-  - case-study
-  - study-group
+  - how-we-work
 image: ../../img/blog/tweet-thefaylab-zoom-meeting-square.jpeg
 aliases: 
   - https://www.openscapes.org/blog/2020/03/31/faylab-our-openscapes-experience/

@@ -82,7 +82,7 @@ blockquote { // style blockquotes (for speech bubbles)
 }
 
 .large-body-text { // large-sized text
-  font-size: 50px;
+  font-size: 35px;
 }
 
 .medium-body-text { // medium-sized text
@@ -166,9 +166,20 @@ blockquote { // style blockquotes (for speech bubbles)
   //margin: 8%;//10px;
 }
 
-.yellow-bg { // yellow background color 
+.yellow-box { // yellow background color 
   background-color: $light-yellow;
-  width: 100%;
+  width: 75%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 8px;
+  border-radius: 15px;
+  margin: auto;
+}
+
+.yellow-small-box { // yellow background color 
+  background-color: $light-yellow;
+  width: 50%;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-right: 5px;

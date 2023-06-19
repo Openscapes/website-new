@@ -12,8 +12,6 @@ title: ""
 **We offer mentorship that builds technical and collaborative skills<br>for teams and organizations.**
 :::
 
----
-
 <br>
 
 ```{r}
@@ -37,7 +35,7 @@ Our initiatives are all remote-by-design, for researchers and those who support 
 
 This is our flagship program, and from 2019-2022 we have led 18 cohorts. We work with partners to coordinate cohorts of 5 to 7 research teams. 
 
-::: {.yellow-bg}
+::: {.yellow-box}
 ::: {.medium-body-text .center-text}
 {{< fa book-open title="An open book" >}} Openscapes Champions Lesson Series
 :::
@@ -47,7 +45,6 @@ The [**Openscapes Champions Lesson Series**](https://openscapes.github.io/series
 Learn more on the [**Champions Program webpage**](champions-program.qmd), and read about the experiences of our past and current Champions cohorts on our [**blog**](blog.qmd#category=champions).
 :::
 :::
-
 
 <br>
 
@@ -66,7 +63,7 @@ knitr::include_graphics("images/minis/horst_openscapes_desert_snake.png")
 
 We began in 2021, and currently working with Mentors from 7 of the 12 NASA Earth science data centers.
 
-::: {.yellow-bg}
+::: {.yellow-box}
 ::: {.medium-body-text .center-text}
 {{< fa book-open title="An open book" >}} NASA Earthdata Cloud Cookbook
 :::
@@ -98,7 +95,7 @@ knitr::include_graphics("images/logo/nasa-openscapes.png")
 We began developing the Mentors Framework in 2021 through NASA Openscapes. We have also been growing the Mentors Framework with NOAA Fisheries, the California Water Boards, and Pathways to Open Science teams and are excited to expand what we are learning with other groups.
 
 
-::: {.yellow-bg}
+::: {.yellow-box}
 ::: {.medium-body-text .center-text}
 {{< fa book-open title="An open book" >}} Mentors Framework Open Source Resources
 :::
@@ -133,7 +130,7 @@ knitr::include_graphics("images/minis/horst_openscapes_desert_cactus.png")
 
 We launched this program in 2023 and plan to lead it annually in January-March.
 
-::: {.yellow-bg}
+::: {.yellow-box}
 ::: {.medium-body-text .center-text}
 {{< fa book-open title="An open book" >}} Pathways to Open Science Program Open Source Resources
 :::
@@ -158,7 +155,7 @@ knitr::include_graphics("images/minis/horst_openscapes_desert_roadrunner.png")
 
 We launched this program in 2023 and plan to lead it annually in May!
 
-::: {.yellow-bg}
+::: {.yellow-box}
 ::: {.medium-body-text .center-text}
 {{< fa book-open title="An open book" >}} Reflections Program Booklet
 :::
@@ -166,6 +163,8 @@ We launched this program in 2023 and plan to lead it annually in May!
 Learn more in the [**Openscapes Reflections Booklet**](https://openscapes.github.io/booklet/), which introduces prompts to guide your reflections.
 :::
 :::
+
+<br>
 
 ```{r}
 #| echo: false

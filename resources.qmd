@@ -136,7 +136,14 @@ Looking for some guidance on where to start? *Find yourself, below!*
 
 <br>
 
-::: {.med-sm-text .center-text}
+::: {.yellow-box .med-sm-text .center-text}
+::: {.large-body-text .center-text}
+{{< fa book-open title="An open book" >}} Looking for more?
+:::
+***The resources above are just the start!***
+
+Explore our [**initiatives page**](initiatives.qmd) for detailed information about all Openscapes programs and associated open source curriculum, blog posts, and products.
+
 See also our **[media](media.qmd)** for publications, slides, and videos about our work.
 :::
 

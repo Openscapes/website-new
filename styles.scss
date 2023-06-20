@@ -62,6 +62,14 @@ blockquote { // style blockquotes (for speech bubbles)
     background-color: $light-blue;
 }
 
+.nav-link.dropdown-toggle.show{ // highlights dropdown navbar item while user is selecting a submenu item (https://stackoverflow.com/questions/70871365/higlight-opened-dropdown-menu-on-bootstrap-5-navbar)
+    background: $light-blue;
+}
+
+a.Header-nav-folder-item--active {
+    border-bottom: 1px solid $blue;
+}
+
 // openscapes logo size/position (navbar top left); see https://github.com/robertmitchellv/robertmitchellv.github.io/blob/main/custom-dark.scss
 .navbar-brand img { 
   max-height: 70px; // was 200px when using alt logo (from blogdown site)

@@ -60,6 +60,7 @@ In your next presentations and publications, include a slide or sentence about o
 As you plan department seminar series, conferences, or webinar series, consider inviting Openscapes or others from the open data science community as a speaker!
 --->
 
+<br>
 
 :::
 :::

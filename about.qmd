@@ -69,7 +69,7 @@ knitr::include_graphics("images/minis/horst_openscapes_arctic_narwhal.png")
 
 Openscapes is committed to providing a welcoming, safe, inclusive, and harassment-free experience for everyone.
 
-We expect all participants to adhere to our [Code of Conduct](code_of_conduct.qmd), which was influenced and adapted from [rOpenSci](https://ropensci.org/code-of-conduct/) and [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+We expect all participants to adhere to our [Code of Conduct](code-of-conduct.qmd), which was influenced and adapted from [rOpenSci](https://ropensci.org/code-of-conduct/) and [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/).
 
 <br>
 
@@ -103,7 +103,7 @@ knitr::include_graphics("images/logo/openscapes_hex_design_final_correct_dimensi
 ::: {.white-div}
 ## OUR FUNDING
 
-We are funded through grants and contracts with our partners, which supports investment in [our flywheel](about.qmd#openscapes-flywheel) to iterate our [initiatives](initiatives.qmd) and share stories through [blogs](blog.qmd) and [media](media.qmd). We are grateful for our funding partners and the broader open community that supports tooling, people, and communities. 
+We are funded through grants and contracts with our partners, which supports investment in [our flywheel](approach.qmd#openscapes-flywheel) to iterate our [initiatives](initiatives.qmd) and share stories through [blogs](blog.qmd) and [media](media.qmd). We are grateful for our funding partners and the broader open community that supports tooling, people, and communities. 
 
 Openscapes launched through funding from [Mozilla](https://www.mozilla.org/), via an Open Science Fellowship awarded to Julia Stewart Lowndes. <!---Mozilla also sponsored the [first Champions Cohort](events/2019-01-21-inaugural/index.Rmd) for seven academic science teams. ---> Openscapes grew with funding from [NASA Earthdata](https://www.earthdata.nasa.gov/), via decades-long community building leadership by Erin Robinson. Early funders also include the [Gordon and Betty Moore Foundation](https://www.moore.org/), who supported us to develop a strategic growth plan, and [Code for Science and Society](https://eventfund.codeforscience.org/), who supported us to improve daily practices for how we work and teach to more bravely align with our values for diversity, equity, inclusion, and belonging. 
 

@@ -81,6 +81,10 @@ blockquote { // style blockquotes (for speech bubbles)
   text-decoration-thickness: 4px;
 }
 
+.large-stat-num { // largest-sized text (used for stat box numbers on landing page)
+  font-size: 50px;
+}
+
 .large-body-text { // large-sized text
   font-size: 35px;
 }
@@ -89,7 +93,7 @@ blockquote { // style blockquotes (for speech bubbles)
   font-size: 25px;
 }
 
-.med-sm-text { // medium/small text
+.med-sm-body-text { // medium/small-sized text
   font-size: 20px;
 }
 
@@ -158,36 +162,18 @@ blockquote { // style blockquotes (for speech bubbles)
   border-radius: 8px;
 }
 
-.speech-bubble-headshot-box { 
-  width: 85%;//300px;
-  background-color: transparent;
-  border: 6px solid transparent;
-  padding: 5%;//15px;
-  //margin: 8%;//10px;
-}
-
 .yellow-box { // yellow background color 
   background-color: $light-yellow;
   width: 75%;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-right: 5px;
-  padding-left: 8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
   border-radius: 15px;
   margin: auto;
 }
 
-.yellow-small-box { // yellow background color 
-  background-color: $light-yellow;
-  width: 50%;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-right: 5px;
-  padding-left: 8px;
-  border-radius: 15px;
-}
-
-// SPEECH BUBBLES, created using https://projects.verou.me/bubbly/
+/* SPEECH BUBBLES, created using https://projects.verou.me/bubbly/ */
 
 .speech-bubble-bottom-left { // creates box
 	position: relative;

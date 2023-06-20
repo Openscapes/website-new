@@ -10,7 +10,7 @@ aliases:
 <br>
 
 ::: {.white-div}
-::: {.medium-body-text .bold700 .center-text}
+::: {.medium-body-text .center-text}
 **We believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science and beyond.**
 :::
 
@@ -46,8 +46,6 @@ knitr::include_graphics("images/page_imgs/horst_openscapes_champions.jpg")
 
 <br>
 
-
-
 ## OPENSCAPES FLYWHEEL
 
 **Our approach for movement building and sustainability is underpinned by our Flywheel** ([Robinson & Lowndes 2022](https://eartharxiv.org/repository/view/4560/)). The Flywheel concept was developed by [Jim Collins](https://www.jimcollins.com/) in the book Good to Great. No matter how dramatic the end result, building something to last never happens in one fell swoop. Rather, the process resembles relentlessly pushing a giant, heavy flywheel, turn upon turn, building momentum. It is never one big thing, it is many little things reinforced over time. Our Flywheel drives how we work on a daily basis and how we plan for years to come.
@@ -73,9 +71,7 @@ knitr::include_graphics("images/diagrams/openscapes-flywheel-v2023.06.png")
 
 <br>
 
-
-
-::: {.yellow-bg }
+::: {.yellow-box}
 ::: {.medium-body-text .center-text}
 {{< fa book-open title="An open book" >}} Openscapes Approach Guide
 :::
@@ -95,7 +91,6 @@ We mentor teams to better tackle their questions by strengthening shared practic
 
 <!---As teams identify their focus and the people involved (blue), we provide mentorship and scaffolding around open data science practices (green), which are underpinned by existing community-developed tools (orange).--->
 
-
 ```{r}
 #| echo: false
 #| fig-align: "center"
@@ -104,20 +99,13 @@ We mentor teams to better tackle their questions by strengthening shared practic
 knitr::include_graphics("images/diagrams/horst_pew_tools_practice_mindset.jpg")
 ```
 
-
 Our [our theory of change](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsku45HW-vQCPaVARXIo7a18KHdYxwn_0vk2QdNP5RZ7kUxNyqD466NYiagxZtyqoabXAilK32U5yx/pubhtml?gid=365554279&single=true) is that by engaging, empowering, and amplifying research teams with open habits and mindsets for data-intensive science, they become leaders in the open science movement and have more enduring scientific impact while also creating a kinder, more inclusive scientific culture.
 
-
 <br>
-
-
-
 
 <!---
 In mentoring research teams, we are interested in evaluating and understanding which open data science tools are adopted, who participates, and how questions and mindsets shift. Our hypothesis is that adoption of open data science tools will lead to robust, data-driven outcomes; that participation in open data science practices will lead to deeper inclusion and belonging; and that shifting mindsets and questions asked will lead to enduring partnerships and expanded questions. We define open data science as the tools and practices enabling reproducible, transparent, and inclusive data-driven research.
-
 --->
 
-<br>
 :::
 :::

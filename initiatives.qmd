@@ -12,8 +12,6 @@ title: ""
 **We offer mentorship that builds technical and collaborative skills<br>for teams and organizations.**
 :::
 
----
-
 <br>
 
 ```{r}
@@ -37,9 +35,9 @@ Our initiatives are all remote-by-design, for researchers and those who support 
 
 This is our flagship program, and from 2019-2022 we have led 18 cohorts. We work with partners to coordinate cohorts of 5 to 7 research teams. 
 
-::: {.yellow-bg}
+::: {.yellow-box}
 ::: {.medium-body-text .center-text}
-{{< fa book-open title="An open book" >}} Openscapes Champions Lesson Series
+{{< fa book-open title="An open book" >}} Champions Program Resources <!-- Openscapes Champions Lesson Series -->
 :::
 ::: {.center-text}
 The [**Openscapes Champions Lesson Series**](https://openscapes.github.io/series) is our open source curriculum we use to teach Champions Cohorts, and you can use it too.
@@ -47,7 +45,6 @@ The [**Openscapes Champions Lesson Series**](https://openscapes.github.io/series
 Learn more on the [**Champions Program webpage**](champions-program.qmd), and read about the experiences of our past and current Champions cohorts on our [**blog**](blog.qmd#category=champions).
 :::
 :::
-
 
 <br>
 
@@ -61,14 +58,13 @@ knitr::include_graphics("images/minis/horst_openscapes_desert_snake.png")
 
 ## NASA OPENSCAPES
 
-
 **NASA Openscapes is a multi-year effort to develop a mentor community across NASA Earth science data centers to support researchers as they migrate analytical workflows to the Cloud**. We approach this work as movement building, using the concept where transformations occur from relentlessly pushing a giant, heavy flywheel that builds momentum over time.
 
 We began in 2021, and currently working with Mentors from 7 of the 12 NASA Earth science data centers.
 
-::: {.yellow-bg}
+::: {.yellow-box}
 ::: {.medium-body-text .center-text}
-{{< fa book-open title="An open book" >}} NASA Earthdata Cloud Cookbook
+{{< fa book-open title="An open book" >}} NASA Openscapes Resources <!-- NASA Earthdata Cloud Cookbook -->
 :::
 ::: {.center-text}
 
@@ -98,9 +94,9 @@ knitr::include_graphics("images/logo/nasa-openscapes.png")
 We began developing the Mentors Framework in 2021 through NASA Openscapes. We have also been growing the Mentors Framework with NOAA Fisheries, the California Water Boards, and Pathways to Open Science teams and are excited to expand what we are learning with other groups.
 
 
-::: {.yellow-bg}
+::: {.yellow-box}
 ::: {.medium-body-text .center-text}
-{{< fa book-open title="An open book" >}} Mentors Framework Open Source Resources
+{{< fa book-open title="An open book" >}} Mentors Framework Resources <!-- Mentors Framework Open Source Resources -->
 :::
 ::: {.center-text}
 Learn more about the teams who have adopted the Mentors Framework and explore their open work and books:
@@ -133,9 +129,9 @@ knitr::include_graphics("images/minis/horst_openscapes_desert_cactus.png")
 
 We launched this program in 2023 and plan to lead it annually in January-March.
 
-::: {.yellow-bg}
+::: {.yellow-box}
 ::: {.medium-body-text .center-text}
-{{< fa book-open title="An open book" >}} Pathways to Open Science Program Open Source Resources
+{{< fa book-open title="An open book" >}} Pathways to Open Science Program Resources <!-- Pathways to Open Science Program Open Source Resources -->
 :::
 ::: {.center-text}
 Learn more on the [**Pathways to Open Science Program webpage**](https://openscapes.github.io/pathways-to-open-science/), and read about experiences on our [**blog**](blog.qmd##category=pathways).
@@ -158,14 +154,16 @@ knitr::include_graphics("images/minis/horst_openscapes_desert_roadrunner.png")
 
 We launched this program in 2023 and plan to lead it annually in May!
 
-::: {.yellow-bg}
+::: {.yellow-box}
 ::: {.medium-body-text .center-text}
-{{< fa book-open title="An open book" >}} Reflections Program Booklet
+{{< fa book-open title="An open book" >}} Reflections Program Resources<!-- Booklet -->
 :::
 ::: {.center-text}
 Learn more in the [**Openscapes Reflections Booklet**](https://openscapes.github.io/booklet/), which introduces prompts to guide your reflections.
 :::
 :::
+
+<br>
 
 ```{r}
 #| echo: false

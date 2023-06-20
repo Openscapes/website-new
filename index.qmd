@@ -46,6 +46,7 @@ listing:
 ::: {.center-text}
 ::: {.grid}
 
+<!----------- START Engage column ----------->
 ::: {.g-col-12 .g-col-md-4} 
 ::: {.large-body-text .blue-text}
 {{< fa users title="Three people" >}}
@@ -57,7 +58,9 @@ listing:
 **We welcome, and create space & place.** We engage researchers who want to work better and collaborate through empathy, art, storytelling, and technology.
 :::
 :::
+<!----------- END Engage column ----------->
 
+<!----------- START Empower column ----------->
 ::: {.g-col-12 .g-col-md-4} 
 ::: {.large-body-text .blue-text}
 {{< fa lightbulb title="A lightbult" >}}
@@ -69,7 +72,9 @@ listing:
 **We invest in learning & trust, and work openly.** We empower researchers by growing their confidence and abilities as they put what they learn into practice quickly. 
 :::
 :::
+<!----------- END Empower column ----------->
 
+<!----------- START Amplify column ----------->
 ::: {.g-col-12 .g-col-md-4} 
 ::: {.large-body-text .blue-text}
 {{< fa earth-americas title="Planet earth" >}}
@@ -81,6 +86,7 @@ listing:
 **We leverage common workflows & tools, and inspire broader shifts.** We amplify progress through collaboration and reuse, celebrating people and small wins that accumulate.
 :::
 :::
+<!----------- EBD Amplify column ----------->
 
 <br>
 
@@ -106,32 +112,38 @@ listing:
 ::: {.center-text}
 ::: {.grid}
 
+<!----------- START Research Teams box ----------->
 ::: {.g-col-12 .g-col-md-4 .stat-box}
-::: {.large-body-text .blue-text}
+::: {.large-stat-num .blue-text}
 **125**
 :::
-:::{.med-sm-text}
+:::{.med-sm-body-text}
 **Research teams** through the Champions Program
 :::
 :::
+<!----------- END Research Teams box ----------->
 
+<!----------- START Mentors box ----------->
 ::: {.g-col-12 .g-col-md-4 .stat-box}
-::: {.large-body-text .blue-text}
+::: {.large-stat-num .blue-text}
 **40**
 :::
-:::{.med-sm-text}
+:::{.med-sm-body-text}
 **Mentors** onboarded in the Mentors Framework
 :::
 :::
+<!----------- END Mentors box ----------->
 
+<!----------- START Contributors box ----------->
 ::: {.g-col-12 .g-col-md-4 .stat-box}
-::: {.large-body-text .blue-text}
+::: {.large-stat-num .blue-text}
 **22**
 :::
-:::{.med-sm-text}
+:::{.med-sm-body-text}
 **Contributors** to the NASA Earthdata Cloud Cookbook
 :::
 :::
+<!----------- END Contributors box ----------->
 
 :::
 :::
@@ -142,13 +154,19 @@ listing:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ START testimonials ~~~~~~~~~~~~-->
+
+<!----------- START I. Fenwick quote ----------->
 ::: {.speech-bubble-bottom-left}
 > *"Because of Openscapes, I have renewed hope in how **we can bring about a kinder future in science**. I see a commitment in the open science community to bridging the gaps where we’ve left members of our community behind, and it inspires me."*
 :::
 
+<!----------- END I. Fenwick quote ----------->
+
 <br>
 
 ::: {.grid}
+
+<!----------- START I. Fenwick photo (left column) ----------->
 ::: {.g-col-4 .g-col-md-4}
 <img width="60%" src="images/headshots/fenwick_round.png">
 
@@ -156,7 +174,9 @@ listing:
 *University of North Carolina*\
 *2021 Champion, Mentor, and Program Lead*
 :::
+<!----------- END I. Fenwick photo (left column) ----------->
 
+<!----------- START M. Pinsky quote & photo (right column) ----------->
 ::: {.g-col-8 .g-col-md-8}
 
 <br>
@@ -177,6 +197,7 @@ listing:
 
 :::
 :::
+<!----------- END M. Pinsky quote (right column) ----------->
 
 <!-- OTHER QUOTES: -->
 <!-- "Openscapes has created a collaborative environment for DAAC staff to collectively support open science initiatives and develop awesome material to help Earthdata users. Perhaps just as important as what we’ve done however, are mindsets we’ve grown into along the way…We are better at dreaming and implementing the future together." - Cassandra Nickles (NASA Physical Oceanography Distributed Active Archive Center (DAAC)-->
@@ -189,8 +210,6 @@ listing:
 :::
 <!---------------- END growing the open movement section (gray div) ---------------->
 <!---------------------------------------------------------------------------------->
-
-<br>
 
 <!------------------------------------------------------------------------>
 <!---------------- START blog listing section (white div) ---------------->
@@ -225,8 +244,9 @@ Our blog shares stories from the community and documents our learning openly. Se
 
 <br>
 
-::: {.center-text}
-We share our curricula, approach, any many other [open resources](resources.qmd) for reuse.\
+::: {.med-sm-body-text .center-text}
+We share our curricula, approach, any many other [open resources](resources.qmd) for reuse.
+
 Learn more about our [initiatives](initiatives.qmd) through our [media](media.qmd), and [events](events.qmd) and [connect](connect.qmd) with us.
 <br>
 :::

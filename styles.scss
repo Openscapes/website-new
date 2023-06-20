@@ -62,12 +62,9 @@ blockquote { // style blockquotes (for speech bubbles)
     background-color: $light-blue;
 }
 
-.nav-link.dropdown-toggle.show{ // highlights dropdown navbar item while user is selecting a submenu item (https://stackoverflow.com/questions/70871365/higlight-opened-dropdown-menu-on-bootstrap-5-navbar)
+// highlights dropdown navbar item while user is selecting a submenu item (https://stackoverflow.com/questions/70871365/higlight-opened-dropdown-menu-on-bootstrap-5-navbar)
+.nav-link.dropdown-toggle.show{ 
     background: $light-blue;
-}
-
-a.Header-nav-folder-item--active {
-    border-bottom: 1px solid $blue;
 }
 
 // openscapes logo size/position (navbar top left); see https://github.com/robertmitchellv/robertmitchellv.github.io/blob/main/custom-dark.scss
@@ -77,100 +74,117 @@ a.Header-nav-folder-item--active {
   padding-left: 20px;
 }
 
-.card { // udpate blog listing card color on landing page
+// udpate blog listing card color on landing page
+.card { 
   background-color: $light-gray1;
 }
 
 //////////// Class selectors (self-defined) ////////////
 
-.blue-underline { // see https://stackoverflow.com/questions/1734618/how-to-increase-the-gap-between-text-and-underlining-in-css
+// see https://stackoverflow.com/questions/1734618/how-to-increase-the-gap-between-text-and-underlining-in-css
+.blue-underline { 
   text-decoration: underline $blue;
   text-underline-offset: 10px; // https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-offset
   text-decoration-thickness: 4px;
 }
 
-.large-stat-num { // largest-sized text (used for stat box numbers on landing page)
+// largest-sized text (used for stat box numbers on landing page)
+.large-stat-num { 
   font-size: 50px;
 }
 
-.large-body-text { // large-sized text
+// large-sized text
+.large-body-text { 
   font-size: 35px;
 }
 
-.medium-body-text { // medium-sized text
+// medium-sized text
+.medium-body-text { 
   font-size: 25px;
 }
 
-.med-sm-body-text { // medium/small-sized text
+// medium/small-sized text
+.med-sm-body-text { 
   font-size: 20px;
 }
 
-.small-body-text { // small-sized text
+// small-sized text
+.small-body-text { 
   font-size: 15px;
 }
 
-.caption-text { // styled image caption text
+// styled image caption text
+.caption-text { 
   font-size: 15px;
   color: $medium-gray2;
 }
 
-.blue-text { // blue text
+// blue text
+.blue-text { 
   color: $blue;
 }
 
-.medium-gray1-text{ // gray text
+ // gray text
+.medium-gray1-text{
   color: $medium-gray1;
 }
 
-.center-text { // center text
+// center text
+.center-text { 
   text-align: center;
 }
 
-.right-align { // right-align elements
+// right-align elements
+.right-align { 
   text-align: right;
 }
 
-.white-div { // used to create white div 
+// used to create white div 
+.white-div { 
   background-color: $white;
   max-width: 100%;
   height: auto;
   width: auto;
-  padding-top: 1%;//5px; percentages necessary for content to adjust with viewport
-  padding-bottom: 1%;//15px;
-  padding-right: 10%; //160px;
-  padding-left: 10%; //160px;
+  padding-top: 1%; // percentages necessary for content to adjust with viewport
+  padding-bottom: 1%;
+  padding-right: 10%; 
+  padding-left: 10%; 
 }
 
-.light-gray-div { // used to create light gray div on landing page
+// used to create light gray div on landing page
+.light-gray-div { 
   background-color: $light-gray2;
   max-width: 100%;
   height: auto;
   width: auto;
-  padding-top: 1%;//15px;
-  padding-bottom: 1%;//15px;
-  padding-right: 10%; //160px;
-  padding-left: 10%; //160px;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 10%; 
+  padding-left: 10%; 
 }
 
-.stat-box { // used to create stat boxes on landing page
-  width: 85%;//300px;
+// used to create stat boxes on landing page
+.stat-box { 
+  width: 85%;
   background-color: $light-gray1;
   border: 6px solid $blue;
-  padding: 5%;//15px;
-  margin: 8%;//10px;
+  padding: 5%;
+  margin: 8%;
   border-radius: 15px; // for rounded corners
 }
 
-.resource-box { // used to create boxes on resoure page
-  width: 85%;//300px;
+// used to create boxes on resoure page
+.resource-box { 
+  width: 85%;
   background-color: $light-gray1;
   border: 4px solid $blue;
-  padding: 5%;//15px;
-  margin: 8%;//10px;
+  padding: 5%;
+  margin: 8%;
   border-radius: 8px;
 }
 
-.yellow-box { // yellow background color 
+// yellow background color 
+.yellow-box { 
   background-color: $light-yellow;
   width: 75%;
   padding-top: 10px;
@@ -183,13 +197,15 @@ a.Header-nav-folder-item--active {
 
 /* SPEECH BUBBLES, created using https://projects.verou.me/bubbly/ */
 
-.speech-bubble-bottom-left { // creates box
+// creates box
+.speech-bubble-bottom-left { 
 	position: relative;
 	background: $white;
 	border-radius: .4em;
 }
 
-.speech-bubble-bottom-left:after { // creates down left-facing arrow
+ // creates down left-facing arrow
+.speech-bubble-bottom-left:after {
 	content: '';
 	position: absolute;
 	bottom: 0;
@@ -204,13 +220,15 @@ a.Header-nav-folder-item--active {
 	margin-bottom: -50px;
 }
 
-.speech-bubble-bottom-right { // creates box
+// creates box
+.speech-bubble-bottom-right { 
 	position: relative;
 	background: $white;
 	border-radius: .4em;
 }
 
-.speech-bubble-bottom-right:after { // creates down right-facing arrow
+// creates down right-facing arrow
+.speech-bubble-bottom-right:after { 
 	content: '';
 	position: absolute;
 	bottom: 0;

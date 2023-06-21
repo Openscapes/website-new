@@ -38,8 +38,8 @@ website:
             href: initiatives.qmd#mentors-framework
           - text: "PATHWAYS TO OPEN SCIENCE PROGRAM"
             href: initiatives.qmd#pathways-to-open-science-program
-#          - text: "  REFLECTIONS PROGRAM"
-#            href: initiatives.qmd#reflections-program
+          - text: "REFLECTIONS PROGRAM"
+            href: initiatives.qmd#reflections-program
       - text: "BLOG"
         href: blog.qmd
       - text: "CONNECT"

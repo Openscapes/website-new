@@ -32,9 +32,9 @@ knitr::include_graphics("images/minis/fox_hat.png")
 
 <br>
 
-::: {.yellow-bg}
+::: {.yellow-box}
 ::: {.medium-body-text .center-text}
-{{< fa book-open title="An open book" >}} Openscapes Champions Lesson Series
+{{< fa book-open title="An open book" >}} Champions Program Resources <!-- Openscapes Champions Lesson Series -->
 :::
 ::: {.center-text}
 The [**Openscapes Champions Lesson Series**](https://openscapes.github.io/series) is our open source curriculum we use to teach Champions Cohorts, and you can use it too.

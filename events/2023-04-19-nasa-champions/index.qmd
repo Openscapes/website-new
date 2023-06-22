@@ -20,5 +20,6 @@ This is a mentorship and professional development opportunity for research teams
 #| out-width: "40%"
 #| fig-align: "center"
 #| preview: true
+#| echo: false
 knitr::include_graphics("nasa-openscapes.png")  
 ```

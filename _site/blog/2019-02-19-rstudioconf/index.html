@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.269">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Julie Lowndes">
+<meta name="dcterms.date" content="2019-02-19">
+
+<title>RStudio Conference culture</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/favicon/favicon_fullres.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<style>
+    .quarto-title-block .quarto-title-banner {
+      color: #333333;
+background: #F8D98F;
+    }
+    </style>
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/logo/openscapes_hex_badge.png" alt="A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment." class="navbar-logo">
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html">
+ <span class="menu-text">HOME</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../approach.html">
+ <span class="menu-text">APPROACH</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">ABOUT</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="../../about.html">
+ <span class="dropdown-text">ABOUT US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../team.html">
+ <span class="dropdown-text">OUR TEAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../resources.html">
+ <span class="dropdown-text">OPEN RESOURCES</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../media.html">
+ <span class="dropdown-text">MEDIA</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../code-of-conduct.html">
+ <span class="dropdown-text">CODE OF CONDUCT</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">INITIATIVES</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html">
+ <span class="dropdown-text">ALL INITIATIVES</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#champions-program">
+ <span class="dropdown-text">CHAMPIONS PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#nasa-openscapes">
+ <span class="dropdown-text">NASA OPENSCAPES</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#mentors-framework">
+ <span class="dropdown-text">MENTORS FRAMEWORK</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#pathways-to-open-science-program">
+ <span class="dropdown-text">PATHWAYS TO OPEN SCIENCE PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#reflections-program">
+ <span class="dropdown-text">REFLECTIONS PROGRAM</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../../blog.html">
+ <span class="menu-text">BLOG</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-connect" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">CONNECT</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-connect">    
+        <li>
+    <a class="dropdown-item" href="../../connect.html">
+ <span class="dropdown-text">CONNECT WITH US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../events.html">
+ <span class="dropdown-text">EVENTS</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/openscapes"><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://fosstodon.org/@openscapes"><i class="bi bi-mastodon" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:hello@openscapes.org"><i class="bi bi-envelope" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page">
+      <h1 class="title">RStudio Conference culture</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">conference</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Julie Lowndes </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">February 19, 2019</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+
+
+
+
+<section id="rstudio-conference-culture" class="level1">
+<h1>RStudio Conference culture</h1>
+<p><em>I attended <a href="https://www.rstudio.com/conference/">RStudio::conf</a> this year and there is so much to report from a conference that gathers 1700 attendees from industry and academia and disciplines of all kinds. The conference centered around innovations, motivations, and communities around the R programming language and there are <a href="https://github.com/kbroman/RStudioConf2019Slides#followup-blog-posts">many excellent summary blogs</a>. Here I will focus on how the conference felt, and how to think about replicating this feeling at conferences, workshops, meetings, and lab groups.</em></p>
+<center>
+<a href="https://twitter.com/juliesquid/status/1086734354083180545"> <img src="../../img/blog/rstudioconf-tweet-jsl.png" width="400px"> </a>
+</center>
+<p><br></p>
+<p><strong>RStudio::conf 2019 was the best conference I’ve ever been to</strong>. I learned about new R packages, motivations behind them and lessons from using them as individuals and teams. But I think the real reason it was the best conference was the positive tone and culture that helped me connect with many thoughtful people. And this positive tone was set deliberately from the beginning.</p>
+<section id="opening-remarks" class="level2">
+<h2 class="anchored" data-anchor-id="opening-remarks">Opening remarks</h2>
+<p><a href="https://twitter.com/hadleywickham/">Hadley Wickham</a>’s opening remarks included the Code of Conduct and how to identify the numerous RStudio staff that are there to help if any problems occur. Codes of Conduct are meant to deliberately help people be included and empowered within communities, recognizing that safety and accessibility are critical parts of inclusion and empowerment. Hadley is Chief Scientist at RStudio, and by stating the Code of Conduct up front he put the RStudio community’s values clearly forward, and it had additional weight because it came from the RStudio leadership.</p>
+<p>Just afterwards, Hadley introduced the idea of the “Pac-Man rule” for informal conversations – this brings the Code of Conduct to the physical space by creating in-person interactions that are welcoming and inclusive. The idea is that when chatting, instead of standing in a closed circle with the person or people you are talking with, <a href="https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/">leave space for another person to join</a>. It really worked at the conference: as I walked through the halls during coffee breaks I could approach anyone or group and have a positive, meaningful conversation. I do not think I have ever felt that at a conference before. Additionally, I was in numerous conversations where people joined the conversation saying “can I Pac-Man?” and they did and were no longer strangers since we shared this culture.</p>
+<center>
+<a href="https://twitter.com/robinson_es/status/1085917956033392641"> <img src="../../img/blog/rstudioconf-tweet-er.png" width="400px"> </a>
+</center>
+</section>
+<section id="reducing-friction" class="level2">
+<h2 class="anchored" data-anchor-id="reducing-friction">Reducing friction</h2>
+<p><a href="https://twitter.com/jennybryan/">Jenny Bryan</a> talks about “reducing friction” for analytical workflows as the motivation behind creating R packages from like <code>reprex</code>, <code>usethis</code> and <code>googlesheets</code>. And I would say that RStudio::conf was about reducing friction for people to feel included and confident to participate. With the Code of Conduct and Pac-Man, it was in person by asking a question or joining a conversation. Additionally, there were <a href="https://community.rstudio.com/t/birds-of-a-feather-bof-at-rstudio-conf-2019l/19328">Birds of a Feather events</a> throughout the week to bring together smaller communities, like R users in finance, academic research, education, edtech, and data for good. There were also buttons to wear and stickers for laptops and water bottles to have visible demonstrations of communities and tools. And, there was a large showing from and a meetup of the <a href="https://rladies.org/">RLadies</a> global community that promotes gender diversity in the R community.</p>
+<p>There is a positive online <a href="https://twitter.com/search?f=tweets&amp;q=%23rstats&amp;src=typd">#rstats</a> community preceding the event and during the conference there were also ways to translate this welcoming feeling back online to include the #rstats community that could not attend, connect with each other across concurrent sessions, and strengthen relationships that could be continued after the conference was over. This was done through the <a href="https://twitter.com/search?f=tweets&amp;q=%23rstudioconf&amp;src=typd">#rstudioconf</a> hashtag, presenters including Twitter handles, attendees live tweeting and retweeting each other, and by <a href="https://twitter.com/kwbroman">Karl Broman</a> creating a <a href="https://github.com/kbroman/RStudioConf2019Slides">list of all presentation slides</a>. Further, the <a href="https://github.com/tidyverse/dev-day-2019#tidyverse-developer-day-2019">Tidyverse Developer Day</a> on Saturday welcomed and helped people contribute to package development – and for many of us it was the first time making substantial contributions to open source projects. It was really empowering.</p>
+<center>
+<a href="https://twitter.com/CivicAngela/status/1086689357929631744"> <img src="../../img/blog/rstudioconf-tidyverse-dev.png" width="400px"> </a>
+</center>
+<p><br></p>
+</section>
+<section id="enabling-positive-culture" class="level2">
+<h2 class="anchored" data-anchor-id="enabling-positive-culture">Enabling positive culture</h2>
+<p>When I describe RStudio::conf I find myself using words like “welcoming”, “intentional”, “design”, “positive”, and “<a href="https://twitter.com/search?q=%40allison_horst%20%23rstudioconf&amp;src=typd">Allison Horst’s art</a>” alongside the awesome R tools that were presented (summarized in other blogs – see Karl’s full <a href="https://github.com/kbroman/RStudioConf2019Slides#followup-blog-posts">list of blog posts</a>). The whole conference reminded me of <a href="https://twitter.com/StefanieButland">Stef Butland</a>’s rOpenSci post on the <a href="https://ropensci.org/blog/2017/07/18/value-of-welcome/">value of welcome</a>. All of this creates a culture where sharing ideas and being open for feedback is safe, and it fosters innovation and kindness.</p>
+<p>We have created a positive culture as a small lab team at the <a href="http://ohi-science.org">Ocean Health Index</a> (OHI), and we welcome our <a href="http://ohi-science.org/ohi-global/fellows.html">OHI fellows</a> to work this way with us as well. With <a href="https://openscapes.org">Openscapes</a>, I lead each Champions call modeled after the <a href="https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/">Mozilla Open Leaders</a> program, which begins with a deliberate statement of our <a href="https://www.mozilla.org/en-US/about/governance/policies/participation/">Community Participation Guidelines</a> (similar to a Code of Conduct). Just this past week, <a href="https://openscapes.github.io/series/index.html#agendas">we discussed lab culture</a>, and why it is important to build trust and be intentional instead of hoping for positive culture to be organic (something I learned in <a href="https://resources.rstudio.com/rstudio-conf-2019/data-science-as-a-team-sport">Angela Bassa’s RStudio::conf talk</a>).</p>
+<p>So looking forward, how can we replicate this RStudio::conf tone and culture at other events? Codes of Conduct and Pac-Man rules can do lot at conferences, especially when they come from leadership. They are also effective in courses, labs, departments, and events on campus. But we can also be leaders and start asking for and modeling the behavior we want to see within academia so it becomes more of the norm. I am definitely motivated to do my part.</p>
+<p><br> <img src="../../img/blog/hexes_laptop.jpg" width="300px"><br>
+Community stickers</p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Openscapes is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attributions 4.0 International License</a></div>   
+    <div class="nav-footer-right">This website is built with <i class="fa-solid fa-heart" title="a heart" aria-label="heart"></i> and <a href="https://quarto.org/">Quarto</a></div>
+  </div>
+</footer>
+
+
+
+</body></html>

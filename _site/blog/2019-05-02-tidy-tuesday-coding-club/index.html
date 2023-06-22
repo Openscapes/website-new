@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.269">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Allison Horst">
+<meta name="dcterms.date" content="2019-05-02">
+
+<title>Starting our #tidytuesday hacky hours</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/favicon/favicon_fullres.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<style>
+    .quarto-title-block .quarto-title-banner {
+      color: #333333;
+background: #F8D98F;
+    }
+    </style>
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/logo/openscapes_hex_badge.png" alt="A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment." class="navbar-logo">
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html">
+ <span class="menu-text">HOME</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../approach.html">
+ <span class="menu-text">APPROACH</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">ABOUT</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="../../about.html">
+ <span class="dropdown-text">ABOUT US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../team.html">
+ <span class="dropdown-text">OUR TEAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../resources.html">
+ <span class="dropdown-text">OPEN RESOURCES</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../media.html">
+ <span class="dropdown-text">MEDIA</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../code-of-conduct.html">
+ <span class="dropdown-text">CODE OF CONDUCT</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">INITIATIVES</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html">
+ <span class="dropdown-text">ALL INITIATIVES</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#champions-program">
+ <span class="dropdown-text">CHAMPIONS PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#nasa-openscapes">
+ <span class="dropdown-text">NASA OPENSCAPES</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#mentors-framework">
+ <span class="dropdown-text">MENTORS FRAMEWORK</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#pathways-to-open-science-program">
+ <span class="dropdown-text">PATHWAYS TO OPEN SCIENCE PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#reflections-program">
+ <span class="dropdown-text">REFLECTIONS PROGRAM</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../../blog.html">
+ <span class="menu-text">BLOG</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-connect" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">CONNECT</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-connect">    
+        <li>
+    <a class="dropdown-item" href="../../connect.html">
+ <span class="dropdown-text">CONNECT WITH US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../events.html">
+ <span class="dropdown-text">EVENTS</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/openscapes"><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://fosstodon.org/@openscapes"><i class="bi bi-mastodon" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:hello@openscapes.org"><i class="bi bi-envelope" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page">
+      <h1 class="title">Starting our #tidytuesday hacky hours</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">champions</div>
+                <div class="quarto-category">how-we-work</div>
+                <div class="quarto-category">coding</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Allison Horst </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">May 2, 2019</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+
+
+
+
+<section id="starting-our-tidytuesday-hacky-hours" class="level1">
+<h1>Starting our #tidytuesday hacky hours</h1>
+<p><em>This is our first community blog post by Openscapes Champion Allison Horst!</em></p>
+<hr>
+<p>Hi everyone! I’m Allison. I teach data analysis, statistics and presentation skills to graduate students at the Bren School of Environmental Science and Management at UC Santa Barbara. I’m also an Openscapes Champion.</p>
+<p>In <a href="http://www.openscapes.org">Openscapes</a> we discuss the need to create supportive spaces, like <a href="https://www.openscapes.org/blog/2018/11/16/how-to-start-a-coding-club/">coding clubs</a>, for useRs to practice and grow their coding skills.</p>
+<p>With Bren masters student Gracie White (<a href="https://twitter.com/GracieGW"><span class="citation" data-cites="GracieGW">@GracieGW</span></a>), I’ve recently started a weekly hacky hour / coding club in Santa Barbara. Here, I’ll share how <a href="https://github.com/rfordatascience/tidytuesday">#tidytuesday</a> has reduced our workload and planning, how we started and organize our events, and a few things we’ve learned so far.</p>
+<p><br></p>
+<center>
+<a href="https://twitter.com/GracieGW/status/1123407504812068865"> <img src="../../img/blog/tidy_tuesday_5gracie.png" width="400px"></a>
+</center>
+<p><br></p>
+<section id="tidytuesday-offers-a-no-stress-low-effort-coding-club-option-for-organizers" class="level4">
+<h4 class="anchored" data-anchor-id="tidytuesday-offers-a-no-stress-low-effort-coding-club-option-for-organizers">#tidytuesday offers a no-stress, low-effort coding club option for organizers</h4>
+<p>Coming off of two quarters of data analysis courses, a number of motivated students were looking for a stress-free way to maintain and grow their coding skills. Recognizing the momentum, Gracie reached out requesting that we start a coding club this quarter using RStudio’s #tidytuesday initiative as an impetus and opportunity for weekly social coding events.</p>
+<p>So, what is #tidytuesday? As described by Thomas Mock (<a href="https://twitter.com/thomas_mock"><span class="citation" data-cites="thomas_mock">@thomas_mock</span></a>) of <a href="https://www.rstudio.com/">RStudio</a> and the <a href="https://r4ds.had.co.nz/">R for Data Science</a> (#R4DS) online learning community:</p>
+<blockquote class="blockquote">
+<p>“Every week we post a raw dataset, a chart or article related to that dataset, and ask you to explore the data…The goal of TidyTuesday is to apply your R skills, get feedback, explore other’s work, and connect with the greater #RStats community!”</p>
+</blockquote>
+<p>Why is that so great?</p>
+<p><strong>Because it means that the groundwork for a short, productive session of data wrangling practice already exists, with very little effort on our end.</strong> Manageable #tidytuesday datasets are shared each week with background information, citations, and code to read them directly into R.</p>
+<p>Attendees are invited to bring any other code-related projects they’re working on, but having the #tidytuesday option means that there’s something for everyone to work on that week, and we don’t have to spend any energy to make it available or accessible. Another bonus: many #tidytuesday participants share their code and visualizations publicly, so anyone can explore examples to learn from what others have done!</p>
+<p><br></p>
+<center>
+<a href="https://twitter.com/GracieGW/status/1120876956482805761"> <img src="../../img/blog/tidy_tuesday3_tweet.png" width="400px"></a>
+</center>
+<p><br></p>
+</section>
+<section id="how-we-started-our-coding-club." class="level4">
+<h4 class="anchored" data-anchor-id="how-we-started-our-coding-club.">How we started our coding club.</h4>
+<section id="step-1.-we-sent-out-a-welcoming-email-with-important-information." class="level5">
+<h5 class="anchored" data-anchor-id="step-1.-we-sent-out-a-welcoming-email-with-important-information."><em>Step 1. We sent out a welcoming email with important information.</em></h5>
+<p>Once we knew we’d focus our sessions around #tidytuesday datasets, we welcomed people to join us. In our first email, we wanted to:</p>
+<ul>
+<li>Welcome people and share our enthusiasm</li>
+<li>Include the date, time and location of our first event</li>
+<li>Introduce the #tidytuesday initiative</li>
+<li>Ask interested people to add their name to our Google sign-up sheet</li>
+</ul>
+<p>We sent out the following email to Bren students and other R-using friends in the UCSB community:</p>
+<blockquote class="blockquote">
+<p><em>I’m very excited to share that we’re starting a Tidy Tuesday Coding Club next quarter. Our hope is to make this a fun, no-stress, and supportive weekly group where we can all work on our own coding projects, discuss challenges, share victories (and grievances), learn about cool new packages and functions, and keep the rust off of our R coding skills!</em></p>
+</blockquote>
+<blockquote class="blockquote">
+<p><em>Our first coding club will be DATE, TIME, at LOCATION. We plan to schedule a place each Tuesday (e.g.&nbsp;coffee shops, breweries, restaurants, etc.) where we can meet in the afternoon/evening and code together. You can bring your own code/data you’re working on, or participate in the “R for Data Science” online community’s #TidyTuesday initiative, summarized here:</em></p>
+</blockquote>
+<blockquote class="blockquote">
+<p><em>“Join the R4DS online learning community in the weekly #TidyTuesday event! Every week we post a raw dataset, a chart or article related to that dataset, and ask you to explore the data. While the dataset will be “tamed”, it will not always be tidy! As such you might need to apply various R for Data Science techniques to wrangle the data into a true tidy format. The goal of TidyTuesday is to apply your R skills, get feedback, explore other’s work, and connect with the greater #RStats community! As such we encourage everyone of all skills to participate!“</em></p>
+</blockquote>
+<blockquote class="blockquote">
+<p><em>We’ll be participating in #TidyTuesday each week, and we hope you’ll join us for some fun social coding (yes, those can coexist). Sign-up HERE to be included on future emails about the dates/times/locations of our Tidy Tuesday Coding Club. We look forward to seeing you there!</em></p>
+</blockquote>
+</section>
+<section id="step-2.-we-showed-up" class="level5">
+<h5 class="anchored" data-anchor-id="step-2.-we-showed-up"><em>Step 2. We showed up!</em></h5>
+<p>We held our first event at a cool little brewery close to campus that satisfied some requirements:</p>
+<ul>
+<li>Easy to bike or bus from campus</li>
+<li>Plenty of seating and tables for computers</li>
+<li>Free and reliable wifi</li>
+<li>Food &amp; refreshments available (at venue or very close by)</li>
+<li>No loud events happening (e.g.&nbsp;trivia night, live bands, etc.)</li>
+</ul>
+<p>…and ~17 coders came out to join us!</p>
+<p><br></p>
+<center>
+<a><img src="../../img/blog/tidy_tuesday_2b.png" width="400px"></a>
+</center>
+<p><br></p>
+<p>There was a pretty even mix of attendees working on their own projects (research, assignments, etc.) and those using #tidytuesday to practice wrangling and visualization.</p>
+<p>One person remembered how (and why!) to work in R projects. Several of us re-learned a few things about the lubridate package for working with dates and times. For a few, even opening RStudio and reading in data after a long hiatus felt victorious.</p>
+<p>I was thrilled to be there with so many people who felt comfortable working alongside other R-users at all different levels. It was a fun, relaxed evening of coding together. At subsequent events we’ve had between 12 and 18 people (and at least one dog), which is perfect for the locations we’ve met so far, and new interested members continue adding their names to our sign-up sheet.</p>
+</section>
+<section id="step-3.-we-follow-up-between-events" class="level5">
+<h5 class="anchored" data-anchor-id="step-3.-we-follow-up-between-events"><em>Step 3. We follow up between events</em></h5>
+<p>The Wednesday or Thursday following each event, I send an email to the group with the time and location of our next meeting. I also include some code examples inspired by discussions or data wrangling efforts during that week’s coding club (and am adding them to a GitHub repo).</p>
+<p>Monday or Tuesday after the new #tidytuesday datasets are posted, Gracie sends an email welcoming people to join us that week with a short summary of that week’s data topic and code to read in the datasets directly.</p>
+<p>So at this point, our effort as organizers is pretty minimal:</p>
+<ul>
+<li>Monday/Tuesday: Gracie sends reminder email + code to get #tidytuesday data</li>
+<li>Tuesday: We attend our coding club (2 hours/wk)</li>
+<li>Wednesday: I post my code examples on GitHub (takes ~30 minutes)</li>
+<li>Wednesday/Thursday: I send a follow-up with next location + links to code examples</li>
+</ul>
+<p>For now, that’s our low-effort, big-reward strategy for starting a social coding group!</p>
+<p><br></p>
+<center>
+<a><img src="../../img/blog/tidy_tuesday_3.jpg" width="400px"></a>
+</center>
+<p><br></p>
+</section>
+</section>
+<section id="some-early-lessons-weve-learned" class="level4">
+<h4 class="anchored" data-anchor-id="some-early-lessons-weve-learned">Some early lessons we’ve learned</h4>
+<p>Some lessons we’ve learned very early on in our little coding club’s existence:</p>
+<ul>
+<li><p><strong>You don’t need a perfect plan to start a coding club.</strong> I’d been so worried about details that I delayed starting a coding club. I shouldn’t have. In our first few weeks I’ve learned that attendees are happy to participate in less structured, low-key social coding events - and that I don’t need to feel like a host every week.</p></li>
+<li><p><strong>Use materials that others have already created to minimize planning effort.</strong> The goal of our club is to get and keep everyone coding frequently so that we can all maintain and grow our R-skills. For that purpose, using the existing #tidytuesday infrastructure makes a lot of sense.</p></li>
+<li><p><strong>Wifi is really important.</strong> As we learned last week, our sessions are way less productive if we can’t easily and quickly search examples, twitter, blogs, documentation, forums, etc. We’ve had to cross a couple of places off our locations list due to unreliable wifi.</p></li>
+<li><p><strong>You don’t need an expert in attendance, but it helps to have some people who can help with issues when people get stuck.</strong> In our group, most people have had 1 - 2 recent courses in R and are relatively independent when it comes to the basics. Still, it’s useful to have one or two people there who feel comfortable troubleshooting or can send people in the right direction.</p></li>
+<li><p><strong>Know your audience, and choose your format accordingly.</strong> Our “get together and code socially” format works for our group because we have a critical mass of semi-independent R-users who are able to work and learn at a level that makes sense for #tidytuesdays (basic data wrangling + visualization with the tidyverse). If that isn’t the case, another format (e.g.&nbsp;a coding club where attendees work through tutorials together, or where an instructor leads a short workshop on a different topic like in <a href="https://eco-data-science.github.io/">eco-data-science</a>) might be more productive. Figure out the <strong>goals</strong> of your coding club first, try to anticipate the <strong>level</strong> of most attendees, and <strong>choose a format that will set them up to meet those goals.</strong></p></li>
+</ul>
+<p>We’re really excited about our young coding club so far, and will share what we learn as it continues to grow!</p>
+<p><br></p>
+<center>
+<a><img src="../../img/blog/tidy_tuesday_4.jpg" width="400px"></a>
+</center>
+<p><br></p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Openscapes is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attributions 4.0 International License</a></div>   
+    <div class="nav-footer-right">This website is built with <i class="fa-solid fa-heart" title="a heart" aria-label="heart"></i> and <a href="https://quarto.org/">Quarto</a></div>
+  </div>
+</footer>
+
+
+
+</body></html>

@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.269">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Julie Lowndes">
+<meta name="dcterms.date" content="2019-08-22">
+
+<title>Keynote at the useR! conference</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/favicon/favicon_fullres.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<style>
+    .quarto-title-block .quarto-title-banner {
+      color: #333333;
+background: #F8D98F;
+    }
+    </style>
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/logo/openscapes_hex_badge.png" alt="A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment." class="navbar-logo">
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html">
+ <span class="menu-text">HOME</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../approach.html">
+ <span class="menu-text">APPROACH</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">ABOUT</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="../../about.html">
+ <span class="dropdown-text">ABOUT US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../team.html">
+ <span class="dropdown-text">OUR TEAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../resources.html">
+ <span class="dropdown-text">OPEN RESOURCES</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../media.html">
+ <span class="dropdown-text">MEDIA</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../code-of-conduct.html">
+ <span class="dropdown-text">CODE OF CONDUCT</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">INITIATIVES</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html">
+ <span class="dropdown-text">ALL INITIATIVES</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#champions-program">
+ <span class="dropdown-text">CHAMPIONS PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#nasa-openscapes">
+ <span class="dropdown-text">NASA OPENSCAPES</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#mentors-framework">
+ <span class="dropdown-text">MENTORS FRAMEWORK</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#pathways-to-open-science-program">
+ <span class="dropdown-text">PATHWAYS TO OPEN SCIENCE PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#reflections-program">
+ <span class="dropdown-text">REFLECTIONS PROGRAM</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../../blog.html">
+ <span class="menu-text">BLOG</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-connect" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">CONNECT</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-connect">    
+        <li>
+    <a class="dropdown-item" href="../../connect.html">
+ <span class="dropdown-text">CONNECT WITH US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../events.html">
+ <span class="dropdown-text">EVENTS</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/openscapes"><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://fosstodon.org/@openscapes"><i class="bi bi-mastodon" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:hello@openscapes.org"><i class="bi bi-envelope" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page">
+      <h1 class="title">Keynote at the useR! conference</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">conference</div>
+                <div class="quarto-category">champions</div>
+                <div class="quarto-category">art</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Julie Lowndes </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">August 22, 2019</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+
+
+
+
+<p><strong><em>This article is cross-posted on <a href="https://medium.com/read-write-participate/keynote-at-the-user-conference-ab91ee41803d">medium.com</a></em></strong></p>
+<p><em>In July 2019 I gave the opening keynote at the <a href="http://user2019.r-project.org/program_overview/">useR! Conference</a>, the R language’s premiere gathering that has occurred annually throughout the world <a href="http://user2019.r-project.org/past/">since 2004</a>. It was, needless to say, an incredibly huge honor. And perhaps an unexpected one for a marine ecologist. But the R community has been so impactful on my science and life, and this was the opportunity to try to articulate its importance back to the community and to welcome others. I am really proud of my talk, and am thankful for everyone who helped me build up to it over the years. This post is not a summary of the talk, but a few highlights, thoughts that are in development, a few responses to un-asked questions during the Q&amp;A, and links to resources and conversations.</em></p>
+<p><em>Quick links:</em></p>
+<ul>
+<li><em><a href="https://www.youtube.com/watch?v=Z8PqwFPqn6Y&amp;feature=youtu.be">keynote video</a> (starts at 46:30)</em></li>
+<li><em><a href="https://jules32.github.io/useR-2019-keynote/#1">keynote slides</a> (press <code>p</code> to see presenter notes, since on-slide text is sparse)</em></li>
+<li><em><a href="https://github.com/allisonhorst/stats-illustrations/tree/master/openscapes#dr-julia-lowndes-keynote-illustrations">artwork by Allison Horst</a> (available for download and reuse)</em></li>
+<li><em><a href="http://user2019.r-project.org/program_overview/">useR website</a></em></li>
+<li><em><a href="https://twitter.com/search?q=%23user2019&amp;src=typed_query">#user2019 on Twitter</a></em></li>
+<li><em><a href="https://medium.com/read-write-participate/open-science-and-star-wars-2577b8081e8f">blog by Mozilla</a></em></li>
+</ul>
+<!---
+https://twitter.com/mozilla/status/1149363508276092928 link to medium blog
+https://twitter.com/rstudio/status/1148943675164114949
+https://twitter.com/marc_smith/status/1149740108561600512
+https://twitter.com/jafflerbach/status/1149016729722470400
+https://twitter.com/allison_horst/status/1148947581738745856
+https://twitter.com/dataandme/status/1148882905810264065
+https://twitter.com/giodevince/status/1148875182855131136
+https://twitter.com/alice_data/status/1148864547832369152
+https://twitter.com/valle_benoit/status/1148887853524537345/photo/2
+https://twitter.com/i_steves/status/1148869095175180288
+https://twitter.com/alinedeschamps/status/1148864407092568064
+https://twitter.com/i_steves/status/1148873054438809600 - with the Champions
+https://twitter.com/bjungbogati/status/1148869261085085701 - ods tools
+https://twitter.com/thinkR_fr/status/1148868494634692608 - photos from the back
+https://twitter.com/BeaMilz/status/1148875359770816513 - presenting
+https://twitter.com/search?q=%40juliesquid%20%23user2019&src=typed_query - ohi team
+https://twitter.com/alinedeschamps/status/1148864407092568064
+https://twitter.com/goknurginer/status/1148864464743227392/photo/1 - presenting
+https://twitter.com/apreshill/status/1148916961570697218
+https://twitter.com/sinarueeger/status/1148880751653511169
+https://twitter.com/borishej/status/1148874249605668865
+https://nodexlgraphgallery.org/Pages/Graph.aspx?graphID=202941 
+https://twitter.com/Xtophe_Bontemps/status/1167537051530649600 - keynote views
+--->
+<hr>
+<section id="r-for-better-science-in-less-time" class="level2">
+<h2 class="anchored" data-anchor-id="r-for-better-science-in-less-time">R for better science in less time</h2>
+<p><br></p>
+<center>
+<a><img src="../../img/blog/keynote/user-keynote-presenting.jpg" width="500px"></a>
+<figcaption>
+Kicking off useR! 2019. Photo by <a href="https://twitter.com/goknurginer/status/1148864464743227392"><span class="citation" data-cites="goknurginer">@goknurginer</span></a>, all artwork by <a href="https://twitter.com/allison_horst"><span class="citation" data-cites="allison_horst">@allison_horst</span></a>
+</figcaption>
+</center>
+<p><br></p>
+<p>My keynote talk was called “R for better science in less time” and is about how open software and teamwork can supercharge environmental science. And specifically, how R as a language and as a community have been so impactful on my science and on my life, so that now I am focused on passing forward what I’ve learned. While the message is relevant to many different fields, I focus on environmental science because that is where my expertise lies as a marine-scientist-turned-marine-data-scientist, and that is where there is a pressing need as scientists tackle how humans can live sustainably in a changing climate.</p>
+<p>In my keynote I shared a lot about Openscapes and what motivates the <a href="https://www.openscapes.org/champions">Champions mentorship program</a>. That motivation comes from my own experience struggling with data (both alone and with collaborators) and getting through it with mentorship and teamwork, centered around open data science. My three big take-homes were that open data science is a mindset, that teamwork starts with openness, and that to be most effective we should harness the power of welcome. I won’t build out those lessons learned here, but I will highlight some of what motivates my work — see options above to read and watch the whole story (or check out <a href="https://twitter.com/fmic_/status/1148863951029067776"><span class="citation" data-cites="fmic_">@fmic_</span>’s live-tweets!</a>).</p>
+<p>But first I wanted to say thank you again to everyone that helped me prepare for the talk. In particular, thank you Allison Horst, who coached me weekly and designed beautiful, original artwork to help convey my ideas. And thank you also to Yihui Xie, JJ Allaire et al for the RMarkdown suite: I made the slides in R using <code>xaringan</code>, and published them on GitHub gh-pages. #opendatascience and #teamwork #forthewin.</p>
+<p><br></p>
+</section>
+<section id="environmental-open-data-science" class="level2">
+<h2 class="anchored" data-anchor-id="environmental-open-data-science">Environmental open data science</h2>
+<p><br></p>
+<center>
+<a><img src="../../img/blog/keynote/horst-eco-r4ds.png" width="800px"></a>
+</center>
+<p><br></p>
+<p>This is the vision I see for environmental science: Where the elements that environmental scientists are great at — like theory, and experimental design, and data collection — are streamlined using open data science to help us uncover and communicate environmental solutions faster. The center of this illustration (the import &gt; tidy &gt; transform/visualize/model &gt; communicate cycle that accompanies <a href="https://r4ds.had.co.nz/introduction.html">Wickham &amp; Grolemund’s definition of data science</a>) here is ringed by communities and support that supercharge innovation and teamwork. These are the communities that my Ocean Health Index team has found so <a href="https://www.nature.com/articles/s41559-017-0160">critical to our success</a>.</p>
+<p>This complete picture is so important for the amazing scientists studying climate changes’ affects on the environment (including food security and disease transmission). But currently this is not the norm.</p>
+<p><br></p>
+<center>
+<a><img src="../../img/blog/keynote/horst-eco-r4ds-env-comm-only.png" width="700px"></a>
+</center>
+<p><br></p>
+<p>Currently, environmental science looks like this. We are rarely taught how to work responsibly with data or have formal training with coding or computing, which leaves us largely on our own to learn how to analyze our data. This means scientists learn on their own in pockets of opportunity but are largely unsupported at broader institutional levels, and we spend a lot of time struggling and reinventing the wheels of data analysis when we are trying to be focused on science questions (see this excellent publication by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5451289/">Hampton et al 2017</a>). And often scientists are not supported even at level of the research group, which is already a science team and should be so in terms of data.</p>
+<p>Helping complete this picture drives my work now. <a href="https://openscapes.org">Openscapes</a> is all about how to best complete this picture by introducing open data science and teamwork to supercharge scientific research.</p>
+<p><br></p>
+</section>
+<section id="open-data-science-teamwork-feedback-loop" class="level2">
+<h2 class="anchored" data-anchor-id="open-data-science-teamwork-feedback-loop">Open data science — teamwork feedback loop</h2>
+<p><br></p>
+<center>
+<a><img src="../../img/blog/keynote/horst-lowndes-loop.png" width="500px"></a>
+</center>
+<p><br></p>
+<p>Open data science and teamwork are so powerful together, and I’ve been thinking about them together as a beautiful feedback loop. Starting on the left: learning and using similar open software promotes and streamlines teamwork. And from the right: working as a team better equips you to learn open practices data science.</p>
+<p>For example, using shared conventions like the tidyverse in R can reduce friction when it comes to running each others’ code, which can then open up time for more thoughtful suggestions and collaboration. The relationships and trust built within the team from these experiences can prime them to improve upon their workflows — they might be more willing to introduce GitHub to their team as a way to reduce the friction that comes from from file-sharing. This will then make it easier to onboard new members to the team, and continue strengthen relationships and skillsets.</p>
+<p>This is a loop that feeds back on itself, which each fueling the other. Maybe it’s more like a spiral, because it gets tighter and tighter? I think that this is really what is going on in the central portion of the environmental open data science illustration above: those communities ringing the data science workflow. It’s this feedback and this fueling that is so powerful, and it is not limited to the traditional definitions of teams — it creates whole communities that innovate together. And it’s also the part that is currently missing from the way we do environmental science.</p>
+<p>So my work with Openscapes is harness the power of welcome to … welcome more environmental scientists into this feedback loop. This means being kind and empathetic when discussing open data science with research groups, and help them operate more like a team in an open data science context. With Openscapes, we started on the teamwork side but immediately framed it around open data science and then continued to loop around. Build more trust, discuss more tools. Discuss current norms in the research group, discuss available open tools and practices. Create a code of conduct, Create a GitHub organization. The first Openscapes cohort has had <a href="https://www.openscapes.org/blog/2019/06/12/wins-cohort1/">awesome acheivements and momentum</a>, and I’m excited to revisit and improve upon the program to help science teams get into this feedback loop as effectively as possible!</p>
+<p><br></p>
+</section>
+<section id="r-is-the-force-that-enables-us-to-do-better-science-in-less-time" class="level2">
+<h2 class="anchored" data-anchor-id="r-is-the-force-that-enables-us-to-do-better-science-in-less-time">R is the force that enables us to do better science in less time</h2>
+<p>I like to talk about all of this in terms of metaphors with Star Wars, hence the title slide :).</p>
+<p><br></p>
+<center>
+<a><img src="../../img/blog/keynote/horst-starwars-luke.png" width="600px"></a>
+</center>
+<p><br></p>
+<p>This is Luke Skywalker after he crashed his plane in the swamp on Dagobah.</p>
+<p>He cannot solve the the challenge in front of him with the skillsets he has, and it is super demoralizing. And if you imagine him attempting to use whatever pulleys and ropes he might have with him, you know it wouldn’t be pretty, it wouldn’t be reproducible, and it probably wouldn’t get him where he needs to be on time. But luckily what happens next is that he meets Yoda —</p>
+<p><br></p>
+<center>
+<a><img src="../../img/blog/keynote/horst-starwars-yoda.png" width="600px"></a>
+</center>
+<p><br></p>
+<p>And Yoda has a skillset to solve Luke’s problem in a way Luke never imagined was possible. He uses the Force.</p>
+<p>And this is going to change Luke’s life, both in terms of skills and mindset. Luke can see what’s possible and he can learn these skills from Yoda. And he will be able to not only solve his current challenge, but it will broaden his whole mind to what is possible in the future and the scale of the challenges he will take on.</p>
+<p>But Luke didn’t go on to defeat the Empire himself, he had a whole community.</p>
+<p><br></p>
+<center>
+<a><img src="../../img/blog/keynote/horst-starwars-hands.png" width="600px"></a>
+</center>
+<p><br></p>
+<p>And this community is powerful because of the diversity of backgrounds and expertise, and although not everyone is a Jedi, everyone contributes in really critical ways. So to recap:</p>
+<p><br></p>
+<center>
+<a><img src="../../img/blog/keynote/horst-starwars-rey.png" width="600px"></a>
+</center>
+<p><br></p>
+<p>R is the Force that enables us as scientists to do better science in less time.</p>
+<p>It empowers us to get our own data out of the swamp. And it empowers us and build off of our confidence and experiences and broaden the scope of scientific challenges that we can tackle, which for environmental scientists, includes food security, disease transmission, and climate change.</p>
+<p>–</p>
+<p>Over the years folks have asked who is Yoda in this analogy. The answer is, it’s relative. To me, Yoda is many of the people at useR! and in the #rstats community; they are the developers of the R tools and packages I use. In this scenario, they are the Jedis and feel more like Rey. But when I mentor with Openscapes and lead trainings with <a href="https://twitter.com/RLadiesSB">RLadiesSB</a>, <a href="http://eco-data-science.github.io">Eco-Data-Science</a>, <a href="https://nceas.ucsb.edu/learning-hub">NCEAS</a>, and <a href="https://thecarpentries.org">The Carpentries</a>, folks see me as Yoda, and they feel like Rey. And I think that’s an important part of this; even if you don’t feel like THE Jedi or expert, you probably are to some people, and you can step up into that role and help welcome them to the power of the Force. And that can start immediately: you can champion R as the Force now.</p>
+<p>This is a good place to end the highlights from my talk and answer a few questions that were submitted in Toulouse after my keynote.</p>
+<p><br></p>
+</section>
+<section id="qa" class="level2">
+<h2 class="anchored" data-anchor-id="qa">Q&amp;A</h2>
+<section id="do-we-need-to-talk-about-open-data-science-instead-of-just-open-science" class="level4">
+<h4 class="anchored" data-anchor-id="do-we-need-to-talk-about-open-data-science-instead-of-just-open-science">Do we need to talk about “open data science” instead of just “open science”</h4>
+<p>One of the questions I was asked after the talk was about whether “open data science” is needed as a distinction from “open science”; isn’t it already a part of open science as a whole? I don’t think I answered that question completely in the moment (I was pretty fried) so I thought I’d try to articulate my response a bit here.</p>
+<p>To me, “open data science” is more about bringing “open” to the topic of “data science” rather than distinguishing “data” in “open science”. I think the concepts of openness are really critical when we think about data science and coding. My coding experience began with proprietary software and sluggish sharing (for both technical and mindset reasons), so I think it’s important to be explicit and talk about openness and code together. Openness in data science can help daylight “black box” algorithms. And it can also facilitate innovation through reusing and remixing code that we can run on our own machines because the language is open source and we share it openly.</p>
+<p><br></p>
+</section>
+<section id="with-every-phd-student-generation-do-you-feel-that-it-becomes-easier-to-convince-them-to-engage-in-open-science-or-is-there-recurring-resistance" class="level4">
+<h4 class="anchored" data-anchor-id="with-every-phd-student-generation-do-you-feel-that-it-becomes-easier-to-convince-them-to-engage-in-open-science-or-is-there-recurring-resistance">With every PhD student generation, do you feel that it becomes easier to convince them to engage in Open Science? Or is there recurring resistance?</h4>
+<p>Yes, I think it is getting easier. I think that the new (now?) generation of scientists are much more willing to engage in open science. They have grown up sharing (Instagram, Facebook, Google Docs), and they help bring the idea of sharing openly to the scientific community. And I’m excited to see this because there is great opportunity for open practices to not only accelerate and amplify collaboration and scientific discoveries, but, importantly, to be valued and rewarded within the academic system. We really need to favor openness and team science, because no one can do it all, and we need to break down the expectation that they should be able to.</p>
+<p><br></p>
+</section>
+<section id="how-did-u-convince-ur-boss-to-have-believe-in-something-he-didnt-have-knowledge-about" class="level4">
+<h4 class="anchored" data-anchor-id="how-did-u-convince-ur-boss-to-have-believe-in-something-he-didnt-have-knowledge-about">How did u convince ur boss to have believe in something he didn’t have knowledge about?</h4>
+<p>Convincing our boss that open data science was worth our time to learn required a combination of trust, demonstrating its value in ways that he cared about, and absolute necessity.</p>
+<p>In terms of trust, he already gave us independence in our tasks, valued our judgment, and welcomed feedback. This had been established within the team for months to years, so it was a collaborative environment before we even began talking about open data science.</p>
+<p>We were able to demonstrate value in ways that he cared about: we showed him that R and GitHub would save time. And we were clear that it would not be immediate; it might take us three days to do something in R that we could produce in Excel in a half a day — but it will take just a half-hour next week. And the week after that. We demonstrated how nimble we were to rerun analyses with small changes to parameters or subsets of data, and that these skills would be valuable not only for the current project but for projects to come. And visualizations helped a lot too, as well as interactive graphics and gifs (super great for demonstrating change over time, which ecologists think about a lot).</p>
+<p>This argument was helped because of absolute necessity. We had deadlines approaching and we were spending time retracing our steps instead of taking the next steps forward. We needed a better way to work: it was not sustainable to have to waste so much time doing forensics in our emails and file systems to try to figure out what we had done and why in order to advance our analyses. For a dramatic analogy, it was like accepting that candles were not producing enough light anymore and that we needed to wire our house for electricity. It meant overcoming inertia and the time it takes for changing this infrastructure, but it means that we can be more efficient in the long run.</p>
+<p><br></p>
+</section>
+<section id="how-can-you-keep-the-balance-between-sharing-and-open-data-and-protecting-the-data-while-working-in-a-private-company" class="level4">
+<h4 class="anchored" data-anchor-id="how-can-you-keep-the-balance-between-sharing-and-open-data-and-protecting-the-data-while-working-in-a-private-company">How can you keep the balance between sharing and open data and protecting the data while working in a private company?</h4>
+<p>The advice that comes to mind is to “be as open as possible, and as closed as necessary”. Folks have developed ways to summarize or anonymize sensitive data before sharing, and it is also possible to share code or methods, etc without sharing the data. I strongly believe that there are many ways to work openly even if you can’t share your data; you can share slides from talks, teaching materials from your courses, snippets of code or methods; you can also blog, you can publish in open access journals, you can engage on social media and in local communities. It’s an exciting time for open science.</p>
+<p>I also think that part of sharing and openness is being aware and engaged with what is possible on the software side so that your current, individual skillsets or experiences don’t limit your imagination.</p>
+<p>To go back to the Star Wars analogy, when Luke was weighing his options of how to get his plane out of the Dagobah swamp, he <em>never</em> would have considered the Force unless he saw what Yoda was able to do. And that develops a mindset where even if you have not seen exactly everything that is possible, you start to <em>expect</em> that it is possible. Luke lifted up that rock? And R2? Well, then, he should be able to do an X-Wing. Twitter is a great tool to keep tabs on new ideas and projects so that you broaden your expectations of what’s possible (see the next question).</p>
+<p>On the science side, I think sometimes our uneasiness about sharing is because we do not know what’s possible, and it seems like a lot of extra work. If your experience with sharing (smallish) data has been limited to written text in email with attachments, the idea of sharing broadly and keeping things up to date seems like a huge task. But if your whole workflow uses tools that streamline your day-to-day organization and analyses, then sharing requires much lower activation energy. And I think the mindset shift precedes expertise. When you not only see but have a touch of experience with how a GitHub account and a bit of Markdown gives you a whole new, update-able communication platform, it really does help spark a change in mindset. And while there is time involved in sharing information, the time-saving benefits and power in the near and long term are worth the investment (just like they are for Luke and Rey).</p>
+<p><br></p>
+</section>
+<section id="how-to-use-twitter-effectively-to-improve-our-skills-and-share-our-experience" class="level4">
+<h4 class="anchored" data-anchor-id="how-to-use-twitter-effectively-to-improve-our-skills-and-share-our-experience">How to use Twitter effectively to improve our skills and share our experience?</h4>
+<p>My advice for Twitter is to start off small and deliberately. Use it to listen and learn, and then you can gradually build up the courage to like and retweet things. And remember that liking and retweeting is not only a way to engage with the community yourself, but it is also a way to welcome and amplify other people.</p>
+<p>If you’re joining twitter to learn R, I suggest following <a href="https://twitter.com/hadleywickham"><span class="citation" data-cites="hadleywickham">@hadleywickham</span></a>, <a href="https://twitter.com/JennyBryan"><span class="citation" data-cites="JennyBryan">@JennyBryan</span></a>, <a href="https://twitter.com/ropensci"><span class="citation" data-cites="rOpenSci">@rOpenSci</span></a>, <a href="https://twitter.com/https://twitter.com/WeAreRLadies"><span class="citation" data-cites="WeAreRLadies">@WeAreRLadies</span></a>. Listen to what they say and who joins those conversations, and follow other people and organizations. You could also look at who they are following. Also, check out the <a href="https://twitter.com/search?q=%23rstats&amp;src=typed_query">#rstats</a> hashtag. This is not something that you can follow (although you can have it as a column in software like TweetDeck), but you can search it and you’ll see that the people you follow use it to help tag conversations. You’ll find other useful tags as well, within your domain, as well as other R-related interests, e.g.&nbsp;<a href="https://twitter.com/search?q=%23rspatial&amp;src=typed_query">#rspatial</a>. When I read marine science papers, I see if the authors are on Twitter; I sometimes follow them, ask them questions, or just tell them I liked their work!</p>
+<p>In Openscapes I talk through the following examples to show how I use Twitter to learn new things and keep tabs on (some of!) what’s going on in R. I miss a lot because I’m not on Twitter all the time. And that is OK. There is too much goodness to know it all, and I am by no stretch of the imagination on top of it all or experienced with everything folks are developing. But, I learn more than I would if I were never on Twitter. Also, you can always look back at past users and hashtags and get “news updates” as you please. The search feature is pretty good!</p>
+<p><br></p>
+<center>
+<a><img src="../../img/blog/keynote/tweet-Md_Harris-rnoaa.png" width="400px"></a>
+</center>
+<p><br></p>
+<p>When I saw <a href="https://twitter.com/Md_Harris/status/1074469302974193665/photo/1">this tweet</a> by <a href="https://twitter.com/Md_Harris"><span class="citation" data-cites="Md_Harris">@Md_Harris</span></a>, this was my internal monologue:</p>
+<ol type="1">
+<li>Cool visualization!</li>
+<li>I want to represent my data this way</li>
+<li>He includes his <a href="https://gist.github.com/mrecos">code</a> that I can look at to understand what he did, and I can run and remix</li>
+<li>The package is from <a href="https://twitter.com/sckottie"><span class="citation" data-cites="sckottie">@sckottie</span></a> — I know he is at <a href="https://ropensci.org">rOpenSci</a>, which is a really amazing software developer community for science</li>
+<li><a href="https://cran.r-project.org/web/packages/rnoaa/index.html"><code>rnoaa</code></a> is a package making NOAA [US environmental] data more accessible! I didn’t know about this, it will be so useful for my colleagues</li>
+<li>I will retweet so my network can benefit as well</li>
+</ol>
+<p><br></p>
+<p>Another example, <a href="https://twitter.com/JennyBryan/status/1074339217986138113">this tweet</a> where <a href="https://twitter.com/JennyBryan/"><span class="citation" data-cites="JennyBryan">@JennyBryan</span></a> is asking for feedback on a super useful package for interfacing between R and excel: <a href="https://readxl.tidyverse.org/"><code>readxl</code></a>.</p>
+<p><br></p>
+<center>
+<a><img src="../../img/blog/keynote/tweet-jennybryan-readxl.png" width="400px"></a>
+</center>
+<p><br></p>
+<p>My internal monologue:</p>
+<ol type="1">
+<li>Yay, readxl is awesome, and also getting better</li>
+<li>Do I have any spreadsheets to contribute?</li>
+<li>In any case, I will retweet so others can contribute. And I’ll like it too because I appreciate this work</li>
+</ol>
+<p><br></p>
+<p>These are just a few ways to learn and build community on Twitter. And as you feel comfortable, you can start sharing your ideas or your links too. Live-tweeting is a really great way to engage as well, and bridge in-person conferences with online communities. And of course, in addition to engaging on Twitter, check whether there are local RLadies chapters or other R meetups, and join! Or perhaps <a href="https://openscapes.org/blog/2018/11/16/how-to-start-a-coding-club/">start one</a>?</p>
+<p><br></p>
+</section>
+<section id="as-a-marine-scientist-how-do-we-get-involved-in-openscapes" class="level4">
+<h4 class="anchored" data-anchor-id="as-a-marine-scientist-how-do-we-get-involved-in-openscapes">As a marine scientist how do we get involved in Openscapes?</h4>
+<p>Great question :) :). And a great one to end on.</p>
+<p>The most immediate thing to join the Openscapes effort and community is to visit the <a href="https://openscapes.org/contact">get involved</a> page — there is a signup sheet and you can also follow us on Twitter. I also want to get in front of more marine science &amp; environmental science audiences, to give department seminars and conference talks. It is kind of crazy to me that I’ve given a big talk like this one at useR! but not at any big marine/environmental conferences. Or maybe that’s not surprising since I’m focused on increasing the visibility and value of open data science within environmental science, since it’s not really a “mainstream” conversation yet, like it is in #rstats. In any case, if that is something you can help arrange, please get in touch!</p>
+<p>I am currently strategizing and fundraising to build out Openscapes into a full-time, long-term program operated at the US <a href="https://nceas.ucsb.edu">National Center for Ecological Analysis &amp; Synthesis</a> at the University of California Santa Barbara, where I am based. I will be focused on this in the next nine months due to a generous gift from the <a href="https://www.moore.org/">Moore Foundation</a> following my fellowship support from <a href="https://foundation.mozilla.org/en/">Mozilla</a>. My goal is to increase the number of research groups Openscapes mentors each year with a small core team and vibrant community. I also want to see about extending/replicating/spinning off Openscapes to other communities (i.e.&nbsp;beyond environmental science). I plan to continue the online cohorts, <a href="https://openscapes.org/blog/2019/01/28/introducing-champions-program/">scaling up as Mozilla Open Leaders has</a>. Additionally, this winter I will lead my first in-person workshop for research groups, adapting the <a href="https://openscapes.github.io/series">Champions lesson series</a> (and hoping to find time to build that out more too!).</p>
+<p>But I’m excited to hear your ideas! Please reach out; I’d love to <a href="mailto:hello@openscapes.org">hear from you</a>.</p>
+<p>–</p>
+<p>Thanks for reading, and thanks again to everyone at <a href="https://twitter.com/search?q=%23user2019&amp;src=typed_query">#useR2019</a>!</p>
+<p><br></p>
+<p><img src="../../img/blog/keynote/user-keynote-titleslide.png" width="300px"></p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Openscapes is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attributions 4.0 International License</a></div>   
+    <div class="nav-footer-right">This website is built with <i class="fa-solid fa-heart" title="a heart" aria-label="heart"></i> and <a href="https://quarto.org/">Quarto</a></div>
+  </div>
+</footer>
+
+
+
+</body></html>

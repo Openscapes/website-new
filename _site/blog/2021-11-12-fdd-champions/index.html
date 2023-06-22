@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.269">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Gavin Fay, Andy Jones, Anna Holder, Julie Lowndes">
+<meta name="dcterms.date" content="2021-11-12">
+
+<title>Identifying common approaches and needs for fisheries dependent data</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/favicon/favicon_fullres.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<style>
+    .quarto-title-block .quarto-title-banner {
+      color: #333333;
+background: #F8D98F;
+    }
+    </style>
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/logo/openscapes_hex_badge.png" alt="A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment." class="navbar-logo">
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html">
+ <span class="menu-text">HOME</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../approach.html">
+ <span class="menu-text">APPROACH</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">ABOUT</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="../../about.html">
+ <span class="dropdown-text">ABOUT US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../team.html">
+ <span class="dropdown-text">OUR TEAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../resources.html">
+ <span class="dropdown-text">OPEN RESOURCES</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../media.html">
+ <span class="dropdown-text">MEDIA</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../code-of-conduct.html">
+ <span class="dropdown-text">CODE OF CONDUCT</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">INITIATIVES</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html">
+ <span class="dropdown-text">ALL INITIATIVES</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#champions-program">
+ <span class="dropdown-text">CHAMPIONS PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#nasa-openscapes">
+ <span class="dropdown-text">NASA OPENSCAPES</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#mentors-framework">
+ <span class="dropdown-text">MENTORS FRAMEWORK</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#pathways-to-open-science-program">
+ <span class="dropdown-text">PATHWAYS TO OPEN SCIENCE PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../initiatives.html#reflections-program">
+ <span class="dropdown-text">REFLECTIONS PROGRAM</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../../blog.html">
+ <span class="menu-text">BLOG</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-connect" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">CONNECT</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-connect">    
+        <li>
+    <a class="dropdown-item" href="../../connect.html">
+ <span class="dropdown-text">CONNECT WITH US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../events.html">
+ <span class="dropdown-text">EVENTS</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/openscapes"><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://fosstodon.org/@openscapes"><i class="bi bi-mastodon" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:hello@openscapes.org"><i class="bi bi-envelope" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page">
+      <h1 class="title">Identifying common approaches and needs for fisheries dependent data</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">champions</div>
+                <div class="quarto-category">noaa-fisheries</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Gavin Fay, Andy Jones, Anna Holder, Julie Lowndes </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">November 12, 2021</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+
+
+
+
+<p><em>In September-October, Openscapes led a 2-month Champions Cohort with Fisheries Dependent Data (FDD) Users, with over 30 fisheries scientists across academia and NOAA. These scientists were interested in exploring new approaches to working with FDD, which represents a complex mix of data and information collected to facilitate managing the region’s living marine resources. In the US Northeast, data flow from individual businesses and/or scientific samplers to the region’s scientific and management organizations. This web of data and information can be difficult to access as much of the content is confidential in its raw form. Further, many of the codes and systems used to store these data can be poorly documented, and even routine analyses are not commonly shared among data users. The FDD Openscapes Cohort was interested in learning ways to explore the potential to leverage FDD in new and innovative ways. It was part of ongoing efforts to provide access, documentation, and cultivate a community of practice that focuses on using these data and associated resources to their full potential.</em></p>
+<p><em>This post focuses on what the cohort setup and participants achieved. It is co-authored with Gavin Fay (UMass Dartmouth) and Andy Jones (NEFSC), who coordinated the cohort, and Anna Holder from California Waterboards, who assisted. This opportunity is funded through NOAA Fisheries Northeast Fisheries Science Center (<a href="https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center">NEFSC</a>) and a grant from the<a href="https://www.fisheries.noaa.gov/national/commercial-fishing/fisheries-information-system-program">Fisheries Information System Program</a> through an award to<a href="https://www.umassd.edu/smast/">UMass Dartmouth-SMAST</a> through<a href="http://www.cinar.org/">CINAR</a>. See <a href="https://openscapes.org/champions">openscapes.org/champions</a> for more background on the Champions program.</em></p>
+<p><em>Quick links:</em></p>
+<ul>
+<li><em><a href="https://openscapes.github.io/2021-fdd/">https://openscapes.github.io/2021-fdd</a> - Cohort webpage</em></li>
+</ul>
+<hr>
+<section id="fdd-cohort-setup-and-structure" class="level2">
+<h2 class="anchored" data-anchor-id="fdd-cohort-setup-and-structure">FDD cohort setup and structure</h2>
+<p>We worked with Gavin Fay in 2020 when his team were Champions in the NOAA Northeast Fisheries Science Center (<a href="https://openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/">NEFSC</a>) Cohort, and the Fay Lab has since <a href="https://openscapes.org/blog/2020/03/31/faylab-our-openscapes-experience/">shared their experience</a>, created the inspirational (and oft borrowed and remixed) <a href="https://thefaylab.github.io/lab-manual/">FayLab Manual</a> while <a href="https://twitter.com/gavin_fay/status/1349816037366243342">practicing and teaching open data science</a>. Gavin and Andy brought together research teams from academia and the National Oceanic and Atmospheric Administration (NOAA) National Marine Fisheries Service (NMFS) in the US Northeast to participate in the FDD Cohort. We iterated the Champions program based on what we learned from leading three cohorts in the spring, as we described in a separate post about <a href="https://www.openscapes.org/blog/2021/11/03/champions-fall-cohorts-2021/">Fall Cohorts</a>. This was an exciting opportunity to host a cohort that were all focused on similar data and research questions.</p>
+<p>During our four cohort calls, the entire cohort discussed what worked and didn’t work for their FDD workflows. Each cohort call included a welcome and code of conduct reminder, two teaching sessions with time for reflection in small groups or silent journaling and group discussion before closing with suggestions for team meeting topics before next time (“Seaside Chats”), Efficiency Tips, and Inclusion Tips.</p>
+<p>Two guest teachers shared about their open data science efforts relevant for FDD audiences. <a href="https://www.fisheries.noaa.gov/contact/kimberly-bastille">Kim Bastille</a> (NOAA NEFSC) shared about the <a href="https://noaa-edab.github.io/presentations/20211015_Openscapes_Bastille.html#1">State of the Ecosystem Product Development Workflow</a>, and described an R package called <code>ecodata</code> that her team created that automates data processing, data sharing, data visualization. <a href="https://twitter.com/_ileanaf">Ileana Fenwick</a> (University of North Carolina) taught <a href="https://docs.google.com/presentation/d/1rv-JfJeuYhogxV6Dpn_hNDm09nfKnOMtmZpgcciI_98/edit?usp=sharing">Data strategies for Future Us</a>, describing data organization in spreadsheets, good enough practices for data management, and tidy data. Both Kim and Ileana are Champions from previous Champions Cohorts (Kim from 2020 <a href="https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/">NEFSC Cohort</a> and Ileana from the 2021 <a href="https://www.openscapes.org/blog/2021/07/13/css-cohort/">CS&amp;S Cohort</a>), and it was exciting for them to share not only their expertise through their lessons, but also their experiences learning these tools and workflows with their teams, and what they had done since their Openscapes Cohorts.</p>
+<br>
+<center>
+<img src="../../img/blog/bastille-soe-apple-tree.jpg" width="500px">
+<figcaption>
+The <a href="https://noaa-edab.github.io/presentations/20211015_Openscapes_Bastille.html#1">State of the Ecosystem workflow tree</a>, by Kim Bastille. Kim shared the metaphor of an apple tree when describing their workflow (roots are contributor data, the tree trunk is their <code>ecodata</code> R package, and the branches, leaves, and apples are the final products. Although final products (apples) may be varied, the workflows stay the same.
+</figcaption>
+</center>
+<p><br></p>
+</section>
+<section id="what-did-the-participants-achieve" class="level2">
+<h2 class="anchored" data-anchor-id="what-did-the-participants-achieve">What did the participants achieve?</h2>
+<p>This was an exciting cohort because participants were focused on a common topic: research using FDD data. We had both data users (largely academic) and data providers (NOAA Northeast Fisheries Science Center) in the Cohort, and they were able to share common issues and approaches that could benefit others in the group. Many topics/themes that resonated with the 2021 FDD Cohort overlapped and reinforced each other. Here are a few examples.</p>
+<p><strong>Sharing data isn’t the only way to practice open science.</strong> Many aspects of FDD can be confidential, meaning that it cannot be shared publicly or has special considerations for sharing. We discussed how there are ways to be open and collaborative even if you can’t share the data itself. For example, sharing documentation and metadata is a way to be open and collaborative, even if you cannot share the data. Making knitted (RMarkdown) documents that show data summaries even when raw data can’t be accessed is another strategy. Another approach is to provide a “toy” or simulated dataset with all the right fields so that code can be developed, then shared with a partner who has access to the confidential data and can run the code on their own. Further, location data can be jittered, vessel IDs can be anonymized, and data can be collapsed or summarized in a way to protect the confidential aspects of the dataset before sharing it broadly. We also discussed different definitions and examples of confidential data, and how folks treat it differently within an agency, and outwardly for users. Do we all agree on what confidential data actually is? Does everyone know how to handle confidential data properly?</p>
+<p><strong>Psychological safety.</strong> When we discussed the importance of psychological safety, participants had great ideas for how to help foster more trust and safety in teams. For example, instead of “do you have any questions?” asking “what questions do you have?”, and creating spaces where individuals can be vulnerable to role model and encourage group vulnerability and trust. The cohort emphasized and reiterated that building trust and vulnerability takes time; it is built/earned through little moments and actions, not given outright - and it’s important for those that hold power (PIs, supervisors, managers, etc.) to lead by example and make space for those little moments within their teams. Others noted how important psychological safety was in this area where often data sets are not well documented and communication is essential to the proper use of the data.</p>
+<p><strong>Tooling helped teams collaborate - but Github and Slack are not the only options!</strong> Utilizing tools like Slack and GitHub can help some teams streamline and advance their communication and collaboration workflows, but that doesn’t mean those specific tools will work for everyone. Some individuals and teams in the FDD Cohort were already avid R/GitHub users, others were interested in using those tools more (GitHub Projects, and Issues, anyone?), and some individuals were not as keen on embedding a whole new software like GitHub or Slack into their workflows. Regardless of any individual’s interest or current abilities with a certain tool, everyone was able to use the Openscapes mindset to think about tools and workflows they currently use, explore how they are serving their teams (or not), and brainstorm ways to improve their data and communication workflows independent of any specific tool. Some teams in the FDD cohort regularly work with partners that may not have access to such tools, or even have access to the Internet. Teams began to discuss what to do in those situations and used their Seaside Chats to brainstorm and find solutions that work for them.</p>
+<p><strong>Code of Conduct for Data?</strong> In our final session one group shared that with their Pathway they had thought a lot about codes of conduct, and how they could be used to be more clear about how to work with data, data access, and acknowledging contributors across multiple institutions. Other groups agreed, thinking that this could be another form of metadata that would be very helpful to refer to before, during, and after the project. It could also help streamline onboarding of team members as they enter projects, and offboarding team members before they move on. The question of “Who owns the data?”, from principles of anti-colonial science, was an important framing, and folks recommended viewing the recording of <a href="https://www.youtube.com/watch?v=2bJIWWbdhLk">Dr.&nbsp;Max Liboiron’s recent keynote</a> about research, communication, and land relations.</p>
+<p>Codes of conduct and other types of transparent documentation are important for external partners or the public - just as they are for future us as individuals, as teams, and as organizations. Developing codes of conduct resonated with the FDD cohort because they could be used as a way to be explicit about team or organization’s values (like psychological safety, diversity, equity, and inclusion) and standardize a way to document the metadata associated with how we work (where to find data, how to organize and use it, what can be shared, what should remain confidential, etc.)</p>
+<p>We loved working and learning with this cohort of fisheries scientists and exploring the challenges they face. The following is a bit more about each team; look out for further blogs about what the Openscapes team learned and what’s coming next.</p>
+</section>
+<section id="fdd-cohort-teams" class="level2">
+<h2 class="anchored" data-anchor-id="fdd-cohort-teams">FDD Cohort teams</h2>
+<p><strong><a href="https://www.umassd.edu/directory/scadrin/">The Cadrin team</a></strong> at University of Massachusetts Dartmouth is a collaboration among academic, federal and state scientists as well as people in the groundfish fishing industry to develop standardized indices of groundfish stock abundance by managing and analyzing fishery monitoring data. There are several data streams and alternative modeling approaches that would benefit from the Openscapes program for efficiency, transparency and reproducibility to produce the best scientific information available to assess and manage fisheries.</p>
+<p><strong><a href="http://ahumphrieslab.com">The Humphries team</a></strong> at the University of Rhode Island uses a combination of field experiments, underwater surveys, and interviews to study fish and fisheries. Their goal is to link ecological interactions with social dynamics in order to evaluate and prioritize management solutions.</p>
+<p><strong><a href="https://github.com/khyde">The Hyde team</a></strong> has multiple members from NEFSC, GARFO, academia and industry. Currently all work is being done by individuals, but they are hoping Openscapes will help them improve collaboration and make their work more transparent for the public.</p>
+<p><strong><a href="https://www.gmri.org/our-approach/staff/kathy-mills/">The Mills team</a></strong> is leading novel research projects that strive to develop models to meet the complex challenges facing marine ecosystems, fisheries, and coastal communities. They are continually working to improve our quantitative capabilities by including more spatial and temporal data at finer resolutions, combining quantitative and qualitative information to make the best use of available data, and developing more sophisticated modeling frameworks that can accommodate complex data, such as fisheries dependent data. We hope that the skills we learn will advance our abilities such that our questions, and in turn the impact of our findings, are not constrained by technological limitations.</p>
+<p><strong><a href="http://rebeccaselden.weebly.com/">The Selden team</a></strong> is composed of members from diverse backgrounds, including graduate students, professors, and individuals who work at non-profits. They have research backgrounds in geography, ecology, and oceanography and have mastered how to talk across these disciplines, and are now analyzing how fishing communities have responded to past, and present distribution shifts of target species and creating an index of vulnerability to future climate change.</p>
+<p><strong><a href="https://joshua-stoll.com/">The Stoll team</a></strong> is interested in the human dimensions of fisheries and ocean systems and how policies and practices shape people’s interactions with the marine environment. This focus means that they tend to engage with FDD in unconventional ways that both present challenges and also create opportunities to further our knowledge about fisheries and the people who depend on them for food and livelihood. The goal of participating in the Champions cohort is to both improve our research skills and (long-term) to help institutionalize open data science.</p>
+<p><strong><a href="http://www.smast.umassd.edu/lab_fay/">The Fay team</a></strong> focuses on developing interdisciplinary modelling approaches to extend the scope of applications for fisheries and ecosystem assessment methods, and testing the performance of decision support tools for living marine resource management. They apply a range of statistical and modelling approaches for the assessment and management of fish, marine mammal, and marine reptile populations, and actively collaborate with academic and agency scientists in the Northeast US, US West Coast, Australia, and Europe.</p>
+<p><strong><a href="https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center">The Jones/NEFSC team</a></strong> in part collects FDD in collaboration with the fishing industry, which can be underutilized, in part due to the complex nature and challenges creating reproducible research products. They are interested in strengthening open science approaches to increase the value of these data by opening the door to new users who have previously been unable to use the data sets due to their complex nature.</p>
+<br> <img src="../../img/blog/bastille-soe-apple-tree-square.jpg" width="500px">
+<figcaption>
+The SOE apple tree presented by Kim Bastille.
+</figcaption>
+<p><br></p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Openscapes is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attributions 4.0 International License</a></div>   
+    <div class="nav-footer-right">This website is built with <i class="fa-solid fa-heart" title="a heart" aria-label="heart"></i> and <a href="https://quarto.org/">Quarto</a></div>
+  </div>
+</footer>
+
+
+
+</body></html>

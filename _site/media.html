@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.269">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title></title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./images/favicon/favicon_fullres.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/logo/openscapes_hex_badge.png" alt="A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment." class="navbar-logo">
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">HOME</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./approach.html">
+ <span class="menu-text">APPROACH</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">ABOUT</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="./about.html">
+ <span class="dropdown-text">ABOUT US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./team.html">
+ <span class="dropdown-text">OUR TEAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./resources.html">
+ <span class="dropdown-text">OPEN RESOURCES</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./media.html">
+ <span class="dropdown-text">MEDIA</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./code-of-conduct.html">
+ <span class="dropdown-text">CODE OF CONDUCT</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">INITIATIVES</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
+        <li>
+    <a class="dropdown-item" href="./initiatives.html">
+ <span class="dropdown-text">ALL INITIATIVES</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./initiatives.html#champions-program">
+ <span class="dropdown-text">CHAMPIONS PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./initiatives.html#nasa-openscapes">
+ <span class="dropdown-text">NASA OPENSCAPES</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./initiatives.html#mentors-framework">
+ <span class="dropdown-text">MENTORS FRAMEWORK</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./initiatives.html#pathways-to-open-science-program">
+ <span class="dropdown-text">PATHWAYS TO OPEN SCIENCE PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./initiatives.html#reflections-program">
+ <span class="dropdown-text">REFLECTIONS PROGRAM</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./blog.html">
+ <span class="menu-text">BLOG</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-connect" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">CONNECT</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-connect">    
+        <li>
+    <a class="dropdown-item" href="./connect.html">
+ <span class="dropdown-text">CONNECT WITH US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./events.html">
+ <span class="dropdown-text">EVENTS</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/openscapes"><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://fosstodon.org/@openscapes"><i class="bi bi-mastodon" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:hello@openscapes.org"><i class="bi bi-envelope" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content page-columns page-full column-body" id="quarto-document-content">
+
+
+
+<div class="column-screen">
+<p><img src="images/banner_imgs/text_banners/media_banner.png" class="img-fluid"></p>
+<p><br></p>
+<div class="white-div">
+<div class="medium-body-text center-text">
+<p><strong>Storytelling is key to changing culture and growing the movement for open, kinder science.<br>Get inspired through the stories below, and pass them on.</strong></p>
+</div>
+<p><br></p>
+<section id="publications" class="level2">
+<h2 class="anchored" data-anchor-id="publications">PUBLICATIONS</h2>
+<ul>
+<li><p>Erin Robinson &amp; Julia Stewart Lowndes. <a href="https://eartharxiv.org/repository/view/4560/">The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices</a>, preprint, 2022</p></li>
+<li><p>Abigail Cabunoc Mayes, Chad Sansing, Julia Lowndes. <a href="https://opensource.com/article/20/6/remote-meetings">3 lessons from remote meetings we’re taking back to the office</a>. Open Source Way, 2020</p></li>
+<li><p>Julia S. Stewart Lowndes. <a href="https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/">Open software means kinder science</a>. Scientific American, 2019</p></li>
+<li><p>Julia S. Stewart Lowndes, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen &amp; Chelsea L. Wood. <a href="https://www.nature.com/articles/d41586-019-03335-4">Supercharge your research: a ten-week plan for open data science</a>. Nature, Career Column, 2019</p></li>
+<li><p>Julia S. Stewart Lowndes, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O’Hara, Ning Jiang, &amp; Benjamin S. Halpern. <a href="https://www.nature.com/articles/s41559-017-0160">Our path to better science in less time using open data science tools</a>. Nature Ecology &amp; Evolution, 2017 ( Openscapes origins)</p></li>
+</ul>
+</section>
+<section id="media" class="level2">
+<h2 class="anchored" data-anchor-id="media">MEDIA</h2>
+<ul>
+<li><p><a href="https://nsidc.org/news-analyses/news-stories/using-nasa-openscapes-framework-enable-open-science">Using the NASA Openscapes Framework to enable open science</a> - Audrey Payne. March 16, 2023. <em>NASA’s National Snow and Ice Data Center</em></p></li>
+<li><p><a href="https://open.spotify.com/episode/5VxMtPXeV6geWlFOoQf5j7">Open Science, Openscapes, Climate Action, and Kindness</a> — Schalk Neethling. March 8, 2023. <em>Mechanical Ink Podcast</em></p></li>
+<li><p><a href="https://earthdata.nasa.gov/learn/openscapes">Openscapes: Using “The Force” of Open Science in the Cloud</a> — Emily Cassidy. March 24, 2021. <em>NASA Earth Data</em>.</p></li>
+<li><p><a href="https://sparcopen.org/impact-story/openscapes-embraces-kindness-and-inclusion-of-open-science/">Openscapes embraces kindness and inclusion of open science</a> — January 26, 2021. <em>SPARC Impact Stories</em>.</p></li>
+<li><p><a href="https://podcasts.apple.com/us/podcast/9-using-git-to-drive-better-science-with-dr-julie-lowndes/id1506653409?i=1000491609299">Using Git to Drive Better Science with Dr.&nbsp;Julie Lowndes</a> — Kate Wing. September 17, 2020. <em>Intertidal Podcast</em>.</p></li>
+<li><p><a href="https://www.nature.com/articles/d41586-020-00216-z">Tech tools to make research more open and inclusive</a> — Kendall Powell. February 3, 2020. <em>Nature</em>.</p></li>
+<li><p><a href="https://medium.com/read-write-participate/open-science-and-star-wars-2577b8081e8f">Open Science and ‘Star Wars’</a> - Mozilla. July 11, 2019. <em>Medium</em>.</p></li>
+<li><p><a href="https://sciencephilanthropyalliance.org/a-rising-tide-funding-ocean-science-alliance-blog-post/">A Rising Tide: Funding Ocean Science</a> — Science Philanthropy Alliance. April 1, 2019. <em>Alliance blog post</em>.</p></li>
+<li><p><a href="https://www.nceas.ucsb.edu/news/nceas-portrait-julie-lowndes">Julie Lowndes Wants the Force of Open Data Science to Be with You</a> — NCEAS. March 12, 2019. <em>NCEAS Portrait</em>.</p></li>
+<li><p><a href="https://medium.com/read-write-participate/announcing-openscapes-open-science-is-better-science-debe520d3de5">Announcing Openscapes: Open Science is Better Science</a> - Mozilla. January 29, 2019. <em>Medium</em>.</p></li>
+</ul>
+</section>
+<section id="lessons" class="level2">
+<h2 class="anchored" data-anchor-id="lessons">LESSONS</h2>
+<ul>
+<li><p><a href="https://openscapes.github.io/series/">Openscapes Champions Lesson Series</a> — mentorship curriculum for the Champions program.</p></li>
+<li><p><a href="https://rstudio-conf-2020.github.io/r-for-excel/">R for Excel Users</a> — hands-on training curriculum for a workshop at the 2020 RStudio Conference, taught over two days with the Openscapes mindset: it is a friendly and empowering intro to becoming a modern R user. Co-developed and taught with Allison Horst.</p></li>
+<li><p><a href="./blog/2020-10-12-tidy-data/index.html">Tidy Data Illustrated Series</a> — artwork to illustrate why tidy data is so powerful for efficiency, reproducibility, and collaboration. Developed with and illustrated by Allison Horst.</p></li>
+<li><p><a href="./blog/2022-05-27-github-illustrated-series/index.html">GitHub Illustrated Series</a> — artwork to illustrate why GitHub is powerful for supporting, reusing, contributing, and failing safely. Developed with and illustrated by Allison Horst.</p></li>
+<li><p><a href="https://openscapes.github.io/approach-guide/">Openscapes Approach Guide</a> — an open and iterating guide to document our process and onboard folks to the Openscapes approach.</p></li>
+</ul>
+</section>
+<section id="presentations" class="level2">
+<h2 class="anchored" data-anchor-id="presentations">PRESENTATIONS</h2>
+<p><em>See <a href="https://nasa-openscapes.github.io/">NASA-Openscapes</a> and <a href="https://nmfs-openscapes.github.io/">NMFS-Openscapes</a> for many additional presentations from NASA and NOAA Fisheries Mentors!</em></p>
+<ul>
+<li><p><a href="https://docs.google.com/presentation/d/1d_NbCluzjUI57oxnttWJxe0NEGucbJWUWCaE5tTuUGI/edit?usp=sharing">Openscapes: supporting kinder science for future us</a> - May 9, 2023 — EPA Center for Environmental Management &amp; Modeling (CEMM) (35 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1WzNaQWVBTLSq4IX0GkvGlQWbDJ4isVpSvGnjb_rdEKU/edit?usp=sharing">Openscapes: supporting kinder science for future us</a> - March 31, 2023 — Julie Lowndes, Ileana Fenwick. <a href="https://www.utm.utoronto.ca/biology/biology-seminar-series">Univ. Toronto Mississauga Biology Seminar Series</a> (45 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/14iEGfbipt5HBlVyyf3kvjyxas4lBoRlbT8u8iFr2VNw/edit?usp=sharing">Communicating Impact: NASA Openscapes</a> - March 22, 2023 - Julie Lowndes, Erin Robinson, Justin Rice. NASA ESDSWG Meeting, Baltimore, Maryland (15 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1CkhsAB9SZrfa5ARvm7b0B48xlPWuOHioqlsa5jqD92A/edit?usp=sharing">Openscapes: supporting kinder science for future us</a> - March 8, 2023 - Julie Lowndes. <a href="https://www.widsconference.org/">Women in Data Science Conference</a>, Stanford University (<a href="https://www.youtube.com/watch?v=08siJkRUnQM&amp;list=PLHAk3jHXWpxKGSFHyOu9pnSOP9AInU_O2&amp;index=16">video</a>) (15 minutes); (<a href="https://www.youtube.com/watch?v=AwBV2d0Au-o&amp;list=PLHAk3jHXWpxKGSFHyOu9pnSOP9AInU_O2&amp;index=17">panel discussion</a>)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1uKtVnZR8X94tADAWEE1THHKCbvfBbg2PBcH8asaoJQQ/edit">Openscapes: supporting better science for future us</a> - January 11, 2023 - Julie Lowndes. <a href="https://www.exascaleproject.org/event/openscapes/">Best Practices for HPC Software Developers Webinar Series</a> hosted by The IDEAS Productivity project, in partnership with the Department of Energy Computing Facilities of the ALCF, OLCF, and NERSC, and the DOE Exascale Computing Project (ECP). This talk is part of Lowndes’ 2022 <a href="https://bssw.io/pages/meet-our-fellows">NSF Better Scientific Software (BSSw) fellowship</a> (<a href="https://www.youtube.com/watch?v=unjQxQPfnqM">video</a>)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/19OoPaUVVOA6AFLLd9mYeiM8f1BNNnoAjJCP4RD6Ahe8/edit#slide=id.g1b5922f14f8_0_83">Supporting open science as a daily practice</a> - December 16, 2022 - Julie Lowndes, Erin Robinson, Openscapes Mentors. AGU Fall Conference Talk, NASA TOPS <a href="https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/161588">The Future is Open</a> session</p></li>
+<li><p><a href="https://mine.quarto.pub/hello-quarto/">Hello Quarto: share • collaborate • teach • reimagine</a> — July 28, 2022: Keynote at RStudio Conference with Mine Çetinkaya-Rundel (<a href="https://posit.co/keynotes/hello-quarto-share-collaborate-teach-reimagine/">video</a>) (60 minutes)</p></li>
+<li><p><a href="https://github.com/IleanaF/rstudio-conf22">A Journey to Data Science: Tools for Equity and Diversity in STEM</a> - July 28, 2022: Talk by Ileana Fenwick at RStudio Conference (<a href="https://www.rstudio.com/conference/2022/talks/journey-to-data-science-tools/">video</a>) (20 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1Ugj_J3JKQ_taPJ5NjBs9j3rbqsopDuCmkFkxKpBbD8g/edit#slide=id.g127e53acada_2_135">Openscapes teaching practices</a> — May 9, 2022, with Eli Holmes; High-level Group for the Modernisation of Statistical Production and Services (HLG-MOS), United Nations Economic Commission for Europe (UNECE) Meta Academy Workshop (30 minutes) (<a href="https://www.youtube.com/watch?v=TuqgE2jc2ZQ">video</a>)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1jtiku5yOTzBtW2vT1-qwZPri_O2Bc_uzXNebIoKGLMg/edit">NASA Openscapes Lessons from Year 1</a> - April 21, 2022: talk at <a href="https://urs.earthdata.nasa.gov/oauth/authorize?client_id=u1o_8zOuolqNjuLQz6wzYQ&amp;response_type=code&amp;redirect_uri=https%3A%2F%2Fwiki.earthdata.nasa.gov%2Fplugins%2Fservlet%2FConfluenceOAuth2&amp;state=%2Fdisplay%2FESDSWG%2F2022%2BESDSWG%2BMeeting%2BAgenda">ESDSWG</a> (requires login) (40 minutes)</p></li>
+<li><p><a href="https://openscapes.github.io/slides/esip_winter2022#/title-slide">Community Building: The NASA Openscapes Framework</a>- January 18, 2022: ESIP Winter Meeting (10 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1uc2BGBsjVABa_ZnqYCi8EgeFjlUSMd3KMSlQJnok9T8/edit?usp=sharing">Open Project Design: Lessons from the NASA Openscapes Framework</a> — December 17, 2021: invited talk at the Open Science in Action Session at the AGU Fall meeting (30 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1i-HNx756ZsYJMYsavCwiYtp2hbQX6vNyZ6lwVdKJyzQ/edit">Openscapes: Better Science for Future Us</a> — December 8, 2021: invited talk about data interoperability at the <a href="https://www.nationalacademies.org/event/12-08-2021/accelerating-the-analysis-of-geographic-change">National Academies of Science, Engineering, and Medicine (NASEM) meeting co-hosted by the Mapping Sciences Committee and the Geographical Sciences Committee</a> (<a href="https://www.youtube.com/watch?v=zcTJK2UJAwo&amp;t=53s">video</a>) (20 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1ul9b8LcJHd5LVeFwoAmdWtNcXhOUvRIfRc-Y_hWt9oI/edit">Openscapes: Better Science for Future Us</a> — December 3, 2021: Keynote at the <a href="https://datascience.ucsb.edu/summit21">UCSB Data Science Summit</a> (20 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1QrHzdaHmcSKoBGsY12Gg5LaZhW1sfWz2TNLCh8DaJJI/edit?usp=sharing">Openscapes: Intro for NOAA AFSC</a> — December 2, 2021 (8 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1Sl4x6oTsjD4x30O_KwNoqr0-Yckh0CCK75PIqaaYdUY/edit?usp=sharing">Openscapes: Better Science for Future Us</a> — October 14, 2021: <a href="https://science.nasa.gov/researchers/science-data/open-source-science-workshop">NASA’s Open Source Science for Data Processing and Archives Workshop</a> (5 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/18uj2eAgzetPoq73YnRQpcYr2Q-EPuiHNaFE0sgR1XTE/edit?usp=sharing">Openscapes: Better Science for Future Us. Supporting NASA Earth science research teams’ migration to the cloud</a></p>
+<ul>
+<li>September 16, 2021: NSIDC User Working Group</li>
+<li>September 8, 2021: GES DISC User Working Group</li>
+</ul></li>
+<li><p><a href="https://docs.google.com/presentation/d/1SVwkEDe2gUzJJZ5NGsGTsGPde-NJm9HLtKieSeuthfI/edit">Openscapes: Better Science for Future Us. Supporting NASA Earth science research teams’ migration to the cloud</a> - August 12, 2021: LP DAAC User Working Group (20 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit">Better Science for Future Us</a> — July 12, 2021: Plenary at the inaugural Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology <a href="https://www.sortee.org/events/">SORTEE conference</a> (30 minutes) (<a href="https://osf.io/47req">video</a>)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/17XcJSxoE3_-0PqYgQ0l7NctniBNUxaZ5Zo0hjL-bjJo/edit#slide=id.ge415838006_0_161">Better Science for Future Us</a> - June 30, 2021: <a href="https://pangeo.io/pangeo-showcase.html">PANGEO Showcase</a> (15 minutes) <a href="https://discourse.pangeo.io/t/june-30-2021-the-nasa-openscapes-framework/1631">(PANGEO Discourse</a>, <a href="https://zenodo.org/record/5090115#.Y_xGiOzMI-R">Zenodo</a>)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/11-flAlM33E7GwkzlJuuzbs8icfTgYnG7UmDwDkgD49k/edit#slide=id.p">Open science as a movement and the art of Openscapes</a> — June 5, 2021: Keynote with Dr.&nbsp;Allison Horst at <a href="https://cascadiarconf.com/">CascadiaR Conference</a> (20 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1hnK6AdZpKeKILph8rBJoXXT2QKyYgvNlhqsoZ3PQ46s/edit#slide=id.gd8d3954c7d_0_319">Learning to code with open science communities</a> — June 4, 2021: <a href="https://www.nature.com/webcasts/event/how-to-start-learning-to-code-in-research/">Nature Webcast</a> (<a href="https://www.nature.com/articles/d41586-021-01638-z">video</a>) (10 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1Mc__4NfMlLHvChoAWnvEqUocP8JS9Ya317hHRaZhLnM/edit">Openscapes for better science in less time, together</a> — April 6, 2021: CZI Seed Networks Computational Biology Meeting (30 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1_2ybhWlbg_Y_NrTQ_FF8JqqmbsstCkt5IKZqHmwDtFg/edit">NASA DAACs Openscapes Framework</a> — March 25, 2021: NASA ESDS-ESDIS-DAACs-IMPACT Meeting (15 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1EGSTC-p0kKCV3TNpc65Kyy1S0OOFmDalO917S0UIRvE/edit">How you can do better science in less time</a> — March 5, 2021: University of South Florida – College of Marine Science Seminar Series with Dr.&nbsp;Marcus Beck: <a href="https://www.canva.com/design/DAEXu-oE6M4/o4okxvLdSs6t3lrxfqApkA/edit#1">Open science lessons from Tampa Bay</a> (requires login) (20 minutes each) (<a href="https://www.youtube.com/watch?v=21qS05Yv3GQ&amp;t=195s">video</a>)</p></li>
+<li><p><a href="https://openscapes.github.io/slides/betterscience/environment-canada#1">Open practices for better science in less time</a> — February 24, 2021: Open Science Community of Practice, Environment and Climate Change Canada (40 minutes) (video)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/11zgFIzYaMMsNTQVpUY5z3GnPUqTKQLJFTUsF4gi3qQ4/edit?usp=sharing">NASA DAACs Openscapes Framework</a> — February 10, 2021: NASA’s Earth Science Data System Working Groups (<a href="https://urs.earthdata.nasa.gov/oauth/authorize?client_id=u1o_8zOuolqNjuLQz6wzYQ&amp;response_type=code&amp;redirect_uri=https%3A%2F%2Fwiki.earthdata.nasa.gov%2Fplugins%2Fservlet%2FConfluenceOAuth2&amp;state=%2Fdisplay%2FESDSWG%2F2022%2BESDSWG%2BMeeting%2BAgenda">ESDSWG</a>, requires login) (5 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1ty--0Jr7HRD3VXro5K8eMPaxApzeE1dkAZKVC4jyxm0/edit#slide=id.gb1d0505bec_0_0">Openscapes</a> — December 16, 2020 Invest in Open’s <a href="https://investinopen.org/community/jrost-2020-conference/">Joint Roadmap for Open Science Tools (JROST) Conference</a> (5 minutes)</p></li>
+<li><p>Putting data to work through community — December 2020 Plenary <a href="https://connect.agu.org/essi/awards/leptoukh-lecture-winners">Leptoukh Lecture</a> at the American Geophysical Union Conference (<a href="https://www.youtube.com/watch?v=ucBBqiulkEA">video</a>)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1n4Z87Z8ax_pUUO98lHzsOGYHTtbshr_LB5JSznOiIW0/edit#slide=id.p">Audience building for open source projects</a> - December 8, 2020: Workshop at Chan Zuckerberg Initiative Essential Open Source Software for Science Meeting (40 minutes) (<a href="https://zenodo.org/record/4313522#.Y_xIJezMI-R">zenodo</a>)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/15FsK37GQVvhL9zbnP1E1n9CEn-Xu5HvIe2FaIMpdC0s/edit#slide=id.p">Normalizing talking about data</a> - November 23, 2020: CSCCE Data Science Special Interest Group Discussion (10 minutes) (<a href="https://www.cscce.org/2021/02/12/data-science-sig-meeting-recap-normalizing-talking-about-data/">blog &amp; video</a>)</p></li>
+<li><p><a href="">R and teamwork for better science in less time</a> - November 19, 2020: <a href="https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center">NOAA Northwest Fisheries Science Center</a>, Seattle, Washington (45 minutes) (presented remotely)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1AmnPV8eLQl9_0EuHQAqp7xBMHcUlcFkM30509BwJkMA/edit#slide=id.p">How to empower researchers with open science through meeting analytical needs and supporting people</a> - November 5, 2020. National Academies of Sciences, Engineering, and Medicine (NASEM) <a href="https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science">Roundtable on Aligning Incentives for Open Science</a> (<a href="https://docs.google.com/presentation/d/e/2PACX-1vSq8GlWfKNeW8SvAaqae8Uwg9TNKLO3SvdHZQulg75KnavcbA-R78JXtY3ogcEMNJzdxFxCptcSIVfS/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p">published slides</a>)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1OHe4C2B9cGnT9niSguXwsWiK0M2sDsdeNjTOLWAgBX4/edit?usp=sharing">Operationalizing better science in less time</a> - October 29, 2020. Integrating Open Science Tools into National Estuaries Programs Workflows Workshop</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1nM_q9j3zDsB4xPmbQhK7oc4hwUx2tUL19Qqg3-L5Rzg/edit?usp=sharing">How open data science enables better science in less time</a> - August 8, 2020. Ecological Society of America annual conference (20 mins)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1DjrMaEOw1F7zAIEXq3ZjiiyaqVAjydLyYww7huGfch8/edit?usp=sharing">Entryways to open data science and the power of welcome</a> - July 16, 2020: Plenary at <a href="https://2020esipsummermeeting.sched.com/event/cItS/plenary">Earth Science Information Partners Conference</a>, Remote (15 mins) (<a href="https://esip.figshare.com/articles/presentation/Entryways_to_open_data_science_and_the_power_of_welcome/12654689/1">Figshare</a>) (<a href="https://www.youtube.com/watch?v=HAh7Xy9ReJo&amp;t=1734s">video, starts ~ 2:55</a>)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1Jv0akRHEnjG_4t_9P7t93682BCBJskYnRu_7EnaeDQI/edit#slide=id.p">Data science as an entryway to open publishing</a> - May 27, 2020: Fireside Chat co-presented with Dr.&nbsp;Nick Tierney at <a href="https://openpublishingfest.org/calendar.html#event-74">Open Publishing Fest</a> (45 minutes), Remote (<a href="https://zenodo.org/record/3873698#.Y_xJK-zMI-R">Zenodo</a>)</p></li>
+<li><p><a href="https://openscapes.github.io/slides/betterscience/idiv#1">R and teamwork for better science in less time</a> - April 21, 2020: <a href="https://www.idiv.de/en/ydiv/courses-and-training/compphylo-1-1.html">German Centre for Integrative Biodiversity Research (iDiv)</a>, Leipzig, Germany (45 minutes) (presented remotely)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/16XtypOVGzuc50gYYsuUIhEkJubPdQztOYHmx9ObEiXg/edit?usp=sharing">Supercharging research with open data science and teamwork</a> - March 11, 2020: Keynote at <a href="https://www.open-science-conference.eu/">Open Science Conference</a>, Berlin, Germany (20 minutes) (presented remotely)</p></li>
+<li><p><a href="https://openscapes.github.io/slides/betterscience/smast#1">R and teamwork for better science in less time</a> - February 25, 2020: UMass Dartmouth’s School for Marine Science &amp; Technology (SMAST), New Bedford, Massachusetts (45 minutes)</p></li>
+<li><p><a href="https://openscapes.github.io/slides/betterscience/sccwrp#1">R and teamwork for better science in less time</a> - February 7, 2020: Southern California Coastal Water Research Project (SCCWRP), Costa Mesa, California (45 minutes) (<a href="https://vimeo.com/390086585">video</a>)</p></li>
+<li><p><a href="https://openscapes.github.io/slides/betterscience/socalR#1">R for better science in less time</a> - November 23, 2019: <a href="https://twitter.com/socalrug/status/1187407820213379074">Southern California R Users All Hands Meetup</a>, Los Angeles, California (45 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1LA4EcnRxD11rjwbRh0hrjPG5J0dmiiuCbNaoQrz0XHU/edit?usp=sharing">R for better science in less time: Lessons from the Ocean Health Index and Openscapes</a> - November 21, 2019: <a href="https://fish.uw.edu/news-events/events/">School of Aquatic and Fisheries Sciences, University of Washington</a>, Seattle, Washington (45 minutes)</p></li>
+<li><p><a href="https://openscapes.github.io/slides/betterscience/escience#1">R and friends for better science in less time in big (and small) team collaborations</a> - November 19, 2019: <a href="https://escience.washington.edu/">eScience Institute</a>, Seattle, Washington (45 minutes) (<a href="https://www.youtube.com/watch?v=HjTLTiAWk1g">video</a>)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/16nhQhW8sUz0XvpKX4Vgn0vpU7tesi6wXGwvLZF10r-8/edit?usp=sharing">Building communities of practice around environmental open data science</a> - October 16, 2019: <a href="https://force11.org/force2019/">FORCE11 Conference</a>, Edinburgh, Scotland (30 minutes) (<a href="https://zenodo.org/record/3497306#.Y_xKzuzMI-R">Zenodo</a>)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/13JkwCiXjfZfNucAsDwHI6FdEvpOngCv50cjnT7HXJK8/edit?usp=sharing">Better science in less time: Lessons from the Ocean Health Index and Openscapes</a> - September 5, 2019: <a href="https://tbep.org/">Tampa Bay Estuary Program Open Science Workshop</a>, St Petersburg, Florida (presented remotely) (20 minutes)</p></li>
+<li><p><a href="https://jules32.github.io/useR-2019-keynote/#1">R for better science in less time</a> - July 10, 2019: Opening Keynote, <a href="http://user2019.r-project.org/">useR Conference</a>, Toulouse, France (45 minutes) (<a href="https://www.youtube.com/watch?v=Z8PqwFPqn6Y">video, starts ~46:30</a>)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1KXzPId1IvspsemIOmOUQEOqt8-Nw4Lhb2-Xvi_XZWeU/edit?usp=sharing">Building communities of practice around environmental open data science</a> - May 8, 2019: Presentation, <a href="https://csvconf.com/">csv,conf,v4</a>, Portland, Oregon, USA (20 minutes) (<a href="https://zenodo.org/record/2695625#.Y_xLKezMI-R">Zenodo</a>)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1nuaZie__0DNdkUAyoHpwX0hnj0AWh0HUPl3Guzu7s6Q/edit?usp=sharing">Building communities and changing culture with environmental open data science</a> - April 18, 2019: <a href="https://loacom.com/">LOACOM</a>, Santa Barbara, California (20 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1vqUJpdfjEzFzlh-cAPcIpUBwhFsaMSqyjDhQUjh6aR8/edit#slide=id.g3601f799be_0_0">How the Ocean Health Index enables better science in less time</a> - April 15, 2019: Department Seminar, <a href="https://bren.ucsb.edu/">Bren School of Environmental Science and Management</a>, University of California, Santa Barbara, California (45 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/17d-G0lgLxuJtMF0T6MTIczpyat1aW-RaMQMF5kwpxPw/edit">How mentorship &amp; community enables better science in less time</a> - February 21, 2019: <a href="http://mozillasciencefellows.com/">Mozilla Science Fellows Summit</a>, New York City, New York (5 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1Kd394aSYHsE0UjTCSEYLhQUwbTKuxvxZKXjOQGNwCwo/edit?usp=sharing">Building communities of practice around environmental open data science</a> - February 8, 2019: <a href="https://portal.clubrunner.ca/4633/Speakers/709a97af-74d2-4fe3-976e-f4572d393f41">Palo Alto University Rotary Club Meeting</a>, Palo Alto, California (20 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/17owW5RlOKrVdlWzpE-dayadVVwKh5F3RWBkHqzB-DbM/edit#slide=id.g4a3e345743_0_0">Enabling Open Leaders &amp; Open Culture in Science</a> - December 6, 2018: Mozilla All Hands Meeting, Orlando, Florida (5 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1s6o4lqrn3zk2_UF2W-6A5orAT-bXREJ_mB6ghf-3eZQ/edit?usp=sharing">My Fellowship with Mozilla: Building communities of practice around environmental open data science</a> - November 07, 2018: Roundtable, NCEAS, Santa Barbara, California (45 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1c0DGai88kLuRxeWgmcC1KWt9Egm29VB0kmntXRej_-s/edit?usp=sharing">Openscapes: Building communities of practice around environmental open data science</a> - November 15, 2018: Progress report (15 minutes)</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/13k_Vl5O7CXhgoWYxyUZJv1QfVRu3gv1gcpe7-GjBuJM/edit?usp=sharing">Increasing the value and practice of environmental open data science</a> - October 17, 2018: Protein Sustainability Working Group, NCEAS, Santa Barbara, California (10 minutes)</p></li>
+</ul>
+</section>
+</div>
+</div>
+
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Openscapes is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attributions 4.0 International License</a></div>   
+    <div class="nav-footer-right">This website is built with <i class="fa-solid fa-heart" title="a heart" aria-label="heart"></i> and <a href="https://quarto.org/">Quarto</a></div>
+  </div>
+</footer>
+
+
+
+</body></html>

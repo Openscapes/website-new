@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.269">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title></title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./images/favicon/favicon_fullres.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/logo/openscapes_hex_badge.png" alt="A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment." class="navbar-logo">
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">HOME</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./approach.html" aria-current="page">
+ <span class="menu-text">APPROACH</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">ABOUT</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="./about.html">
+ <span class="dropdown-text">ABOUT US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./team.html">
+ <span class="dropdown-text">OUR TEAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./resources.html">
+ <span class="dropdown-text">OPEN RESOURCES</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./media.html">
+ <span class="dropdown-text">MEDIA</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./code-of-conduct.html">
+ <span class="dropdown-text">CODE OF CONDUCT</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">INITIATIVES</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
+        <li>
+    <a class="dropdown-item" href="./initiatives.html">
+ <span class="dropdown-text">ALL INITIATIVES</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./initiatives.html#champions-program">
+ <span class="dropdown-text">CHAMPIONS PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./initiatives.html#nasa-openscapes">
+ <span class="dropdown-text">NASA OPENSCAPES</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./initiatives.html#mentors-framework">
+ <span class="dropdown-text">MENTORS FRAMEWORK</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./initiatives.html#pathways-to-open-science-program">
+ <span class="dropdown-text">PATHWAYS TO OPEN SCIENCE PROGRAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./initiatives.html#reflections-program">
+ <span class="dropdown-text">REFLECTIONS PROGRAM</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./blog.html">
+ <span class="menu-text">BLOG</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-connect" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">CONNECT</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-connect">    
+        <li>
+    <a class="dropdown-item" href="./connect.html">
+ <span class="dropdown-text">CONNECT WITH US</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./events.html">
+ <span class="dropdown-text">EVENTS</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/openscapes"><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://fosstodon.org/@openscapes"><i class="bi bi-mastodon" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:hello@openscapes.org"><i class="bi bi-envelope" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content page-columns page-full column-body" id="quarto-document-content">
+
+
+
+<div class="column-screen">
+<p><img src="images/banner_imgs/text_banners/our_approach_banner.png" class="img-fluid"></p>
+<p><br></p>
+<div class="white-div">
+<div class="medium-body-text center-text">
+<p><strong>We believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science and beyond.</strong></p>
+</div>
+<p><br></p>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/minis/fox_hat.png" class="img-fluid figure-img" style="width:8.0%" alt="An orange fox wearing a purple baseball cap with the orange Openscapes logo on the front holds a white flag that says, 'Welcome!' in its outstretched arm."></p>
+</figure>
+</div>
+</div>
+</div>
+<p><br></p>
+<!---We know that daily demands leave little time to transition to better data practices and open science, which can be lonely and overwhelming.--->
+<p><strong>Openscapes helps shift culture</strong> by mentoring researchers to move from lonely science as they skillbuild and navigate the open science landscape safely with their teams and communities.</p>
+<p>We call this kinder science for future us.</p>
+<p><br></p>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/page_imgs/horst_openscapes_champions.jpg" class="img-fluid figure-img" style="width:75.0%" alt="A landscape consisting of a grassy meadow next to a sandy beach and ocean, a winding river, and distant mountains. In the foreground, a sad bunny and skunk are working alone on their laptops, each with a rain cloud over their heads. Nearby is a trailhead with a fox holding a 'Welcome!' sign for a variety of different critters to see. Past the trailhead are branching pathways through the Openscapes landscape. No matter the path, however, there are small groups of animals working together to find their way. Nods to data science are scattered throughout the image, including mountains made of data points and a satellite in the sky."></p>
+</figure>
+</div>
+</div>
+</div>
+<p><br></p>
+<p><strong>We approach open science as a spectrum, a behavior change, and a movement.</strong> There are many ways to practice open science and to welcome others to participate. We share our work openly and share stories, in part through our <a href="./resources.html">resources</a>, <a href="./media.html">media</a>, <a href="./blog.html">blog</a>, and <a href="./events.html">events</a>. We are influenced and inspired by many leaders and community organizers, particularly in climate and get out the vote movements.</p>
+<p><br></p>
+<section id="openscapes-flywheel" class="level2">
+<h2 class="anchored" data-anchor-id="openscapes-flywheel">OPENSCAPES FLYWHEEL</h2>
+<p><strong>Our approach for movement building and sustainability is underpinned by our Flywheel</strong> (<a href="https://eartharxiv.org/repository/view/4560/">Robinson &amp; Lowndes 2022</a>). The Flywheel concept was developed by <a href="https://www.jimcollins.com/">Jim Collins</a> in the book Good to Great. No matter how dramatic the end result, building something to last never happens in one fell swoop. Rather, the process resembles relentlessly pushing a giant, heavy flywheel, turn upon turn, building momentum. It is never one big thing, it is many little things reinforced over time. Our Flywheel drives how we work on a daily basis and how we plan for years to come.</p>
+<!--- For Approach Guide? OR just cut if already there
+1.  [**Openscapes Champions Program:**](champions_program.qmd) A remote-by-design, cohort-based open data science mentorship program for research groups. Cohorts of research groups are mentored with their peers over several months following the [Champions Lesson Series](https://openscapes.github.io/series), and learn how to [supercharge their research](https://www.nature.com/articles/d41586-019-03335-4).
+
+2.  **Openscapes Framework:** A scalable leadership and community building framework that supports researchers and staff transitioning to open data science. The framework involves developing a Mentor community, empowering science teams through the Champions Program, and scaling the Champions program with the Mentors in a way that is sustainable and supported. See our [flywheel](https://www.jimcollins.com/concepts/the-flywheel.html) below, and an example: [NASA Openscapes](https://nasa-openscapes.github.io/).
+
+--->
+<p><br></p>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/diagrams/openscapes-flywheel-v2023.06.png" class="img-fluid figure-img" style="width:73.0%" alt="A diagram of the Openscapes flywheel. The Openscapes logo sits in the center of a cyclical process. The text around the logo reads as follows: 'Welcome bright spots (be they mentors or researchers) -- people who want to work better and collaborate' > 'Create space and place to connect and collaborate; remove barriers to participation (paid time, part of jobs)' > 'Invest in learning and trust; Everyone has something to learn, ask, teach; don't need to be an expert in everything. Cultivate psychological safety, growth mindset. Slowing down to speed up.' > 'Work Openly; Put what you learn into practice quickly, role-modeing sharing imperfect work and identifying common challenges and opportunities. Openness is a spectrum; first Future You and then Future Us' > Leverage common workflows, skills, tools; This is where we speed up: Iterate, reuse, remix with each other and teh broader community' > 'Inspire broader scientific communities through visible examples and leaders -- Open science shift' > repeat. These six steps are summarized by three overarching goals, which are also written around the logo: 'Engage a future us mindset', 'Empower learning culture', and 'Amplify open leaders'."></p>
+</figure>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class="yellow-box">
+<div class="medium-body-text center-text">
+<p><i class="fa-solid fa-book-open" title="An open book" aria-label="book-open"></i> Openscapes Approach Guide</p>
+</div>
+<div class="center-text">
+<p>The <a href="https://openscapes.github.io/approach-guide/"><strong>Openscapes Approach Guide</strong></a> is our “lab manual”, an attempt to codify our approach to onboard ourselves and new team members to how we work. It is an open source resource you can use too.</p>
+<p><em>Cite as: Openscapes Core Team, Butland, Robinson, Lowndes. (2023). Openscapes Approach Guide (v2023.06). Zenodo. <a href="https://doi.org/10.5281/zenodo.8034313">https://doi.org/10.5281/zenodo.8034313</a></em></p>
+</div>
+</div>
+<p><br></p>
+</section>
+<section id="how-we-work" class="level2">
+<h2 class="anchored" data-anchor-id="how-we-work">HOW WE WORK</h2>
+<p><strong>Openscapes helps teams transition to inclusive open science workflows.</strong> We mentor teams to better tackle their questions by strengthening shared practices, underpinned by existing community-developed tools.</p>
+<!---As teams identify their focus and the people involved (blue), we provide mentorship and scaffolding around open data science practices (green), which are underpinned by existing community-developed tools (orange).--->
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/diagrams/horst_pew_tools_practice_mindset.jpg" class="img-fluid figure-img" style="width:50.0%" alt="The Openscapes theory of change illustrated as concentric circles. The outer gray circle represents approaches. The phrases, 'Data, Evidence, Knowledge', 'Theory, Understanding', and 'Methods, Science, Policy' are written aatop this gray circle. Blue  boxes sit atop the gray circle as well. They say, 'QUESTIONS teams tackle', 'TEAMS: scientists, researchers, practitioners', 'PARTNERS + COMMUNITIES'. A green circle representing Open Data Science Practices sits within the gray outer cricle. The following words are writtedn atop the green circle: 'Kindess + Inclusion', 'Robust Analyses', 'Streamlined Collaboration', 'Expanded Communications'. At the center of this diagram is a Ven Diagram of three overlapping orange circles representing Open Data Science Tools. Once circle represents 'Code + Version Control' (tools such as git, R, Python), 'Contribution Platforms' (tools such as GitHub, disqus), and 'Publication + Distribution' (tools such as R Markdown, dashboards, websites)."></p>
+</figure>
+</div>
+</div>
+</div>
+<p>Our <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsku45HW-vQCPaVARXIo7a18KHdYxwn_0vk2QdNP5RZ7kUxNyqD466NYiagxZtyqoabXAilK32U5yx/pubhtml?gid=365554279&amp;single=true">our theory of change</a> is that by engaging, empowering, and amplifying research teams with open habits and mindsets for data-intensive science, they become leaders in the open science movement and have more enduring scientific impact while also creating a kinder, more inclusive scientific culture.</p>
+<p><br></p>
+<!---
+In mentoring research teams, we are interested in evaluating and understanding which open data science tools are adopted, who participates, and how questions and mindsets shift. Our hypothesis is that adoption of open data science tools will lead to robust, data-driven outcomes; that participation in open data science practices will lead to deeper inclusion and belonging; and that shifting mindsets and questions asked will lead to enduring partnerships and expanded questions. We define open data science as the tools and practices enabling reproducible, transparent, and inclusive data-driven research.
+--->
+</section>
+</div>
+</div>
+
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Openscapes is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attributions 4.0 International License</a></div>   
+    <div class="nav-footer-right">This website is built with <i class="fa-solid fa-heart" title="a heart" aria-label="heart"></i> and <a href="https://quarto.org/">Quarto</a></div>
+  </div>
+</footer>
+
+
+
+</body></html>

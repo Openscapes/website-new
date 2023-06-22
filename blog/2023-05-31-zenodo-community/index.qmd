@@ -11,7 +11,7 @@ categories:
 #   - impact
 #   - noaa-fisheries
 #   - nasa-framework
-banner: zenodo-openscapes-community-square.png
+image: zenodo-openscapes-community-square.png
 ---
 
 # We created a Zenodo Openscapes Community!

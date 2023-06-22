@@ -1,7 +1,7 @@
 ---
 title: "New Zenodo Openscapes Community helps you Find and Cite Openscapes things"
 author: Stefanie Butland
-date: '2023-05-31'
+date: 2023-05-31
 slug: zenodo-community
 categories:
   - how-we-work

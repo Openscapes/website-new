@@ -1,4 +1,12 @@
 # Redirects from what the browser requests to what we serve
 
+/series/ https://openscapes.github.io/series
+/summit2019/ https://openscapes.github.io/summit2019
+/cyop/ https://openscapes.github.io/cyop
+/proposals/ https://openscapes.github.io/proposals
+/approach-guide/ https://openscapes.github.io/approach-guide
+/cohorts/ https://openscapes.github.io/events/#category=Champions%20Cohort
+/quarto-website-tutorial https://openscapes.github.io/quarto-website-tutorial/
+/booklet/ https://openscapes.github.io/booklet
 /blog/2023/05/17/mentor-coach/ /blog/2023-05-17-mentor-coach
 /champions/ /champions-program

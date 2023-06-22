@@ -1,3 +1,74 @@
+# ---------------- main pages ---------------- #
+
+[[redirects]]
+  from = "/about/"
+  to = "/about"
+  status = 301
+  
+[[redirects]]
+  from = "/approach/"
+  to = "/approach"
+  status = 301
+
+[[redirects]]
+  from = "/blog/"
+  to = "/blog"
+  status = 301
+  
+[[redirects]]
+  from = "/champions/"
+  to = "/champions-program"
+  status = 301
+  
+[[redirects]]
+  from = "/code-of-conduct/"
+  to = "/code-of-conduct"
+  status = 301
+
+[[redirects]]
+  from = "/contact/"
+  to = "/connect"
+  status = 301
+
+[[redirects]]
+  from = "/index/"
+  to = "/index"
+  status = 301
+
+[[redirects]]
+  from = "/initiatives/"
+  to = "/initiatives"
+  status = 301
+
+[[redirects]]
+  from = "https://openscapes.github.io/events/"
+  to = "/events"
+  status = 301
+  
+[[redirects]]
+  from = "/faq/"
+  to = "/faq"
+  status = 301
+
+[[redirects]]
+  from = "/gallery/"
+  to = "/gallery"
+  status = 301
+
+[[redirects]]
+  from = "/media/"
+  to = "/media"
+  status = 301
+  
+[[redirects]]
+  from = "/resources/"
+  to = "/resources"
+  status = 301
+
+[[redirects]]
+  from = "/team/"
+  to = "/team"
+  status = 301
 
 # ---------------- blog posts ---------------- #
 

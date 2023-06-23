@@ -1,4 +1,550 @@
+# ---------------- main pages ---------------- #
+
 [[redirects]]
-  from = "/blog/2023/04/06/kyber/"
-  to = "/blog/2023-04-06-kyber/"
+  from = "/about/"
+  to = "/about"
   status = 301
+  
+[[redirects]]
+  from = "/approach/"
+  to = "/approach"
+  status = 301
+
+[[redirects]]
+  from = "/blog/"
+  to = "/blog"
+  status = 301
+  
+[[redirects]]
+  from = "/champions/"
+  to = "/champions-program"
+  status = 301
+  
+[[redirects]]
+  from = "/code-of-conduct/"
+  to = "/code-of-conduct"
+  status = 301
+
+[[redirects]]
+  from = "/contact/"
+  to = "/connect"
+  status = 301
+
+[[redirects]]
+  from = "/index/"
+  to = "/index"
+  status = 301
+
+[[redirects]]
+  from = "/initiatives/"
+  to = "/initiatives"
+  status = 301
+
+[[redirects]]
+  from = "https://openscapes.github.io/events/"
+  to = "/events"
+  status = 301
+  
+[[redirects]]
+  from = "/faq/"
+  to = "/faq"
+  status = 301
+
+[[redirects]]
+  from = "/gallery/"
+  to = "/gallery"
+  status = 301
+
+[[redirects]]
+  from = "/media/"
+  to = "/media"
+  status = 301
+  
+[[redirects]]
+  from = "/resources/"
+  to = "/resources"
+  status = 301
+
+[[redirects]]
+  from = "/team/"
+  to = "/team"
+  status = 301
+
+# ---------------- blog posts ---------------- #
+
+[[redirects]]
+	from = "/blog/2021/03/10/nasa-announcement/"
+	to = "/blog/2021-03-10-nasa-announcement/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/05/03/noaa-nwfsc-champions/"
+	to = "/blog/2021-05-03-noaa-nwfsc-champions/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2022/02/17/esip-winter-2022/"
+	to = "/blog/2022-02-17-esip-winter-2022/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2022/12/09/case-study-swfsc-sael/"
+	to = "/blog/2022-12-09-case-study-swfsc-sael/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/03/04/events-spring-2021/"
+	to = "/blog/2021-03-04-events-spring-2021/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/05/29/developing-reproducible-workflows/"
+	to = "/blog/2020-05-29-developing-reproducible-workflows/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/01/28/introducing-champions-program/"
+	to = "/blog/2019-01-28-introducing-champions-program/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2022/11/17/nasa-earthdata-cloud-infrastructure/"
+	to = "/blog/2022-11-17-nasa-earthdata-cloud-infrastructure/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/07/08/csu-coast-cohort/"
+	to = "/blog/2021-07-08-csu-coast-cohort/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2022/03/29/sasi-champions/"
+	to = "/blog/2022-03-29-sasi-champions/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/01/06/audience-building/"
+	to = "/blog/2021-01-06-audience-building/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2023/03/16/esip-winter-2023/"
+	to = "/blog/2023-03-16-esip-winter-2023/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2018/12/17/want-to-learn-r/"
+	to = "/blog/2018-12-17-want-to-learn-r/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/12/11/towards-kinder-science/"
+	to = "/blog/2019-12-11-towards-kinder-science/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2023/03/21/news-march-2022/"
+	to = "/blog/2023-03-21-news-march-2022/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/03/31/fay-lab-experience/"
+	to = "/blog/2020-03-31-fay-lab-experience/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/05/20/csvconf/"
+	to = "/blog/2019-05-20-csvconf/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2022/05/27/github-illustrated-series/"
+	to = "/blog/2022-05-27-github-illustrated-series/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/05/07/may-updates/"
+	to = "/blog/2021-05-07-may-updates/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/06/03/case-study-jayasundara-lab/"
+	to = "/blog/2019-06-03-case-study-jayasundara-lab/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/07/13/css-cohort/"
+	to = "/blog/2021-07-13-css-cohort/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/02/04/rstudioconf-2020/"
+	to = "/blog/2020-02-04-rstudioconf-2020/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/08/25/entryway-open-publishing/"
+	to = "/blog/2020-08-25-entryway-open-publishing/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/03/27/champions-incorporate-open-science/"
+	to = "/blog/2019-03-27-champions-incorporate-open-science/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2022/12/20/monica-granados/"
+	to = "/blog/2022-12-20-monica-granados/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/11/03/champions-fall-cohorts-2021/"
+	to = "/blog/2021-11-03-champions-fall-cohorts-2021/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/03/06/workshop-noaa-nefsc/"
+	to = "/blog/2020-03-06-workshop-noaa-nefsc/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2022/01/25/open-leadership/"
+	to = "/blog/2022-01-25-open-leadership/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/11/12/fdd-champions/"
+	to = "/blog/2021-11-12-fdd-champions/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2022/05/12/nasa-2022-champions/"
+	to = "/blog/2022-05-12-nasa-2022-champions/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2023/05/17/mentor-coach/"
+	to = "/blog/2023-05-17-mentor-coach/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/05/11/logan-lab-experience/"
+	to = "/blog/2021-05-11-logan-lab-experience/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2023/02/16/noaa-afsc-fall/"
+	to = "/blog/2023-02-16-noaa-afsc-fall/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2018/02/09/rprofile-lowndes/"
+	to = "/blog/2018-02-09-rprofile-lowndes/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/08/01/sortee-plenary/"
+	to = "/blog/2021-08-01-sortee-plenary/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/11/29/events-december-2021/"
+	to = "/blog/2021-11-29-events-december-2021/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2022/04/07/afsc-supportive-forum/"
+	to = "/blog/2022-04-07-afsc-supportive-forum/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/07/06/better-data-management-for-better-science/"
+	to = "/blog/2020-07-06-better-data-management-for-better-science/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2022/11/03/vacationing-with-open-science/"
+	to = "/blog/2022-11-03-vacationing-with-open-science/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2023/04/06/kyber/"
+	to = "/blog/2023-04-06-kyber/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/11/16/tampa-bay-reporting/"
+	to = "/blog/2020-11-16-tampa-bay-reporting/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/05/29/case-study-wood-lab/"
+	to = "/blog/2019-05-29-case-study-wood-lab/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2018/11/16/start-coding-club/"
+	to = "/blog/2018-11-16-start-coding-club/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/02/18/r-for-excel/"
+	to = "/blog/2020-02-18-r-for-excel/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2022/08/10/quarto-keynote/"
+	to = "/blog/2022-08-10-quarto-keynote/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2023/05/02/news-may-2023/"
+	to = "/blog/2023-05-02-news-may-2023/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/02/19/rstudioconf/"
+	to = "/blog/2019-02-19-rstudioconf/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2022/09/30/sefsc-summer/"
+	to = "/blog/2022-09-30-sefsc-summer/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/12/07/california-waterboards-mentors/"
+	to = "/blog/2021-12-07-california-waterboards-mentors/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/12/15/nasa-2021-cloud-hackathon/"
+	to = "/blog/2021-12-15-nasa-2021-cloud-hackathon/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2022/04/26/beth-duckles/"
+	to = "/blog/2022-04-26-beth-duckles/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/10/01/allison-hill/"
+	to = "/blog/2021-10-01-allison-hill/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/06/04/case-study-stier-lab/"
+	to = "/blog/2019-06-04-case-study-stier-lab/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/06/25/lessons-remote-meetings/"
+	to = "/blog/2020-06-25-lessons-remote-meetings/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2022/07/21/quarto-migrate/"
+	to = "/blog/2022-07-21-quarto-migrate/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/06/10/case-study-therkildsen-lab/"
+	to = "/blog/2019-06-10-case-study-therkildsen-lab/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/10/18/nasa-open-source-science/"
+	to = "/blog/2021-10-18-nasa-open-source-science/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/01/05/openscapes-2020/"
+	to = "/blog/2020-01-05-openscapes-2020/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/11/12/noaa-nmfs-champions/"
+	to = "/blog/2021-11-12-noaa-nmfs-champions/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/01/15/personify-code/"
+	to = "/blog/2019-01-15-personify-code/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/08/22/useR-keynote/"
+	to = "/blog/2019-08-22-useR-keynote/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2023/04/26/pathways-report/"
+	to = "/blog/2023-04-26-pathways-report/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/06/15/black-lives-matter/"
+	to = "/blog/2020-06-15-black-lives-matter/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/06/11/case-study-froehlich-lab/"
+	to = "/blog/2019-06-11-case-study-froehlich-lab/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/04/08/summit-reflections1/"
+	to = "/blog/2019-04-08-summit-reflections1/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/03/11/tips-remote-workshops/"
+	to = "/blog/2020-03-11-tips-remote-workshops/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/10/12/tidy-data/"
+	to = "/blog/2020-10-12-tidy-data/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/05/27/tara-robertson/"
+	to = "/blog/2021-05-27-tara-robertson/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/10/04/faseb-dataworks-salon/"
+	to = "/blog/2021-10-04-faseb-dataworks-salon/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/03/10/seaside-chats/"
+	to = "/blog/2019-03-10-seaside-chats/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2023/02/21/news-february-2023/"
+	to = "/blog/2023-02-21-news-february-2023/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/05/02/tidy-tuesday-coding-club/"
+	to = "/blog/2019-05-02-tidy-tuesday-coding-club/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/01/19/welcome-erin-2021-momentum/"
+	to = "/blog/2021-01-19-welcome-erin-2021-momentum/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2023/05/11/pathway-cloud-computing/"
+	to = "/blog/2023-05-11-pathway-cloud-computing/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2022/12/02/swrcb-2022/"
+	to = "/blog/2022-12-02-swrcb-2022/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2023/01/24/noaa-nmfs-fall/"
+	to = "/blog/2023-01-24-noaa-nmfs-fall/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2023/05/31/zenodo-community/"
+	to = "/blog/2023-05-31-zenodo-community/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/08/03/plenery-esip/"
+	to = "/blog/2020-08-03-plenery-esip/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/03/25/rebel-alliance-dr-dawn-wright/"
+	to = "/blog/2021-03-25-rebel-alliance-dr-dawn-wright/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/10/31/supercharging-research/"
+	to = "/blog/2019-10-31-supercharging-research/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2021/09/15/better-science-for-future-us/"
+	to = "/blog/2021-09-15-better-science-for-future-us/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/04/25/summit-reflections2/"
+	to = "/blog/2019-04-25-summit-reflections2/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2018/11/06/build-communities/"
+	to = "/blog/2018-11-06-build-communities/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2022/12/12/nasa-se-tim/"
+	to = "/blog/2022-12-12-nasa-se-tim/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/09/30/advisory-meeting/"
+	to = "/blog/2020-09-30-advisory-meeting/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/02/21/ropensci-leadership/"
+	to = "/blog/2020-02-21-ropensci-leadership/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2022/06/22/hello-quarto/"
+	to = "/blog/2022-06-22-hello-quarto/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/01/16/how-we-work-buckley/"
+	to = "/blog/2020-01-16-how-we-work-buckley/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/05/04/kickstarting-collab-remotely/"
+	to = "/blog/2020-05-04-kickstarting-collab-remotely/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/05/30/case-study-horst-lab/"
+	to = "/blog/2019-05-30-case-study-horst-lab/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/06/06/case-study-pinsky-lab/"
+	to = "/blog/2019-06-06-case-study-pinsky-lab/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2018/11/20/introducing-openscapes/"
+	to = "/blog/2018-11-20-introducing-openscapes/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2020/11/30/incentivizing-open-science/"
+	to = "/blog/2020-11-30-incentivizing-open-science/"
+	status = 301
+
+[[redirects]]
+	from = "/blog/2019/06/12/wins-cohort1/"
+	to = "/blog/2019-06-12-wins-cohort1/"
+	status = 301
+
+# ---------------- events ---------------- #
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2023-05-08-reflections/"
+	to = "/events/2023-05-08-reflections/"
+	status = 301

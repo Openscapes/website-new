@@ -7,7 +7,7 @@ categories:
   # - community
   - nasa-framework
   # - impact
-image: ../../img/blog/pan-talk-case-study-square.png
+image: pan-talk-case-study-square.png
 aliases: 
   - https://www.openscapes.org/blog/2023/05/11/pathway-cloud-computing/
 ---

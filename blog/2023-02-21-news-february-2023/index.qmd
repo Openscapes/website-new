@@ -8,7 +8,7 @@ categories:
   - newsletter
   - nasa-framework
   - noaa-fisheries
-images: ../../img/blog/sb_paradise_road.png
+image: sb_paradise_road.png
 aliases: 
   - https://www.openscapes.org/blog/2023/02/21/news-february-2023/
 ---

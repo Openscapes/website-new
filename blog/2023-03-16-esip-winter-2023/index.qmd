@@ -8,7 +8,7 @@ categories:
   # - impact
   - noaa-fisheries
   - nasa-framework
-image: ../../img/blog/esip-2023-speakers-square.png
+image: esip-2023-speakers-square.png
 aliases: 
   - https://www.openscapes.org/blog/2023/03/16/esip-winter-2023/
 ---

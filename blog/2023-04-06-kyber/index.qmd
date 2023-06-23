@@ -6,7 +6,7 @@ slug: sean-kross-Kyber
 categories:
   #- community
   - community-call
-image: ../../img/blog/kyber-design-square.png
+image: kyber-design-square.png
 aliases: 
   - https://www.openscapes.org/blog/2023/04/06/kyber/
 ---

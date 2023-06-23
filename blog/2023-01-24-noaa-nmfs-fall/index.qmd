@@ -8,7 +8,7 @@ categories:
   - champions
   #- impact
   - noaa-fisheries
-image: ../../img/blog/2022-noaa-sefsc-fall-tpb-square.png
+image: 2022-noaa-sefsc-fall-tpb-square.png
 aliases: 
   - https://www.openscapes.org/blog/2023/01/24/2022-noaa-nmfs-fall/
 ---

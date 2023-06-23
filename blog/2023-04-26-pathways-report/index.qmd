@@ -7,7 +7,7 @@ categories:
   #- community
   - pathways
   # - impact
-image: ../../img/blog/PathwaysToOpenScience_GroupZoom_square_2023_01_26.png
+image: PathwaysToOpenScience_GroupZoom_square_2023_01_26.png
 aliases: 
   - https://www.openscapes.org/blog/2023/04/26/pathways-report/
 ---

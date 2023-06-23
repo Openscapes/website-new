@@ -8,7 +8,7 @@ categories:
   #- impact
   - champions
   - noaa-fisheries
-image: ../../img/blog/2022-afsc-zoom-square.png
+image: 2022-afsc-zoom-square.png
 aliases: 
   - https://www.openscapes.org/blog/2023/02/16/2022-noaa-afsc-fall/
 ---

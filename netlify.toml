@@ -541,3 +541,97 @@
 	from = "/blog/2019/06/12/wins-cohort1/"
 	to = "/blog/2019-06-12-wins-cohort1/"
 	status = 301
+
+# ---------------- events ---------------- #
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2023-05-08-reflections/"
+	to = ""
+	status = 301
+	
+[[redirects]]
+	from = ""
+	to = ""
+	status = 301
+	
+[[redirects]]
+	from = ""
+	to = ""
+	status = 301
+
+[[redirects]]
+	from = ""
+	to = ""
+	status = 301
+	
+[[redirects]]
+	from = ""
+	to = ""
+	status = 301
+	
+[[redirects]]
+	from = ""
+	to = ""
+	status = 301
+
+[[redirects]]
+	from = ""
+	to = ""
+	status = 301
+	
+[[redirects]]
+	from = ""
+	to = ""
+	status = 301
+	
+[[redirects]]
+	from = ""
+	to = ""
+	status = 301
+	
+[[redirects]]
+	from = ""
+	to = ""
+	status = 301
+	
+[[redirects]]
+	from = ""
+	to = ""
+	status = 301
+	
+[[redirects]]
+	from = ""
+	to = ""
+	status = 301
+	
+[[redirects]]
+	from = ""
+	to = ""
+	status = 301
+	
+[[redirects]]
+	from = ""
+	to = ""
+	status = 301
+	
+[[redirects]]
+	from = ""
+	to = ""
+	status = 301
+	
+[[redirects]]
+	from = ""
+	to = ""
+	status = 301
+	
+[[redirects]]
+	from = ""
+	to = ""
+	status = 301
+	
+[[redirects]]
+	from = ""
+	to = ""
+	status = 301
+	
+	

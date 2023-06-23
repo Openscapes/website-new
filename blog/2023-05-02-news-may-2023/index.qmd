@@ -6,7 +6,7 @@ slug: news-spring-2023
 categories:
   # - community
   - newsletter
-image: ../../img/blog/fig-mountain-2023-square.jpg
+image: fig-mountain-2023-square.jpg
 aliases: 
   - https://www.openscapes.org/blog/2023/05/02/news-may-2023/
 ---

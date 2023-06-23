@@ -7,7 +7,7 @@ categories:
   # - community
   - champions
   # - impact
-images: ../../img/blog/pathway-example-square.png
+image: pathway-example-square.png
 aliases: 
   - https://www.openscapes.org/blog/2021/07/13/css-cohort/
 ---

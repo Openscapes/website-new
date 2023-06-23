@@ -4,10 +4,11 @@ author: "Molly Stevens, Adyan Rios, Erica Rule"
 date: 2022-09-30
 slug: 2022-sefsc-summer
 categories:
- # - community
- - champions
- #- impact
- - noaa-fisheries 
+  - blog 
+  # - community
+  - champions
+  #- impact
+  - noaa-fisheries 
 image: ../../img/blog/sefsc-fates-commsplan-square.png
 aliases: 
   - https://www.openscapes.org/blog/2022/09/30/2022-sefsc-summer/

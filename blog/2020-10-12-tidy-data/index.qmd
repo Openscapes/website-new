@@ -4,6 +4,7 @@ author: Julie Lowndes and Allison Horst
 date: 2020-10-12 
 slug: tidy-data
 categories:
+  - blog 
   # - community
   - art
   - coding

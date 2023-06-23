@@ -7,6 +7,7 @@ author:
     url: {}
 date: 2022-08-17
 categories:
+  - event 
   - champions
 image: "WaterBoards_logo_high_res2.png"   
 ---

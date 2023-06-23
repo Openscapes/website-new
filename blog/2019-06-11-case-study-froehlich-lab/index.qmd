@@ -4,6 +4,7 @@ author: Froehlich Lab
 date: 2019-06-11
 slug: froehlich-lab
 categories:
+  - blog 
   # - community
   - champions
   # - impact

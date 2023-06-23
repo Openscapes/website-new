@@ -4,6 +4,7 @@ author: Beth Duckles, Erin Robinson, Stefanie Butland, Julie Lowndes
 date: 2022-04-26
 slug: beth-duckles
 categories:
+  - blog 
   # - community
   - community-call
 image: ../../img/blog/duckles-square.jpg

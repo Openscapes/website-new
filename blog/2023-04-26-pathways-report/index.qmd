@@ -4,6 +4,7 @@ author: Ileana Fenwick, Alex Davis, Aneese Williams, Stefanie Butland, Julie Low
 date: 2023-04-26
 slug: pathways-report
 categories:
+  - blog 
   #- community
   - pathways
   # - impact

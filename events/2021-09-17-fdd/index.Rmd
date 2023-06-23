@@ -6,6 +6,7 @@ author:
     url: {}
 date: 2021-09-17
 categories:
+  - event 
   - champions
   - noaa-fisheries
 image: "fdd-logos.png"   

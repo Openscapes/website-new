@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2020-06-15
 slug: lessons-remote-meetings
 categories:
+  - blog 
   #- community 
   - how-we-work
 image: ../../img/blog/mountainscape-jsl-square.jpg

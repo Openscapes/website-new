@@ -4,6 +4,7 @@ author: Emily Markowitz, Margaret Siple, Josh London
 date: 2023-02-16
 slug: 2022-noaa-afsc-fall
 categories:
+  - blog 
   # - community
   #- impact
   - champions

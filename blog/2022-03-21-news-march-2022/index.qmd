@@ -4,6 +4,7 @@ author: Julie Lowndes and Erin Robinson
 date: 2022-03-21
 slug: news-spring-2022
 categories:
+  - blog 
   # - community
   - newsletter
   - nasa-framework

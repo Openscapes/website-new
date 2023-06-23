@@ -4,6 +4,7 @@ author: Eli Holmes, Eric Ward, Hélène Scalliet, Corey Clatterbuck, Julie Lownd
 date: 2021-11-12
 slug: noaa-nwfsc-champions
 categories:
+  - blog 
   # - community
   - champions
   # - impact

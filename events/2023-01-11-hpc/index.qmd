@@ -5,6 +5,7 @@ description: |
 date: "2023-01-11"
 author: Openscapes
 categories: 
+  - event 
   - talk
 image: "ecp-logo.png"
 ---

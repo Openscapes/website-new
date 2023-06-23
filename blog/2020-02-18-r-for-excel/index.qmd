@@ -5,6 +5,7 @@ author: Allison Horst and Julie Lowndes
 date: 2020-02-18
 slug: r-for-excel
 categories:
+  - blog 
   # - community 
   - conference
   - art

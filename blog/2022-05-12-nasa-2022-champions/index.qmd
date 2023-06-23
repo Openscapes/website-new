@@ -4,6 +4,7 @@ author: NASA Openscapes Mentors, Erin Robinson, Julie Lowndes, Andy Barrett, Aar
 date: 2022-05-12
 slug: nasa-2022-champions
 categories:
+  - blog 
   # - community
   - champions
   - nasa-framework

@@ -5,6 +5,7 @@ description: |
 date: "2023-03-08"
 author: Openscapes
 categories: 
+  - event 
   - conference
 image: "wids-matrix-1line-cropped.jpg"
 ---

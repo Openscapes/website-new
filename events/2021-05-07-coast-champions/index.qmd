@@ -5,6 +5,7 @@ author:
   - name: Openscapes and CSU COAST
 date: 2021-05-07
 categories:
+  - event
   - champions
 image: "COAST-white.png"  
 ---

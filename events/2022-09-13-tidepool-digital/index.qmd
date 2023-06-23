@@ -4,6 +4,7 @@ description: |
   Building skills and community for ocean data governance and the Blue Economy
 date: "2022-09-13"
 categories: 
+  - event 
   - workshop
 author: "Openscapes and Tidepool Digital"
 image: "Tidepool_PrimaryLogo_Color+copy.png"

@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2019-12-11
 slug: kinder-science
 categories:
+  - blog 
   # - community
   # - impact
   - how-we-work

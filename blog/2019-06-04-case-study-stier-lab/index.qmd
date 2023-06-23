@@ -4,6 +4,7 @@ author: Stier Lab
 date: 2019-06-04
 slug: stier-lab
 categories:
+  - blog 
   # - community
   - champions
   # - impact

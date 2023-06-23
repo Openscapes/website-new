@@ -4,6 +4,7 @@ author: Julie Lowndes, Erin Robinson, Lenny Teytelman, Emma Ganley
 date: 2022-03-29
 slug: sasi-champions
 categories:
+  - blog 
   # - community
   - champions
   # - impact

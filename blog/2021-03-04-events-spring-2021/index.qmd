@@ -4,6 +4,7 @@ author: Julie Lowndes and Erin Robinson
 date: 2021-03-04
 slug: events-spring-2021
 categories:
+  - blog 
   # - community
   - champions
   - newsletter

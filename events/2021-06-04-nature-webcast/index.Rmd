@@ -6,6 +6,7 @@ author:
   - name: Nature
 date: 2021-06-04
 categories:
+  - event 
   - talk
 image: "nature-webcast.png"
 ---

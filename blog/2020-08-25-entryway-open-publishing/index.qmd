@@ -4,6 +4,7 @@ author: Julia Lowndes and Nicholas Tierney
 date: 2020-08-25
 slug: open-publishing
 categories:
+  - blog 
   # - community
   - coding
 image: ../../img/blog/open-pub-fest-square.png

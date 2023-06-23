@@ -4,6 +4,7 @@ author: Erin Robinson, Julie Lowndes, Tara Robertson
 date: 2021-05-27
 slug: tara-robertson
 categories:
+  - blog 
   # - community
   - community-call
 image: ../../img/blog/tara-hi.png

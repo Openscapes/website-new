@@ -4,6 +4,7 @@ author: Allison Horst and Julie Lowndes
 date: 2022-05-27
 slug: github-illustrated-series
 categories:
+  - blog 
   # - community
   - art
   - coding

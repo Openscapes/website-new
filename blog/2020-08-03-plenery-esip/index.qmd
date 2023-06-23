@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2020-08-03
 slug: plenary-esip
 categories:
+  - blog 
   # - community
   - champions
   # - impact

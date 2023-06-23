@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2019-04-08
 slug: summit-1
 categories:
+  - blog 
   - champions
   # - community
   # - impact

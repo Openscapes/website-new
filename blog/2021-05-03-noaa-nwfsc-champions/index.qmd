@@ -4,6 +4,7 @@ author: Erin Robinson, Julie Lowndes, Eric Ward
 date: 2021-05-03
 slug: noaa-nwfsc-champions
 categories:
+  - blog 
   # - community
   - champions
   # - impact

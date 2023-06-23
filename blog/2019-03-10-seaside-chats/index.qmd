@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2019-03-10
 slug: seaside-chats
 categories:
+  - blog 
   # - community
   - champions
   - coding

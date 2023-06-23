@@ -4,6 +4,7 @@ author: Advisory Group
 date: 2020-09-30
 slug: advisory-meeting
 categories:
+  - blog 
   # - community
   - champions
 image: ../../img/blog/mrlowndes-20141209-DSC_2356-square.jpg

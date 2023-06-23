@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2019-02-19
 slug: rstudioconf
 categories:
+  - blog 
   # - community
   - conference
 image: ../../img/blog/hexes_laptop.jpg

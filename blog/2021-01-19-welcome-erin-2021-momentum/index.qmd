@@ -4,6 +4,7 @@ author: Julie Lowndes and Erin Robinson
 date: 2021-01-19
 slug: welcome-erin
 categories:
+  - blog 
   # - community
   # - impact
   - newsletter

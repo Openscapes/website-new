@@ -4,6 +4,7 @@ author: Wood Lab
 date: 2019-05-29
 slug: wood-lab
 categories:
+  - blog 
   # - community
   - champions
   # - impact

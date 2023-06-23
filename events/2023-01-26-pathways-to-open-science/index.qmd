@@ -4,6 +4,7 @@ description: |
   Convening Black environmental and marine researchers to build community for the future of data intensive science
 date: "2023-01-26"
 categories: 
+  - event 
   - mentorship
 author: "Openscapes"
 image: "openscapes-bims-bweems.png"

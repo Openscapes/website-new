@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2022-11-03
 slug: vacation-open-science
 categories:
+  - blog 
   # - community
   - how-we-work
 image: ../../img/blog/vacation-2022/grasmere_gate_elowndes_DSCF7411_square.jpeg

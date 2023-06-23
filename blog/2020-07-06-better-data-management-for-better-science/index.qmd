@@ -4,6 +4,7 @@ author: Darcy Bradley
 date: 2020-07-06
 slug: rstudioconf-2020
 categories:
+  - blog 
   # - community
   - coding
 image: ../../img/blog/emLab-code-square.png

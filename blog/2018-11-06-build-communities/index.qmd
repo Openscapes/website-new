@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2018-11-06
 slug: build-communities
 categories:
+  - blog 
   # - community
   #- study group
   #- how to

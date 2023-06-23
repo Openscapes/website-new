@@ -4,6 +4,7 @@ description: |
   Publishing and Collaborating with Quarto, with Mine Çetinkaya-Rundel & Julia Stewart Lowndes
 date: "2022-07-28"
 categories: 
+  - event 
   - conference
 image: "rstudio-conf.jpg"
 ---

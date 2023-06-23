@@ -4,6 +4,7 @@ author: Pinsky Lab
 date: 2019-06-06
 slug: pinsky-lab
 categories:
+  - blog 
   # - community
   - champions
   # - impact

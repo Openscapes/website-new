@@ -4,6 +4,7 @@ author: Luis Lopez and the NASA Openscapes Mentors
 date: 2022-11-17
 slug: cloud-infrastructure
 categories:
+  - blog 
   # - community
   - nasa-framework
 image: ../../img/blog/cloud-infrastructure-lopez-screenshot-square.png

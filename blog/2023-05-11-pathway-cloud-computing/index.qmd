@@ -4,6 +4,7 @@ author: Xiaohua Pan
 date: 2023-05-11
 slug: pathway-cloud-pan
 categories:
+  - blog 
   # - community
   - nasa-framework
   # - impact

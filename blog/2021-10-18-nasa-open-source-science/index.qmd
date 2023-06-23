@@ -4,6 +4,7 @@ author: Julie Lowndes, Erin Robinson
 date: 2021-10-18
 slug: nasa-open-source-science
 categories:
+  - blog 
   # - community
   # - impact
   - nasa-framework

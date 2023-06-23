@@ -4,6 +4,7 @@ author: Erin Robinson, Julie Lowndes
 date: 2021-09-15
 slug: better-science-future-us
 categories:
+  - blog 
   # - community
   - newsletter
   - nasa-framework

@@ -4,6 +4,7 @@ author: Julie Lowndes and Erin Robinson
 date: 2021-08-01
 slug: plenary-sortee
 categories:
+  - blog 
   # - community
   - champions
   - conference

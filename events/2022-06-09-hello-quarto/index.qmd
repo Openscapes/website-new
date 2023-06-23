@@ -4,6 +4,7 @@ description: |
   A Quarto Chat with NASA Openscapes, co-hosted with R-Ladies Santa Barbara
 date: "2022-06-09"
 categories: 
+  - event 
   # - community
   - community-call
 image: nasa-openscapes-rladies-quarto.png

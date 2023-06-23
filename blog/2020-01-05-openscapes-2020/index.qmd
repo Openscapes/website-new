@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2020-01-05
 slug: openscapes-2020
 categories:
+  - blog 
   # - community
   # - impact
   - champions

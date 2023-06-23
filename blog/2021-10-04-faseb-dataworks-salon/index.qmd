@@ -4,6 +4,7 @@ author: Erin Robinson
 date: 2021-10-04
 slug: faseb-dataworks-salon
 categories:
+  - blog 
   # - community
 image: ../../img/blog/faseb.png
 aliases: 

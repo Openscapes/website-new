@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2019-05-20
 slug: twitter-community
 categories:
+  - blog 
   # - community
   - coding
   # - impact

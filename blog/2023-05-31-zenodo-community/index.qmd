@@ -4,6 +4,7 @@ author: Stefanie Butland
 date: 2023-05-31
 slug: zenodo-community
 categories:
+  - blog 
   - how-we-work
   - noaa-fisheries
   - nasa-framework

@@ -4,6 +4,7 @@ author: Lauren Buckley
 date: 2020-01-16
 slug: how-we-work
 categories:
+  - blog 
   # - community
   # - impact
   # - how-to

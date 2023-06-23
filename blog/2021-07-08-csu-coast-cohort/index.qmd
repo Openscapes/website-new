@@ -4,6 +4,7 @@ author: Arie Dash
 date: '2021-07-08'
 slug: csu-coast-cohort
 categories:
+  - blog 
   # - community
   - champions
   # - impact

@@ -4,6 +4,7 @@ author: Stefanie Butland, Ileana Fenwick
 date: 2022-07-21
 slug: quarto-migrate
 categories:
+  - blog 
   # - community
   # - how-to
   - quarto

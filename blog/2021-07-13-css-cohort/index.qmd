@@ -4,6 +4,7 @@ author: Erin Robinson & Julie Lowndes
 date: '2021-07-13'
 slug: css-cohort
 categories:
+  - blog 
   # - community
   - champions
   # - impact

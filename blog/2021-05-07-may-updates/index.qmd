@@ -4,6 +4,7 @@ author: Julie Lowndes, Erin Robinson
 date: 2021-05-07
 slug: may-updates
 categories:
+  - blog 
   # - community
   - champions
   # - impact

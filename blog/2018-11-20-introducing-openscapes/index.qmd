@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2018-11-20
 slug: introducing-openscapes
 categories:
+  - blog 
   # - community
   - how-we-work
 image: ../../img/blog/snyder.jpg

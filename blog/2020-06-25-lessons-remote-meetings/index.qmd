@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2020-06-25
 slug: lessons-remote-meetings
 categories:
+  - blog 
   #- community 
   # - how-to
   - how-we-work

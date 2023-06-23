@@ -4,6 +4,7 @@ author: Anna Holder, Corey Clatterbuck
 date: 2021-12-07
 slug: california-waterboards-mentors
 categories:
+  - blog 
   # - community
   - champions
   #- impact

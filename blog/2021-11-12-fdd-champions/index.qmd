@@ -4,6 +4,7 @@ author: Gavin Fay, Andy Jones, Anna Holder, Julie Lowndes
 date: 2021-11-12
 slug: fdd-champions
 categories:
+  - blog 
   # - community
   - champions
   # - impact

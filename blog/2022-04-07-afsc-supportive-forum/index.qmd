@@ -4,6 +4,7 @@ author: Em Markowitz, Josh London, Megsie Siple
 date: 2022-04-07
 slug: afsc-champions
 categories:
+  - blog 
   # - community
   - champions
   #- impact

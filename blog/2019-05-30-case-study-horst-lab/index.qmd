@@ -4,6 +4,7 @@ author: Horst Lab
 date: 2019-05-30
 slug: horst-lab
 categories:
+  - blog 
   # - community
   - champions
   # - impact

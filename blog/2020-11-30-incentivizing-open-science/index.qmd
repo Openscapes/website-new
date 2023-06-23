@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2020-11-30
 slug: incentivizing-nasem
 categories:
+  - blog 
   # - community
   - champions
   # - impact

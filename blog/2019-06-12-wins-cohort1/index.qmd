@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: '2019-06-12'
 slug: concluding-first-cohort
 categories:
+  - blog 
   # - community
   - champions
   # - impact

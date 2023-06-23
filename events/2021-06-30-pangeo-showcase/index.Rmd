@@ -6,6 +6,7 @@ author:
   - name: Pangeo and Openscapes 
 date: 2021-06-30
 categories:
+  - event 
   - nasa-framework
   - talk
 image: "images/pangeologo.png"

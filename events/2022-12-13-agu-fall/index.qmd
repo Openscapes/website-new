@@ -7,6 +7,7 @@ author:
     url: {}
 date: 2022-12-13
 categories: 
+  - event 
   - conference
   - nasa-framework
 image: "agu-fall-2022.png"

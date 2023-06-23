@@ -4,6 +4,7 @@ author: Marcus Beck
 date: 2020-11-16
 slug: tampa-bay-reporting
 categories:
+  - blog 
   # - community
   - coding
 image: ../../img/blog/tampa-bay-seagrass.jpg

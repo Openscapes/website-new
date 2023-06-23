@@ -6,6 +6,7 @@ author:
     url: {}
 date: 2020-02-20
 categories:
+  - event 
   - champions
   - noaa-fisheries
 image:  "../2021-09-17-nwfsc/NOAA_logo.png"

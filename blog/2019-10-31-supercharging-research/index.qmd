@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2019-10-31
 slug: supercharge
 categories:
+  - blog 
   # - community
   - champions
   # - impact

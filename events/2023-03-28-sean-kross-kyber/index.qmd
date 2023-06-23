@@ -7,6 +7,7 @@ description: |
 #    url: {}
 date: "2023-03-28"
 categories: 
+  - event 
   # - community
   - community-call
 image: sean-kross.jpg  

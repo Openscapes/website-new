@@ -4,6 +4,7 @@ author: Molly Stevens, Adyan Rios, Amanda Bradford, Kevin Stierhoff, Juliette Ve
 date: '2023-01-24'
 slug: "2022-noaa-nmfs-fall"
 categories:
+  - blog 
   # - community
   - champions
   #- impact

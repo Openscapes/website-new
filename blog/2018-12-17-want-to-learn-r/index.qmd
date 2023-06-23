@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2018-12-17
 slug: learn-r
 categories:
+  - blog 
   # - community
   - coding
   # - how-to

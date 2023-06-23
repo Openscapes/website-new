@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2019-08-22
 slug: keynote-useR
 categories:
+  - blog 
   # - community
   - conference
   - champions

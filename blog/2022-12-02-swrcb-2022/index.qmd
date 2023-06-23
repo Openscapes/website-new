@@ -4,6 +4,7 @@ author: Corey Clatterbuck and Anna Holder
 date: 2022-12-02
 slug: swrcb-2022
 categories:
+  - blog 
   # - community
   - champions
   # - impact

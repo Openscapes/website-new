@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2019-01-15
 slug: personify-code
 categories:
+  - blog 
   # - community
   - art
 image: ../../img/blog/personify-code/ggplot2_exploratory.png

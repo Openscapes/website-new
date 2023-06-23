@@ -4,6 +4,7 @@ author: Julien Brun, Julie Lowndes, Carrie Kappel
 date: 2020-05-29
 slug: developing-workflows
 categories:
+  - blog 
   # - community
   - coding
 image: ../../img/blog/nceas_module2_screenshot_square.png

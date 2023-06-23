@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2020-02-04
 slug: rstudioconf-2020
 categories:
+  - blog 
   # - community
   - conference
   - art

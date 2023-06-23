@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2020-03-06
 slug: nefsc-2020
 categories:
+  - blog 
   # - community
   - champions
   - coding

@@ -4,6 +4,7 @@ author: Amy Steiker, Alexis Hunzinger, Luis Lopez, Catalina Oaida Taglialatela, 
 date: 2022-12-12
 slug: nasa-se-tim
 categories:
+  - blog 
   # - community
   # - impact
   - nasa-framework

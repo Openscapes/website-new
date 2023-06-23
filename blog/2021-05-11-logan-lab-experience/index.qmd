@@ -4,6 +4,7 @@ author: Arie Dash
 date: 2021-05-11
 slug: logan-lab-experience
 categories:
+  - blog 
   # - community
   - champions
   # - impact

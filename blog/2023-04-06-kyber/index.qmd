@@ -4,6 +4,7 @@ author: Sean Kross, Julie Lowndes, Stefanie Butland
 date: 2023-04-06
 slug: sean-kross-Kyber
 categories:
+  - blog 
   #- community
   - community-call
 image: kyber-design-square.png

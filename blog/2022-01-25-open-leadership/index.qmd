@@ -4,6 +4,7 @@ author: Abby Cabunoc Mayes, Chad Sansing, Erin Robinson, Julie Lowndes
 date: 2022-01-25
 slug: open-leadership
 categories:
+  - blog 
   # - community
   # - impact
   - community-call

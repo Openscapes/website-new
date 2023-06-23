@@ -4,6 +4,7 @@ author: Julie Lowndes
 date: 2019-03-27
 slug: introducing-openscapes
 categories:
+  - blog 
   # - community
   - champions
   # - impact

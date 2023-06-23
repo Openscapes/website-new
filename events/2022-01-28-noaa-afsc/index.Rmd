@@ -6,6 +6,7 @@ author:
     url: {}
 date: 2022-01-28
 categories:
+  - event 
   - champions
   - noaa-fisheries
 image: "NOAA_logo.png"

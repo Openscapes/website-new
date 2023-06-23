@@ -4,6 +4,7 @@ author: Erin Robinson, Dawn Wright, Julie Lowndes
 date: 2021-03-25
 slug: rebel-alliance-dr-dawn-wright
 categories:
+  - blog 
   # - community
   # - impact
   - community-call

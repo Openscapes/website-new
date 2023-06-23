@@ -4,6 +4,7 @@ author: Jayasundara Lab
 date: 2019-06-03
 slug: jayasundara-lab
 categories:
+  - blog 
   # - community
   - champions
   # - impact

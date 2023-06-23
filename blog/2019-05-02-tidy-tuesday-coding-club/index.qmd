@@ -4,6 +4,7 @@ author: Allison Horst
 date: 2019-05-02
 slug: tidytuesday
 categories:
+  - blog 
   # - community
   - champions
   # - how-to

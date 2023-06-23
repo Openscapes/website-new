@@ -7,6 +7,7 @@ author:
     url: {}
 date: 2022-01-21
 categories: 
+  - event 
   - conference
   - nasa-framework
 image: "esip-logo.png"

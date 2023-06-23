@@ -548,3 +548,233 @@
 	from = "https://openscapes.github.io/events/posts/2023-05-08-reflections/"
 	to = "/events/2023-05-08-reflections/"
 	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2023-04-19-nasa-champions/"
+	to = "/events/2023-04-19-nasa-champions/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2023-03-31-utm-biology/"
+	to = "/events/2023-03-31-utm-biology/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2023-03-28-sean-kross-kyber/"
+	to = "/events/2023-03-28-sean-kross-kyber/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2023-03-08-wids/"
+	to = "/events/2023-03-08-wids/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2023-02-15-epa-champions/"
+	to = "/events/2023-02-15-epa-champions/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2023-01-26-esip-winter-2023/"
+	to = "/events/2023-01-26-esip-winter-2023/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2023-01-26-pathways-to-open-science/"
+	to = "/events/2023-01-26-pathways-to-open-science/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2023-01-11-hpc/"
+	to = "/events/2023-01-11-hpc/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2022-12-13-agu-fall/"
+	to = "/events/2022-12-13-agu-fall/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2022-12-01-open-climate-movement-monica-granados/"
+	to = "/events/2022-12-01-open-climate-movement-monica-granados/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2022-10-07-noaa-nwfsc-fall/"
+	to = "/events/2022-10-07-noaa-nwfsc-fall/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2022-10-05-noaa-afsc-fall/"
+	to = "/events/2022-10-05-noaa-afsc-fall/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2022-10-04-noaa-swfsc-pifsc-fall/"
+	to = "/events/2022-10-04-noaa-sefsc-fall/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2022-10-04-noaa-sefsc-fall/"
+	to = "/events/2022-10-04-noaa-swfsc-pifsc-fall/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2022-09-13-tidepool-digital/"
+	to = "/events/2022-09-13-tidepool-digital/"
+	status = 301
+	
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2022-08-17-swrcb-champions/"
+	to = "/events/2022-08-17-swrcb-champions/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2022-07-25-rstudio-conf/"
+	to = "/events/2022-07-25-rstudio-conf/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2022-06-30-sefsc/"
+	to = "/events/2022-06-30-sefsc/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2022-06-09-hello-quarto/"
+	to = "/events/2022-06-09-hello-quarto/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2022-04-08-qda-beth-duckles/"
+	to = "/events/2022-04-08-qda-beth-duckles/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2022-03-04-nasa/"
+	to = "/events/2022-03-04-nasa/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2022-01-28-noaa-afsc/"
+	to = "/events/2022-01-28-noaa-afsc/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2022-01-21-esip-winter-2022/"
+	to = "/events/2022-01-21-esip-winter-2022/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-12-17-agu-open-science-in-action/"
+	to = "/events/2021-12-17-agu-open-science-in-action/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-12-12-agu-enabling-analysis-in-the-cloud/"
+	to = "/events/2021-12-12-agu-enabling-analysis-in-the-cloud/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-12-09-open-leaders-cabunoc-mayes-sansing/"
+	to = "/events/2021-12-09-open-leaders-cabunoc-mayes-sansing/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-12-08-nasem-accelerating-analysis-geographic-change/"
+	to = "/events/2021-12-08-nasem-accelerating-analysis-geographic-change/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-12-03-ucsb-ds-summit/ucsb-ds-summit.html"
+	to = "/events/2021-12-03-ucsb-ds-summit/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-11-15-nasa-cloud-hackathon/"
+	to = "/events/2021-11-15-nasa-cloud-hackathon/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-10-14-nasa-open-source-science-workshop/"
+	to = "/events/2021-10-14-nasa-open-source-science-workshop/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-10-07-FASEBDataWorks!Salon/"
+	to = "/events/2021-10-07-FASEBDataWorks!Salon/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-09-30-rmarkdown-alison-hill/"
+	to = "/events/2021-09-30-rmarkdown-alison-hill/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-09-17-nwfsc/"
+	to = "/events/2021-09-17-nwfsc/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-09-17-fdd/"
+	to = "/events/2021-09-17-fdd/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-09-09-sasi/"
+	to = "/events/2021-09-09-sasi/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-07-12-sortee/"
+	to = "/events/2021-07-12-sortee/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-06-30-pangeo-showcase/"
+	to = "/events/2021-06-30-pangeo-showcase/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-06-05-cascadiar/"
+	to = "/events/2021-06-05-cascadiar/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-06-04-nature-webcast/"
+	to = "/events/2021-06-04-nature-webcast/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-05-25-tara-robertson/tara-robertson.html"
+	to = "/events/2021-05-25-tara-robertson/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-05-07-css-champions/css.html"
+	to = "/events/2021-05-07-css-champions/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-05-07-coast-champions/coast.html"
+	to = "/events/2021-05-07-coast-champions/"
+	status = 301
+	
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-03-12-nwfsc/"
+	to = "/events/2021-03-12-nwfsc/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2021-03-08-dr-dawn-wright-interview/dawn-wright.html"
+	to = "/events/2021-03-08-dr-dawn-wright-interview/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2020-02-20-noaa-nefsc/"
+	to = "/events/2020-02-20-noaa-nefsc/"
+	status = 301
+
+[[redirects]]
+	from = "https://openscapes.github.io/events/posts/2019-01-21-inaugural/"
+	to = "/events/2019-01-21-inaugural/"
+	status = 301

@@ -34,7 +34,3 @@ knitr::include_graphics("dr-dawn-wright.jpg")
 Dr. Wright is American geographer and oceanographer ([Wikipedia](https://en.wikipedia.org/wiki/Dawn_Wright)). She is [Chief Scientist at ESRI](https://www.esri.com/about/newsroom/author/dawnwright/) (the Environmental Systems Research Institute). 
 
 Dr. Wright is a role model to many in science, including us. We are so excited about this conversation, which will also launch Openscapes Community Calls. If you have questions you'd like to ask Dawn, please share them on Twitter by tagging [\@openscapes](https://twitter.com/openscapes).  
-
-
-
-

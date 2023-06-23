@@ -7,7 +7,7 @@ categories:
   # - community
   - champions
   # - impact
-images: wood-lab-logo.png  
+image: wood-lab-logo.png  
 aliases: 
   - https://www.openscapes.org/blog/2019/05/29/case-study-wood-lab/
 ---

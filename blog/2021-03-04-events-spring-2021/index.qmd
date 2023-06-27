@@ -25,7 +25,7 @@ We hope your March is off to a good start. We have three upcoming opportunities 
 
 ## Upcoming events
 
-You’ll find all of these opportunities and sign-up information on our events page: **[openscapes.org/events](events.qmd)**
+You’ll find all of these opportunities and sign-up information on our events page: **[openscapes.org/events](/events.qmd)**
 
 <br>
 

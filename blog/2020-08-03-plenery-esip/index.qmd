@@ -9,6 +9,7 @@ categories:
   - champions
   # - impact
   - art
+  - conference
 image: ../../img/blog/horst_loop_square.png
 aliases: 
   - https://www.openscapes.org/blog/2020/08/03/esip-plenary/

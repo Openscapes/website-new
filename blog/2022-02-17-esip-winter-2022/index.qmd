@@ -9,6 +9,7 @@ categories:
   # - impact
   - noaa-fisheries
   - nasa-framework
+  - conference
 image: ../../img/blog/esip-holmes-earlyadopter-square.png
 aliases: 
   - https://www.openscapes.org/blog/2022/02/17/esip-winter-2022/

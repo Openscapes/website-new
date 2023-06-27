@@ -15,7 +15,7 @@ aliases:
   - https://www.openscapes.org/blog/2020/08/03/esip-plenary/
 ---
 
-*In July 2020 I gave a plenary at the [Earth Systems Information Partners (ESIP)](esipfed.org/)'s [Summer Meeting](https://2020esipsummermeeting.sched.com/). ESIP is partnership of over 110 organizations supporting earth science data including NASA, USGS, and NOAA, and was created by NASA in 1998. This was an honor to present about Openscapes with this group and learn from this community about their work building and supporting data-driven communities. It was a really engaging remote conference experience. This post is some highlights about this 15-minute talk that shares more mature ideas that I first voiced last year in my [useR!2019 keynote](https://www.openscapes.org/blog/2019/08/22/user-keynote/). This plenary was also a chance to reflect and share about where Openscapes is going, nearly two years since my Mozilla Fellowship started that kick-started it all.*
+*In July 2020 I gave a plenary at the [Earth Systems Information Partners (ESIP)](https://www.esipfed.org/)'s [Summer Meeting](https://2020esipsummermeeting.sched.com/). ESIP is partnership of over 110 organizations supporting earth science data including NASA, USGS, and NOAA, and was created by NASA in 1998. This was an honor to present about Openscapes with this group and learn from this community about their work building and supporting data-driven communities. It was a really engaging remote conference experience. This post is some highlights about this 15-minute talk that shares more mature ideas that I first voiced last year in my [useR!2019 keynote](https://www.openscapes.org/blog/2019/08/22/user-keynote/). This plenary was also a chance to reflect and share about where Openscapes is going, nearly two years since my Mozilla Fellowship started that kick-started it all.*
 
 *Quick links:* 
 
@@ -24,7 +24,7 @@ aliases:
 - *[slides on FigShare](https://esip.figshare.com/articles/Entryways_to_open_data_science_and_the_power_of_welcome/12654689/1)*
 - *[artwork by Allison Horst](https://github.com/allisonhorst/stats-illustrations/tree/master/openscapes#dr-julia-lowndes-keynote-illustrations) (available for download and reuse)*
 - *[ESIP Summer Meeting Plenary Session](https://2020esipsummermeeting.sched.com/event/cItS/plenary-putting-data-to-work-open-science-open-data-2021-2026-strategic-theme-community-conversation)*
-- *[ESIP website](esipfed.org/)*
+- *[ESIP website](https://www.esipfed.org/)*
 - *[#ESIPSummer2020 on Twitter](https://twitter.com/hashtag/ESIPSummer2020?src=hashtag_click)*
 
 ---

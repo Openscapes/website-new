@@ -44,7 +44,9 @@ We piloted a 2-month version of the Champions program, which we knew would cover
 
 This curriculum had several new and modified lessons compared to previous cohorts. We introduced the Pathways template in Call 1 so that participants could immediately start thinking about where they started in terms of the tools and practices for reproducibility, collaboration, and communication. Over the course of two months, the NWFSC cohort continued to evolve their Pathway, articulating their needs and identifying next steps. One of Eric’s observations was that the Pathways concept fit perfectly into the professional development tools being used at the NWFSC: 
 
-> As part of the ongoing strategic visioning process, NWFSC staff have been creating individual professional development plans. Much like the Openscapes Pathways template, these individual plans have helped employees identify new opportunities and set short and long term goals. 
+::: {.blockquote-blue}
+> *"As part of the ongoing strategic visioning process, NWFSC staff have been creating individual professional development plans. Much like the Openscapes Pathways template, these individual plans have helped employees identify new opportunities and set short and long term goals."* 
+:::
 
 <br>
 
@@ -73,7 +75,9 @@ In the fourth and last call, eleven teams presented their pathways. Each team ha
 
 Two teams identified that they will be integrating Git into their workflows. Many held the sentiment expressed by one participant, “There is an upfront time-commitment that provides long-term benefits in terms of product accessibility for both users and developers.” Further, they said that the value is clearer in investing in the upfront time commitment. From Eric: 
 
-> Data and code stored in email have a tendency to get lost, particularly when staff retire. Openscapes helped us understand the value of using version control, and tools like Github -- both to preserve data, and archive changes. In the week after the workshops, we’ve created several new repositories for archiving work for long running projects. Thanks so much!
+::: {.blockquote-blue}
+> *"Data and code stored in email have a tendency to get lost, particularly when staff retire. Openscapes helped us understand the value of using version control, and tools like Github -- both to preserve data, and archive changes. In the week after the workshops, we’ve created several new repositories for archiving work for long running projects. Thanks so much!*"
+:::
 
 <br>
 

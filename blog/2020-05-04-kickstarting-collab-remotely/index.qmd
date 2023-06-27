@@ -12,7 +12,9 @@ aliases:
   - https://www.openscapes.org/blog/2020/05/04/kickstarting-collab-remotely/
 ---
 
-> “I was blown away at how effectively and productively you’ve led a virtual meeting – and I’m in a lot these days. People can be pretty passive”. 
+::: {.blockquote-blue}
+> *“I was blown away at how effectively and productively you’ve led a virtual meeting – and I’m in a lot these days. People can be pretty passive”.*
+:::
 
 This quote from a participant really captures what we were hoping to achieve in our first remote support module, “Efficient virtual collaboration & facilitation for synthesis science.” We wanted to not only discuss strategies for efficient collaboration and engage participants hands-on, but also model the behavior we were teaching. The way we designed, led, and executed this workshop was just as important as the content. 
 

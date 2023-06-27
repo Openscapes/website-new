@@ -129,7 +129,9 @@ knitr::include_graphics("../../img/blog/personify-code/r_first_then.png")
 
 Allison's art represents these R operations and the spirit of the online community, who have appreciated her and asked for permission to use in their own classrooms. She enthusiastically encourages this, [sharing all her stats art online](https://github.com/allisonhorst/stats-illustrations#rstats-twitter-artwork) along with the statement:  
  
->"All of this artwork is 100% available (and encouraged!) for open use by CC-BY license. That means: Hooray! I'm so happy that you want to share this artwork - especially if it helps when teaching R/rstats/stats."
+::: {.blockquote-blue}
+>*"All of this artwork is 100% available (and encouraged!) for open use by CC-BY license. That means: Hooray! I'm so happy that you want to share this artwork - especially if it helps when teaching R/rstats/stats."*
+:::
 
 I am so impressed by the `personifyr` series in so many ways. Not only by Allison's artistic talent, which is broad and deep, spanning styles and media (fine art and digital) in ways I appreciate but do not have the vocabulary to describe. But I am also so impressed by her ability to break down and communicate complex topics, and her creativity in representing it all in such an engaging and colorful way. To imagine these programming operations as personalities, and to bring to life what they would be doing is such an incredible skill, full stop. And then additionally to have the artistic ability to match is such a gift to us all. What a powerful way to engage the community of R users and data scientists, and welcome the others, including environmental scientists, to see and value these practices as well. 
 

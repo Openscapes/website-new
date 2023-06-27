@@ -25,7 +25,7 @@ We hope your March is off to a good start. We have three upcoming opportunities 
 
 ## Upcoming events
 
-You’ll find all of these opportunities and sign-up information on our new events page: **[openscapes.org/events](https://openscapes.github.io/events)**
+You’ll find all of these opportunities and sign-up information on our events page: **[openscapes.org/events](events.qmd)**
 
 <br>
 
@@ -69,7 +69,7 @@ Announcing a second Openscapes Champions opportunity: a CS&S Cohort in May-June 
 
 ## Partner spotlight
 
-We are so grateful for our partners who are helping grow and improve Openscapes. We’ve added a new [openscapes.org/partners](https://openscapes.org/partners) page and here we will share stories as we learn with them.
+We are so grateful for our partners who are helping grow and improve Openscapes. Learn more about them under the [Advisors & Collaborators](/team.qmd#advisors-collaborators) section on our [Team page](/team.qmd).
 
 [Tara Robertson](https://tararobertson.ca/) is a diversity, equity and inclusion consultant working with us to help improve our programming. Tara is an intersectional feminist who uses data and research to advocate for equality and inclusion, and she brings over 12 years experience leading change in open source technology communities, including 3 years leading Diversity and Inclusion at Mozilla.
 

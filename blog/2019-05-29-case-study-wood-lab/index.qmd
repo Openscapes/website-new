@@ -37,7 +37,9 @@ aliases:
 
 The [Wood Lab Case Study](https://docs.google.com/document/d/1SW44etET6qOecOkWEVMlIhTL-5HJ5qpHxaqyHI85Tlg/edit#) shares our full account of accomplishments over the last five months with Openscapes. It includes developing a lot of systems for research and teaching that will save time now and in the future due to lower time needed to onboard lab members and organize and teach field courses. As a preview, we find that: 
 
-> "Open science is achievable, and consistently taking little steps towards reproducibility can make a big difference for openness and collaboration." 
+::: {.blockquote-blue}
+> *"Open science is achievable, and consistently taking little steps towards reproducibility can make a big difference for openness and collaboration."*
+:::
 
 Our key accomplishments are: 
 

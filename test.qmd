@@ -1,0 +1,10 @@
+---
+title: "Untitled"
+editor: visual
+---
+
+::: {.blockquote-blue}
+>*"This is my quote"* **--- Sam Csik, NCEAS**
+:::
+
+>*"This is my quote"* **--- Sam Csik, NCEAS**

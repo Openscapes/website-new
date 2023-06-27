@@ -103,15 +103,21 @@ The NASEM Roundtable on Aligning Incentives for Open Science's [Toolkit](https:/
 
 **Open Science Imperative Essay**. There was some language that really resonated for us: 
 
-> "Historically, academic research environments have incentivized competition between individual researchers, which stymies collaboration and leads to the hoarding of knowledge" 
+::: {.blockquote-blue}
+> *"Historically, academic research environments have incentivized competition between individual researchers, which stymies collaboration and leads to the hoarding of knowledge"* 
+:::
 
 <br>
 
-> "Open Science practices, in contrast to traditional models of knowledge production, emphasize that open, transparent, and collaborative research dissemination practices more properly balance collective, institutional, and individual benefits. Open Science represents a positive evolution of the research endeavor along three dimensions: Collaboration drives innovation with the potential for broad social impact; Greater efficiency and speed; Replicability enhances trust and research quality"
+::: {.blockquote-blue}
+> *"Open Science practices, in contrast to traditional models of knowledge production, emphasize that open, transparent, and collaborative research dissemination practices more properly balance collective, institutional, and individual benefits. Open Science represents a positive evolution of the research endeavor along three dimensions: Collaboration drives innovation with the potential for broad social impact; Greater efficiency and speed; Replicability enhances trust and research quality"*
+:::
 
 <br>
 
->"Fortunately, the values that underpin Open Science – such as inclusiveness, collaboration, social impact, and scientific literacy – are mutually reinforcing to the missions of the research institutions, agencies, and funding organizations that support scientific research. Forward- thinking organizations have already begun to implement incentives for Open Science practices that provide a model for others to follow, which have taken several forms including: creating supportive environments"
+::: {.blockquote-blue}
+>*"Fortunately, the values that underpin Open Science – such as inclusiveness, collaboration, social impact, and scientific literacy – are mutually reinforcing to the missions of the research institutions, agencies, and funding organizations that support scientific research. Forward- thinking organizations have already begun to implement incentives for Open Science practices that provide a model for others to follow, which have taken several forms including: creating supportive environments"*
+:::
 
 These quotes resonated because they are about Open Science practices that interplay with support and collaboration. It is critical to focus on open practices along with open products, which are more readily measurable and thus have gotten a lot of the attention. It is fantastic to see them in the stated up-front, as mutually reinforcing with the missions of research institutions. These ideas are central to Openscapes, where we help create supportive environments centered on data science that drive collaboration, innovation, and efficiency, which are all part of the daily practice and benefits of Open Science. 
 
@@ -121,7 +127,9 @@ These quotes resonated because they are about Open Science practices that interp
 
 Supporting the people required to enable Open Science could be reflected in the Primers' Resourcing sections in the Toolkit. Many of the Primers have a statement that say "Administrators may be concerned about how policy changes can create additional operational work to already busy staff." Yes — there is a lot of work involved to help normalize Open Science, and it will take more people and new jobs. We cannot expect to have already busy staff squeeze this in — we need to support open leaders and champions with valued jobs to help make this happen. From a recent post on FORCE11's blog by [Kaitlyn Thaney](https://www.force11.org/blog/infrastructure-series-funding-research-infrastructure):
 
-> An additional dimension to our work involves looking at the staffing and human infrastructure powering open technology development, maintenance, governance and stewardship. That volunteer labor and community engagement is often an invisible cost we gloss over in our estimations and recommendations, while also being a core pillar in this work.
+::: {.blockquote-blue}
+>*"An additional dimension to our work involves looking at the staffing and human infrastructure powering open technology development, maintenance, governance and stewardship. That volunteer labor and community engagement is often an invisible cost we gloss over in our estimations and recommendations, while also being a core pillar in this work."*
+:::
 
 Finally, something missing from the Toolkit is how Open Science efforts must promote diversity, equity, and inclusion. There were several speakers at the November 5 Roundtable that spoke about diversity and inclusion in open science, so hopefully there are plans to weave this prominently into the Toolkit as well. There are many fantastic resources available, including  [Mozilla's Inclusion and Governance Checklist](https://github.com/mozilla/inclusion/blob/master/evaluation_tools/governance-basic.md) and Abigail Cabunoc Mayes's work on [Working open as a way to shift power](https://docs.google.com/presentation/d/1INTsli9obj3BiV8xDwJc4IovPnt2EUFNyLYyF_GK7bE/present#slide=id.g8dabbda190_0_898). We have been incorporating these ideas into Openscapes since the start, since our Champions mentorship program is modeled after Abby's [Mozilla Open Leaders](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/), and thus prioritizing diversity, equity, inclusion and belonging is reflected in our language, our mentoring and engagement, our publications and presentations, our grant proposals. There is a lot of opportunity for Open Science to include and empower diverse participation, and Openscapes is excited to help. 
 

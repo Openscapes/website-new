@@ -20,7 +20,9 @@ One of the (many) things that gets us excited about R is that the same workflow 
 
 As Julia said in our presentation:
 
-> **I came to R for the data analysis, and was blown away by the publishing.**
+::: {.blockquote-blue}
+> *"I came to R for the data analysis, and was blown away by the publishing."*
+:::
 
 <br>
 
@@ -82,7 +84,9 @@ These examples started with **single-page HTMLs**, with the ability to display f
 
 We also discussed **blogdown** that creates powerful websites with more complexity and blogging capabilities. This has been so important for creating blogs and tutorials to share code, discuss, and learn together. Why this important is nicely represented in this quote from the 2020 RStudio conference:
 
-> "If you want to learn to write, you read a lot, if you want to play music, you listen a lot. It's hard to do this with data analysis." - [Hilary Parker & Roger Peng, RStudio::conf(2020) keynote](<http://nssdeviations.com/100-live-from-rstudio-conf-2020>)
+::: {.blockquote-blue}
+> *"If you want to learn to write, you read a lot, if you want to play music, you listen a lot. It's hard to do this with data analysis."* **--- [Hilary Parker & Roger Peng, RStudio::conf(2020) keynote](<http://nssdeviations.com/100-live-from-rstudio-conf-2020>)**
+:::
 
 <br>
 
@@ -111,7 +115,9 @@ We also discussed some alternative formats for publishing, such as JATS, a journ
 
 Alison Hill made an excellent point:
 
-> As a former scientist, I felt woefully ill-equipped when first working with HTML output. I know you all have thought a lot about this- how can we increase HTML comfort levels and fluency for new/early scientists?
+::: {.blockquote-blue}
+> *"As a former scientist, I felt woefully ill-equipped when first working with HTML output. I know you all have thought a lot about this- how can we increase HTML comfort levels and fluency for new/early scientists?"*
+:::
 
 In response to this we discussed some of the downfalls of HTML, namely the fact that CSS is usually required to answer questions like:
 
@@ -129,7 +135,9 @@ Some suggestions on addressing this were:
 
 We had another interesting question from John Chodacki:
 
-> What about readers/consumers? But it seems like all the cool features of auto-updating tables, etc. can bring confusion for the reader ... unable to rely on stable info. Do you agree? Are there innovative ways to mitigate?
+::: {.blockquote-blue}
+> *"What about readers/consumers? But it seems like all the cool features of auto-updating tables, etc. can bring confusion for the reader ... unable to rely on stable info. Do you agree? Are there innovative ways to mitigate?"*
+:::
 
 This problem can arise when you generate a graphic, or a model during data analysis, and iterate on it and improve it. Later one, you might want to compare your current graphic to your first one, or your first model to the current one. However, doing that is actually pretty hard, and involves some strong version control skills. We discussed an approach that Miles McBain broached a few years ago called [journalr](https://ghcdn.rawgit.org/MilesMcBain/journalr/master/Journalling_tool_proposal.html) ([repo](https://github.com/MilesMcBain/journalr)).
 

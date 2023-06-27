@@ -59,7 +59,7 @@ This is how I visualize open data science, working with the amazing Allison Hors
 <br>
 
 <!---
-To me open data science is the Force from Star Wars (see slides/video above or my [useR! keynote blog](https://www.openscapes.org/blog/2019/08/22/user-keynote/) for details), and its power is manifested not only through the tooling, but through the people that build, use, and support them. 
+To me open data science is the Force from Star Wars (see slides/video above or my [useR! keynote blog](https://www.openscapes.org/blog/2019/08/22/useR-keynote/) for details), and its power is manifested not only through the tooling, but through the people that build, use, and support them. 
 --->
 
 

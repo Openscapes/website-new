@@ -39,21 +39,10 @@ blockquote { // style blockquotes (for speech bubbles)
   padding: 0.5em 10px;
 }
 
-.blockquote-blue { // style blockquotes (for blue vert line)
+.blockquote-blue { // style blockquotes (for blue vert line) was called .blockquote-blue
   background: $white;
   border-left: 3px solid $blue;
 }
-
-/*blockquote p { // align blockquotes
-  display: inline-block;
-}
-
-.blockquote-gray { // style gray blockquotes (used inside light-gray-div)
-  border-left: 3px solid $blue;
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
-  background-color: $light-gray2;
-} */
 
 //////////// Class selectors (identified by "Inspect"ing the site) ////////////
 

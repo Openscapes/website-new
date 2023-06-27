@@ -34,7 +34,9 @@ The idea and name for Seaside Chats came from the Ocean Health Index team, circa
 
 **Now, the Openscapes labs have started Bluffside Chats at UC Santa Barbara, Fishbowl Chats at Rutgers, and Bayside Chats at University of Washington.** They are a dedicated time created to not only discuss and strengthen data workflows, but also to strengthen lab culture. And what what is super cool is that seeding open culture is actually happening! This was captured in [Michelle Stuart's blog about the Pinsky Lab](http://pinsky.marine.rutgers.edu/fishbowl-chat-1/): 
 
-> "This open communication has leaked into the general discussion going on in our open work space. Lab members seem more comfortable with asking  teammates for help, and it is exciting to see all of us getting on the same page with our data science."
+::: {.blockquote-blue}
+> *"This open communication has leaked into the general discussion going on in our open work space. Lab members seem more comfortable with asking  teammates for help, and it is exciting to see all of us getting on the same page with our data science."*
+:::
 
 ## Seaside Chat topics
 
@@ -57,13 +59,17 @@ Examples include:
 
 There are endless topics and no single place to start. Again, from [Michelle's blog](http://pinsky.marine.rutgers.edu/fishbowl-chat-1/):
 
-> We began by explaining the difference between git and GitHub and then had a 20 minute group discussion about what we should be putting on GitHub and how we wanted to use it as a group tool.
-We spent the rest of the hour in breakout groups addressing different obstacles people faced as beginner GitHub users. One group was creating accounts, one group was connecting to the pinskylab organization, and another was connecting RStudio to GitHub.
-It was great to see people migrating from group to group as issues were solved. By the end of our time together, it seemed like everyone had a good handle on using GitHub to share work with the rest of the team.
+::: {.blockquote-blue}
+> *"We began by explaining the difference between git and GitHub and then had a 20 minute group discussion about what we should be putting on GitHub and how we wanted to use it as a group tool.*<br><br>
+*We spent the rest of the hour in breakout groups addressing different obstacles people faced as beginner GitHub users. One group was creating accounts, one group was connecting to the pinskylab organization, and another was connecting RStudio to GitHub.*<br><br>
+*It was great to see people migrating from group to group as issues were solved. By the end of our time together, it seemed like everyone had a good handle on using GitHub to share work with the rest of the team."*
+:::
 
 Similarly, in Bayside Chats, the Wood Lab has met to discuss reproducible research, have a git/GitHub+RStudio tutorial, and chat about how to integrate the lab Google Drive with people’s (new) GitHub repos. The Wood Lab's Danielle Claar described this process:
 
-> [In Bayside Chats], we are thinking about how to build redundancy in our lab for knowledge about reproducible research tools.
+::: {.blockquote-blue}
+> *"[In Bayside Chats], we are thinking about how to build redundancy in our lab for knowledge about reproducible research tools."*
+:::
 
 In Bluffside Chats at UCSB, Allison Horst and Jessica Couture did a self-audit of how they were organizing and sharing materials for the courses they teach. They realized they could streamline where things lived to increase efficiency with working with each other, but also so that students would have one go-to place to find everything they need. Leaving the first Bluffside Chat with a solid plan, they have been putting this plan into practice in subsequent weeks. 
 

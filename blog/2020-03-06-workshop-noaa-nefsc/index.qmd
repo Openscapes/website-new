@@ -38,11 +38,15 @@ Participants attend as teams, and come prepared for engaged participation as a w
 
 The two best outcomes of the workshop were first that teams left motivated to focus on creating more deliberate, collaborative, open workflows within their team, and second, that they saw other teams as future colleagues, collaborators, and allies for fisheries open data science (!) and have plans to continue building this community. 
 
-> "Having a full two days with space to talk about how we work was invaluable. I was so pleased with how energized and engaged my team was throughout. I loved the opportunity to talk, work and learn cross-teams." - Post-workshop survey 
+::: {.blockquote-blue}
+> *"Having a full two days with space to talk about how we work was invaluable. I was so pleased with how energized and engaged my team was throughout. I loved the opportunity to talk, work and learn cross-teams."* **--- Post-workshop survey**
+:::
 
 <!--break-->
 
-> "Openscapes had a powerful motivating impact on some of the practices of open science I already knew about but felt behind the curve on tackling. Finding fellow coworkers who are equally motivated and already implementing these practices gave me a support team to work with moving forward." - Post-workshop survey 
+::: {.blockquote-blue}
+> *"Openscapes had a powerful motivating impact on some of the practices of open science I already knew about but felt behind the curve on tackling. Finding fellow coworkers who are equally motivated and already implementing these practices gave me a support team to work with moving forward."* **--- Post-workshop survey**
+:::
 
 <br>
 <center>
@@ -71,11 +75,13 @@ The workshop followed the Openscapes Champions [Lesson Series](https://openscape
 
 We concluded the workshop with participants sharing their "Pathways", which are their plans for what to do moving forward. Overall, presentations all focused around social things like how to build open habits and momentum, rather than on technical things like which specific tools or workflows to learn. They discussed how their priorities going forward were about data workflows as a team (potentially as "[Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/)"), and building broader community and supporting each other locally. <!---As you might imagine, I was thrilled. --->
 
-> "I think the greatest value of the workshop was the time set aside to discuss our path forward as a team. We were able to discuss directly and extensively about how we can bring this open energy to enhance our workflow. We will definitely be trying the seaside chats." - Post-workshop survey
+::: {.blockquote-blue}
+> *"I think the greatest value of the workshop was the time set aside to discuss our path forward as a team. We were able to discuss directly and extensively about how we can bring this open energy to enhance our workflow. We will definitely be trying the seaside chats."* **--- Post-workshop survey**
 
 <!---break--->
 
-> "Turkeytime chats are coming (named for our gang of turkeys that hangs around our building)" - Post-workshop survey
+::: {.blockquote-blue}
+> *"Turkeytime chats are coming (named for our gang of turkeys that hangs around our building)"* **--- Post-workshop survey**
 
 A few local meetups already exist that others know about and are welcome to attend, including the a Shiny meetup at NEFSC and the Quantfish woRkshops at UMass Dartmouth's School for Marine Science & Technology (SMAST). Further, there was discussion about having a local [#TidyTuesday meetup](https://www.openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/) and starting a local [RLadies](https://rladies.org) chapter in Cape Cod!
 
@@ -100,7 +106,9 @@ If you are interested in hosting an Openscapes workshop, please contact us: [hel
 
 I am really pleased with how this workshop went. Since the Openscapes Champions program is about developing mindsets and habits around open data science and nurturing cultural change in science, it was designed as a five-month remote program (with low-time investment: three hours/month). With workshops, I was interested to see how much cultural change and Championing we could catalyze in just two days. And I'm convinced it worked as we'd hoped; the participants were really thoughtful and engaged and left the workshop with plans to create community within and beyond their teams. 
 
-> "This was an empowering lesson in how we can improve our workflow, communication and morale, and work towards reproducible, efficient scientific methods." - Post-workshop survey 
+::: {.blockquote-blue}
+> *"This was an empowering lesson in how we can improve our workflow, communication and morale, and work towards reproducible, efficient scientific methods."* **--- Post-workshop survey**
+:::
 
 This workshop had a lot of firsts, things that were different from the previous Champions cohort: 
 

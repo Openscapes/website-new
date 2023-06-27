@@ -23,7 +23,9 @@ Our 6th Openscapes Community Call co-hosted with [R-Ladies Santa Barbara](https:
 
 **Julie Lowndes** is the director of Openscapes, and co-lead of NASA Openscapes with Erin Robinson. Julie is a marine ecologist turned open data scientist because she was so empowered by the R community. Sam asked Julie to describe Quarto - that she had heard it described as "a document, a system, and a way of life". Julie confirmed \-- Quarto is a **document** in that you can write prose, code, and render outputs like figures and tables all in one place (and also present it in a beautiful way!). She loves that it has a very similar feel to RMarkdown, yet Quarto as **a system** extends all the RMarkdown functionality that many R users already know and love to additional languages . And finally, this powerful system can become what feels like **a way of life** because it informs the way she works and collaborates both with herself and others.
 
-> As an R user collaborating with other R users, Quarto refines my RMarkdown experience. As an R user collaborating with Python users, Quarto helps us really reimagine how we work together. - Julie Lowndes
+::: {.blockquote-blue}
+> *"As an R user collaborating with other R users, Quarto refines my RMarkdown experience. As an R user collaborating with Python users, Quarto helps us really reimagine how we work together."* **--- Julie Lowndes**
+:::
 
 ```{r}
 #| eval: true 
@@ -49,7 +51,9 @@ knitr::include_graphics("quarto-nasa-earthdata-cloud-cookbook.png")
 
 Catalina commented that sharing works-in-progress was a new concept and certainly one that took some getting used to, but she hopes that this increased transparency will facilitate learning among those who are looking to expand on the work that her NASA Openscapes cohort members are doing.
 
-> Before Openscapes and Quarto, I was hesitant to put unfinished tutorials or 'how-to' notes on a public platform, but I've really come to appreciate this new **open** way of collaborating and developing in a way that lets others learn and scale up our efforts. I see Quarto as a tool that enables us to open up and share our process and artifacts in a way that is friendly to the broader data user community. - Catalina Oaida Taglialatela
+::: {.blockquote-blue}
+> *"Before Openscapes and Quarto, I was hesitant to put unfinished tutorials or 'how-to' notes on a public platform, but I've really come to appreciate this new **open** way of collaborating and developing in a way that lets others learn and scale up our efforts. I see Quarto as a tool that enables us to open up and share our process and artifacts in a way that is friendly to the broader data user community."* **--- Catalina Oaida Taglialatela**
+:::
 
 **Amy Steiker** is the Data Service Engineer at the National Snow and Ice Data Center (NSIDC) and specializes in creating data education resources, tools, and data transformation services. If you already love making slides in [`xaringan`](https://github.com/yihui/xaringan), it's time to check out [Quarto presentations](https://quarto.org/docs/presentations/)! In just a few short weeks, Amy and her team were able to build some really stunning slides using Quarto for her 2021 American Geophysical Union (AGU) talk (check out [the slides](https://nasa-openscapes.github.io/slides/Earthdata_Cloud__Open-Science-Tutorial#/title-slide) and use their [source code](https://github.com/NASA-Openscapes/slides) as inspiration for building your own!). She stressed that while it at first seemed daunting to tackle this in a short period of time, the Quarto infrastructure made it really quite simple to generate content from a Jupyter Notebook with Python, preview changes "on the fly" to get slide formatting just right, and finally publishing and presenting it. Amy's slides were some of the first ever(!) created with Quarto, providing both a challenge and an exciting opportunity to come up with creative solutions. As early adopters, getting the chance to try things out and work alongside J.J. and the Quarto developer team made it possible to push the limits of what was possible, and in some cases, inform Quarto features.
 

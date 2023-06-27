@@ -30,14 +30,17 @@ The CS&S Cohort was 2-months, with four sessions, like we piloted earlier this y
 
 With this Cohort we continued to refine the Champions [lesson series](https://openscapes.github.io/series), and also welcomed guest speakers from previous Openscapes Champions cohorts to share their experiences and expertise. [Dr. Jessica Couture](https://twitter.com/ECOuture9) taught about the importance of and strategies for metadata, describing different types of metadata: project-level (big picture stuff), object-level (data specific stuff), and file-level (file-specific stuff). In the final session, [Dr. Gavin Fay](https://twitter.com/gavin_fay/) shared how the Fay Lab has continued to practice Openscapes concepts over a year after their cohort, including offboarding the co-creator of the fab [FayLab Lab Manual](https://thefaylab.github.io/lab-manual/index.html) [Ashleigh Novak](https://twitter.com/ashleighjnovak/) when she got a new job with the Atlantic White Shark Conservancy. 
 
-
-> **“I'm In awe of how incredibly helpful this is and how this is not a conversation I’ve ever had with all the groups I’m in. I’ve heard metadata mentioned before but this is like a first day of orientation kind of thing. Incredibly helpful” - Ileana**
+::: {.blockquote-blue}
+> *“I'm in awe of how incredibly helpful this is and how this is not a conversation I’ve ever had with all the groups I’m in. I’ve heard metadata mentioned before but this is like a first day of orientation kind of thing. Incredibly helpful”* **--- Ileana**
+:::
 
 ## Champions’ Pathways
 
 While our 2-month cohorts go by so quickly, in our final session, each team shares what they’ve learned. Teams share their Pathway that frames where they’re starting and where they would like to go in terms of reproducibility, collaboration, communication, and culture. We provide a template that builds off of Table 1 from [Lowndes et al. 2017](https://www.nature.com/articles/s41559-017-0160), but we’ve added this fourth important “culture” category so teams can be explicit about their plans for diversity, equity, inclusion as well as reproducibility, collaboration, and communication. In the spirit of teamwork, it was neat to see how many teams co-presented their pathways, and provided plans for how they are moving from solo practices toward shared practices. 
 
-> **“There’a a lot to do [for open science], but now we can see what we need to do” - Nicola**
+::: {.blockquote-blue}
+> *“There’a a lot to do [for open science], but now we can see what we need to do”* **--- Nicola**
+:::
 
 <br>
 <center>
@@ -57,7 +60,9 @@ We were absolutely blown away by the teams in this cohort and how they were thin
 
 One group described how in addition to weekly lab meetings, they already have biweekly diversity, equity, inclusion, and justice (DEIJ) meetings and found Seaside Chats focused on open/data science helpful as well, saying: 
 
- > **“We didn’t know we had so much to talk about”**
+::: {.blockquote-blue}
+ > *“We didn’t know we had so much to talk about”*
+:::
 
 We discussed how to sustain Seaside Chat to continue skillbuilding alongside everything else, and other teams shared about setting up fun competitions to help people get comfortable using GitHub. Another team has a sign-up sheet for Seaside Chats and then whomever’s turn it is both runs the meeting but also structures the google doc, icebreakers, etc. One group was inspired by the in-person [Tidy Tuesday Club at UCSB](https://www.ucsbtidytuesday.com/) (started by 2019 Champion Allison Horst) and are thinking of starting one too.
 

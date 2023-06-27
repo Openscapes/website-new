@@ -21,7 +21,9 @@ aliases:
 
 ---
 
->“How do we lead our labs in doing open science right? Also, what is right?” 
+::: {.blockquote-blue}
+>*“How do we lead our labs in doing open science right? Also, what is right?”* 
+:::
 
 This was a question that kept surfacing during our discussions at the Openscapes Champions Summit. And the answer that we kept coming back to was that **we need an open mindset and think not only about our future selves as individuals, but also about our future selves as labs**. That means working together with lab members to try create workflows and institutional memory, so it is not so much about doing it right but about working together to try to figure things out a little bit better. This means we have to be comfortable with the fact that the softwarescape will always be evolving and improving. And that we can be open to new ideas for the lab even though we ourselves have limited time. And that is okay. But if we have an open mindset, we can create an open culture where we can reflect and evolve together as a lab.
 

@@ -26,7 +26,6 @@ From October-December 2022, over 150 staff from six [NOAA Fisheries Science Cent
 
 Throughout the fall, we co-led these four Cohorts as NOAA Fisheries staff mentors, fostering a supportive work environment that embraced constant improvement and peer support. In addition to the bi-weekly facilitated cohort trainings where we learned from the [Champions Lesson Series](https://openscapes.github.io/series/) and discussed our experiences with colleagues, we supported free-form cohort coworking sessions to support our colleagues' processes, and themed cross-cohort sessions with topics like Pathways, Quarto, GitHub project boards, and attributes of "Agile" open science team workflow concepts ([NMFS Openscapes Fall Tutorials](https://rverse-tutorials.github.io/NMFS-Openscapes-fall-2022/)). In addition to the cohort sessions, we as mentors met as a peer-group across all four cohorts bi-weekly to debrief on the week's sessions, refine planned activities based on revealed needs, and also skill-shared tech and facilitating tips. This peer mentor cohort is a core element of the goal of Openscapes to support, promote, and elevate local open science leaders in order to support sustainable organizational change. 
 
-  
 <br> <center><a><img src="/img/blog/2022-noaa-nmfs-fall-zoom.png" width="500px" alt="Composite of 4 screenshots of Zoom participants"></a><figcaption>Figure 1: Zoom screenshots of participants in four Fall 2022 NOAA Fisheries Cohorts</figcaption> </center> <br>
 
 ## What we did and learned together in our Champions Cohorts
@@ -45,7 +44,9 @@ The fall Openscapes training was a powerful opportunity for teams, and individua
 
 AFSC supported 8 teams from 7 divisions across the center; 3 included cross-divisional partnerships. Teams focussed their energy on a range of important research issues supporting the AFSC mission including fishing tagging, fisheries survey design and preparation, marine mammals, genetics, shellfish, and fish life history. All of the teams developed their skills for improved analysis workflows, report writing, and manuscript preparation; promoting a culture of inclusivity and collaboration; intentional investment in on- and off-boarding processes; and integrated project management. All of this was achieved within the context of an expansion of open science within NOAA and the greater scientific community. The support and enthusiasm of AFSC leadership for AFSC to develop new skills and best practices is critical to AFSC's continued organizational excellence.
 
-> Before openscapes, our group had the beginnings of some momentum to create general, centralized protocols and analysis pipelines. The openscapes program really pushed us to the next level and gave us ideas of how to implement what we were thinking of designing for our group. Our advisor has supported us taking time to continue working on this organization and really cares about reproducibility. We are set up well to continue implementing our repos and shared resources.
+::: {.blockquote-blue}
+> *"Before openscapes, our group had the beginnings of some momentum to create general, centralized protocols and analysis pipelines. The openscapes program really pushed us to the next level and gave us ideas of how to implement what we were thinking of designing for our group. Our advisor has supported us taking time to continue working on this organization and really cares about reproducibility. We are set up well to continue implementing our repos and shared resources."*
+:::
 
 ### Pacific Islands Fisheries Science Center (PIFSC)
 
@@ -53,7 +54,9 @@ As our first time working with Openscapes, PIFSC staff across all four science d
 
 While some PIFSC staff have been committed to open science for some time, there is growing momentum to make these practices more widespread at PIFSC. Openscapes participants have been equipped with tools and a community to begin or continue practicing open science. We are sharing what we learned with our broader work teams, and plans are in motion to showcase PIFSC open science at a seminar in Spring 2023. Momentum is building to modernize our workflows and products. However, more capacity and training will be needed. In an email to Ecosystem Sciences Division leadership expressing support for future Openscapes training, Research Oceanographer Phoebe Woodworth-Jefcoats stated that Openscapes training was 
 
-> hands down the best training I've had in my 15+ years with NOAA.
+::: {.blockquote-blue}
+> *"hands down the best training I've had in my 15+ years with NOAA."*
+:::
 
 <br> <center><a><img src="/img/blog/2022-noaa-pifsc-fall-psd.png" width="800px" alt="3 screenshots of Protected Species Division Github organization and website information hub created with Quarto. Text heading says How we are making it better: Moving projects to version control and improving workflows; Using GitHub Projects for project management; Made a PSD GitHub Organization; Made a PSD Open Science Hub to track our progress, share resources, and keep us going"></a><figcaption>Figure 2. The PIFSC Protected Species Division team created a new[ GitHub Organization](https://github.com/PIFSC-Protected-Species-Division) and[ information hub](https://pifsc-protected-species-division.github.io/PSDOS/) (using Quarto).</figcaption> </center> <br>
 
@@ -70,13 +73,14 @@ SEFSC staff are building repositories of standard scripts and incorporating bett
 
 This was the first time researchers from SWFSC participated in Openscapes! In [her post for the NOAA Fisheries Science Blog](https://www.fisheries.noaa.gov/science-blog/sound-bytes-championing-open-science), Biological Science Technician Kourtney Burger talked about the value of having [Seaside Chats](https://openscapes.github.io/supercharge-research/) with her Southwest Acoustic Ecology Lab (SAEL) team and connecting with peers at other Centers.
 
-> I transferred our recently revamped ADRIFT Field Methods manual to a Quarto web book. Previously, it was sitting in a google drive where it wasn't easy to find and had accessibility issues. In just a couple hours, I was able to easily make a new repository, copy a Quarto template, and transfer the google document to a [GitHub repository](https://github.com/SAEL-SWFSC/adrift-field-methods) and an easy to navigate [website](https://sael-swfsc.github.io/adrift-field-methods/)!
+::: {.blockquote-blue}
+> *"I transferred our recently revamped ADRIFT Field Methods manual to a Quarto web book. Previously, it was sitting in a google drive where it wasn't easy to find and had accessibility issues. In just a couple hours, I was able to easily make a new repository, copy a Quarto template, and transfer the google document to a [GitHub repository](https://github.com/SAEL-SWFSC/adrift-field-methods) and an easy to navigate [website](https://sael-swfsc.github.io/adrift-field-methods/)!"*
+:::
 
 ### Northwest Fisheries Science Center (NWFSC)
 
 This was the third Openscapes training that NWFSC scientists have participated in and as for previous Cohorts, this was a joint training with other offices. This provided a diversity of perspectives and helped participants understand the similarity and differences of data science tasks and challenges across the agency. A number of teams were participating for their second or third time and came with clear goals concerning improving workflows for the team's large complex reports.
 
-  
 <br> <center><a><img src="/img/blog/2022-noaa-nwfsc-fall-esr.png" width="800px" alt="flow diagram outlining data files, code, analysis output, end product, the types of data, their locations, and the people who must manually interact with specific components"></a><figcaption>Figure 4: NWFSC Ecosystem Status Report Automation team was united by working on reports with many contributors of maps, time series data that must be compiled into 20-page reports.</figcaption> </center> <br>
 
 ## Conclusion

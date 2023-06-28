@@ -10,7 +10,7 @@ categories:
   # - how-to
   - quarto
   - nasa-framework
-image: ../../img/blog/nasa-openscapes-rladies-quarto-square.png
+image: nasa-openscapes-rladies-quarto-square.png
 aliases: 
   - https://www.openscapes.org/blog/2022/06/22/hello-quarto/
 ---
@@ -23,19 +23,37 @@ Our 6th Openscapes Community Call co-hosted with [R-Ladies Santa Barbara](https:
 
 **Julie Lowndes** is the director of Openscapes, and co-lead of NASA Openscapes with Erin Robinson. Julie is a marine ecologist turned open data scientist because she was so empowered by the R community. Sam asked Julie to describe Quarto - that she had heard it described as "a document, a system, and a way of life". Julie confirmed \-- Quarto is a **document** in that you can write prose, code, and render outputs like figures and tables all in one place (and also present it in a beautiful way!). She loves that it has a very similar feel to RMarkdown, yet Quarto as **a system** extends all the RMarkdown functionality that many R users already know and love to additional languages . And finally, this powerful system can become what feels like **a way of life** because it informs the way she works and collaborates both with herself and others.
 
-> As an R user collaborating with other R users, Quarto refines my RMarkdown experience. As an R user collaborating with Python users, Quarto helps us really reimagine how we work together. - Julie Lowndes
+::: {.blockquote-blue}
+> *"As an R user collaborating with other R users, Quarto refines my RMarkdown experience. As an R user collaborating with Python users, Quarto helps us really reimagine how we work together."* **--- Julie Lowndes**
+:::
 
-<br> <center> <a><img src="/img/blog/quarto-doc-ex.png" width="700px" alt="RStudio with a new `Untitled1.qmd` file open in the Source editor to the left, and the corresponding rendered Quarto document to the right in the Viewer."></a> </center> <br>
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "85%" 
+#| fig-alt: "RStudio with a new `Untitled1.qmd` file open in the Source editor to the left, and the corresponding rendered Quarto document to the right in the Viewer."
+knitr::include_graphics("quarto-doc-ex.png")
+```
 
 Julie screenshared a rendered Quarto document alongside the .qmd ("quarto markdown") file that generated it in RStudio. She pointed out how similar .qmd files look and feel to .rmd ("R markdown") files, and that there isn't a rush to make the switch from .rmd to .qmd if you don't want to \-- but the migration is smooth if you do!
 
 **Catalina Oaida Taglialatela** is an Applied Science System Engineer at NASA's Jet Propulsion Laboratory and The Physical Oceanography Distributed Active Archive Center (PO DAAC). Catalina is focused on increasing the number of researchers who use NASA data by helping identify and reduce barriers to science when data and services are in the cloud. She shared that Quarto has enabled her and her teams to curate and organize materials from GitHub repositories in a way that is easy (and oftentimes, less intimidating) for data end-users and/or collaborators to engage with. The [NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/), a Quarto website built by the [NASA Openscapes Mentors](https://nasa-openscapes.github.io/mentors.html), showcases clear step-by-step How-Tos on searching for and using Earthdata, in-depth, targeted tutorials and workshops, and also lessons that are currently under development.
 
-<br> <center> <a><img src="/img/blog/quarto-nasa-earthdata-cloud-cookbook.png" width="700px" alt="A screenshot of the NASA Earthdata Cloud Cookbook website, built using Quarto. To the left is a light gray vertical menu bar with sections including \"How To's\", \"Tutorials\", \"In Development\", and more. The body text is just to the right and begins with a \"Welcome\" section. The NASA and Openscapes logos are above the menu bar on the left."></a> </center> <br>
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "85%" 
+#| fig-alt: "A screenshot of the NASA Earthdata Cloud Cookbook website, built using Quarto. To the left is a light gray vertical menu bar with sections including \"How To's\", \"Tutorials\", \"In Development\", and more. The body text is just to the right and begins with a \"Welcome\" section. The NASA and Openscapes logos are above the menu bar on the left."
+knitr::include_graphics("quarto-nasa-earthdata-cloud-cookbook.png")
+```
 
 Catalina commented that sharing works-in-progress was a new concept and certainly one that took some getting used to, but she hopes that this increased transparency will facilitate learning among those who are looking to expand on the work that her NASA Openscapes cohort members are doing.
 
-> Before Openscapes and Quarto, I was hesitant to put unfinished tutorials or 'how-to' notes on a public platform, but I've really come to appreciate this new **open** way of collaborating and developing in a way that lets others learn and scale up our efforts. I see Quarto as a tool that enables us to open up and share our process and artifacts in a way that is friendly to the broader data user community. - Catalina Oaida Taglialatela
+::: {.blockquote-blue}
+> *"Before Openscapes and Quarto, I was hesitant to put unfinished tutorials or 'how-to' notes on a public platform, but I've really come to appreciate this new **open** way of collaborating and developing in a way that lets others learn and scale up our efforts. I see Quarto as a tool that enables us to open up and share our process and artifacts in a way that is friendly to the broader data user community."* **--- Catalina Oaida Taglialatela**
+:::
 
 **Amy Steiker** is the Data Service Engineer at the National Snow and Ice Data Center (NSIDC) and specializes in creating data education resources, tools, and data transformation services. If you already love making slides in [`xaringan`](https://github.com/yihui/xaringan), it's time to check out [Quarto presentations](https://quarto.org/docs/presentations/)! In just a few short weeks, Amy and her team were able to build some really stunning slides using Quarto for her 2021 American Geophysical Union (AGU) talk (check out [the slides](https://nasa-openscapes.github.io/slides/Earthdata_Cloud__Open-Science-Tutorial#/title-slide) and use their [source code](https://github.com/NASA-Openscapes/slides) as inspiration for building your own!). She stressed that while it at first seemed daunting to tackle this in a short period of time, the Quarto infrastructure made it really quite simple to generate content from a Jupyter Notebook with Python, preview changes "on the fly" to get slide formatting just right, and finally publishing and presenting it. Amy's slides were some of the first ever(!) created with Quarto, providing both a challenge and an exciting opportunity to come up with creative solutions. As early adopters, getting the chance to try things out and work alongside J.J. and the Quarto developer team made it possible to push the limits of what was possible, and in some cases, inform Quarto features.
 
@@ -43,7 +61,14 @@ Catalina commented that sharing works-in-progress was a new concept and certainl
 
 **Aaron Friesz** is the Science Coordination Lead at NASA's Land Processes Distributed Active Archive Center (LP DAAC). Aaron provides user needs insights and technical support for archive and distribution, service development, and outreach activities, including developing tutorials, scripts, and presentations. He pointed out that there was an initial learning curve when getting their Quarto infrastructure and development workflow set up, but that it was an awesome opportunity for all NASA Openscapes Champions to learn together and begin collaborating. Now the team has a framework that is open and automatically published (thanks to GitHub Actions) as they continue to iterate. Aaron has seen how Quarto can empower developers from different backgrounds \-- using this tool, it's no longer "R vs. Python" but rather a seamless integration of the two to produce common (awesome) tools. Aaron screenshared what it looks like to use Quarto with Jupyter Notebooks in the NASA Openscapes [2i2c](https://2i2c.org/) JupyterHub.
 
-<br> <center> <a><img src="/img/blog/quarto-jupyterlab.png" width="700px" alt="A screenshot of what it looks like to use Quarto with Jupyter Notebooks in the NASA Openscapes 2i2c JupyterHub. The left panel shows folder structure under the 2022-ECOSTRESS-Cloud-Workshop. The right panel shows contents of the _quarto.yml file"></a> </center> <br>
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "85%" 
+#| fig-alt: "A screenshot of what it looks like to use Quarto with Jupyter Notebooks in the NASA Openscapes 2i2c JupyterHub. The left panel shows folder structure under the 2022-ECOSTRESS-Cloud-Workshop. The right panel shows contents of the _quarto.yml file"
+knitr::include_graphics("quarto-jupyterlab.png")
+```
 
 Aaron screenshared the `_quarto.yml` file, created in JupyterLab, which underlies the rendered navigation bar found on the [2022 ECOSTRESS Cloud Workshop website](https://nasa-openscapes.github.io/2022-ECOSTRESS-Cloud-Workshop/). Aaron pointed out that content for each menu item can be created as markdown files (.md) or Jupyter notebooks (.ipynb), as shown here, or even include RMarkdown (.rmd) and/or Quarto markdown (.qmd) files (among others). This interoperability makes collaboration among different language users working on the same product relatively seamless.
 

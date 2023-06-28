@@ -33,7 +33,10 @@ aliases:
 
 The [Jayasundara Lab Case Study](https://docs.google.com/document/d/1DI8173GJ3j3mACHOhPffmCufXu83e4-05NQEFfHFCVc/edit) shares our accomplishments for setting up systems for data management and sharing alongside experimental design. As a relatively new lab, we are focused on two main questions: How do organisms respond to changes in their natural environment? And can wild fish populations serve as indicators of environmental health? Much of our work involves lab experiments raising live fishes in aquaria; creating shared systems for streamlining our experimental protocols and the resulting data has been our focus during Openscapes. As a preview, we learned that: 
 
-> "Our lab was able to incorporate respectful lab culture and discussion of data analysis as a part of designing experiments, lab meetings and lab dialogue much more than before. The analysis of experimental data has become as important as experimental design and data collection." 
+::: {.blockquote-blue}
+> *"Our lab was able to incorporate respectful lab culture and discussion of data analysis as a part of designing experiments, lab meetings and lab dialogue much more than before. The analysis of experimental data has become as important as experimental design and data collection."* 
+:::
+
 
 Our key accomplishments are: 
 

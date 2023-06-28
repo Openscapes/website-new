@@ -106,15 +106,24 @@ Openscapes borrows from [Mozilla's Community Participation Guidelines](https://w
 
 This is an excerpt from a previous post [Introducing the Champions program](https://www.openscapes.org/blog/2019/01/28/introducing-champions-program/) that describes how we use these together for remote calls twice a month for five months:
 
-> Openscapes Champions is a five-month mentorship program that is led remotely. Each month, there is individual mentorship for each Champion, and two "Cohort Calls" where we convene all Champions together, along with their lab members. Throughout, all participants learn about open practices and data science; strategize how to engage; meet other labs; set, review, and meet goals; and stay accountable. For each 1.5-hour Cohort Call, I teach for a maximum of 40 minutes, so that we spend most time discussing these topics in the context of their labs.
+::: {.blockquote-blue}
+> *"Openscapes Champions is a five-month mentorship program that is led remotely. Each month, there is individual mentorship for each Champion, and two "Cohort Calls" where we convene all Champions together, along with their lab members. Throughout, all participants learn about open practices and data science; strategize how to engage; meet other labs; set, review, and meet goals; and stay accountable. For each 1.5-hour Cohort Call, I teach for a maximum of 40 minutes, so that we spend most time discussing these topics in the context of their labs."*
+:::
 
-> So how do you lead a remote program like this? You model it after [Mozilla Open Leaders](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/), which has developed a great program that they have repeatedly tested and improved over seven rounds. It takes intense coordination, deliberate focus on creating a positive and inclusive culture, design to make calls engaging and interactive, Zoom, and Google Docs. (I think this is really cool how the intentions of the program are realized with the software tools available — you will see this as a theme throughout). I will focus on the software here, and have a whole separate upcoming post on culture. 
+::: {.blockquote-blue}
+> *"So how do you lead a remote program like this? You model it after [Mozilla Open Leaders](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/), which has developed a great program that they have repeatedly tested and improved over seven rounds. It takes intense coordination, deliberate focus on creating a positive and inclusive culture, design to make calls engaging and interactive, Zoom, and Google Docs. (I think this is really cool how the intentions of the program are realized with the software tools available — you will see this as a theme throughout). I will focus on the software here, and have a whole separate upcoming post on culture."*
+:::
 
-> **Zoom and Google Docs**
+::: {.blockquote-blue}
+> *"Zoom and Google Docs"*
+:::
 
-> Participants all join Cohort Calls through Zoom, a video conferencing software that we use to interact in real time and also record the whole call as an archived resource for participants. In addition to accommodating large groups for discussions, it also has a great breakout room feature. Breakout rooms allows all participants to not only listen to lessons and discuss as a full group, but also lets them break into small groups to discuss topics. Following breakout groups, participants rejoin and summarize to the group both verbally and in writing, using Google Docs. 
+::: {.blockquote-blue}
+> *"Participants all join Cohort Calls through Zoom, a video conferencing software that we use to interact in real time and also record the whole call as an archived resource for participants. In addition to accommodating large groups for discussions, it also has a great breakout room feature. Breakout rooms allows all participants to not only listen to lessons and discuss as a full group, but also lets them break into small groups to discuss topics. Following breakout groups, participants rejoin and summarize to the group both verbally and in writing, using Google Docs."* 
+:::
 
-> Each call has an agenda written as a Google Doc to enable real-time participation. During the call, all participants have the agenda open, and follow along, writing their thoughts in specific places and participating in active shared note-taking. This is an [example pre-call agenda](https://drive.google.com/open?id=1Ia5-w8KiZgyZqX1ErGnrFihDAUAiAzkZwDfSgZw9BMU). Following the real-time writing and engagement during the Cohort Call, the agenda serves as a record of the discussions had that participants can revisit and anyone who missed can review. 
+::: {.blockquote-blue}
+> *"Each call has an agenda written as a Google Doc to enable real-time participation. During the call, all participants have the agenda open, and follow along, writing their thoughts in specific places and participating in active shared note-taking. This is an [example pre-call agenda](https://drive.google.com/open?id=1Ia5-w8KiZgyZqX1ErGnrFihDAUAiAzkZwDfSgZw9BMU). Following the real-time writing and engagement during the Cohort Call, the agenda serves as a record of the discussions had that participants can revisit and anyone who missed can review."* 
 
 There are definitely ways to improve and scale to accommodate people of different abilities and obligations, but this is where we are with Openscapes at the moment. I hope this is helpful and there will be future posts as we learn and iterate moving forward!
 

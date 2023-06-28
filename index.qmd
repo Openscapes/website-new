@@ -156,8 +156,10 @@ listing:
 <!--~~~~~~~~~~~~~~ START testimonials ~~~~~~~~~~~~-->
 
 <!----------- START I. Fenwick quote ----------->
+::: {.blockquote-speech-bubble}
 ::: {.speech-bubble-bottom-left}
 > *"Because of Openscapes, I have renewed hope in how **we can bring about a kinder future in science**. I see a commitment in the open science community to bridging the gaps where we’ve left members of our community behind, and it inspires me."*
+:::
 :::
 
 <!----------- END I. Fenwick quote ----------->
@@ -182,7 +184,9 @@ listing:
 <br>
 
 ::: {.speech-bubble-bottom-right}
+::: {.blockquote-speech-bubble}
 > *"Openscapes isn't just about coding and GitHub, it's about **changing how we do science**"*
+:::
 :::
 
 <br>

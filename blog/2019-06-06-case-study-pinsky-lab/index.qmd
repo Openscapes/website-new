@@ -21,7 +21,9 @@ aliases:
 
 [**The Pinsky Lab**](http://pinsky.marine.rutgers.edu/) at Rutgers University studies global change ecology and evolution in the sea. The lab was established six years ago, and now has twenty lab members. We study how and why ocean ecosystems are changing, but each of us brings different skills, from statistics to genomics to SCUBA diving to math. Participating in Openscapes is [Professor Malin Pinsky](http://pinsky.marine.rutgers.edu/people/malin-pinsky/), lab manager [Michelle Stuart](http://pinsky.marine.rutgers.edu/people/michelle-stuart/), technician [Daniel Forrest](https://github.com/df511), PhD student [Jennifer Hoey](https://marine.rutgers.edu/~jahoey/) and post docs [Joyce Ong](https://scholar.google.com/citations?user=BLU4J8QAAAAJ&hl=en) and [Allison Dedrick](https://agdedrick.weebly.com/).
 
-> Openscapes has been an ideal platform for our lab to build up the foundations of open data science, which has improved our workflow, group cohesion, knowledge sharing and approachability for visitors or new members. - Joyce Ong
+::: {.blockquote-blue}
+> *"Openscapes has been an ideal platform for our lab to build up the foundations of open data science, which has improved our workflow, group cohesion, knowledge sharing and approachability for visitors or new members."* **--- Joyce Ong**
+:::
 
 <br> 
 
@@ -34,7 +36,8 @@ aliases:
 
 The [Pinsky Lab Case Study](https://docs.google.com/document/d/1sO6S-dXEf9d9EH09qvnqDc_JY9SKLF3O2Ai5ktHqJi4/edit?ts=5cf92e78#) shares our accomplishments for establishing shared workflows and helping onboard all team members in the lab, including undergraduate researchers. As a preview: 
 
-> "One of the key things we have learned is the need to have or build a trusting community that values openness, where we can learn from others about the many resources available to make our science more efficient, open and reproducible. It does take dedicated time and effort to change habits and move towards open data science, so having a community has been a huge help." - Joyce Ong
+::: {.blockquote-blue}
+> *"One of the key things we have learned is the need to have or build a trusting community that values openness, where we can learn from others about the many resources available to make our science more efficient, open and reproducible. It does take dedicated time and effort to change habits and move towards open data science, so having a community has been a huge help."* **--- Joyce Ong**
 
 Prior to Openscapes, members of the Pinsky Lab were using Github to varying degrees but now:
 

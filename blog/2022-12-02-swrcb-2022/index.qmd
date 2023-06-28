@@ -31,7 +31,20 @@ One of our priority items for this year was to plan and execute a Champions Coho
 
 We started with the Champions Program section in the [Approach Guide](https://openscapes.github.io/approach-guide/), which led us through each step of cohort planning and implementation. We created a behind-the-scenes timeline with internal due dates for items including those in the Approach Guide, ~10 weeks prior to cohort start. For us, this included items like management briefings, mentor onboarding, cohort team engagement, guest speaker invitations, and creating and editing call content based on the participating teams. We also created a [program timeline](https://openscapes.github.io/approach-guide/champions/design.html#high-level-timeline) to visualize the calendar of cohort calls, seaside chats, co-working sessions, and check-ins with the cohort.
 
-<br> <center><a><img src="/img/blog/Openscapes_SWAMPCohort_Timeline_20220526.png" width="600px" alt="Example timeline for an Openscapes Cohort. Orange timeline bar at bottom of image extends from Aug 2022 to Jan 2023. Headings at top of image define shapes that label elements on the timeline."Pre-program engagement" marked by orange horizontal line spans 1.5 weeks and includes Instructor:Team 1:1 meetings; "Openscapes Champions Program" marked by blue diamonds (Cohort Call, 2hrs weekly), magenta horizontal lines (Seaside Chats, 1hr weekly between Cohort Calls), green squares (Co-working Sessions, optional, 1hr weekly on Fridays); "Post-program follow-up" marked by magenta triangles (2-month Cohort Seaside Chat of 1hr). Vertical lines intersect with timeline at blue diamonds to indicate Cohort Call 1 on 8/17, Call 2 on 8/31, Call 3 on 9/14, Call 4 on 9/28, Call 5 on 10/19. Vertical lines intersect with timeline at green square to indicate co-working on 9/9, 9/23, 10/7, 10/14. Vertical line intersects with timeline at magenta triangle to indicate 2-month Cohort Seaside Chat on 12/14."></a><figcaption>Program timeline for the California Water Boards Cohort including Pre-program engagement, Openscapes Champions Program, and Post-program follow-up</figcaption> </center> <br>
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "85%" 
+#| fig-alt: "Example timeline for an Openscapes Cohort. Orange timeline bar at bottom of image extends from Aug 2022 to Jan 2023. Headings at top of image define shapes that label elements on the timeline.\"Pre-program engagement\" marked by orange horizontal line spans 1.5 weeks and includes Instructor:Team 1:1 meetings; \"Openscapes Champions Program\" marked by blue diamonds (Cohort Call, 2hrs weekly), magenta horizontal lines (Seaside Chats, 1hr weekly between Cohort Calls), green squares (Co-working Sessions, optional, 1hr weekly on Fridays); \"Post-program follow-up\" marked by magenta triangles (2-month Cohort Seaside Chat of 1hr). Vertical lines intersect with timeline at blue diamonds to indicate Cohort Call 1 on 8/17, Call 2 on 8/31, Call 3 on 9/14, Call 4 on 9/28, Call 5 on 10/19. Vertical lines intersect with timeline at green square to indicate co-working on 9/9, 9/23, 10/7, 10/14. Vertical line intersects with timeline at magenta triangle to indicate 2-month Cohort Seaside Chat on 12/14."
+knitr::include_graphics("Openscapes_SWAMPCohort_Timeline_20220526.png")
+```
+
+::: {.caption-text .center-text}
+Program timeline for the California Water Boards Cohort including Pre-program engagement, Openscapes Champions Program, and Post-program follow-up
+:::
+
+<br>
 
 Openscapes practices what it preaches regarding reiteration of workflows via the [Kyber R package](https://github.com/openscapes/kyber), built by Sean Kross (an educator, software developer, and long-time Openscapes collaborator). Kyber aids set up of Champions Cohorts, including the cohort GitHub repository and cohort call agendas, and we found it extremely practical and easy to use. For example, instead of copying and pasting old cohort call agendas from Google Drive and erasing old notes while retaining the agenda framework, Kyber includes a function to build each agenda which is eventually pasted into a Google Doc. If the Openscapes team decides to make programmatic changes to the core Openscapes program, these changes are easily edited within Kyber for use in upcoming cohorts. The Kyber [README](https://github.com/Openscapes/kyber/blob/main/README.md) is clear on the repository's functionality and steps to launch, but ultimately users will need to know the basics of R and GitHub to use it -- a potential challenge for empowering Openscapes mentors who have less experience with these tools. Additionally, Kyber is built to function with Google Docs and Sheets, so its use highly encourages concurrent use of Google products.
 
@@ -51,11 +64,17 @@ One of the best parts of participating in an Openscapes Champions Cohort is bein
 
 When we shared concepts around documentation with the SWRCB Cohort during the first and second cohort calls, members shared similar interests in the process:
 
-> *Being able to find the data I need and not having to 'know that person'*
+::: {.blockquote-blue}
+> *"Being able to find the data I need and not having to 'know that person'"*
+:::
 
-> *I have on multiple occasions had to work with data that was generated by a different person or group and that I had no prior knowledge of. When the data is not well organized it can be very difficult to interpret what you are looking at, and without good note taking in the original document I've also run into the issue where the person providing me with the data also was unsure of what some of it meant. This takes a lot of time away from actually plotting or analyzing that data, and proper note taking / organization can prevent all or most of it.*
+::: {.blockquote-blue}
+> *"I have on multiple occasions had to work with data that was generated by a different person or group and that I had no prior knowledge of. When the data is not well organized it can be very difficult to interpret what you are looking at, and without good note taking in the original document I've also run into the issue where the person providing me with the data also was unsure of what some of it meant. This takes a lot of time away from actually plotting or analyzing that data, and proper note taking / organization can prevent all or most of it."*
+:::
 
-> *Make it easier for others to re-use my work, and easier for collaborators to contribute to it*
+::: {.blockquote-blue}
+> *"Make it easier for others to re-use my work, and easier for collaborators to contribute to it"*
+:::
 
 We focused on documentation in Call 4 so that we could include GitHub as a tool for documentation and discuss some great examples of documentation using GitHub, such as the much exalted [Fay Lab Manual](https://thefaylab.github.io/lab-manual/) for workgroup identity & culture. We also highlighted Dr. Nick Hagerty's repository on [California surface water distribution](https://github.com/hagertynw/data-surface-water) as an example of project documentation, including a clear README, data dictionaries, and policies for contribution and re-use. We also discussed finding the right documenting "tool" for the job (and the team!). For internal work processes, perhaps documenting on SharePoint is sufficient and can already be easily included into the organization's existing file folder organization system. GitHub can enable collaboration for projects that require or benefit from input from collaborators outside the Water Boards. We also integrated Champions lesson material from topics we weren't able to teach this cohort, e.g. Jenny Bryan's Tips for Naming Things which is typically in [Coding Strategies for Future Us](https://docs.google.com/presentation/d/1nTLJ782dpZqp3MEhQU9zNaFInrTaFUVQbj9OqsmxUYo/edit#slide=id.gc93692f998_0_46).
 
@@ -69,11 +88,17 @@ Eli Holmes, a fisheries biologist at NOAA Fisheries and amazing Openscapes Mento
 
 Water Boards management curated the teams for this pilot cohort in part by actively identifying and pulling in early adopters of open science workflows, collaboration, and vision. However, that isn't to say that culture change within our early adopter teams is happening quickly! As one might expect - normalizing language, process, and changing behaviors and actions to support more open workflows and mindsets can be a challenging shift for teams. Despite these challenges, our post-cohort survey suggested that ultimately, Openscapes did help individuals adopt an open mindset towards their work, their teams, and themselves - and that teams are now beginning the process of changing their processes, behaviors, and actions to be more open, inclusive, and kind:
 
-> *It has been a great opportunity for me to slow down and take the time to evaluate / check-in on my work and team workflow / processes. Many of the things we discussed are totally in line with my personal philosophies / approaches but I haven't really put time into thinking about how to establish those things through documentation. I tend to be an individual worker bee and appreciate the co-working concepts and getting more comfortable in that shared space to do work!*
+::: {.blockquote-blue}
+> *"It has been a great opportunity for me to slow down and take the time to evaluate / check-in on my work and team workflow / processes. Many of the things we discussed are totally in line with my personal philosophies / approaches but I haven't really put time into thinking about how to establish those things through documentation. I tend to be an individual worker bee and appreciate the co-working concepts and getting more comfortable in that shared space to do work!"*
+:::
 
-> *How important it is to...give people the space to work and try new things. I think I've better internalized that it's okay to share imperfect work.*
+::: {.blockquote-blue}
+> *"How important it is to...give people the space to work and try new things. I think I've better internalized that it's okay to share imperfect work."*
+:::
 
-> *Now that more staff have been exposed to the Openscapes principles, I think I will be more comfortable suggesting the use of tools like Git / GitHub and code-based workflows. In general, I will also be more comfortable suggesting that we use better project management practices and think about things like documentation / reproducibility as fundamental parts of our work, and not just make those an afterthought.*
+::: {.blockquote-blue}
+> *"Now that more staff have been exposed to the Openscapes principles, I think I will be more comfortable suggesting the use of tools like Git / GitHub and code-based workflows. In general, I will also be more comfortable suggesting that we use better project management practices and think about things like documentation / reproducibility as fundamental parts of our work, and not just make those an afterthought."*
+:::
 
 The progressive changes that cohort members identified fit right in with where our organization is on the theory of diffusion of innovation (i.e., we're just beginning!). Additionally, Cohort members largely responded that other Water Boards colleagues would find the Openscapes Champions Program valuable -- so we plan to expand and start connecting to other early adopters to further diffuse open science practices and mindsets in our organization!
 
@@ -85,4 +110,16 @@ The progressive changes that cohort members identified fit right in with where o
 
 **Develop an implementation strategy:** Just like at other large and small institutions, Water Boards management use strategic plans to document priorities and make decisions about how their staff will spend their time to accomplish programmatic and agency missions. We will be drafting an Openscapes Implementation Strategy to document our OIMA's proposed vision, goals, objectives, and expected outcomes of continuing to lead Openscapes Champions cohorts at the Water Boards, in addition to the implementation steps, target audience, and expected timeline. We are drafting the strategy in November and December 2022 and will begin distributing the strategy through the internal outreach process in 2023.
 
-<br> <center><a><img src="/img/blog/swamp_envsci_selfie.jpg" width="600px" alt="photo of four women smiling, standing on a path in a forest"></a><figcaption>SWAMP team Environmental Scientists that went through the SWRCB 2022 Cohort</figcaption> </center> <br>
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "50%" 
+#| fig-alt: "photo of four women smiling, standing on a path in a forest"
+knitr::include_graphics("swamp_envsci_selfie.jpg")
+```
+
+::: {.caption-text .center-text}
+SWAMP team Environmental Scientists that went through the SWRCB 2022 Cohort
+:::
+

@@ -36,7 +36,9 @@ aliases:
 
 The [Therkildsen Lab Case Study](https://docs.google.com/document/d/1H_f487K9JyROLyMN5rc2sn32_fGhq984EYp4QVqP_sw/edit#) shares our accomplishments and plans moving forward to continue the process of getting all our analysis scripts on Github. Moving forward, for all new papers coming out of the lab, the full data analysis pipeline, including the code to reproduce all results and figures, must be made available in a well organized way in a Github repository. This requires a big change of habit, but the benefits are so obvious to us that we are committed to the challenge. As a preview: 
 
-> "Openscapes provided a really useful framework for us that boosted our motivation to transition towards more open and reproducible workflows, provided technical guidance and support to make the barriers to entry seem less daunting, included bi-weekly accountability to a supportive and driven group that kept us focused on the process even when the semester had us very busy with other tasks, and both the direct program material and the community of champion labs gave us lots of inspiration for how we want to organize our workflows and data management better in the future." - Therkildsen lab
+::: {.blockquote-blue}
+> *"Openscapes provided a really useful framework for us that boosted our motivation to transition towards more open and reproducible workflows, provided technical guidance and support to make the barriers to entry seem less daunting, included bi-weekly accountability to a supportive and driven group that kept us focused on the process even when the semester had us very busy with other tasks, and both the direct program material and the community of champion labs gave us lots of inspiration for how we want to organize our workflows and data management better in the future."* **--- Therkildsen lab**
+:::
 
 Our key accomplishments are: 
 

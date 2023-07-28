@@ -1,0 +1,56 @@
+---
+title: "Openscapes Champions: Fred Hutch"
+description: "Openscapes Champions Cohort for the Fred Hutchinson Cancer Center Data Science Lab" 
+author: Openscapes, Fred Hutch
+date: 2023-08-29
+categories:
+  - champions
+image: fred-hutch-data-science-lab.png 
+draft: true
+---
+
+## Program overview
+
+**This is a professional development and leadership opportunity for Fred Hutch research groups to explore open data science practices.**
+
+**[Openscapes](https://openscapes.org)** is an approach for doing better science in less time[^1]. We help research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes’ mentorship and community engagement approaches center on open data science as kinder science[^2], enabling increased efficiency and resilience for teams so that their work has more enduring impact. 
+
+**[Openscapes Champions](https://www.openscapes.org/champions/)** is a remote-by-design mentorship program for research teams to explore open data science practices. Participants attend as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort. By discussing open software tooling and communities enabling reproducible research (e.g. R/Python, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture. 
+
+**This opportunity is funded and coordinated by Fred Hutch Data Science Lab (https://hutchdatascience.org/).**
+
+<br>
+
+```{r, out.width="40%", fig.align='center', preview=TRUE}
+knitr::include_graphics("fred-hutch-data-science-lab.png")  
+```
+
+## Cohort details
+
+**Our Cohort will meet five times over two months, on alternating Tuesdays.**
+
+* **Dates:** August 29, September 12, 26, October 10, 24, 2023
+* **Times:** 10:00-11:30 pm Pacific Time 
+* **Where:** remotely, via Zoom
+* **Who:** Cohort of ~7 research teams. We generally recommend teams of 5, although team size, composition, and extent of shared projects can vary. 
+* **Expected time commitment:** The minimum expected time commitment is 1.5 hrs/week for 2 months. This includes 3 hours/month over Zoom as a full Champions Cohort, as well as teams meeting independently to further discuss topics between Cohort Calls.
+
+## Nominate your team to participate
+
+Nominate your team by filling out this [Google Form](https://forms.gle/ukhkoMzLXGdQXqtg7) by August 17, 2023. This opportunity is open only to those affiliated with Fred Hutch. Please submit one nomination per team, preferably by the team lead (PI, project lead, etc). We will confirm participation by late August 2023. 
+
+## Is this for me? What is a team? 
+
+Learn more about the [Openscapes Champions Program](https://openscapes.org/champions) and [FAQs about forming your team](https://openscapes.org/faq). 
+
+There are no technical requirements to participate; we expect teams to have a range of skills and responsibilities and an interest in improving shared workflows. Teams do not need to have a specific shared research project to participate, and this program is structured for teams with the intent that research group leads (faculty, lecturers, program managers, etc) and members (students, post-docs, analysts, lab managers, etc.) participate together. 
+
+Questions? Contact Openscapes: hello @ openscapes.org
+
+
+[^1]:
+     [nature.com/articles/s41559-017-0160](https://nature.com/articles/s41559-017-0160) 
+
+[^2]:
+     [blogs.scientificamerican.com/observations/open-software-means-kinder-science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science) 
+

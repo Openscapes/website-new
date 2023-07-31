@@ -6,7 +6,6 @@ date: 2023-08-29
 categories:
   - champions
 image: fred-hutch-data-science-lab.png 
-draft: true # TODO BEFORE POSTING: update date-times on this page and Google Form!
 ---
 
 ## Program overview
@@ -42,7 +41,7 @@ knitr::include_graphics("fred-hutch-data-science-lab.png")
 
 ## Nominate your team to participate
 
-Nominate your team by filling out this [Google Form](https://forms.gle/ARJRFqwuTi8gCcUm9) by August 17, 2023. This opportunity is open only to those affiliated with Fred Hutch. Please submit one nomination per team, preferably by the team lead (PI, project lead, etc). We will confirm participation by late August 2023. 
+Nominate your team by filling out this [Google Form](https://forms.gle/ubZU3wAgEwLyDtaQ6) by August 17, 2023. This opportunity is open only to those affiliated with Fred Hutch. Please submit one nomination per team, preferably by the team lead (PI, project lead, etc). We will confirm participation by late August 2023. 
 
 ## Is this for me? What is a team? 
 

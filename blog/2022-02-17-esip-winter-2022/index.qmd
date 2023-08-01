@@ -4,9 +4,8 @@ author: Aaron Friesz, Ileana Fenwick, Eli Holmes, Anna Holder, Amy Steiker, Erin
 date: 2022-02-17
 slug: esip-winter-2022
 categories:
-  - blog 
-  #- community
-  # - impact
+  - blog
+  - conference
   - noaa-fisheries
   - nasa-framework
 image: ../../img/blog/esip-holmes-earlyadopter-square.png

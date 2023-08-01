@@ -4,9 +4,8 @@ author: Corey Clatterbuck, Ileana Fenwick, Josh London, Luis Lopez, Cassie Nickl
 date: 2023-03-16
 slug: esip-winter-2023
 categories:
-  - blog 
-  # - community
-  # - impact
+  - blog
+  - conference
   - noaa-fisheries
   - nasa-framework
 image: esip-2023-speakers-square.png

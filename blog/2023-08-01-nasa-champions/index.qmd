@@ -83,7 +83,7 @@ knitr::include_graphics("when-to-cloud-barrett.png")
 Figure from [Andy's slides](https://nsidc.github.io/data_strategies_for_future_us/data_strategies_slides#/when-to-cloud).
 :::
 
-When to Cloud is a recent addition as an early chapter of the NASA Earthdata Cloud Cookbook and will evolve as we continue to learn when to Cloud and when not to. Kudos to Alexis Hunzinger from GES DISC for leading this effort.
+[When to Cloud](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/when-to-cloud.html) is a recent addition as an early chapter of the NASA Earthdata Cloud Cookbook and will evolve as we continue to learn when to Cloud and when not to. Kudos to Alexis Hunzinger from GES DISC for leading this effort.
 
 **Undifferentiated Heavy Lifting - \`earthaccess\` for the win!** [Jeff Bezos coined this term in his 2006 keynote](https://aws.amazon.com/blogs/aws/we_build_muck_s/) describing AWS doing undifferentiated heavy lifting so that everyone doesn't have to do the mucky parts. The NASA DAAC Mentors' work with research teams allows them to identify places of friction that, if fixed once, would benefit many users. One of the places the NASA DAAC mentors, led by Luis Lopez, have done this is with [earthaccess](https://github.com/nsidc/earthaccess), a Python library to search, download or stream NASA Earth science data with just a few lines of code. Luis described earthaccess in a [video demo](https://github.com/nsidc/earthaccess) we shared in Call 3, and the Cohort used earthaccess in Call 4. We heard over and over how useful earthaccess was to the Cohort teams. 
 

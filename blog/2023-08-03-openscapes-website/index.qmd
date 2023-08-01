@@ -11,10 +11,9 @@ citation:
   url: https://samanthacsik.github.io/posts/2023-07-31-openscapes-website/
 categories: [quarto, art, blog, coding, how-we-work]
 image: openscapes_hex.png
-# draft: true
 ---
 
-*[Samantha Csik](https://samanthacsik.github.io/) is the Data Training Coordinator at the [National Center for Ecological Analysis & Synthesis](https://www.nceas.ucsb.edu/) (NCEAS) at UC Santa Barbara, where she develops and teaches data science training curricula for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) (MEDS). She is a co-organizer of [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/). Sam hosted our Openscapes community call, [Hello Quarto](https://openscapes.org/blog/2022-06-22-hello-quarto/). This is cross-posted, with permission, from Sam's blog **LINK**.*
+*[Samantha Csik](https://samanthacsik.github.io/) is the Data Training Coordinator at the [National Center for Ecological Analysis & Synthesis](https://www.nceas.ucsb.edu/) (NCEAS) at UC Santa Barbara, where she develops and teaches data science training curricula for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) (MEDS). She is a co-organizer of [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/). Sam hosted our Openscapes community call, [Hello Quarto](https://openscapes.org/blog/2022-06-22-hello-quarto/). This is cross-posted, with permission, from [Sam's blog](https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/).*
 
 ------------------------------------------------------------------------
 

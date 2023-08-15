@@ -28,12 +28,12 @@ My focus during the fellowship was to support environmental science researchers 
 #| echo: false
 #| fig-align: "center"
 #| out-width: "85%" 
-#| fig-alt: "screenshot of Openscapes Champions Lesson Series site https://openscapes.github.io/series/"
+#| fig-alt: "screenshot of Openscapes Champions Lesson Series Quarto site https://openscapes.github.io/series/. Image of a landscape consisting of a grassy meadow next to a sandy beach and ocean, a winding river, and distant mountains. In the foreground, a sad bunny and skunk are working alone on their laptops, each with a rain cloud over their heads. Nearby is a trailhead with a fox holding a 'Welcome!' sign for a variety of different critters to see. Past the trailhead are branching pathways through the Openscapes landscape. No matter the path, however, there are small groups of animals working together to find their way. Nods to data science are scattered throughout the image, including mountains made of data points and a satellite in the sky."
 knitr::include_graphics("openscapes-champions-series.png")
 ```
 
 ::: {.small-text .center-text .dark-gray-text}
-*A screenshot of the Openscapes [Champions Lesson Series](https://openscapes.github.io/series/) website.*
+*A screenshot of the [Openscapes Champions Lesson Series](https://openscapes.github.io/series/) website.*
 :::
 
 I shared about this work with the BSSw community in two main ways. First, through a presentation for the [Exascale Computing Project HPC webinar](https://www.exascaleproject.org/event/openscapes/) ([slides](https://docs.google.com/presentation/d/1uKtVnZR8X94tADAWEE1THHKCbvfBbg2PBcH8asaoJQQ/edit#slide=id.g185866dc5bf_0_0)). This talk had three parts:

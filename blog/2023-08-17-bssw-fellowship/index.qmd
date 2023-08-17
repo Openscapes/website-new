@@ -44,7 +44,7 @@ I shared about this work with the BSSw community in two main ways. First, throug
 
 3.  Onward: how you can help your colleagues and join the movement.
 
-This talk also explicitly addressed: why is this relevant to the Exascale community? It is relevant because computing skills are critical for science & society; we\'re hampered by inequity. Let\'s change this. Some references that frame this thinking:
+This talk also explicitly addressed: why is this relevant to the Exascale community? It is relevant because computing skills are critical for science & society; we're hampered by inequity. Let's change this. Some references that frame this thinking:
 
 -   [Unmet needs for analyzing biological big data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005755) - Barone et al. 2017
 

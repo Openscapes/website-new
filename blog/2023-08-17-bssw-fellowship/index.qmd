@@ -20,7 +20,7 @@ image: openscapes-champions-series.png
 
 ------------------------------------------------------------------------
 
-My focus during the fellowship was to support environmental science researchers through open source software that we share on GitHub. I modernized Openscapes' open educational resources that I first built with RMarkdown by refactoring them in Quarto, and I have since used these updated resources to teach 6 cohorts (50 teams) of professional environmental and Earth scientists at NASA, NOAA, and the EPA.
+My focus during the fellowship was to support environmental science researchers through open source software that we share on GitHub. I modernized Openscapes' open educational resources that I first built with RMarkdown by refactoring them in Quarto, and we have since used these updated resources to teach 6 cohorts (50 teams) of professional environmental and Earth scientists at NASA, NOAA, and the EPA.
 
 
 ```{r}

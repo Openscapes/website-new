@@ -50,7 +50,7 @@ This talk also explicitly addressed: why is this relevant to the Exascale commun
 
 -   [Barriers to integration of bioinformatics into undergrad life sci education](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0224288) - Williams et al. 2019
 
--   \"[Technology can exacerbate inequities if the corresponding social infrastructure is not in place](https://www.ruhabenjamin.com/viral-justice)\" - Benjamin 2022
+-   "[Technology can exacerbate inequities if the corresponding social infrastructure is not in place](https://www.ruhabenjamin.com/viral-justice)\" - Benjamin 2022
 
 Second, I wrote a blog posted at <https://bssw.io/blog_posts/how-open-source-tooling-is-changing-the-way-professional-researchers-learn-to-code>. An excerpt from that blog:
 

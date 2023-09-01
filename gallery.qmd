@@ -151,6 +151,7 @@ knitr::include_graphics("images/useR_2019_illustrations/horst-lowndes-loop.png")
 
 <br>
 
+
 ```{r}
 #| echo: false
 #| fig-align: "center"
@@ -162,6 +163,12 @@ knitr::include_graphics("images/useR_2019_illustrations/horst-starwars-luke.png"
 ::: {.caption-text .center-text}
 *Luke doesn’t have the tools when he crashes on Dagobah…*
 :::
+
+Data-intensive research can feel lonely and demoralizing. Like Luke Skywalker, we have all had moments where we feel stuck staring at a challenge that we can't solve with the skillsets we have.
+
+This might not be so obvious to describe as this situation, and could be many things at once that are hard to tease apart. Could be having a tedious process to organize and store data, not being able to run someone else's code, or not knowing how to get started with software like GitHub.It's often searching through emails, something like untitled14.xls or analysis_final_final.R
+
+But it doesn't have to be this way --
 
 <br>
 
@@ -176,6 +183,10 @@ knitr::include_graphics("images/useR_2019_illustrations/horst-starwars-yoda.png"
 ::: {.caption-text .center-text}
 *…but Yoda shows him what’s possible with the foRce.*
 :::
+
+Open data science approaches are open, collaborative, & empowering -- it's like the Force from Star Wars because it enables us to solve challenges in ways we never would have imagined was possible. 
+
+And it doesn't just help with the challenges in front of us, it also broaden our mindsets for the scope and scale of the research questions we can tackle. And again, it's not just one thing all at once, it's many smaller things that you can incrementally introduce that become more and more powerful.
 
 <br>
 
@@ -204,6 +215,10 @@ knitr::include_graphics("images/useR_2019_illustrations/horst-starwars-hands.png
 ::: {.caption-text .center-text}
 *But even if you become a Jedi, you still need your community to defeat the Empire*
 :::
+
+And like the Force, open data science is not something that you do alone, but that you do with community.
+
+Diverse, inclusive teams and communities are key to tackling our research so that it can have enduring impact. Just like in this illustration where not everyone is a Jedi, not everyone needs the same analytical skillsets but we can do more if we work together with a shared mindset and value each other.
 
 <br>
 

@@ -15,10 +15,6 @@ aliases:
 **Original artwork by [Dr. Allison Horst](https://allisonhorst.com/) helps bring Openscapes ideas and feelings to life.** 
 :::
 
-::: {.center-text}
-*We are so grateful to work with her.*
-:::
-
 ## Open landscapes
 
 *Click on an image to open at high resolution in a new tab.*

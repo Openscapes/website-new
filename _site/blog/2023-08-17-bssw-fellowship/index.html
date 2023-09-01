@@ -6,11 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Openscapes and NASA">
-<meta name="dcterms.date" content="2023-04-19">
-<meta name="description" content="Openscapes Champions Cohort for research teams using data from NASA Distributed Active Archive Centers (DAACs) and interested in open science and migrating their analytical workflows to the cloud.">
+<meta name="author" content="Julie Lowndes">
+<meta name="dcterms.date" content="2023-08-17">
 
-<title>NASA Openscapes Champions Cohort</title>
+<title>Notes from my Better Scientific Software (BSSw) Fellowship</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -66,15 +65,15 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>
     .quarto-title-block .quarto-title-banner {
-      color: #FFFFFF;
-background: #38A7BB;
+      color: #333333;
+background: #F8D98F;
     }
     </style>
 
 
 </head>
 
-<body class="floating nav-fixed">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -197,19 +196,12 @@ background: #38A7BB;
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default toc-left page-columns page-full">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page">
-      <h1 class="title">NASA Openscapes Champions Cohort</h1>
-                  <div>
-        <div class="description">
-          <p>Openscapes Champions Cohort for research teams using data from NASA Distributed Active Archive Centers (DAACs) and interested in open science and migrating their analytical workflows to the cloud.</p>
-        </div>
-      </div>
-                          <div class="quarto-categories">
-                <div class="quarto-category">event</div>
-                <div class="quarto-category">champions</div>
-                <div class="quarto-category">nasa-framework</div>
+      <h1 class="title">Notes from my Better Scientific Software (BSSw) Fellowship</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">how-we-work</div>
               </div>
                   </div>
   </div>
@@ -220,14 +212,14 @@ background: #38A7BB;
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>Openscapes and NASA </p>
+               <p>Julie Lowndes <a href="https://orcid.org/0000-0003-1682-3872" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
             </div>
     </div>
       
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">April 19, 2023</p>
+        <p class="date">August 17, 2023</p>
       </div>
     </div>
     
@@ -237,7 +229,6 @@ background: #38A7BB;
   
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
-  
 <!-- margin-sidebar -->
     
 <!-- main -->
@@ -246,30 +237,57 @@ background: #38A7BB;
 
 
 
-<p>This was a mentorship and professional development opportunity for research teams using NASA Earthdata to learn open science practices and spend time experimenting and planning what their analytical workflows with NASA Earthdata look like in the Cloud.</p>
-<p>For details, please see the 2023 NASA Openscapes Champions Cohort <a href="https://nasa-openscapes.github.io/2023-nasa-champions/">webpage</a> and summary <a href="https://openscapes.org/blog/2023-08-01-nasa-champions/">blog post</a>: Exciting Progress for Research Teams using NASA Earthdata in the Cloud: 2023 NASA Openscapes Champions Wrap-up</p>
-<p><br></p>
-<div class="cell" data-layout-align="center" data-preview="true">
+<p><em>From Spring 2022-2023 I have had the pleasure of being a Better Scientific Software (BSSw) Fellow, by the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S. Department of Energy (DOE) Office of Science and the National Nuclear Security Administration; and by the National Science Foundation (NSF) under Grant No.&nbsp;2154495. This is an excerpt from my final progress report to the The Krell Institute, who administered this award.</em></p>
+<p><em>Quick links:</em></p>
+<ul>
+<li><a href="https://bssw.io/blog_posts/how-open-source-tooling-is-changing-the-way-professional-researchers-learn-to-code"><em>How Open Source Tooling Is Changing the Way Professional Researchers Learn to Code</em></a> <em>- my post on the BSSw blog</em></li>
+</ul>
+<hr>
+<p>My focus during the fellowship was to support environmental science researchers through open source software that we share on GitHub. I modernized Openscapes’ open educational resources that I first built with RMarkdown by refactoring them in Quarto, and we have since used these updated resources to teach 6 cohorts (50 teams) of professional environmental and Earth scientists at NASA, NOAA, and the EPA.</p>
+<div class="cell" data-layout-align="center">
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="nasa-openscapes.png" class="img-fluid figure-img" style="width:40.0%"></p>
+<p><img src="openscapes-champions-series.png" class="img-fluid figure-img" style="width:85.0%" alt="screenshot of Openscapes Champions Lesson Series Quarto site https://openscapes.github.io/series/. Image of a landscape consisting of a grassy meadow next to a sandy beach and ocean, a winding river, and distant mountains. In the foreground, a sad bunny and skunk are working alone on their laptops, each with a rain cloud over their heads. Nearby is a trailhead with a fox holding a 'Welcome!' sign for a variety of different critters to see. Past the trailhead are branching pathways through the Openscapes landscape. No matter the path, however, there are small groups of animals working together to find their way. Nods to data science are scattered throughout the image, including mountains made of data points and a satellite in the sky."></p>
 </figure>
 </div>
 </div>
 </div>
+<div class="small-text center-text dark-gray-text">
+<p><em>A screenshot of the <a href="https://openscapes.github.io/series/">Openscapes Champions Lesson Series</a> website.</em></p>
+</div>
+<p>I shared about this work with the BSSw community in two main ways. First, through a presentation for the <a href="https://www.exascaleproject.org/event/openscapes/">Exascale Computing Project HPC webinar</a> (<a href="https://docs.google.com/presentation/d/1uKtVnZR8X94tADAWEE1THHKCbvfBbg2PBcH8asaoJQQ/edit#slide=id.g185866dc5bf_0_0">slides</a>). This talk had three parts:</p>
+<ol type="1">
+<li><p>Movement building: share Openscapes stories of open science for climate;</p></li>
+<li><p>Skill building: Quarto live demo;</p></li>
+<li><p>Onward: how you can help your colleagues and join the movement.</p></li>
+</ol>
+<p>This talk also explicitly addressed: why is this relevant to the Exascale community? It is relevant because computing skills are critical for science &amp; society; we’re hampered by inequity. Let’s change this. Some references that frame this thinking:</p>
+<ul>
+<li><p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005755">Unmet needs for analyzing biological big data</a> - Barone et al.&nbsp;2017</p></li>
+<li><p><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0224288">Barriers to integration of bioinformatics into undergrad life sci education</a> - Williams et al.&nbsp;2019</p></li>
+<li><p>“<a href="https://www.ruhabenjamin.com/viral-justice">Technology can exacerbate inequities if the corresponding social infrastructure is not in place</a>" - Benjamin 2022</p></li>
+</ul>
+<p>Second, I wrote a blog posted at <a href="https://bssw.io/blog_posts/how-open-source-tooling-is-changing-the-way-professional-researchers-learn-to-code" class="uri">https://bssw.io/blog_posts/how-open-source-tooling-is-changing-the-way-professional-researchers-learn-to-code</a>. An excerpt from that blog:</p>
+<blockquote class="blockquote">
+<p>The same open source tooling that is changing how we do science — R, Python, Git, GitHub — is changing the way we teach professional researchers how to code.</p>
+<p>Tooling like Jupyter Notebooks, RMarkdown, and now Quarto enables researchers to combine narrative, code, and outputs like figures in the same document, enabling transparent and reproducible workflows that can be shared openly on GitHub. This same setup can be used to teach professional researchers to code so that the teaching narrative unfolds interspersed with code the learner can run. Because the resources are openly available, and learners can work and learn with the same tools used to create those resources, there is consistency between what they see in the materials they learn from, what they see on their end, and the expected outcomes. But what is truly remarkable is the culture shift enabled by this setup; learners have in front of them these documents that reinforce what the teacher screen shares live, and which continue to be there for reference and self-paced learning when the teacher isn’t there at all. This approach builds trust and resilience with learners, and role-models a new way of working openly — all of this is a paradigm shift for how professional researchers learn new skills, work, and then teach others in turn.</p>
+</blockquote>
+<p>Thank you for this opportunity as a BSSw Fellow to learn more with the open source and Better Scientific Software communities! I appreciate all the work that goes into open infrastructure – both technical and social – as well as development and teaching. I’m looking forward to staying connected and seeing what this community continues to do!</p>
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{openscapes2023,
-  author = {Openscapes and Openscapes and NASA},
-  title = {NASA {Openscapes} {Champions} {Cohort}},
-  date = {2023-04-19},
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{lowndes2023,
+  author = {Julie Lowndes},
+  title = {Notes from My {Better} {Scientific} {Software} {(BSSw)}
+    {Fellowship}},
+  date = {2023-08-17},
+  url = {https://openscapes.org/blog/2023-08-17-bssw-fellowship/},
   langid = {en}
 }
-</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-openscapes2023" class="csl-entry quarto-appendix-citeas" role="doc-biblioentry">
-Openscapes, and Openscapes and NASA. 2023. <span>“NASA Openscapes
-Champions Cohort.”</span> April 19, 2023.
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-lowndes2023" class="csl-entry quarto-appendix-citeas" role="doc-biblioentry">
+Julie Lowndes. 2023. <span>“Notes from My Better Scientific Software
+(BSSw) Fellowship.”</span> August 17, 2023. <a href="https://openscapes.org/blog/2023-08-17-bssw-fellowship/">https://openscapes.org/blog/2023-08-17-bssw-fellowship/</a>.
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {

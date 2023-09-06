@@ -87,6 +87,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/blog/2023-09-06-reflections-2023/index.html",
       "/blog/2023-08-17-bssw-fellowship/index.html",
       "/blog/2023-08-03-openscapes-website/index.html",
       "/blog/2023-08-01-nasa-champions/index.html",
@@ -189,6 +190,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/blog/2023-09-06-reflections-2023/index.html",
       "/blog/2023-08-17-bssw-fellowship/index.html",
       "/blog/2023-08-03-openscapes-website/index.html",
       "/blog/2023-08-01-nasa-champions/index.html",

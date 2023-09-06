@@ -8,7 +8,7 @@ author:
 date: 2023-08-17
 citation: 
   url: https://openscapes.org/blog/2023-08-17-bssw-fellowship/
-categories: [how-we-work]
+categories: [how-we-work, blog]
 image: openscapes-champions-series.png
 ---
 

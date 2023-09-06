@@ -20,7 +20,7 @@ aliases:
 ------------------------------------------------------------------------
 
 ::: {.blockquote-blue}
-> *"This quietly subversive training showed me how to be a better mentor and coach by using new tools or old tools in better ways to hear what people are saying and help them find solutions within themselves...and by helping me get out of my own way in the process."* ***---Amanda Bradford, Research Ecologist, PIFSC, NOAA Fisheries**
+> *"This quietly subversive training showed me how to be a better mentor and coach by using new tools or old tools in better ways to hear what people are saying and help them find solutions within themselves...and by helping me get out of my own way in the process."* **---Amanda Bradford, Research Ecologist, PIFSC, NOAA Fisheries**
 :::
 
 <!-- break -->

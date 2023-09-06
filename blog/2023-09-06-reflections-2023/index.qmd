@@ -1,0 +1,50 @@
+---
+title: "Reflections"
+# description: |
+#  description text here
+author:
+  - name: Julie Lowndes
+    orcid: 0000-0003-1682-3872
+  - name: Ileana Fenwick
+date: 2023-09-06
+citation: 
+  url: https://openscapes.org/blog/2023-09-06-reflections-2023/
+categories: [how-we-work, blog]
+image: reflection-bohinj.jpg
+---
+
+*In May 2023 we launched a 3-week program called [Openscapes Reflections Program](https://openscapes.org/initiatives#reflections-program) that we had been designing together from the beginning of the year. This program blends professional leadership coaching skills with open data science principles to help people identify and plan around their workflow needs. The purpose was to offer light-weight opportunities for folks interested in the Champions program, wanting a refresher or to onboard others to open data science, or as follow-up opportunities for the [Pathways to Open Science program](../2023-04-26-pathways-report/index.qmd) (also launched this year by Ileana Fenwick supporting Black marine and environmental researchers). Unlike the Champions Program, Reflections is something that folks can sign up for as individuals.*
+
+*Read below about what the participants and we learned from this experience, and look out in early 2024 to sign up -- we'll lead the Reflections Program again in Spring 2024.*
+
+------------------------------------------------------------------------
+
+> The Reflections Program provides structure, accountability, and a safe space to reflect on how we work as individuals and on teams, identify areas for improvement, and begin plans for experimenting with our workflows.
+
+This is how one participant described the Reflections Program, and this was our intent -- to help people think through how they're doing and what they need in terms of their workflows. We designed Reflections to be rewarding for people who haven't been part of Openscapes initiatives so far, as well as returning folks who want some accountability and space to reflect on their workflows and plan how open data science practices can fuel institutional culture change. We wanted to create a space for us all to get a little less stuck in our daily workflows (folders full of files with names like "Report_with_figuresFINAL_v2.doc" anyone?) so we can redirect our energy to the part of our work that we care about, connected to our values for climate change and social justice. The Reflections Program is intentionally light-weight, and primarily asynchronous with 3 optional Huddles via Zoom where we had dedicated time to reflect on the prompts and discuss and give example tooling for our workflows.
+
+## What participants learned
+
+Participants were a mix of academic faculty, students, as well as researchers and program leads in government and nonprofits. We asked them: "What is the most useful thing that you're taking away?" It was exciting to hear about learning, planning, and hope:\
+
+-   "More clear paths towards the next year; great tips for creating open data science approaches in my lab"
+
+-   "Greater self-awareness about how my values are contributing to, supporting, and conflicting with my workflow and productivity."
+
+-   "I'm taking away a bit of energy and motivation to keep my spotlight shining on my workflow. I also have a feeling of hope for a community."
+
+-   "Ways to align my values to my workflow and new-to-me tools."
+
+-   "Inspiration and motivation to make changes to my workflow that I have been wanting to do for some time. The realization that the fear of failure was preventing me from trying some things out."
+
+-   "An approach to reflecting on workflows with my own team"\
+
+## What we learned
+
+Through our experience with Openscapes Champions teams, we learned that folks need to reflect on their own workflows in order to talk about them with their colleagues and identify what is working and where they have needs. Isolating this reflection as a way to help folks orient was an experiment, identified as something that could work by our colleague Erin Robinson. And, we are happy that this was useful for participants! We will be offering it annually, iterating from suggestions from participants.
+
+We learned some things that we'll do differently next time. First, in trying to be light-weight, we refrained from doing some of our practices that we do for Champions and Mentors cohorts, and learned that people wanted them! This includes: sending Calendar invites with Zoom links for the Optional Huddles. Since they were optional, we didn't want to flood inboxes; however this is something that ultimately saves more people time. We'll also create a certificate of completion for participants (we plan to ultimately make this with the [kyber](../2023-04-06-kyber/index.qmd) R package, as something that we can also use in the Champions Program).
+
+We'll also think about how to iterate with the structure of the hour-long huddles. We split time between a short intro with slides, time to reflect as we say the prompts out loud, and open discussion with the group. We like a balance of reflection time with music, since there is no expectation folks have already allotted time to this before coming. The feedback was that people appreciated this when they hadn't had time to reflect beforehand. Other feedback was wanting more time to discuss, since it's an opportunity to have such expertise together in the room. We think all three of these elements are important, and will iterate on the balance of these three in future iterations.
+
+We'll announce the Spring 2024 Reflections program in early 2024! Until then, you can reflect with our open resources on your own or with your team: all the prompts are listed in the [Reflections Booklet](https://openscapes.github.io/booklet/).

@@ -39,7 +39,7 @@ knitr::include_graphics("fred-hutch-data-science-lab.png")
 **Our Cohort will meet five times over two months, on alternating Tuesdays.**
 
 -   **Dates:** August 29, September 12, 26, October 10, 24, 2023
--   **Times:** 10:00-11:30 pm Pacific Time
+-   **Times:** 10:00-11:30 am Pacific Time
 -   **Where:** remotely, via Zoom
 -   **Who:** Cohort of \~7 research teams. We generally recommend teams of 5, although team size, composition, and extent of shared projects can vary.
 -   **Expected time commitment:** The minimum expected time commitment is 1.5 hrs/week for 2 months. This includes 3 hours/month over Zoom as a full Champions Cohort, as well as teams meeting independently to further discuss topics between Cohort Calls.

@@ -21,7 +21,6 @@ The Carpentries supports building capacity within organisations interested in te
 
 This Carpentries Community Session will include panelists giving a brief overview of how they have been connecting with The Carpentries and a facilitated discussion. 
 
-
 <br>
 
 ```{r}

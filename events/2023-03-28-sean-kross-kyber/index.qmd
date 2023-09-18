@@ -12,13 +12,13 @@ categories:
   - community-call
 image: sean-kross.jpg  
 ---
+View **[event summary and video](../blog/2023-04-06-kyber/)**
 
 **Date: March 28, 2023**\
 **Time: 10:00 - 11:55 am PT** (UTC-7)\
 **Where: Zoom**\
-**Free event. [Registration open](https://www.eventbrite.com/e/community-call-designing-automated-workflows-with-dr-sean-kross-tickets-546294911787)** 
+**Free event. 
 
-<!---[**Video Recording**]() --->
 
 Join us for a conversation and demo’s with Sean Kross, Data Staff Scientist at the Fred Hutch Data Science Lab and developer of the kyber R package. At Openscapes, we use kyber to automate several key workflows for creating and populating GitHub repos with READMEs and creating detailed lesson agendas from RMarkdown content that is referenced in Google Sheets. This saves us time and reduces errors that can be introduced by repetitive copy-pasting. Come learn some of the nuts and bolts of how kyber works, imagine what’s possible for your own workflows, and get Sean’s expert advice about engaging in this kind of tool-development project.
 

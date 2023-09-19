@@ -12,14 +12,17 @@ categories:
   - community-call
 image: "nasa-openscapes-carpentries.png"   
 ---
+
 **Date:** Thursday, October 5, 2023\
 **Time:** 11:00 am - 12:00 pm PT (UTC-7); Find your [local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T18&p1=1440&ah=1)\
 **Where:** Zoom\
 **Free. Sign up to attend** and get the Zoom link on the Carpentries [Etherpad](https://pad.carpentries.org/community-sessions-2023) under Community Discussion Session, Exploring collaborations.
 
-The Carpentries supports building capacity within organisations interested in teaching data science and coding skills to researchers. In turn, these organisations spread our mission and provide opportunities for collaboration across communities sharing common interests and values. In this session, connect with staff from NASA and Openscapes to learn how these two organisations are currently engaging with The Carpentries, through workshops for coding skills and Instructor Training to bring teaching philosophies and leadership skills to new places. We will explore how they, and like organisations, can work to build successful collaborations to support advancing open science practices. We hope this session will begin to build a subcommunity of Carpentries Instructors connected through NASA TOPS, DEVELOP and NASA Openscapes. However, anyone interested in developing an engaged network of Instructors is welcome to attend. 
+The Carpentries supports building capacity within organisations interested in teaching data science and coding skills to researchers. In turn, these organisations spread our mission and provide opportunities for collaboration across communities sharing common interests and values. In this session, connect with staff from NASA and Openscapes to learn how these two organisations are currently engaging with The Carpentries, through workshops for coding skills and Instructor Training to bring teaching philosophies and leadership skills to new places. We will explore how they, and like organisations, can work to build successful collaborations to support advancing open science practices. We hope this session will begin to build a subcommunity of Carpentries Instructors connected through NASA TOPS, DEVELOP and NASA Openscapes. However, anyone interested in developing an engaged network of Instructors is welcome to attend.
 
-This Carpentries Community Session will include panelists giving a brief overview of how they have been connecting with The Carpentries and a facilitated discussion. 
+With Elizabeth Joyner, NASA, Julie Lowndes, Openscapes, Alycia Crall, The Carpentries, Erin Robinson, NASA Openscapes/Metadata Game Changers LLC
+
+This Carpentries Community Session will include panelists giving a brief overview of how they have been connecting with The Carpentries and a facilitated discussion.
 
 <br>
 

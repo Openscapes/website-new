@@ -6,11 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Openscapes">
-<meta name="dcterms.date" content="2023-03-28">
-<meta name="description" content="How the kyber R package connects Google Sheets, RMarkdown, GitHub, and Agenda docs for open education">
+<meta name="author" content="Julie Lowndes">
+<meta name="author" content="Stefanie Butland">
+<meta name="dcterms.date" content="2023-09-27">
 
-<title>Designing automated workflows with Dr.&nbsp;Sean Kross</title>
+<title>Openscapes Newsletter #8: Fall 2023</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -66,15 +66,15 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>
     .quarto-title-block .quarto-title-banner {
-      color: #FFFFFF;
-background: #38A7BB;
+      color: #333333;
+background: #F8D98F;
     }
     </style>
 
 
 </head>
 
-<body class="floating nav-fixed">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -197,18 +197,13 @@ background: #38A7BB;
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default toc-left page-columns page-full">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page">
-      <h1 class="title">Designing automated workflows with Dr.&nbsp;Sean Kross</h1>
-                  <div>
-        <div class="description">
-          <p>How the kyber R package connects Google Sheets, RMarkdown, GitHub, and Agenda docs for open education</p>
-        </div>
-      </div>
-                          <div class="quarto-categories">
-                <div class="quarto-category">event</div>
-                <div class="quarto-category">community-call</div>
+      <h1 class="title">Openscapes Newsletter #8: Fall 2023</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">how-we-work</div>
+                <div class="quarto-category">blog</div>
               </div>
                   </div>
   </div>
@@ -217,16 +212,17 @@ background: #38A7BB;
   <div class="quarto-title-meta">
 
       <div>
-      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-heading">Authors</div>
       <div class="quarto-title-meta-contents">
-               <p>Openscapes </p>
+               <p>Julie Lowndes <a href="https://orcid.org/0000-0003-1682-3872" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+               <p>Stefanie Butland <a href="https://orcid.org/0000-0002-5427-8951" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
             </div>
     </div>
       
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">March 28, 2023</p>
+        <p class="date">September 27, 2023</p>
       </div>
     </div>
     
@@ -236,7 +232,6 @@ background: #38A7BB;
   
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
-  
 <!-- margin-sidebar -->
     
 <!-- main -->
@@ -245,31 +240,41 @@ background: #38A7BB;
 
 
 
-<p>View <strong><a href="../../blog/2023-04-06-kyber/">event summary and video</a></strong></p>
-<p><strong>Date: March 28, 2023</strong><br>
-<strong>Time: 10:00 - 11:55 am PT</strong> (UTC-7)<br>
-<strong>Where: Zoom</strong><br>
-<strong>Free event.</strong>&nbsp;</p>
-<p>Join us for a conversation and demo’s with Sean Kross, Data Staff Scientist at the Fred Hutch Data Science Lab and developer of the kyber R package. At Openscapes, we use kyber to automate several key workflows for creating and populating GitHub repos with READMEs and creating detailed lesson agendas from RMarkdown content that is referenced in Google Sheets. This saves us time and reduces errors that can be introduced by repetitive copy-pasting. Come learn some of the nuts and bolts of how kyber works, imagine what’s possible for your own workflows, and get Sean’s expert advice about engaging in this kind of tool-development project.</p>
-<p>Bring your own questions. We always save time for audience discussion!</p>
-<section id="guest-bio" class="level3">
-<h3 class="anchored" data-anchor-id="guest-bio">Guest bio</h3>
-<p><a href="https://seankross.com/"><strong>Sean Kross</strong></a> is a Data Staff Scientist at the <a href="https://hutchdatascience.org/">Fred Hutch Data Science Lab</a>. His work is focused on understanding <a href="https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf">data science as a practice</a>, building a better <a href="https://future.a16z.com/the-case-for-developer-experience/">developer experience</a> for data scientists, and creating better outcomes in <a href="https://youtu.be/GG5Vl7N5vCo">digital education</a>. He approaches these challenges with computational, statistical, ethnographic, and design-driven methods.</p>
-<p>Previously Sean earned his PhD in Human-Computer Interaction at the University of California San Diego where he was advised by <a href="https://pg.ucsd.edu/">Philip Guo</a>. During his PhD he interned at the <a href="https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/">Research in Software Engineering Group</a> and the <a href="https://www.microsoft.com/en-us/research/theme/computational-social-science/">Computational Social Science Group</a> at Microsoft Research. Before he started graduate school Sean was the Chief Technology Officer at the <a href="https://jhudatascience.org/">Johns Hopkins Data Science Lab</a>. He is also a frequent consultant for data analysis and software development projects, in addition to being a maintainer of several open source software projects.</p>
-<p><img src="sean-kross.jpg" class="img-fluid" width="150"></p>
+<p><em>Welcome to Openscapes’ eighth newsletter! If you’re interested in seeing these infrequent updates in your inbox, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform">sign up here</a> (linked from our get involved page). And! If you have signed up but did not see this in your inbox, please check your spam folder!</em></p>
+<p>Reflecting on what I’m most proud of from Openscapes. 5 years.</p>
+<ul>
+<li><p>How much braver people are (and I am) Shows up as:</p></li>
+<li><p>people asking questions, and knowing they CAN ask questions. They’re worth it, have knowledge.</p></li>
+<li><p>Opinions to share, in meetings, in tutorials. Cassie: speaking up in other meetings to say “I think this”, “I’ve seen this done before, here’s another approach”, “these people are doing this”.</p></li>
+<li><p>Also with tech</p></li>
+</ul>
+<p>Coming up this fall</p>
+<ul>
+<li>Oct 5</li>
+<li>AGU</li>
+<li>onboarding 3 groups: NASA, NOAA, Hutch</li>
+</ul>
+<p>Goals this year: stories &amp; connecting to climate and daily</p>
+<ul>
+<li>2 publicatinos &amp; submitted</li>
+<li>ESIP in person</li>
+<li>new website</li>
+<li>Launched 2 programs: Pathways and Reflections in Spring. Both upcoming in 2024!! Look for signups</li>
+<li>Champs NASA</li>
+</ul>
 
 
-</section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{openscapes2023,
-  author = {Openscapes},
-  title = {Designing Automated Workflows with {Dr.} {Sean} {Kross}},
-  date = {2023-03-28},
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{lowndes2023,
+  author = {Julie Lowndes and Stefanie Butland},
+  title = {Openscapes {Newsletter} \#8: {Fall} 2023},
+  date = {2023-09-27},
+  url = {https://openscapes.org/blog/2023-09-27},
   langid = {en}
 }
-</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-openscapes2023" class="csl-entry quarto-appendix-citeas" role="doc-biblioentry">
-Openscapes. 2023. <span>“Designing Automated Workflows with Dr. Sean
-Kross.”</span> March 28, 2023.
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-lowndes2023" class="csl-entry quarto-appendix-citeas" role="doc-biblioentry">
+Julie Lowndes, and Stefanie Butland. 2023. <span>“Openscapes Newsletter
+#8: Fall 2023.”</span> September 27, 2023. <a href="https://openscapes.org/blog/2023-09-27">https://openscapes.org/blog/2023-09-27</a>.
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {

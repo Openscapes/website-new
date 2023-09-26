@@ -1,7 +1,7 @@
 ---
-title: "Exploring collaborations: Opportunities for data sharing and data skills training across organisations advocating for open science"
+title: "A Carpentries Community Session with NASA and Openscapes"
 description: |
-  A Carpentries Community Session
+  Exploring collaborations: Opportunities for data sharing and data skills training across organisations advocating for open science
 author:
   - name: Openscapes and The Carpentries
     url: {}
@@ -18,11 +18,22 @@ image: "nasa-openscapes-carpentries.png"
 **Where:** Zoom\
 **Free. Sign up to attend** and get the Zoom link on the Carpentries [Etherpad](https://pad.carpentries.org/community-sessions-2023) under Community Discussion Session, Exploring collaborations.
 
-The Carpentries supports building capacity within organisations interested in teaching data science and coding skills to researchers. In turn, these organisations spread our mission and provide opportunities for collaboration across communities sharing common interests and values. In this session, connect with staff from NASA and Openscapes to learn how these two organisations are currently engaging with The Carpentries, through workshops for coding skills and Instructor Training to bring teaching philosophies and leadership skills to new places. We will explore how they, and like organisations, can work to build successful collaborations to support advancing open science practices. We hope this session will begin to build a subcommunity of Carpentries Instructors connected through NASA TOPS, DEVELOP and NASA Openscapes. However, anyone interested in developing an engaged network of Instructors is welcome to attend.
+[**The Carpentries**](https://carpentries.org/) supports building capacity within organisations interested in teaching data science and coding skills to researchers. In turn, these organisations spread our mission and provide opportunities for collaboration across communities sharing common interests and values.
 
-With Elizabeth Joyner, NASA, Julie Lowndes, Openscapes, Alycia Crall, The Carpentries, Erin Robinson, NASA Openscapes/Metadata Game Changers LLC
+In this Community Discussion Session, connect with staff from [NASA Earth Science](https://science.nasa.gov/earth-science), [NASA DEVELOP](https://appliedsciences.nasa.gov/what-we-do/capacity-building/develop) and [NASA Openscapes](https://nasa-openscapes.github.io) to learn how these organisations are currently engaging with The Carpentries, through workshops for coding skills and Instructor Training to bring teaching philosophies and leadership skills to new places to create new materials. We will explore how they, and like organisations, can work to build successful collaborations to support advancing open science practices.
 
-This Carpentries Community Session will include panelists giving a brief overview of how they have been connecting with The Carpentries and a facilitated discussion.
+**We hope this session will begin to build a subcommunity of Carpentries Instructors connected through NASA TOPS, DEVELOP and NASA Openscapes**. However, anyone interested in developing an engaged network of Instructors is welcome to attend.
+
+This session will include panelists giving a brief overview of how they have been connecting with The Carpentries and a facilitated discussion.
+
+Speakers: 
+
+-   Chris Battisto, NASA Openscapes 
+-   Sean McCartney, NASA DEVELOP
+-   TBD, NASA TOPS
+-   Alycia Crall, Carpentries
+-   Elizabeth Joyner, NASA
+
 
 <br>
 

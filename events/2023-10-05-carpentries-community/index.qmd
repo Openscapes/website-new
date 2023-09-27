@@ -28,11 +28,11 @@ This session will include panelists giving a brief overview of how they have bee
 
 Speakers: 
 
--   Chris Battisto, NASA Openscapes 
--   Sean McCartney, NASA DEVELOP
+-   [Chris Battisto](https://www.linkedin.com/in/chrisbattisto/), NASA Openscapes & GES DISC (Goddard Earth Sciences Data Information and Services Center)
+-   [Sean McCartney](https://science.gsfc.nasa.gov/sed/bio/sean.mccartney), NASA DEVELOP
 -   TBD, NASA TOPS
 -   Alycia Crall, Carpentries
--   Elizabeth Joyner, NASA
+-   [Elizabeth Joyner](https://science.larc.nasa.gov/people/elizabeth-joyner/), NASA Science Directorate
 
 
 <br>

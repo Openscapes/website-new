@@ -16,7 +16,9 @@ image: doc-things-3-places.png
 
 -   *posit::conf YouTube* - coming soon with all talks from the Conference
 -   [Documenting things: openly for future us](https://openscapes.github.io/documenting-things) - my slides
--   [Blog summary of the conference by Millie Symns!](https://milliesymns.com/blog/2023-09-25-spoke-at-posit-conf-2023/)
+-   Other blog summaries from the community: 
+    - [by Millie Symns](https://milliesymns.com/blog/2023-09-25-spoke-at-posit-conf-2023/)
+    - [by Jilly MacKay](https://jillymackay.com/post/positconf2023/)
 
 ------------------------------------------------------------------------
 
@@ -93,7 +95,7 @@ There are a lot of other great features and examples with Quarto that I will con
 
 ### Black hair and data science have more in common than you think
 
-Kari Jordan is Executive Director of [The Carpentries](https://carpentries.org/). Her talk about Black hair and data science have more in common than you think was really thought-provoking. Kari created a fabulous table categorizing hair type and data type and the tools and workflows required. I have a long way to learn from communities of people who are different from me, and I really appreciated this chance with Kari. This was an intimate and brave talk, one that Kari said she adapted for a Posit audience since she first gave it at Spelman College, a historically black liberal arts college for women in Atlanta, Georgia. I also loved that Kari's niece attended sessions with Kari and Sher! throughout the week!
+Kari Jordan is Executive Director of [The Carpentries](https://carpentries.org/). Her talk about Black hair and data science have more in common than you think was really thought-provoking. Kari created a fabulous table categorizing hair type and data type and the tools and workflows required. I have a long way to learn from communities of people who are different from me, and I really appreciated this chance with Kari. This was an intimate and brave talk, one that Kari said she adapted for a Posit audience since she first gave it at Spelman College, a historically Black liberal arts college for women in Atlanta, Georgia. I also loved that Kari's niece attended sessions with Kari and Sher! throughout the week!
 
 ### webR for reproducibility & teaching
 

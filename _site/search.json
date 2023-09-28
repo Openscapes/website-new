@@ -3161,7 +3161,7 @@
     "href": "blog/2023-09-27-documenting-things-posit-conf/index.html",
     "title": "Documenting things & Posit Conference Debrief",
     "section": "",
-    "text": "Last week I’ve been at #PositConf2023 in Chicago, reconnecting with the open data science community through folks from R-Ladies, Posit, and the greater #rstats and python community. I gave a talk, sharing about documenting things and how intentional approaches are helping teams tackle hard challenges and change organizational culture. This post is a light debrief of highlights from the Conference, as well as a short overview of my talk.\nQuick links:"
+    "text": "Last week I’ve been at #PositConf2023 in Chicago, reconnecting with the open data science community through folks from R-Ladies, Posit, and the greater #rstats and python community. I gave a talk, sharing about documenting things and how intentional approaches are helping teams tackle hard challenges and change organizational culture. This post is a light debrief of highlights from the Conference, as well as a short overview of my talk. Big disclaimer! There was way more awesomeness (both tech and people!) and this absolutely doesn’t capture it all. Definitely look out for other great talks about features and real-world teams using Shiny (with R and Python), tidyverse, Quarto, and much much more.\nQuick links:"
   },
   {
     "objectID": "blog/2023-09-27-documenting-things-posit-conf/index.html#positconf2023---go-tell-your-roommate",

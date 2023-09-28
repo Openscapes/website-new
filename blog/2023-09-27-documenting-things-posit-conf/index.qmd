@@ -10,7 +10,7 @@ categories: [how-we-work, blog]
 image: doc-things-3-places.png
 ---
 
-*Last week I've been at #PositConf2023 in Chicago, reconnecting with the open data science community through folks from R-Ladies, Posit, and the greater #rstats and python community. I gave a talk, sharing about documenting things and how intentional approaches are helping teams tackle hard challenges and change organizational culture. This post is a light debrief of highlights from the Conference, as well as a short overview of my talk.*
+*Last week I've been at #PositConf2023 in Chicago, reconnecting with the open data science community through folks from R-Ladies, Posit, and the greater #rstats and python community. I gave a talk, sharing about documenting things and how intentional approaches are helping teams tackle hard challenges and change organizational culture. This post is a light debrief of highlights from the Conference, as well as a short overview of my talk. Big disclaimer! There was way more awesomeness (both tech and people!) and this absolutely doesn't capture it all. Definitely look out for other great talks about features and real-world teams using Shiny (with R and Python), tidyverse, Quarto, and much much more.*
 
 *Quick links:*
 
@@ -24,7 +24,7 @@ image: doc-things-3-places.png
 
 ## posit::conf(2023) - Go tell your roommate
 
-When we debrief following Openscapes events, we try to capture one thing that we would go tell our housemate/roommate (we developed this working from home during the pandemic; it could also be your coworker or the first person nearby). These "go tell your roommate" debriefs are often not a summary or synthesis, but moments or details or feelings that really stand out. They are little micro-stories we can amplify. So here are some of these "roommate moments" from posit::conf that I wanted to share.
+When we debrief following Openscapes events, we try to capture one thing that we would go tell our housemate/roommate (we developed this working from home during the pandemic; it could also be your coworker or the first person nearby). These "go tell your roommate" debriefs are often not a summary or synthesis, but moments or details or feelings that really stand out. They are little micro-stories we can amplify. So here are some of these "roommate moments" from posit::conf that I wanted to share. 
 
 ### Penobscot Indian Nation opening video
 

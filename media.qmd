@@ -19,6 +19,8 @@ aliases:
 
 ## PUBLICATIONS
 
+- Julia Lowndes et al. [Shifting institutional culture to develop climate solutions with Open Science](https://eartharxiv.org/repository/view/5948/), preprint, 2023
+
 -  Erin Robinson & Julia Stewart Lowndes. [The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices](https://eartharxiv.org/repository/view/4560/), preprint, 2022
 
 -  Abigail Cabunoc Mayes, Chad Sansing, Julia Lowndes. [3 lessons from remote meetings we’re taking back to the office](https://opensource.com/article/20/6/remote-meetings). Open Source Way, 2020
@@ -30,6 +32,8 @@ aliases:
 -  Julia S. Stewart Lowndes, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O’Hara, Ning Jiang, & Benjamin S. Halpern. [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). Nature Ecology & Evolution, 2017 ( Openscapes origins)
 
 ## MEDIA
+
+-  [Supporting open science as a daily practice](https://docs.google.com/presentation/d/19OoPaUVVOA6AFLLd9mYeiM8f1BNNnoAjJCP4RD6Ahe8/edit#slide=id.g1b5922f14f8_0_83) - December 16, 2022 - Julie Lowndes, Erin Robinson, Openscapes Mentors. AGU Fall Conference Talk, NASA TOPS [The Future is Open](https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/161588) session
 
 - [Using the NASA Openscapes Framework to enable open science](https://nsidc.org/news-analyses/news-stories/using-nasa-openscapes-framework-enable-open-science) - Audrey Payne. March 16, 2023. *NASA's National Snow and Ice Data Center*
 
@@ -67,6 +71,10 @@ aliases:
 
 *See [NASA-Openscapes](https://nasa-openscapes.github.io/) and [NMFS-Openscapes](https://nmfs-openscapes.github.io/) for many additional presentations from NASA and NOAA Fisheries Mentors!*
 
+- [Documenting things: openly for future us](https://openscapes.github.io/documenting-things) - Sept 19, 2023 — Posit conference (18 minutes)
+
+- [Training for culture change in Open Science](https://grssieee.podbean.com/e/s4e10-down-to-earth-training-for-culture-change-in-open-science/) - June 18, 2023. Julie Lowndes & Erin Robinson, Down To Earth: A podcast for Geoscientists by Geoscientist (30 minutes)
+
 - [Openscapes: supporting kinder science for future us](https://docs.google.com/presentation/d/1d_NbCluzjUI57oxnttWJxe0NEGucbJWUWCaE5tTuUGI/edit?usp=sharing) - May 9, 2023 — EPA Center for Environmental Management & Modeling (CEMM) (35 minutes)
 
 - [Openscapes: supporting kinder science for future us](https://docs.google.com/presentation/d/1WzNaQWVBTLSq4IX0GkvGlQWbDJ4isVpSvGnjb_rdEKU/edit?usp=sharing) - March 31, 2023 — Julie Lowndes, Ileana Fenwick. [Univ. Toronto Mississauga Biology Seminar Series](https://www.utm.utoronto.ca/biology/biology-seminar-series) (45 minutes)
@@ -77,7 +85,7 @@ aliases:
 
 -  [Openscapes: supporting better science for future us](https://docs.google.com/presentation/d/1uKtVnZR8X94tADAWEE1THHKCbvfBbg2PBcH8asaoJQQ/edit) - January 11, 2023 - Julie Lowndes. [Best Practices for HPC Software Developers Webinar Series](https://www.exascaleproject.org/event/openscapes/) hosted by The IDEAS Productivity project, in partnership with the Department of Energy Computing Facilities of the ALCF, OLCF, and NERSC, and the DOE Exascale Computing Project (ECP). This talk is part of Lowndes’ 2022 [NSF Better Scientific Software (BSSw) fellowship](https://bssw.io/pages/meet-our-fellows) ([video](https://www.youtube.com/watch?v=unjQxQPfnqM))
 
--  [Supporting open science as a daily practice](https://docs.google.com/presentation/d/19OoPaUVVOA6AFLLd9mYeiM8f1BNNnoAjJCP4RD6Ahe8/edit#slide=id.g1b5922f14f8_0_83) - December 16, 2022 - Julie Lowndes, Erin Robinson, Openscapes Mentors. AGU Fall Conference Talk, NASA TOPS [The Future is Open](https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/161588) session
+-   [Supporting open science as a daily practice](https://docs.google.com/presentation/d/19OoPaUVVOA6AFLLd9mYeiM8f1BNNnoAjJCP4RD6Ahe8/edit?usp=sharing) - December 16, 2022 - Julie Lowndes, Erin Robinson, Openscapes Mentors. AGU Fall Conference Talk, "The Future is Open" session
 
 -  [Hello Quarto: share • collaborate • teach • reimagine](https://mine.quarto.pub/hello-quarto/) — July 28, 2022: Keynote at RStudio Conference with Mine Çetinkaya-Rundel ([video](https://posit.co/keynotes/hello-quarto-share-collaborate-teach-reimagine/)) (60 minutes)
 

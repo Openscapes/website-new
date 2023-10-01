@@ -89,7 +89,6 @@
   {
     "listing": "/index.html",
     "items": [
-      "/blog/2023-09-26-news-sept-2023/index.html",
       "/blog/2023-09-27-documenting-things-posit-conf/index.html",
       "/blog/2023-09-06-reflections-2023/index.html",
       "/blog/2023-08-17-bssw-fellowship/index.html",
@@ -194,7 +193,6 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/blog/2023-09-26-news-sept-2023/index.html",
       "/blog/2023-09-27-documenting-things-posit-conf/index.html",
       "/blog/2023-09-06-reflections-2023/index.html",
       "/blog/2023-08-17-bssw-fellowship/index.html",

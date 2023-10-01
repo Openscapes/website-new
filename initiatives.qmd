@@ -93,7 +93,7 @@ knitr::include_graphics("images/logo/nasa-openscapes.png")
 
 <!---The Framework involves connecting open leaders with each other and leadership and includes regular peer-learning meetings and formal skillbuilding in teaching and coaching. --->
 
-We began developing the Mentors Framework in 2021 through NASA Openscapes. We have also been growing the Mentors Framework with NOAA Fisheries, the California Water Boards, and Pathways to Open Science teams and are excited to expand what we are learning with other groups.
+We began developing the Mentors Framework in 2021 through NASA Openscapes, describing this in [Robinson & Lowndes 2022](https://eartharxiv.org/repository/view/4560/). We have also been growing the Mentors Framework with NOAA Fisheries, the California Water Boards, and Pathways to Open Science teams and are excited to expand what we are learning with other groups.
 
 
 ::: {.yellow-box}

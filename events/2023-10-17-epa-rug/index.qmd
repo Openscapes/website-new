@@ -1,0 +1,30 @@
+---
+title: "Openscapes plenary at U.S EPA R User Group workshop"
+description: |
+  Speakers, Julie Lowndes and Ileana Fenwick
+date: "2023-10-17"
+author: Openscapes
+categories: 
+  - event 
+  - talk
+image: "julie-ileana-headshots.png"
+---
+
+Julie Lowndes and Ileana Fenwick are giving the plenary talk at the [2023 U.S. EPA R User Group Workshop](https://github.com/USEPA/workshops/tree/main/r/2023/epa_r_workshop_2023). Julie and Ileana will share [stories from Openscapes Champions Cohorts](https://openscapes.org/blog#category=champions) in government and academia and from initiatives like [Pathways to Open Science](https://openscapes.github.io/pathways-to-open-science/) for Black environmental & marine researchers to build community for the future of data intensive science. 
+
+The virtual workshop has a great lineup of lightning talks and hands-on workshops. Open to U.S. EPA staff only. 
+
+
+[Julia Stewart Lowndes](https://jules32.github.io/), PhD, Director of Openscapes is a marine ecologist working at the intersection of actionable environmental science, data science, and open science. Julia's main focus is mentoring teams to develop technical and leadership mindsets and skills for data-intensive research, grounded in climate solutions, inclusion, and kindness. She founded Openscapes in 2018 as a Mozilla Fellow and Senior Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California Santa Barbara (UCSB), having earned her PhD from Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate.
+
+[**Ileana Fenwick**](https://twitter.com/_ileanaf) is a core Openscapes team member; she is an open science advocate and Marine Sciences Ph.D. Student at UNC Chapel Hill. Ileana's research focuses on evaluating how marine communities respond to climate change and human impacts. Her work uses innovative quantitative methods to improve our ocean management outcomes. In addition to her research, Ileana is also a fierce advocate for HBCU engagement and equity in open science and marine science through her consulting and volunteer work.
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "50%" 
+#| fig-alt: "headshots of two women smiling. Julie, a white woman, on left has short light brown hair in a ponytail and is wearing black framed glasses. Ileana, a Black woman, on right has long thick curly hair"
+knitr::include_graphics("julie-ileana-headshots.png")
+```
+

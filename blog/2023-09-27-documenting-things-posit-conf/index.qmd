@@ -6,7 +6,7 @@ author:
 date: 2023-09-27
 citation: 
   url: https://openscapes.org/blog/2023-09-27
-categories: [how-we-work, blog]
+categories: [how-we-work, blog, conference]
 image: doc-things-3-places.png
 ---
 

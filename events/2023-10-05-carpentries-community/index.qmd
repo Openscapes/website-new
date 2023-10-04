@@ -30,8 +30,8 @@ Speakers:
 
 -   [Chris Battisto](https://www.linkedin.com/in/chrisbattisto/), NASA Openscapes & GES DISC (Goddard Earth Sciences Data Information and Services Center)
 -   [Sean McCartney](https://science.gsfc.nasa.gov/sed/bio/sean.mccartney), NASA DEVELOP
--   TBD, NASA TOPS
--   Alycia Crall, Carpentries
+-   [Porsche Parker](https://www.linkedin.com/in/porsche-parker-5000959/), NASA TOPS
+-   [Alycia Crall](https://carpentries.org/blog/2021/07/introducing-the-carpentries-director-of-community/), Carpentries
 -   [Elizabeth Joyner](https://science.larc.nasa.gov/people/elizabeth-joyner/), NASA Science Directorate
 
 

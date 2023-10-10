@@ -1,5 +1,5 @@
 ---
-title: "Openscapes plenary at U.S EPA R User Group workshop"
+title: "Openscapes plenary at US EPA R User Group workshop"
 description: |
   Speakers, Julie Lowndes and Ileana Fenwick
 date: "2023-10-17"

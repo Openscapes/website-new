@@ -115,7 +115,7 @@ listing:
 <!----------- START Research Teams box ----------->
 ::: {.g-col-12 .g-col-md-4 .stat-box}
 ::: {.large-stat-num .blue-text}
-**125**
+**130** <!---`(7 * 18) + (3 * 2)`--->
 :::
 :::{.med-sm-body-text}
 **Research teams** through the Champions Program

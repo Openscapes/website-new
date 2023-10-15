@@ -6,7 +6,7 @@ listing:
   type: default
   max-description-length: 175
   date-format: medium
-  categories: numbered
+  categories: true 
 page-layout: full
 title-block-banner: "#38A7BB" # use this for solid color banner
 title-block-banner-color: "#FFFFFF"

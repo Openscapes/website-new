@@ -13,7 +13,7 @@ listing:
     categories: false
     sort-ui: false
     filter-ui: false
-    fields: [title, image, date, categories]
+    fields: [title, image, date, categories] 
 ---
 
 ::: {.column-screen}

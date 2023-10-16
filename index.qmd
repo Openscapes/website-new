@@ -249,7 +249,7 @@ Our blog shares stories from the community and documents our learning openly. Se
 <br>
 
 ::: {.med-sm-body-text .center-text}
-We share our curricula, approach, any many other [open resources](resources.qmd) for reuse.
+We share our curricula, approach, and many other [open resources](resources.qmd) for reuse.
 
 Learn more about our [initiatives](initiatives.qmd) through our [media](media.qmd), and [events](events.qmd) and [connect](connect.qmd) with us.
 <br>

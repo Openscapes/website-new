@@ -71,6 +71,8 @@ aliases:
 
 *See [NASA-Openscapes](https://nasa-openscapes.github.io/) and [NMFS-Openscapes](https://nmfs-openscapes.github.io/) for many additional presentations from NASA and NOAA Fisheries Mentors!*
 
+- [Openscapes: Supporting kinder science for future us](https://docs.google.com/presentation/d/18TZQeLmqdZL7ZvfJoB6ewUTjW9srAJZs1j_83x64NiQ/edit?usp=sharing) - Oct 17, 2023. Ileana Fenwick & Julia Lowndes. [USEPA R Users Group Workshop](https://github.com/USEPA/workshops/tree/main/r/2023/epa_r_workshop_2023) (45 minutes)
+
 - [Documenting things: openly for future us](https://openscapes.github.io/documenting-things) - Sept 19, 2023 — Posit conference (18 minutes)
 
 - [Training for culture change in Open Science](https://grssieee.podbean.com/e/s4e10-down-to-earth-training-for-culture-change-in-open-science/) - June 18, 2023. Julie Lowndes & Erin Robinson, Down To Earth: A podcast for Geoscientists by Geoscientist (30 minutes)

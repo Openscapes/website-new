@@ -6,15 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Amy Steiker">
-<meta name="author" content="Luis Lopez">
-<meta name="author" content="Andy Barrett">
-<meta name="author" content="the NASA Openscapes Mentors">
-<meta name="author" content="James Bourbeau of Coiled">
-<meta name="dcterms.date" content="2023-10-13">
-<meta name="description" content="Managed JupyterHub options for Cryosphere and NASA Earthdata user communities">
+<meta name="author" content="Lisa Kempler">
+<meta name="dcterms.date" content="2023-10-17">
+<meta name="description" content="Accessing and Analyzing NASA Earthdata in the Cloud with MATLAB">
 
-<title>Cloud Environment Opportunities</title>
+<title>MATLAB on Openscapes</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -204,10 +200,10 @@ background: #F8D98F;
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page">
-      <h1 class="title">Cloud Environment Opportunities</h1>
+      <h1 class="title">MATLAB on Openscapes</h1>
                   <div>
         <div class="description">
-          Managed JupyterHub options for Cryosphere and NASA Earthdata user communities
+          Accessing and Analyzing NASA Earthdata in the Cloud with MATLAB
         </div>
       </div>
                           <div class="quarto-categories">
@@ -221,20 +217,16 @@ background: #F8D98F;
   <div class="quarto-title-meta">
 
       <div>
-      <div class="quarto-title-meta-heading">Authors</div>
+      <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>Amy Steiker <a href="https://orcid.org/0000-0002-3039-0260" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
-               <p>Luis Lopez </p>
-               <p>Andy Barrett <a href="https://orcid.org/0000-0003-4394-5445" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
-               <p>the NASA Openscapes Mentors </p>
-               <p>James Bourbeau of Coiled </p>
+               <p>Lisa Kempler </p>
             </div>
     </div>
       
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">October 13, 2023</p>
+        <p class="date">October 17, 2023</p>
       </div>
     </div>
     
@@ -252,107 +244,78 @@ background: #F8D98F;
 
 
 
-<p><em>We support users at the NASA National Snow and Ice Data Center Distributed Active Archive Center (<a href="https://nsidc.org/data/data-programs/nsidc-daac">NSIDC DAAC</a>). This week we had an in person meeting with our User Working Group (UWG), a group that consists of fourteen members representing our cryospheric user community by providing recommendations on the DAAC’s data resources and overall objectives and priorities. We presented a slide deck with an overview of Cloud Environment Opportunities focused on managed JupyterHub options, and a live demo of Coiled, which is a company providing software and expertise for scalable Cloud computing built on Dask. This work currently builds from our Cloud infrastructure set up with NASA Openscapes. The purpose was to share the options currently available, and to invite UWG members to work and improve from these ideas.</em></p>
-<p><em>We’re also part of the NASA Openscapes community; we support researchers using NASA Earthdata as they migrate their data analysis workflows to the Cloud. This blog post does not go into deep detail about how NASA Earthdata is migrating to the Cloud, but you can read more about our efforts with NASA Openscapes at <a href="https://nasa-openscapes.github.io" class="uri">https://nasa-openscapes.github.io</a>.</em></p>
-<p><em>This blog post gives a brief summary of the slides and some thoughts going forward.</em></p>
-<p><em>Quick link: <a href="https://docs.google.com/presentation/d/1NEsE58SIMjQ_fjC_11HIXqd7Urvi5yy5/edit#slide=id.g23808f09f20_2_714">slides</a></em></p>
-<hr>
-<section id="when-to-cloud" class="level2">
-<h2 class="anchored" data-anchor-id="when-to-cloud">When to Cloud?</h2>
-<p>We started off with considerations of “When to Cloud?” This covered things to consider for you now and in the future:</p>
+<p><em>Lisa Kempler works at MathWorks as a Research and Geoscience Strategist. She supports research and educator communities seeking to integrate their platforms with software tools and resources that enable effective data access, computing, and results sharing and publishing. She regularly meets with research communities, including site developers and users of data and compute services, developing programs and working with teams to provide implementation and user support. Lisa attended Brown University, Boston University, and Northeastern University.</em></p>
+<p><strong><em>Quick links:</em></strong></p>
 <ul>
-<li>What is the data volume?</li>
-<li>How long will it take to download?</li>
-<li>Can you store all that data (cost and space)?</li>
-<li>Do you have the computing power for processing?</li>
-<li>Does your team need a common computing environment?</li>
-<li>Do you need to share data at each step or just an end product?</li>
+<li><a href="https://drive.google.com/file/d/15kuVavXX2fVnLqiOlr9rHVmphZQ5NZNa/view"><em>Recording</em></a> <em>of the presentation at the NASA Openscapes Mentors Call on Sept.&nbsp;6, 2023 by Cedric Wannaz (MathWorks)</em></li>
+<li><a href="https://nasa-openscapes.github.io/earthdata-cloud-cookbook/in-development/matlab.html"><em>Tutorial</em></a><em>: Using MATLAB on NASA Openscapes</em></li>
 </ul>
-<p>Andy Barrett created and presented more in-depth slides to the <a href="https://openscapes.org/blog/2023-08-01-nasa-champions/">2023 NASA Champions Cohort</a> of Science teams: <a href="https://nsidc.github.io/data_strategies_for_future_us/data_strategies_slides">Data strategies for Future Us, for Cloud</a>.</p>
-<p><strong>Assuming you are “ready to Cloud” based on the considerations above, there are two main solutions for accessing NASA Earthdata Cloud: Do it yourself or using a managed Cloud service.</strong> If you do it yourself, this involves creating an AWS Account, connecting to an EC2 instance, and using resources like the <a href="https://earthdata.nasa.gov/learn/user-resources/webinars-and-tutorials/cloud-primer">Earthdata Cloud Primer</a> for more setup and cost management information. If you use a managed Cloud service, organizations like <a href="https://2i2c.org/">2i2c</a> can provide Cloud-hosted JupyterHubs for research and education. Your institution may also support smaller or larger scale options.</p>
-</section>
-<section id="comparingoverview-of-managed-hubs" class="level2">
-<h2 class="anchored" data-anchor-id="comparingoverview-of-managed-hubs">Comparing/Overview of Managed Hubs</h2>
+<hr>
+<p>More and more data is being made available for users on <a href="https://www.earthdata.nasa.gov/eosdis/cloud-evolution">NASA’s Earthdata Cloud</a> platform. <a href="https://nasa-openscapes.github.io/">NASA Openscapes</a> collaborates with a community of user-support staff across ten of the NASA Earth science Distributed Active Archives (DAACs), with the aim to help researchers transition their computational workflows to the Cloud using NASA Earthdata.</p>
+<p>Through the <a href="https://nasa-openscapes.github.io/champions.html">NASA Openscapes Champions,</a> an annual program that supports cohorts of science teams, a number of researchers expressed interest in using the data hosted on NASA Earthdata with MATLAB. The initial NASA Openscapes’ JupyterHub platform hosted by <a href="https://2i2c.org/">2i2c</a>, and tutorials, were Python-based. However, to make this transition, users need to be able to use software tools that are familiar to them that enable access to the data and can process it. The NASA Openscapes team reached out to MathWorks, developers of MATLAB, to support the effort to integrate MATLAB into NASA Openscapes JupyterHub and tutorials. The goal was to enable direct Cloud data access from MATLAB.&nbsp;</p>
+<p>Together, our two teams have successfully installed MATLAB on NASA Openscapes JupyterHub, visible in the screenshot below. It is now available for researchers participating in NASA Openscapes affiliated learning events to try out with Earthdata data. Researchers will “bring their own license” (BYOL) and will be prompted to input that information to access MATLAB.</p>
 <div class="cell" data-layout-align="center">
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="UWG2023_Cloud_Environment_Opportunities_2i2c.png" class="img-fluid figure-img" style="width:75.0%" alt="slide 4 in https://docs.google.com/presentation/d/1NEsE58SIMjQ_fjC_11HIXqd7Urvi5yy5/edit#slide=id.g23808f09f20_2_714. Heading 'NASA Openscapes 2i2c JupyterHub', text box to left, screenshot to right"></p>
+<p><img src="matlab-launch.png" class="img-fluid figure-img" style="width:75.0%" alt="JupyterHub interface with folders listing on left and launcher window on right including 3 rows of icons. Top row inludes MATLAB launcher"></p>
 </figure>
 </div>
 </div>
 </div>
 <div class="small-text center-text dark-gray-text">
-<p>The NASA Openscapes 2i2c JupyterHub, one of the six options presented, provides a valuable shared Cloud environment not only for our Science Champions and workshop learners, but also for our DAAC scientists, developers, and user support staff across NASA EOSDIS (Earth Observing System Data and Information System).</p>
+<p>Two MATLAB computing options on the Openscapes 2i2c JupyterHub: Full MATLAB desktop (with IDE) and via a Jupyter Notebook interface.</p>
 </div>
+<p>The MATLAB implementation on Openscapes JupyterHub consists of</p>
+<ul>
+<li><p>MATLAB desktop: A full MATLAB, including the IDE (bring your own license<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>)</p></li>
+<li><p>15 MATLAB toolboxes available to use with the MATLAB installation</p>
+<ul>
+<li>Including: Mapping, Signal Processing, Statistics and Machine Learning toolboxes</li>
+<li>As users identify additional toolboxes they require, this list can grow.</li>
+</ul></li>
+</ul>
+<p>In addition, we’ve written a detailed tutorial to help users learn the system and process the data. The <a href="https://nasa-openscapes.github.io/earthdata-cloud-cookbook/in-development/matlab.html">MATLAB tutorial</a> from NASA Openscapes includes code examples, that cover:</p>
+<ul>
+<li><a href="https://nasa-openscapes.github.io/earthdata-cloud-cookbook/in-development/matlab.html#launch-matlab-in-2i2c-jupyterhub">Launching MATLAB in Openscapes 2i2c JupyterHub</a></li>
+<li>Login and Authentication</li>
+<li><a href="https://nasa-openscapes.github.io/earthdata-cloud-cookbook/in-development/matlab.html#accessing-data">Accessing data</a> on Earthdata</li>
+<li><a href="https://nasa-openscapes.github.io/earthdata-cloud-cookbook/in-development/matlab.html#launch-with-aws-console">Launching with AWS Console</a></li>
+</ul>
 <div class="cell" data-layout-align="center">
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="UWG2023_Cloud_Environment_Opportunities_playground.png" class="img-fluid figure-img" style="width:75.0%" alt="slide 6 in https://docs.google.com/presentation/d/1NEsE58SIMjQ_fjC_11HIXqd7Urvi5yy5/edit#slide=id.g23808f09f20_2_714. Heading 'Earthdata Cloud Playground', text box to left, screenshots to right show a GitHub repo and out put of a python notebook showing graphic of the Great Lakes"></p>
+<p><img src="matlab-map.png" class="img-fluid figure-img" style="width:75.0%" alt="Map showing sea surface temperature in yellow, green, blue. Heading 'sea surface temperature [kelvin]'; x-axis from 24 to 44; y-axis from -80 to -50"></p>
 </figure>
 </div>
 </div>
 </div>
 <div class="small-text center-text dark-gray-text">
-<p>The Earthdata Cloud Playground is in development as a long-term resource for users learning and testing their data workflows in the Cloud.</p>
+<p>Map showing sea surface temperature created from HDF5 data with MATLAB contour() using the AWS console (screenshot from the MATLAB tutorial in the Earthdata Cloud Cookbook)</p>
 </div>
-<div class="cell" data-layout-align="center">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="UWG2023_Cloud_Environment_Opportunities_coiled.png" class="img-fluid figure-img" style="width:75.0%" alt="slide 8 in https://docs.google.com/presentation/d/1NEsE58SIMjQ_fjC_11HIXqd7Urvi5yy5/edit#slide=id.g23808f09f20_2_714. Heading 'Coiled', text box to left, screenshots to right"></p>
-</figure>
-</div>
-</div>
-</div>
-<div class="small-text center-text dark-gray-text">
-<p>Coiled can be a resource for those who wish to offboard or scale from an existing Hub environment.</p>
-</div>
-</section>
-<section id="coiled-live-demo" class="level2">
-<h2 class="anchored" data-anchor-id="coiled-live-demo">Coiled live demo</h2>
-<p>This Fall, Openscapes is partnering with <a href="https://www.coiled.io/">Coiled</a> to support us experimenting with another approach to Cloud access, as well as refactoring workflows from serial processes (for-loops) to parallel in order to leverage the true power of Cloud. Amy Steiker and Luis Lopez lead a <a href="https://docs.google.com/document/d/1tqV1eF15qqyZL8lMAa9a3PyXJ6CC3fvHe4oKzw_iaUs/edit#heading=h.c3zsga28bzu">live demo for UWG participants</a>, leveraging the same Google doc approach used during the Science Champions <a href="https://nasa-openscapes.github.io/earthdata-cloud-cookbook/examples/Earthdata-cloud-clinic.html">Earthdata Cloud Clinic</a> for this event, including more information on Coiled.&nbsp;</p>
-<div class="cell" data-layout-align="center">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="amy-steiker-uwg.png" class="img-fluid figure-img" style="width:75.0%" alt="Photo with foreground showing backs of 14 people seated at tables with labtops, watching a woman at podium and a projection of a presentation slide"></p>
-</figure>
-</div>
-</div>
-</div>
-<div class="small-text center-text dark-gray-text">
-<p>Amy Steiker presenting to NSIDC User Working Group</p>
-</div>
-<p>The demo showcased a <a href="https://github.com/nsidc/NSIDC-Data-Tutorials/blob/main/notebooks/ICESat-2_Cloud_Access/h5cloud/workflow.py">Python script</a> that processed large amounts of altimetry data from NASA’s ICESat-2 mission. While the script was run from Amy’s local computer, the data processing steps were run on the Cloud using <a href="https://docs.coiled.io/user_guide/usage/functions/index.html">Coiled Functions</a> for running Python functions on Cloud virtual machines (VMs). This approach was particularly convenient as it allows existing Python functions to be run in the Cloud by lightly annotating them with a <code>@coiled.function</code> decorator.</p>
-<p>This workflow benefited from running on the Cloud because the ICESat-2 mission data was already stored on the Cloud in S3, so moving the data processing to be co-located next to the data avoided data transfers, which are both slow and expensive.</p>
-</section>
-<section id="recap" class="level2">
-<h2 class="anchored" data-anchor-id="recap">Recap</h2>
-<p>We closed our presentation and demo with the following advice for the User Working Group scientists:</p>
-<div class="blockquote-blue">
-<blockquote class="blockquote">
-<p><em>First ask yourself: When to Cloud? You may continue to download data, or work locally using Cloud-based service outputs, and optionally take advantage of Cloud.</em></p>
-</blockquote>
-</div>
-<p>If you “passed go”, there are a growing number of options to easily onboard to a Cloud environment. The options we presented are not exhaustive! We want to hear from you on other options you are pursuing and how your Cloud transition is going.</p>
+<p>It’s new to work with NASA Earthdata on the NASA Openscapes JupyterHub, and even newer with MATLAB! We are excited that teams participating in the 2022 and 2023 NASA Openscapes Champions program are already logging into Openscapes and using MATLAB on the platform and continuing to push forward NASA Earthdata Cloud access through MATLAB. We will share more results on this work at the upcoming <a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1281461">American Geophysical Union Fall Meeting on Tuesday, December 12.</a> If you are interested in this work, please get in touch (<a href="mailto:lisak@mathworks.com">lisak@mathworks.com</a>).</p>
+<p>To learn more about using MATLAB with data on NASA Openscapes, watch the <a href="https://drive.google.com/file/d/15kuVavXX2fVnLqiOlr9rHVmphZQ5NZNa/view?pli=1">video presentation to the NASA Openscapes Mentors</a> or read the <a href="https://nasa-openscapes.github.io/earthdata-cloud-cookbook/in-development/matlab.html">MATLAB Tutorial</a>.</p>
+<p><em>Acknowledgements: A special thanks to Erin Robinson of NASA Openscapes and Luis Lopez Espinosa of the National Snow and Ice Data Center (NSIDC) for their collaboration on the NASA Openscapes MATLAB implementation and their contributions to this blog post.</em></p>
 
 
-</section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{steiker2023,
-  author = {Amy Steiker and Luis Lopez and Andy Barrett and the NASA
-    Openscapes Mentors and James Bourbeau of Coiled},
-  title = {Cloud {Environment} {Opportunities}},
-  date = {2023-10-13},
-  url = {https://openscapes.org/blog/2023-10-13-nasa-jupyterhub-coiled},
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Many universities and research institutes have site-wide licenses for MATLAB – called “Campus-Wide Licenses” and “Institute-Wide Licenses”, respectively. Most universities in the U.S. and Canada have CWLs. In those cases, all researchers, faculty and students have access to a MATLAB license via their institutions that work in this BYOL setup. Check with your university system administrators to find out if you have access to a MATLAB license at your institution.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{kempler2023,
+  author = {Lisa Kempler},
+  title = {MATLAB on {Openscapes}},
+  date = {2023-10-17},
+  url = {https://openscapes.org/blog/2023-10-17-matlab-on-openscapes},
   langid = {en}
 }
-</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-steiker2023" class="csl-entry quarto-appendix-citeas" role="doc-biblioentry">
-Amy Steiker, Luis Lopez, Andy Barrett, the NASA Openscapes Mentors, and
-James Bourbeau of Coiled. 2023. <span>“Cloud Environment
-Opportunities.”</span> October 13, 2023. <a href="https://openscapes.org/blog/2023-10-13-nasa-jupyterhub-coiled">https://openscapes.org/blog/2023-10-13-nasa-jupyterhub-coiled</a>.
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-kempler2023" class="csl-entry quarto-appendix-citeas" role="doc-biblioentry">
+Lisa Kempler. 2023. <span>“MATLAB on Openscapes.”</span> October 17,
+2023. <a href="https://openscapes.org/blog/2023-10-17-matlab-on-openscapes">https://openscapes.org/blog/2023-10-17-matlab-on-openscapes</a>.
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {

@@ -2,7 +2,7 @@
 title: "Processing Terabyte-Scale NASA Cloud Datasets with Coiled"
 description: "Guide for NASA Cloud computing at scale. How to run existing NASA data workflows on the cloud, in parallel, with minimal code changes using Coiled."
 author:
-  - name: James Bourbeau
+  - name: James Bourbeau of Coiled
 date: 2023-11-07
 citation: 
   url: https://openscapes.org/blog/2023-11-07-coiled-openscapes
@@ -10,14 +10,9 @@ categories: [nasa-framework, blog]
 image: geospatial-for-loop-comparison.svg
 ---
 
-*Cross-posted from the [Coiled blog](https://medium.com/coiled-hq/processing-terabyte-scale-nasa-cloud-datasets-with-coiled-70ab552f35ec). James Bourbeau is Lead OSS Engineer at Coiled, a company providing software and expertise for scalable Cloud computing built on Dask.*
+*Cross-posted from the [Coiled blog](https://medium.com/coiled-hq/processing-terabyte-scale-nasa-cloud-datasets-with-coiled-70ab552f35ec). James Bourbeau is Lead OSS Engineer at Coiled, a company providing software and expertise for scalable Cloud computing built on Dask. Through the [NASA Openscapes](https://nasa-openscapes.github.io) community, we support researchers using NASA Earthdata as they migrate their data analysis workflows to the Cloud. This Fall, Openscapes is partnering with Coiled to support us experimenting with another approach to Cloud access.*
 
-*Through the NASA Openscapes community, we support researchers using NASA Earthdata as they migrate their data analysis workflows to the Cloud.*
-
-***Quick links:***
-
-[NASA Openscapes](https://nasa-openscapes.github.io)\
-other coiled posts here
+[*Amy Steiker*](https://github.com/asteiker)*, [Luis Lopez](https://github.com/betolink), and [Andy Barrett](https://github.com/andypbarrett) from NSIDC and [Aronne Merrelli](https://github.com/aronnem) from the University of Michigan shared their scientific use cases which motivated this post.*
 
 ------------------------------------------------------------------------
 
@@ -46,15 +41,15 @@ for file in files:
 plot(results)
 ```
 
-This straightforward but important pattern occurs frequently in groups working with [NASA Earthdata](https://www.earthdata.nasa.gov/) and NASA Distributed Active Archive Centers (DAACs) to move scientific workloads to the cloud. Here are some examples:
+This straightforward but important pattern occurs frequently in groups working with [NASA Earthdata](https://www.earthdata.nasa.gov/) and NASA Distributed Active Archive Centers ([DAACs](https://www.earthdata.nasa.gov/eosdis/daacs)) to move scientific workloads to the cloud. Here are some examples:
 
 -   **Extract greenhouse gasses over urban areas from [TROPOMI](https://www.earthdata.nasa.gov/sensors/tropomi) L2 data**: TROPOMI measures trace gasses and aerosols relevant for air quality and climate. It generates a large volume of [L2 data](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/data-information-policy/data-levels) stored as millions of files on S3. In our particular project we're interested in greenhouses over highly populated urban areas, and how they affect quality of life. We need to select those files over many cities and then construct a timeseries over them to see how air quality changes.
--   **Grid sea ice freeboard data from NASA's [ICESat-2](https://icesat-2.gsfc.nasa.gov/) mission**: This [workflow](https://github.com/nsidc/NSIDC-Data-Tutorials/tree/main/notebooks/ICESat-2_Cloud_Access/h5cloud) from NSIDC researchers loads [L3 sea ice freeboard HDF5 data](https://nsidc.org/data/atl10/versions/5), selects a lat-lon bounding box of interest, and regrids the dataset to the EASE-Grid v2 6.25 km projected grid using drop-in-the-bucket resampling. The resulting processed dataset is then written out to a local Parquet file to be used in further analysis. This is particularly valuable as it allows researchers to easily create their own specialized datasets with spatial and temporal resolutions relevant for their analysis.
+-   **Grid sea ice freeboard data from NASA's [ICESat-2](https://icesat-2.gsfc.nasa.gov/) mission**: This [workflow](https://github.com/nsidc/NSIDC-Data-Tutorials/tree/main/notebooks/ICESat-2_Cloud_Access/h5cloud) from [NSIDC](https://nsidc.org/) (National Snow and Ice Data Center) researchers loads [L3 sea ice freeboard HDF5 data](https://nsidc.org/data/atl10/versions/5), selects a lat-lon bounding box of interest, and regrids the dataset to the EASE-Grid v2 6.25 km projected grid using drop-in-the-bucket resampling. The resulting processed dataset is then written out to a local Parquet file to be used in further analysis. This is particularly valuable as it allows researchers to easily create their own specialized datasets with spatial and temporal resolutions relevant for their analysis.
 
 In this post we'll show how to run this same "function on many files" analysis pattern on the cloud with Coiled, which you can copy and modify for your own use case. We'll also highlight cost optimization strategies for processing terabyte-scale data for fractions of a dollar.
 
 ::: center-text
-![*Comparing cost and duration between running the same workflow locally on a laptop (data egress costs), running on AWS, and running with cost optimizations on AWS.*](geospatial-for-loop-comparison.svg){width="85%" fig-alt="alt text goes here"}
+![*Comparing cost and duration between running the same workflow locally on a laptop (data egress costs), running on AWS, and running with cost optimizations on AWS.*](geospatial-for-loop-comparison.svg){width="85%" fig-alt="histogram with 3 segments on x-axis: laptop, Cloud, Cloud (cost optimized) and y-axis Cost in blue and Duration in gray. Values described in the text"}
 :::
 
 ## Processing Locally
@@ -108,7 +103,7 @@ This specific example uses [earthacess](https://nsidc.github.io/earthaccess/) to
 We then combine the results from processing each data file and plot the results.
 
 ::: center-text
-![*Standard deviation of sea surface temperature over the Great Lakes region in the US.*](geospatial-sst-great-lakes.png){width="85%" fig-alt="alt text goes here"}
+![*Standard deviation of sea surface temperature over the Great Lakes region in the US.*](geospatial-sst-great-lakes.png){width="85%" fig-alt="visualization shows the Great Lakes with longitude on x-axis and latitude on y-axis. stdev of analysed_sst [Kelvin] ranges from 5 (dark blue) to 9 (yellow). Lake Superior is darkest blue; Lake Erie is light green to yellow at its southernmost tip."}
 :::
 
 Running this locally on my laptop takes \~6.4 hours and costs NASA \~\$25 in data egress costs (based on a \$0.05/GB egress charge rate -- normal is \$0.10/GB, but presumably NASA gets a good deal).
@@ -221,7 +216,7 @@ We ran a common data subsetting-style workflow on NASA data in the cloud with Co
 We hope this post shows that with just a handful of lines of code you can migrate your data workflow to the cloud in a straightforward manner. We also hope it provides a template you can copy and adapt for your own analysis use case.
 
 ::: center-text
-![*Comparing cost and duration between running the same workflow locally on a laptop (data egress costs), running on AWS, and running with cost optimizations on AWS.*](geospatial-for-loop-comparison.svg){width="85%" fig-alt="alt text goes here"}
+![*Comparing cost and duration between running the same workflow locally on a laptop (data egress costs), running on AWS, and running with cost optimizations on AWS.*](geospatial-for-loop-comparison.svg){width="85%" fig-alt="histogram with 3 segments on x-axis: laptop, Cloud, Cloud (cost optimized) and y-axis Cost in blue and Duration in gray. Values described in the text"}
 :::
 
 Want to run this example yourself?

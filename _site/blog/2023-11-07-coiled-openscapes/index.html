@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="James Bourbeau">
+<meta name="author" content="James Bourbeau of Coiled">
 <meta name="dcterms.date" content="2023-11-07">
 <meta name="description" content="Guide for NASA Cloud computing at scale. How to run existing NASA data workflows on the cloud, in parallel, with minimal code changes using Coiled.">
 
@@ -282,7 +282,7 @@ background: #F8D98F;
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>James Bourbeau </p>
+               <p>James Bourbeau of Coiled </p>
             </div>
     </div>
       
@@ -307,11 +307,8 @@ background: #F8D98F;
 
 
 
-<p><em>Cross-posted from the <a href="https://medium.com/coiled-hq/processing-terabyte-scale-nasa-cloud-datasets-with-coiled-70ab552f35ec">Coiled blog</a>. James Bourbeau is Lead OSS Engineer at Coiled, a company providing software and expertise for scalable Cloud computing built on Dask.</em></p>
-<p><em>Through the NASA Openscapes community, we support researchers using NASA Earthdata as they migrate their data analysis workflows to the Cloud.</em></p>
-<p><strong><em>Quick links:</em></strong></p>
-<p><a href="https://nasa-openscapes.github.io">NASA Openscapes</a><br>
-other coiled posts here</p>
+<p><em>Cross-posted from the <a href="https://medium.com/coiled-hq/processing-terabyte-scale-nasa-cloud-datasets-with-coiled-70ab552f35ec">Coiled blog</a>. James Bourbeau is Lead OSS Engineer at Coiled, a company providing software and expertise for scalable Cloud computing built on Dask. Through the <a href="https://nasa-openscapes.github.io">NASA Openscapes</a> community, we support researchers using NASA Earthdata as they migrate their data analysis workflows to the Cloud. This Fall, Openscapes is partnering with Coiled to support us experimenting with another approach to Cloud access.</em></p>
+<p><a href="https://github.com/asteiker"><em>Amy Steiker</em></a><em>, <a href="https://github.com/betolink">Luis Lopez</a>, and <a href="https://github.com/andypbarrett">Andy Barrett</a> from NSIDC and <a href="https://github.com/aronnem">Aronne Merrelli</a> from the University of Michigan shared their scientific use cases which motivated this post.</em></p>
 <hr>
 <p><em>We show how to run existing NASA data workflows on the cloud, in parallel, with minimal code changes using Coiled. We also discuss cost optimization.</em></p>
 <p>People often run the same function over many files in cloud storage. This looks something like the following:</p>
@@ -333,16 +330,16 @@ other coiled posts here</p>
 <span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="co"># Step 4: Analyze results locally.</span></span>
 <span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>plot(results)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<p>This straightforward but important pattern occurs frequently in groups working with <a href="https://www.earthdata.nasa.gov/">NASA Earthdata</a> and NASA Distributed Active Archive Centers (DAACs) to move scientific workloads to the cloud. Here are some examples:</p>
+<p>This straightforward but important pattern occurs frequently in groups working with <a href="https://www.earthdata.nasa.gov/">NASA Earthdata</a> and NASA Distributed Active Archive Centers (<a href="https://www.earthdata.nasa.gov/eosdis/daacs">DAACs</a>) to move scientific workloads to the cloud. Here are some examples:</p>
 <ul>
 <li><strong>Extract greenhouse gasses over urban areas from <a href="https://www.earthdata.nasa.gov/sensors/tropomi">TROPOMI</a> L2 data</strong>: TROPOMI measures trace gasses and aerosols relevant for air quality and climate. It generates a large volume of <a href="https://www.earthdata.nasa.gov/engage/open-data-services-and-software/data-information-policy/data-levels">L2 data</a> stored as millions of files on S3. In our particular project we’re interested in greenhouses over highly populated urban areas, and how they affect quality of life. We need to select those files over many cities and then construct a timeseries over them to see how air quality changes.</li>
-<li><strong>Grid sea ice freeboard data from NASA’s <a href="https://icesat-2.gsfc.nasa.gov/">ICESat-2</a> mission</strong>: This <a href="https://github.com/nsidc/NSIDC-Data-Tutorials/tree/main/notebooks/ICESat-2_Cloud_Access/h5cloud">workflow</a> from NSIDC researchers loads <a href="https://nsidc.org/data/atl10/versions/5">L3 sea ice freeboard HDF5 data</a>, selects a lat-lon bounding box of interest, and regrids the dataset to the EASE-Grid v2 6.25 km projected grid using drop-in-the-bucket resampling. The resulting processed dataset is then written out to a local Parquet file to be used in further analysis. This is particularly valuable as it allows researchers to easily create their own specialized datasets with spatial and temporal resolutions relevant for their analysis.</li>
+<li><strong>Grid sea ice freeboard data from NASA’s <a href="https://icesat-2.gsfc.nasa.gov/">ICESat-2</a> mission</strong>: This <a href="https://github.com/nsidc/NSIDC-Data-Tutorials/tree/main/notebooks/ICESat-2_Cloud_Access/h5cloud">workflow</a> from <a href="https://nsidc.org/">NSIDC</a> (National Snow and Ice Data Center) researchers loads <a href="https://nsidc.org/data/atl10/versions/5">L3 sea ice freeboard HDF5 data</a>, selects a lat-lon bounding box of interest, and regrids the dataset to the EASE-Grid v2 6.25 km projected grid using drop-in-the-bucket resampling. The resulting processed dataset is then written out to a local Parquet file to be used in further analysis. This is particularly valuable as it allows researchers to easily create their own specialized datasets with spatial and temporal resolutions relevant for their analysis.</li>
 </ul>
 <p>In this post we’ll show how to run this same “function on many files” analysis pattern on the cloud with Coiled, which you can copy and modify for your own use case. We’ll also highlight cost optimization strategies for processing terabyte-scale data for fractions of a dollar.</p>
 <div class="center-text">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="geospatial-for-loop-comparison.svg" class="img-fluid figure-img" style="width:85.0%" alt="alt text goes here"></p>
+<p><img src="geospatial-for-loop-comparison.svg" class="img-fluid figure-img" style="width:85.0%" alt="histogram with 3 segments on x-axis: laptop, Cloud, Cloud (cost optimized) and y-axis Cost in blue and Duration in gray. Values described in the text"></p>
 <p></p><figcaption class="figure-caption"><em>Comparing cost and duration between running the same workflow locally on a laptop (data egress costs), running on AWS, and running with cost optimizations on AWS.</em></figcaption><p></p>
 </figure>
 </div>
@@ -394,7 +391,7 @@ other coiled posts here</p>
 <div class="center-text">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="geospatial-sst-great-lakes.png" class="img-fluid figure-img" style="width:85.0%" alt="alt text goes here"></p>
+<p><img src="geospatial-sst-great-lakes.png" class="img-fluid figure-img" style="width:85.0%" alt="visualization shows the Great Lakes with longitude on x-axis and latitude on y-axis. stdev of analysed_sst [Kelvin] ranges from 5 (dark blue) to 9 (yellow). Lake Superior is darkest blue; Lake Erie is light green to yellow at its southernmost tip."></p>
 <p></p><figcaption class="figure-caption"><em>Standard deviation of sea surface temperature over the Great Lakes region in the US.</em></figcaption><p></p>
 </figure>
 </div>
@@ -496,7 +493,7 @@ other coiled posts here</p>
 <div class="center-text">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="geospatial-for-loop-comparison.svg" class="img-fluid figure-img" style="width:85.0%" alt="alt text goes here"></p>
+<p><img src="geospatial-for-loop-comparison.svg" class="img-fluid figure-img" style="width:85.0%" alt="histogram with 3 segments on x-axis: laptop, Cloud, Cloud (cost optimized) and y-axis Cost in blue and Duration in gray. Values described in the text"></p>
 <p></p><figcaption class="figure-caption"><em>Comparing cost and duration between running the same workflow locally on a laptop (data egress costs), running on AWS, and running with cost optimizations on AWS.</em></figcaption><p></p>
 </figure>
 </div>
@@ -516,17 +513,17 @@ other coiled posts here</p>
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bourbeau2023,
-  author = {James Bourbeau},
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bourbeauofcoiled2023,
+  author = {James Bourbeau of Coiled},
   title = {Processing {Terabyte-Scale} {NASA} {Cloud} {Datasets} with
     {Coiled}},
   date = {2023-11-07},
   url = {https://openscapes.org/blog/2023-11-07-coiled-openscapes},
   langid = {en}
 }
-</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bourbeau2023" class="csl-entry quarto-appendix-citeas" role="doc-biblioentry">
-James Bourbeau. 2023. <span>“Processing Terabyte-Scale NASA Cloud
-Datasets with Coiled.”</span> November 7, 2023. <a href="https://openscapes.org/blog/2023-11-07-coiled-openscapes">https://openscapes.org/blog/2023-11-07-coiled-openscapes</a>.
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bourbeauofcoiled2023" class="csl-entry quarto-appendix-citeas" role="doc-biblioentry">
+James Bourbeau of Coiled. 2023. <span>“Processing Terabyte-Scale NASA
+Cloud Datasets with Coiled.”</span> November 7, 2023. <a href="https://openscapes.org/blog/2023-11-07-coiled-openscapes">https://openscapes.org/blog/2023-11-07-coiled-openscapes</a>.
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {

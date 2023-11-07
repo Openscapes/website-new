@@ -91,6 +91,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/blog/2023-11-07-coiled-openscapes/index.html",
       "/blog/2023-10-17-matlab-on-openscapes/index.html",
       "/blog/2023-10-13-nasa-jupyterhub-coiled/index.html",
       "/blog/2023-09-27-documenting-things-posit-conf/index.html",
@@ -197,6 +198,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/blog/2023-11-07-coiled-openscapes/index.html",
       "/blog/2023-10-17-matlab-on-openscapes/index.html",
       "/blog/2023-10-13-nasa-jupyterhub-coiled/index.html",
       "/blog/2023-09-27-documenting-things-posit-conf/index.html",

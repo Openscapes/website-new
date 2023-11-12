@@ -8,6 +8,8 @@ author:
     orcid: 0000-0001-5215-0316
   - name: Monica Gerber
     orcid: 0000-0001-9878-9166
+  - name: Liz Neeley
+    orcid: 0000-0002-3031-1470    
   - name: Julie Lowndes
     orcid: 0000-0003-1682-3872
 date: 2023-11-14
@@ -17,12 +19,17 @@ categories: [champions, blog]
 image: 2023-fred-hutch-zoomie.png
 ---
 
-*In Fall 2023, Openscapes ran our first ever Champions Cohort for research labs in the [Fred Hutch Cancer Center](https://www.fredhutch.org/), in collaboration with the Fred Hutch Data Science Lab ([DaSL](https://hutchdatascience.org/)).* 
+*In Fall 2023, Openscapes ran our first ever Champions Cohort for research labs at the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/), in collaboration with the Fred Hutch Data Science Lab ([DaSL](https://hutchdatascience.org/)).* 
 ---
 
 ::: blockquote-blue
 > "quote left here for formatting reminder :-)"
 :::
+
+
+## Fred Hutch and Openscapes
+
+The 2023 Fred Hutch Champions Cohort represented a few "firsts", and was possible because of open community networks and aligned values. It was Openscapes' first Champions Cohort for the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/), in collaboration with the Fred Hutch Data Science Lab ([DaSL](https://hutchdatascience.org/)). It was also one of the first opportunities that DaSL is offering the Fred Hutch community. This collaboration came to be through longtime connections with Openscapes and DaSL’s Sean Kross and Monica Gerber via the R community (rOpenSci, RLadies and RStudio connections). We were thrilled to have this opportunity and to see all the progress made by the Fred Hutch teams throughout the Cohort. Openscapes has focused its previous 19 Cohorts with environmental and Earth scientists, with a focus on climate change and social solutions. Our missions aligned around social change that is enabled by cancer research; and how via open data science we can connect our biggest challenges with our    daily work and grow collective agency, voice, action.
 
 ::: center-text
 ![*Zoomie of some Fred Hutch Openscapes Champions*](2023-fred-hutch-zoomie.png){width="85%" fig-alt="txt"}
@@ -30,7 +37,12 @@ image: 2023-fred-hutch-zoomie.png
 
 TODO: rewatch Call 5 video to edit paragraphs on the labs, choose images
 
-The inaugural Fred Hutch Openscapes Cohort took place over 5 virtual sessions  from August 29 to October 24, 2023. Cohort calls focused on 1) working towards a common understanding of the Openscapes mindset and considering what a pathway forward looks like for your team. ([Call 1 digest](https://github.com/Openscapes/2023-fred-hutch/issues/1)), 2) publishing and project management on [GitHub](https://github.com/nmfs-openscapes/2022-noaa-afsc-fall) ([Call 2 digest](https://github.com/Openscapes/2023-fred-hutch/issues/10)), 3) nurturing team culture and data strategies for future us ([Call 3 digest](https://github.com/Openscapes/2023-fred-hutch/issues/11)), 4) participating in open science communities and coding strategies for future us ([Call 4 digest](https://github.com/Openscapes/2023-fred-hutch/issues/12)), and 5) sharing each team's path forward as they continue their open science journeys ([Call 5 digest](https://github.com/Openscapes/2023-fred-hutch/issues/13)). 
+## Core lessons reused for new science audiences
+
+The inaugural Fred Hutch Openscapes Cohort took place over 5 virtual sessions  from August 29 to October 24, 2023. We were able to reuse the same core lessons for this Cohort, which is important for growing the open movement. Core lessons designed for environmental scientists and iteratively refined over years with Erin Robinson and Eli Holmes for Earth and fisheries scientists also resonate with cancer scientists. Stefanie Butland contributed a new "Better science for future us" lesson in Call 1, sharing her [open science path - from me to us](https://www.youtube.com/watch?v=AouW9A9QpVk) as a scientist at the interface of biological and computational science.
+
+Cohort calls focused on 1) working towards a common understanding of the Openscapes mindset and considering what a pathway forward looks like for your team ([Call 1 digest](https://github.com/Openscapes/2023-fred-hutch/issues/1)), 2) publishing and project management on [GitHub](https://github.com/nmfs-openscapes/2022-noaa-afsc-fall) ([Call 2 digest](https://github.com/Openscapes/2023-fred-hutch/issues/10)), 3) nurturing team culture and data strategies for future us ([Call 3 digest](https://github.com/Openscapes/2023-fred-hutch/issues/11)), 4) participating in open science communities and coding strategies for future us ([Call 4 digest](https://github.com/Openscapes/2023-fred-hutch/issues/12)), and 5) sharing each team's path forward as they continue their open science journeys ([Call 5 digest](https://github.com/Openscapes/2023-fred-hutch/issues/13)). Call 5 is when we hear from each team about their work-in-progress, challenges, and questions. We appreciated hearing so many voices in this final call, from presenting teams and Fred Hutch colleagues.
+
 
 ## The Teams
 
@@ -59,5 +71,7 @@ IMG: resources/ tutorials page; maybe some text on Monica's previous screenshare
 ## Conclusion
 
 On ramp. This is just the start. Seeing what's possible. 
+
+Continued thanks for Sean Kross and Monica Gerber and the DaSL team for spearheading this collaboration. Fun fact: Sean Kross has been involved with Openscapes [since the beginning](https://openscapes.org/blog/2019-04-08-summit-reflections1/) and developed the [kyber](https://openscapes.org/blog/2023-04-06-kyber/) R package for Openscapes.
 
 

@@ -1,0 +1,44 @@
+---
+title: "NASA Earthdata Cloud with Coiled"
+description: |
+  Panel discussion and demos with NSIDC and Coiled 
+author:
+  - name: Openscapes
+#    url: {}
+date: "2023-11-28"
+categories: [event, community-call, nasa-framework]
+image: earthdatacloudcookbookfigure1_0.jpg 
+---
+
+<!-- View **[event summary and video](/blog/2023-04-06-kyber/)** -->
+
+**Date: Tuesday, November 28, 2023**\
+**Time: 10:00 - 11:55 am PT** ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Openscapes+Community+Call%3A+NASA+Earthdata+Cloud+with+Coiled&iso=20231128T10&p1=1050&am=55))\
+**Where: Zoom**\
+**Free.** [Register via Zoom](https://zoom.us/meeting/register/tJMpdeuvpjMrEtbVNt5Sc1sCaxnnnlULwpXM) to get the link
+
+Join us for a conversation and demos with cloud infrastructure using NASA Earthdata. [Coiled](https://www.coiled.io/) is a company providing software and expertise for scalable cloud computing built on Dask. This Fall, Openscapes is partnering with Coiled to support us experimenting with another approach to Cloud access, as well as refactoring workflows from serial processes (for-loops) to parallel in order to leverage the true power of cloud.
+
+**Panelists**: James Bourbeau of Coiled, and Amy Steiker, Luis Lopez, and Andy Barrett, [NASA Openscapes Mentors](https://nasa-openscapes.github.io/mentors.html) at the National Snow and Ice Data Center Distributed Active Archive Center ([NSIDC](https://nsidc.org/home) DAAC).
+
+Bring your own questions. We always save time for audience discussion!
+
+## Background
+
+Read more on our blog about how we work with [NASA Openscapes Mentors](https://openscapes.org/blog#category=nasa-framework) to support scientists using data from NASA Earthdata as they migrate workflows to the cloud.
+
+Processing Terabyte-Scale NASA Cloud Datasets with Coiled (Nov 2023 [post](https://medium.com/coiled-hq/processing-terabyte-scale-nasa-cloud-datasets-with-coiled-70ab552f35ec))
+
+Cloud Environment Opportunities (Oct 2023 [post](https://openscapes.org/blog/2023-10-13-nasa-jupyterhub-coiled/))
+
+## Speaker bios
+
+[**Andy Barrett**](https://nsidc.org/about/about-nsidc/what-we-do/our-people/andrew_barrett) is a senior associate scientist at NSIDC. His research focuses on the Arctic climate system, in particular on sea ice and terrestrial snow cover. He has an interest in applying machine learning methods to studying these components of the cryosphere. He has also studied mid-latitude glaciers and their role in river basins, using model output, satellite imagery, and surface meteorological observations for this research. Barrett is an advocate of open science, working to make the products of research accessible, understandable and reproducible. Andy has been a NASA Openscapes Mentor since 2021.
+
+**James Bourbeau** is the Lead Open Source Engineer at [Coiled](https://www.coiled.io/) where he focuses on scalable Python open source computing. He's also a maintainer and core developer of [Dask](https://dask.org/), a Python library for parallel and distributed computing and and co-organizes the monthly [Madpy](https://madpy.com/) Python meetup in Madison, WI. Details about his open source work are available on [GitHub](https://github.com/jrbourbeau).
+
+[**Luis Lopez**](https://www.linkedin.com/in/betolink/) is a Research Software Engineer at the National Snow and Ice Data Center (NSIDC) in Boulder, Colorado. He has helped develop tools and services to facilitate data access and discoverability across different NASA Earth missions. He is a passionate advocate of open science and has contributed to open source projects such as Apache Nutch, PyLDAVis and others. He's always happy to help scientists find ways to make their workflows more efficient. Luis has presented his work at SciPy LATAM, PyData Global and the IEEE annual Big Data symposium. Luis has been a NASA Openscapes Mentor since 2021.
+
+**Amy Steiker** is the Data Services Engineer for the NASA Snow and Ice Distributed Active Archive Center (DAAC) at NSIDC. She specializes in the development and management of data education resources, tools, and services for NSIDC DAAC's growing user community, as well as cloud-based data transformation service development as part of NASA's Earth Observing System Data and Information System. She continues to pursue efforts improving the accessibility and utility of NSIDC DAAC's data from a data user's perspective, growing her focus and expertise on cloud computing and open-source resources for cloud-based data access and analysis. Amy has been a NASA Openscapes Mentor since 2021.
+
+![NASA is moving their Earth science data over to the Earthdata Cloud, a commercial cloud environment hosted in Amazon Web Services. This illustration reflects that move. --- Credit: Catalina Oaida, Physical Oceanography Distributed Active Archive Center](earthdatacloudcookbookfigure1_0.jpg){fig-align="center" width="65%"}

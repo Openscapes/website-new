@@ -17,7 +17,7 @@ image: earthdatacloudcookbookfigure1_0.jpg
 **Where: Zoom**\
 **Free.** [Register via Zoom](https://zoom.us/meeting/register/tJMpdeuvpjMrEtbVNt5Sc1sCaxnnnlULwpXM) to get the link
 
-Join us for a conversation and demos on **xyz**. [Coiled](https://www.coiled.io/) is a company providing software and expertise for scalable Cloud computing built on Dask. This Fall, Openscapes is partnering with Coiled to support us experimenting with another approach to Cloud access, as well as refactoring workflows from serial processes (for-loops) to parallel in order to leverage the true power of Cloud. Say what panelists will show noting specific Earthdata example.
+Join us for a conversation and demos with cloud infrastructure using NASA Earthdata. [Coiled](https://www.coiled.io/) is a company providing software and expertise for scalable Cloud computing built on Dask. This Fall, Openscapes is partnering with Coiled to support us experimenting with another approach to Cloud access, as well as refactoring workflows from serial processes (for-loops) to parallel in order to leverage the true power of Cloud. Say what panelists will show noting specific Earthdata example.
 
 **Panelists**: James Bourbeau of Coiled, and Amy Steiker, Luis Lopez, and Andy Barrett, [NASA Openscapes Mentors](https://nasa-openscapes.github.io/mentors.html) at the National Snow and Ice Data Center Distributed Active Archive Center ([NSIDC](https://nsidc.org/home) DAAC).
 

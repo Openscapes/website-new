@@ -2552,7 +2552,7 @@
     "href": "events/2023-11-28-coiled-openscapes/index.html",
     "title": "NASA Earthdata Cloud with Coiled",
     "section": "",
-    "text": "Date: Tuesday, November 28, 2023\nTime: 10:00 - 11:55 am PT (find your local time)\nWhere: Zoom\nFree. Register via Zoom to get the link\nJoin us for a conversation and demos on xyz. Coiled is a company providing software and expertise for scalable Cloud computing built on Dask. Say what panelists will show.\nPanelists: James Bourbeau of Coiled, and Amy Steiker, Luis Lopez, and Andy Barrett, NASA Openscapes Mentors at the National Snow and Ice Data Center Distributed Active Archive Center (NSIDC DAAC).\nBring your own questions. We always save time for audience discussion!"
+    "text": "Date: Tuesday, November 28, 2023\nTime: 10:00 - 11:55 am PT (find your local time)\nWhere: Zoom\nFree. Register via Zoom to get the link\nJoin us for a conversation and demos on xyz. Coiled is a company providing software and expertise for scalable Cloud computing built on Dask. This Fall, Openscapes is partnering with Coiled to support us experimenting with another approach to Cloud access, as well as refactoring workflows from serial processes (for-loops) to parallel in order to leverage the true power of Cloud. Say what panelists will show noting specific Earthdata example.\nPanelists: James Bourbeau of Coiled, and Amy Steiker, Luis Lopez, and Andy Barrett, NASA Openscapes Mentors at the National Snow and Ice Data Center Distributed Active Archive Center (NSIDC DAAC).\nBring your own questions. We always save time for audience discussion!"
   },
   {
     "objectID": "events/2023-11-28-coiled-openscapes/index.html#background",

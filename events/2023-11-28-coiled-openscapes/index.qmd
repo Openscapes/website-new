@@ -1,5 +1,5 @@
 ---
-title: "NASA Earthdata Cloud with Coiled"
+title: "Openscapes Community Call: NASA Earthdata Cloud with Coiled"
 description: |
   Panel discussion and demos with NSIDC and Coiled 
 author:

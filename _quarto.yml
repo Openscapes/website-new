@@ -42,12 +42,13 @@ website:
             href: initiatives.qmd#reflections-program
       - text: "BLOG"
         href: blog.qmd
+      - text: "EVENTS"
+        href: events.qmd
       - text: "CONNECT"
         menu: 
            - text: "CONNECT WITH US"
              href: connect.qmd 
-           - text: "EVENTS"
-             href: events.qmd
+
       - icon: github
         href: https://github.com/openscapes
       - icon: mastodon

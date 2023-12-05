@@ -1,0 +1,69 @@
+---
+title: "On-ramp to Open Science at the Fred Hutch Cancer Center"
+description: "2023 Fred Hutch Openscapes Champions Wrap-up"
+author: 
+  - name: Stefanie Butland
+    orcid: 0000-0002-5427-8951
+  - name: Sean Kross
+    orcid: 0000-0001-5215-0316
+  - name: Monica Gerber
+    orcid: 0000-0001-9878-9166
+  - name: Liz Neeley
+    orcid: 0000-0002-3031-1470    
+  - name: Julie Lowndes
+    orcid: 0000-0003-1682-3872
+date: 2023-12-05
+citation: 
+  url: https://openscapes.org/blog/2023-fred-hutch/
+categories: [champions, blog]
+image: 2023-fred-hutch-zoomie.png
+---
+
+*In Fall 2023, We ran our first ever* [Openscapes Champions Program](https://openscapes.org/champions-program) *for research labs at the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/), in collaboration with the Fred Hutch Data Science Lab ([DaSL](https://hutchdatascience.org/)). This post is a summary and celebration of their work.*
+
+*Quicklinks:*
+
+-   *Cohort webpage:* <https://openscapes.github.io/2023-fred-hutch/>
+
+## Fred Hutch and Openscapes
+
+The 2023 Fred Hutch [Openscapes Champions](https://openscapes.org/champions-program) Cohort represented a few "firsts", and was possible because of open community networks and aligned values. It was Openscapes' first Champions Cohort for the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/), in collaboration with the Fred Hutch Data Science Lab ([DaSL](https://hutchdatascience.org/)). It was also one of the first opportunities that DaSL is offering the Fred Hutch community. This collaboration came to be through longtime connections with Openscapes and DaSL's Sean Kross and Monica Gerber via the R community (rOpenSci, RLadies and RStudio connections). We were thrilled to have this opportunity and to see all the progress made by the teams throughout the Cohort. Openscapes has focused its previous 19 Cohorts with environmental and Earth scientists, with a focus on climate change and social solutions. Our missions aligned around social change that is enabled by cancer research; and how via open data science we can connect our biggest challenges with our daily work and grow collective agency, voice, action.
+
+::: center-text
+![*Zoomie of some Fred Hutch Openscapes Champions*](2023-fred-hutch-zoomie.png){width="85%" fig-alt="txt"}
+:::
+
+## Core lessons reused for new science audiences
+
+The inaugural Fred Hutch Champions Cohort took place over 5 virtual sessions from August 29 to October 24, 2023. We were able to reuse the same core lessons for this Cohort, which is important for growing the open movement. Core lessons designed for environmental scientists and iteratively refined over years with Erin Robinson and Eli Holmes for Earth and fisheries scientists also resonate with cancer scientists. Stefanie Butland contributed a new "Better science for future us" lesson in Call 1, sharing her [open science path - from me to us](https://www.youtube.com/watch?v=AouW9A9QpVk) as a scientist at the interface of biological and computational sciences.
+
+Cohort calls focused on 1) working towards a common understanding of the Openscapes mindset and considering what a pathway forward looks like for your team ([Call 1 digest](https://github.com/Openscapes/2023-fred-hutch/issues/1)), 2) publishing and project management on [GitHub](https://github.com/nmfs-openscapes/2022-noaa-afsc-fall) ([Call 2 digest](https://github.com/Openscapes/2023-fred-hutch/issues/10)), 3) nurturing team culture, and data strategies for future us ([Call 3 digest](https://github.com/Openscapes/2023-fred-hutch/issues/11)), 4) participating in open science communities, and coding strategies for future us ([Call 4 digest](https://github.com/Openscapes/2023-fred-hutch/issues/12)), and 5) sharing each team's path forward as they continue their open science journeys ([Call 5 digest](https://github.com/Openscapes/2023-fred-hutch/issues/13)). Call 5 is when we hear from each team about their work-in-progress, challenges, and questions. We appreciated hearing so many voices in this final call, from presenting teams and Fred Hutch colleagues.
+
+## The teams and their pathways
+
+[**The Berger Lab**](https://research.fredhutch.org/berger/en.html)'s research goal is to leverage functional genomics approaches to understand cancer biology and translate this information into better outcomes for cancer patients. Openscapes participants in this Cohort included Alice Berger, Sitapriya Moorthi, Daniel Groso, Kevin Levine, Siobhan O'Brien, and Saksham Gupta. Sita shared the team's [Pathway](https://openscapes.github.io/series/core-lessons/pathways.html) sheet, identifying their open science trailhead and areas they plan to explore around reproducibility, collaboration, communication, and culture. While collaborating with someone in the lab on a data analysis, Sita created a GitHub repo with an example including explanations and sample code so others can use and learn from it in the future. This was the first time the lab had a repo intentionally created for sharing, rather than for independent work. There's a good lesson here: open doesn't have to mean fully public; it can be private to Fred Hutch, or even just your lab. Daniel was inspired by the lesson on using [GitHub for project management](https://openscapes.github.io/series/core-lessons/github/) and saw a direct connection to good lab management practices and open communication. He created a GitHub Issue checklist of different tasks that must be carried out through the week and screenshared an example of people replying and tagging others, and ultimately closing the issue at the end of the week. This led to a discussion of [GitHub Issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates) and Alice asked, "what other recurrent processes they could we use such a template for? As an example, Monica (DaSL) shared a [package](https://github.com/FredHutch/VISCtemplates) she made that contains basic analysis templates for writing reproducible reports for the [Vaccine Immunology Statistical Center](https://ghdiscoverycollaboratory.org/platforms/vaccine-immunology-statistical-center). She's developing more of these for DaSL!
+
+::: center-text
+![*Alice Berger Lab's pathway and a first shared repo for a data analysis*](hutch-berger-pathway.png){width="85%" fig-alt="txt"}
+:::
+
+[**The Setty Lab**](https://research.fredhutch.org/setty) develops novel computational methods to uncover complex regulatory interactions that govern cell-fate choices and specialized cell functions from single-cell data. Participants in this Cohort were Sarah Huang, Elana Thieme, and Cailin Jordan. Sarah and Cailin co-presented their Lab wish list with plans and progress in coding strategy, community involvement, data sharing, and promoting DEI (diversity, equity, inclusion). The lab deals with many large data files for which it is not feasible and is error prone for people to make copies as they work with them. They are developing a version control plan and creating a lab-wide README template for these files. Several people in the lab want to use VS Code so Sarah wrote a script that others can use to open VS Code and quickly connect to their JupyterLab server. Elana made a public copy of her [sequencing experiment README template](https://github.com/Openscapes/2023-fred-hutch/blob/main/README_template.md) so others can use it. The Setty lab plans to start a once a month meet up for activities that are related to work but are not the usual data-focused lab meetings; things like discussing a podcast, or learning about techniques for giving feedback that can improve the culture of science. They prompted a good discussion of using [Notion](https://www.notion.so/) that revealed broad expertise and willingness to share across the labs and DaSL. Monica screenshared how she uses it for Agendas and Notes for 'Our Connections Points'. She has templates for different meeting types to save time and minimize errors that can come from manual re-typing.
+
+::: center-text
+![*Setty Lab's Wish List for coding strategy, community involvement, data sharing, and promoting DEI*](hutch-setty-wishlist.png){width="85%" fig-alt="txt"}
+:::
+
+[**The Ha Lab**](https://gavinhalab.org/) uses computational genomics and liquid biopsies to study cancer and to advance precision medicine. Participants were Patty Galipeau, Thomas Persse, Eden Cruikshank, Michael Yang, Adil Mohamed, and Manasvita Vashisth. Thomas raised the challenges of version control and code sharing when changes made downstream are not pushed back to the main GitHub repo. Monica noted that slowing down to speed up is key here; behavior change takes time and care but the benefits are huge. Patty screenshared how the Ha Lab is implementing Jira (supported by Fred Hutch) for complex task and project management. It requires upfront infrastructure development, but they've found that it's worth it. She is piloting Starfish, a software application for unstructured data management that is effective for viewing and sharing information about large quantities of data, visualizing file sizes and counts, and tagging them with metadata or actions like 'move to S3' or 'delete'. Finally, Adil brought up something that really resonated with others: how can we keep track of papers with useful looking publicly available data and then find them later when you actually need them, to test a new method for example?
+
+[**DaSL - the Fred Hutch Data Science Lab**](https://hutchdatascience.org/) aims to ensure an effective data ecosystem at Fred Hutch by developing a modern, well documented, well implemented, overall data strategy that evolves with the needs and capabilities of those leveraging data at Fred Hutch regardless of "where they live", from the clinic to the research groups. Sean Kross and Monica Gerber of DaSL spearheaded this first-ever Fred Hutch Openscapes Champions Cohort. Throughout the program, they shared many resources, like the tutorial on [De-identification of Structured Data](https://sciwiki.fredhutch.org/dasldemos/deidentification_methods_structured/) in the Data Science Wiki and many more ways for people to continue to connect with each other and with DaSL. Sean shared links for bookable Data House Calls for code, GitHub, and data management questions, and Monica holds Data Analysis/Stats and Clinical Data House Calls. Monica has been forking Openscapes practices for the win - like reusing our agenda doc structure and collaborative note taking, and she hosts 'Lakeside Chats' for discussions and coworking! Such rich opportunities to get direct engaged support! 
+
+## Conclusion
+
+Continued thanks for Sean Kross and Monica Gerber and the DaSL team for making this collaboration happen. The first Openscapes Champions Cohort for a genomics-focused research center. Fun fact: Sean Kross has been involved with Openscapes [since the beginning](https://openscapes.org/blog/2019-04-08-summit-reflections1/) and developed the [kyber](https://openscapes.org/blog/2023-04-06-kyber/) R package for Openscapes.
+
+::: blockquote-blue
+> "Our dream is that this Openscapes Cohort is an onboarding to the ways the Data Science Lab thinks about science, computing, and teamwork, and an on-ramp to other programs we will offer. Now you're primed to ask the right questions that can help the Data Science Lab get to the solutions that can most effectively help the research community." Sean Kross, Data Staff Scientist
+:::
+
+This is just the start! Folks are seeing what's possible, and discovering together that in many cases, the answer to 'What are the rules here?' is scary but empowering: 'We are developing them now, together'.
+

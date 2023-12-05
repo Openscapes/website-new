@@ -12,7 +12,7 @@ author:
     orcid: 0000-0002-3031-1470    
   - name: Julie Lowndes
     orcid: 0000-0003-1682-3872
-date: 2023-11-16
+date: 2023-12-05
 citation: 
   url: https://openscapes.org/blog/2023-fred-hutch/
 categories: [champions, blog]

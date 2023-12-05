@@ -5,8 +5,12 @@ author: Openscapes, Fred Hutch
 date: 2023-08-29
 categories:
   - champions
+  - event
 image: fred-hutch-data-science-lab.png 
 ---
+
+This Cohort has completed. For details, please see the 2023 Fred Hutch Openscapes Champions [Cohort webpage](https://openscapes.github.io/2023-fred-hutch/) and [summary blog post](../../blog/2023-12-04-fred-hutch/): On-ramp to Open Science at the Fred Hutch Cancer Center, 2023 Fred Hutch Openscapes Champions Wrap-up.
+
 
 ## Program overview
 

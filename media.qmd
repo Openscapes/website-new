@@ -71,6 +71,8 @@ aliases:
 
 *See [NASA-Openscapes](https://nasa-openscapes.github.io/) and [NMFS-Openscapes](https://nmfs-openscapes.github.io/) for many additional presentations from NASA and NOAA Fisheries Mentors!*
 
+- [Openscapes Champions Intro for EPA CEMM Pilot #2](https://docs.google.com/presentation/d/1DAJifd6ahjTKKYLsU2t4NRNZwQHbDUHo5cqmFsYvdhk/edit?usp=sharing) - Dec 6, 2023. (20 minutes)
+
 - [Openscapes: Supporting kinder science for future us](https://docs.google.com/presentation/d/18TZQeLmqdZL7ZvfJoB6ewUTjW9srAJZs1j_83x64NiQ/edit?usp=sharing) - Oct 17, 2023. Ileana Fenwick & Julia Lowndes. [USEPA R Users Group Workshop](https://github.com/USEPA/workshops/tree/main/r/2023/epa_r_workshop_2023) (45 minutes)
 
 - [Documenting things: openly for future us](https://openscapes.github.io/documenting-things) - Sept 19, 2023 — Posit conference (18 minutes)

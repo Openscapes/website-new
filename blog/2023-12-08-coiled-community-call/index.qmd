@@ -16,7 +16,7 @@ date: 2023-12-08
 citation: 
   url: https://openscapes.org/blog/2023-12-08-coiled-community-call
 categories: [community-call, blog, nasa-framework]
-image: nasa-openscapes-carpentries.png
+image: coiled-bourbeau-demo.png
 ---
 
 *Quicklinks*

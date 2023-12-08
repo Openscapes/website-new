@@ -10,12 +10,12 @@ categories: [event, community-call, nasa-framework]
 image: earthdatacloudcookbookfigure1_0.jpg 
 ---
 
-<!-- View **[event summary and video](/blog/2023-04-06-kyber/)** -->
+**Date: Tuesday, November 28, 2023**  
+**Time: 10:00 - 10:55 am PT** ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Openscapes+Community+Call%3A+NASA+Earthdata+Cloud+with+Coiled&iso=20231128T10&p1=1050&am=55))  
+**Where: Zoom**  
+**View** [event summary and video](/blog/2023-12-08-coiled-community-call/)
 
-**Date: Tuesday, November 28, 2023**\
-**Time: 10:00 - 10:55 am PT** ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Openscapes+Community+Call%3A+NASA+Earthdata+Cloud+with+Coiled&iso=20231128T10&p1=1050&am=55))\
-**Where: Zoom**\
-**Free.** [Register via Zoom](https://zoom.us/meeting/register/tJMpdeuvpjMrEtbVNt5Sc1sCaxnnnlULwpXM) to get the link
+<!--- Free. Register via Zoom to get the link --->
 
 Join us for a conversation and demos with cloud infrastructure using NASA Earthdata. [Coiled](https://www.coiled.io/) is a company providing software and expertise for scalable cloud computing built on Dask. This Fall, Openscapes is partnering with Coiled to support us experimenting with another approach to Cloud access, as well as refactoring workflows from serial processes (for-loops) to parallel in order to leverage the true power of cloud.
 

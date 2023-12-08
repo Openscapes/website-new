@@ -280,29 +280,30 @@ background: #F8D98F;
 <p><em>Going to <a href="https://openscapes.org/blog/2023-12-10-agu-fall-meeting/">AGU 2023</a>? Come say hi to the Coiled team at their booth (right at the entrance next to Google)</em></p>
 <hr>
 <section id="background" class="level2">
-<h2 class="anchored" data-anchor-id="background"><strong>Background</strong></h2>
+<h2 class="anchored" data-anchor-id="background">Background</h2>
 <p><a href="https://nasa-openscapes.github.io/">NASA Openscapes</a> is a project and community supporting researchers using NASA Earthdata in the Cloud. This community call welcomed our speakers <a href="https://github.com/asteiker">Amy Steiker</a>, <a href="https://www.linkedin.com/in/betolink/">Luis Lopez</a>, and <a href="https://nsidc.org/about/about-nsidc/what-we-do/our-people/andrew_barrett">Andy Barrett</a> from the <a href="https://nsidc.org/home">National Snow and Ice Data Center</a> (NSIDC) who are NASA Openscapes Mentors, and <a href="https://www.jamesbourbeau.com/">James Bourbeau</a> from <a href="https://www.coiled.io/">Coiled</a> who is collaborating with NASA Openscapes Mentors and Champions science teams.&nbsp;</p>
 <p>We followed the Liberating Structures <a href="https://www.liberatingstructures.com/9-what-so-what-now-what-w/">What? So What? Now What?</a> format, with silent journal prompts for reflections and 15 mins of Q&amp;A from questions in chat.<br>
 </p>
 </section>
 <section id="easy-scalable-cloud-computing-with-coiled" class="level2">
-<h2 class="anchored" data-anchor-id="easy-scalable-cloud-computing-with-coiled"><strong>Easy Scalable Cloud Computing with Coiled</strong></h2>
-<p>The call started with a few demos, first from Andy Barrett and Amy Steiker from NSIDC. Andy shared a science use case based on translating photons measurements from ICESAT-2 to sea ice thickness. These data were first accessed with the <a href="https://earthaccess.readthedocs.io/en/latest/">earthaccess Python library</a>, then needed to be regridded over geographic areas, which Amy demoed in <a href="https://github.com/nsidc/NSIDC-Data-Tutorials/blob/main/notebooks/ICESat-2_Cloud_Access/ATL10-h5coro.ipynb">this Jupyter notebook</a>. Amy ran this code on her laptop and used Coiled to spin up remote virtual machines (VMs) in the cloud to run her computations.&nbsp;<br>
-</p>
-<p><img src="https://lh7-us.googleusercontent.com/C77yqTTC91-oVoq9N3s0KayA4yJmTkuPXchVNGwdg33WmHOtNuKupdgofyOIFdTxI_VwwY-GAnoshPg89Lve31Fu7LOXlix2cnMtGPgUkF-LwlQqB-jPzLepMWmTp3y-manegCXWy3GQs-IjATlBXbU.png" class="img-fluid"></p>
+<h2 class="anchored" data-anchor-id="easy-scalable-cloud-computing-with-coiled">Easy Scalable Cloud Computing with Coiled</h2>
+<p>The call started with a few demos, first from Andy Barrett and Amy Steiker from NSIDC. Andy shared a science use case based on translating photons measurements from ICESAT-2 to sea ice thickness. These data were first accessed with the <a href="https://earthaccess.readthedocs.io/en/latest/">earthaccess Python library</a>, then needed to be regridded over geographic areas, which Amy demoed in <a href="https://github.com/nsidc/NSIDC-Data-Tutorials/blob/main/notebooks/ICESat-2_Cloud_Access/ATL10-h5coro.ipynb">this Jupyter notebook</a>. Amy ran this code on her laptop and used Coiled to spin up remote virtual machines (VMs) in the cloud to run her computations.</p>
+<div class="center-text">
+<p><img src="coiled-steiker-demo.png" class="img-fluid" style="width:85.0%" alt="zoom screenshot from live demo. Small image of speaker, a woman, in upper right, left side shows python code; right side shows terminal with code executing"></p>
+</div>
 <p>Then, James ran through two common workflows that process terabyte-scale cloud datasets. In the <a href="https://github.com/coiled/examples/blob/a69170ec8fc60a41f0d9b07fb59c89c512a20d1e/sea-level-rise.ipynb">first example</a>, we saw how to churn through many cloud-hosted NASA Earthdata files (~500 GB of NetCDF files) in parallel on the cloud. This involved lightly decorating an existing Python function with the <a href="https://docs.coiled.io/user_guide/usage/functions/index.html">Coiled Function</a> decorator. The entire workflow ran in &lt;10 minutes and cost ~$0.36.</p>
-<p>In the <a href="https://github.com/coiled/examples/blob/a69170ec8fc60a41f0d9b07fb59c89c512a20d1e/national-water-model/xarray-water-model.ipynb">next example</a>, we used Xarray to process 6 TB of the cloud-hosted NOAA water model where we computed the average water table depth for each county in the US for the year 2020. We parallelized and distributed the work across 50 VMs using a <a href="https://docs.coiled.io/user_guide/usage/dask/index.html">Coiled cluster</a>. The workflow ran in &lt; 5 minutes and cost ~$1.<br>
-</p>
-<p><img src="https://lh7-us.googleusercontent.com/c3nnuh3TF5roCoawwyEczWOMim-OW9SP38zigtZ4pSVWX4Yb4m-zmTq3XoLg9LhSv2W0VdvXUDPYecqHjgSekXZSQlgLRQCUhrGC_8w3n2nqF2BEys8aS6-BhGGIuRlPTUGEzyu3Y3A9ytIVhYqHO0E.png" class="img-fluid"></p>
-<p><br>
-Luis commented on how cloud computing is a barrier for many teams, but tools like Coiled provide options for working in the cloud easily. In fact, Coiled is just half the magic (provisioning cloud resources); the rest is the open source packages, which together help science move faster.</p>
+<p>In the <a href="https://github.com/coiled/examples/blob/a69170ec8fc60a41f0d9b07fb59c89c512a20d1e/national-water-model/xarray-water-model.ipynb">next example</a>, we used Xarray to process 6 TB of the cloud-hosted NOAA water model where we computed the average water table depth for each county in the US for the year 2020. We parallelized and distributed the work across 50 VMs using a <a href="https://docs.coiled.io/user_guide/usage/dask/index.html">Coiled cluster</a>. The workflow ran in &lt; 5 minutes and cost ~$1.</p>
+<div class="center-text">
+<p><img src="coiled-bourbeau-demo.png" class="img-fluid" style="width:85.0%" alt="screenshot of python notebook on left and Coiled cluster information on right"></p>
+</div>
+<p>Luis commented on how cloud computing is a barrier for many teams, but tools like Coiled provide options for working in the cloud easily. In fact, Coiled is just half the magic (provisioning cloud resources); the rest is the open source packages, which together help science move faster.</p>
 </section>
 <section id="closing" class="level2">
-<h2 class="anchored" data-anchor-id="closing"><strong>Closing</strong></h2>
+<h2 class="anchored" data-anchor-id="closing">Closing</h2>
 <p>Discussion topics included questions about egress costs, compute time, community standards, and more. See the <a href="https://docs.google.com/document/d/12iwOURQQ0qKwsTt37HL1M8gRcWgIg3TIREqY13p0s28">meeting notes</a> for full details.</p>
 </section>
 <section id="resources" class="level2">
-<h2 class="anchored" data-anchor-id="resources"><strong>Resources</strong></h2>
+<h2 class="anchored" data-anchor-id="resources">Resources</h2>
 <ul>
 <li><a href="https://www.coiled.io/geo">Geospatial Cloud Resources</a> from Coiled</li>
 <li><a href="https://medium.com/coiled-hq/processing-terabyte-scale-nasa-cloud-datasets-with-coiled-70ab552f35ec">Processing Terabyte-Scale NASA Cloud Datasets with Coiled</a>&nbsp;</li>

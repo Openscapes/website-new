@@ -1,6 +1,6 @@
 ---
-title: "Engaging with a Cross-NASA Subcommunity"
-description: "Recap of a Carpentries Community Session with NASA and Openscapes"
+title: "Openscapes Community Call: NASA Earthdata Cloud with Coiled"
+description: "Panel discussion and demos with NSIDC and Coiled"
 author: 
   - name: Amy Steiker 
     orcid: 0000-0002-3039-0260

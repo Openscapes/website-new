@@ -3,11 +3,7 @@ title: "California Water Board Mentor Perspectives"
 author: Anna Holder, Corey Clatterbuck
 date: 2021-12-07
 slug: california-waterboards-mentors
-categories:
-  - blog 
-  # - community
-  - champions
-  #- impact
+categories: [blog, champions, water boards]
 image: ../../img/blog/sy-river-sycamore.jpeg
 aliases: 
   - https://www.openscapes.org/blog/2021/12/07/california-waterboards-mentors/

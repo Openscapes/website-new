@@ -10,7 +10,7 @@ author:
 date: 2023-12-13
 citation: 
   url: https://openscapes.org/blog/2023-12-13-2023-waterboards/
-categories: [champions, blog]
+categories: [champions, blog, water boards]
 image: 2023-waterboards-selfie.png
 ---
 
@@ -19,6 +19,7 @@ image: 2023-waterboards-selfie.png
 *Quicklinks:*
 
 -   *Cohort webpage:* <https://openscapes.github.io/2023-swrcb/>
+-   *Openscapes at the Water Boards: <https://cawaterboarddatacenter.github.io/swrcb-openscapes/>*
 
 ------------------------------------------------------------------------
 
@@ -70,7 +71,7 @@ While we have seen each Cohort and the overall Openscapes Champions Program at t
 Another challenge we face is adequately communicating the awesomeness that is Openscapes to individuals and management who have not experienced it yet. Those that have gone through a cohort or have been part of the broader Openscapes community can more easily understand how doing so can help their work on an individual, team, or cultural level - they "get it".
 
 ::: blockquote-blue
-> "*The Openscapes teams talked about the Openscapes culture, but I didn't really know what that meant until I felt it when listening in on a meeting.*" -- Andrew Hamilton, Assistant Deputy Director for the Water Board's Office of Information Management and Analysis (OIMA)
+> "*The Openscapes teams talked about the Openscapes culture, but I didn't really know what that meant until I felt it when listening in on a meeting.*" -- **Andrew Hamilton, Assistant Deputy Director for the Water Board's Office of Information Management and Analysis (OIMA)**
 :::
 
 The problem lies in our ability to communicate all of these realized and potential benefits and impacts to those we want to bring into the Openscapes fold, who we know would benefit - but who we need to convince that it's worth their staff and time investment. This is something we're working on developing, with tremendous support from the broader Openscapes community.
@@ -86,7 +87,7 @@ We're excited to continue to iterate, expand, and improve the Champions Program 
 **Experiment with a train-the-trainer model**: Our small but mighty Instruction Team has seen how participating teams grow and evolve to achieve their Openscapes goals, and we have lived the benefit of Openscapes in our own work. 
 
 ::: blockquote-blue
-> "*Being a mentor in Openscapes gave me a space to nurture hidden skills within myself and grow into a more mindful human. Coming into Openscapes with no previous knowledge, I felt I was at a disadvantage to succeeding. But that is the true magic and beauty of the Openscapes Program. By showing up, sharing imperfect work, and slowing down to explore ideas, I was able to feel a new confidence in myself. There is not a single moment I can look back and say, "ah, yes that is the moment I felt it," because it is not one moment, it is all of the moments that I am taking forward with me and sharing with others!*" -- Tina Ures, Geologist, Division of Water Quality & member of the Water Boards Openscapes Instruction Team
+> "*Being a mentor in Openscapes gave me a space to nurture hidden skills within myself and grow into a more mindful human. Coming into Openscapes with no previous knowledge, I felt I was at a disadvantage to succeeding. But that is the true magic and beauty of the Openscapes Program. By showing up, sharing imperfect work, and slowing down to explore ideas, I was able to feel a new confidence in myself. There is not a single moment I can look back and say, "ah, yes that is the moment I felt it," because it is not one moment, it is all of the moments that I am taking forward with me and sharing with others!*" -- **Tina Ures, Geologist, Division of Water Quality & member of the Water Boards Openscapes Instruction Team**
 :::
 
 We want to reach more teams and share what we're learning with more folks. As we onboard more mentors in 2024 and beyond, we plan on developing a train-the-trainer model for our mentors so we can continue to build the Openscapes community within the Water Boards and contribute back to the broader Openscapes community. We intend on leveraging the amazing resources developed by Openscapes and utilizing a "see one, do one, teach one" approach:
@@ -101,6 +102,6 @@ While we want to grow the Champions Program as quickly as possible, it's also im
 
 ## Reuse & remix our resources!
 
-The California Water Boards Openscapes [Implementation Strategy](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/CAWaterBoardDataCenter/swrcb-openscapes/main/SWRCB_Openscapes_Implementation_Strategy_202302.pdf) (February 2022) is an example that we encourage others to emulate or borrow from as it answers many of the questions that come from leadership when participation in Openscapes programs are proposed as part of people's weekly work. The Strategy conveys the need and the vision for Openscapes at the Water Boards, the target audience, plan and timeline with estimated time commitment expected from participants, expected outcomes and products, and potential challenges.
+The California Water Boards Openscapes [Implementation Strategy](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/CAWaterBoardDataCenter/swrcb-openscapes/main/SWRCB_Openscapes_Implementation_Strategy_202302.pdf) (February 2022) is an example that we welcome others to emulate or borrow from as it answers many of the questions that come from leadership when participation in Openscapes programs are proposed as part of people's weekly work. The Strategy conveys the need and the vision for Openscapes at the Water Boards, the target audience, plan and timeline with estimated time commitment expected from participants, expected outcomes and products, and potential challenges.
 
 As part of the California Water Boards Openscapes Champions Program annual outreach, the instruction team hits the virtual road and shares past, present and future Openspaces opportunities with Water Board colleagues ([slides](https://drive.google.com/file/d/1uL-GMPDJjkTWREjRRWuj3KK-uZ0Zkwm5/view?usp=sharing)) in different meetings, internal Roundtables, and Region, Division, or Office (RDO) meetings. This is one of the main avenues through which people learn about this opportunity, and a model others can use to gain traction for running an Openscapes Cohort in their organization. We invite you to reuse or remix our Implementation Strategy document or outreach slides!

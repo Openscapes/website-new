@@ -123,7 +123,7 @@ We know that diverse teams build better services. People from historically exclu
 
 **Work Environment and Location**
 
-We are committed to fostering a [psychologically safe](https://en.wikipedia.org/wiki/Psychological_safety) and inclusive environment. [NASA Openscapes](https://nasa-openscapes.github.io/) is an initiative from [Openscapes](https://openscapes.org); [our team](https://openscapes.org/team) is distributed across North America and all positions are in a remote working environment. This position will collaborate closely with US time zones. Applicants in time zones that are +/- 4 hours from US Pacific time are preferred. This position may require occasional travel. All Openscapes work abides by our [Code of Conduct](https://openscapes.org/code-of-conduct).
+We are committed to fostering a [psychologically safe](https://en.wikipedia.org/wiki/Psychological_safety) and inclusive environment. [NASA Openscapes](https://nasa-openscapes.github.io/) is an initiative from [Openscapes](https://openscapes.org); [our team](https://openscapes.org/team) is distributed across North America and all positions are in a remote working environment. This position will collaborate closely with people across US time zones. Applicants in time zones that are +/- 4 hours from US Pacific time are preferred. This position may require occasional travel. All Openscapes work abides by our [Code of Conduct](https://openscapes.org/code-of-conduct).
 
 **Compensation**
 

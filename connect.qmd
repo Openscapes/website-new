@@ -16,12 +16,12 @@ listing:
     fields: [title, image, date, categories] 
 ---
 
-::: {.column-screen}
-![](images/banner_imgs/text_banners/connect_with_us_banner.png) 
+::: column-screen
+![](images/banner_imgs/text_banners/connect_with_us_banner.png)
 
 <br>
 
-::: {.white-div}
+::: white-div
 ::: {.medium-body-text .center-text}
 **This is a global movement for open, inclusive, and actionable data-driven environmental research. We're excited to connect.**
 :::
@@ -36,22 +36,114 @@ listing:
 knitr::include_graphics("images/minis/horst_openscapes_mountains_salmon.png")
 ```
 
-## Join the movement
+## JOIN THE MOVEMENT
 
-- Reuse our open lessons, slides, and more linked from our [media](media.qmd) and github: [\@openscapes](https://github.com/openscapes), [\@nasa-openscapes](https://github.com/nasa-openscapes)
-- Follow us on social media: [\@openscapes@fosstodon.org](https://fosstodon.org/@openscapes) on Mastodon
-- Sign up for our newsletter [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (4x/year)
-- Join an upcoming [event](events.qmd), including Openscapes initiatives, community calls, and talks
-- Talk to your colleagues; consider [Supercharge your research](https://openscapes.github.io/supercharge-research/) for your next journal club or lab meeting
+-   Reuse our open lessons, slides, and more linked from our [media](media.qmd) and github: [\@openscapes](https://github.com/openscapes), [\@nasa-openscapes](https://github.com/nasa-openscapes)
+-   Follow us on social media: [\@openscapes\@fosstodon.org](https://fosstodon.org/@openscapes) on Mastodon
+-   Sign up for our newsletter [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (4x/year)
+-   Join an upcoming [event](events.qmd), including Openscapes initiatives, community calls, and talks
+-   Talk to your colleagues; consider [Supercharge your research](https://openscapes.github.io/supercharge-research/) for your next journal club or lab meeting
 
+```{=html}
 <!---TODO Move to Approach Guide
 We tweet about Openscapes news and events, amplify Openscapes Champions, and sporadically retweet other awesome things going on around environmental open data science. Tag us in your tweets about your open data science wins and challenges and we'll retweet!
 --->
+```
+<br>
 
-## Work with us
+## WORK WITH US
 
 Please [email us](mailto:hello@openscapes.org) if you're interested in booking cohorts, partnering with us, sponsoring our initiatives, or sharing your wild ideas.
 
+<br>
+
+### Contract Opportunity: NASA Openscapes Cloud Team Member
+
+The [NASA Openscapes](https://nasa-openscapes.github.io/) Mentor Community supports researchers using data from NASA Earthdata data centers (Distributed Active Archive Centers \[DAACs\]) as they migrate workflows to the Cloud. 
+
+We are looking for an experienced and well-organized **NASA Openscapes Cloud Team Member** to develop, document, and peer-teach Cloud workflows in support of NASA Openscapes strategies, goals, and outcomes. 
+
+This position is a part-time (20 hrs/week) contract. The contract may start as early as February 5, 2024. This is a 6-month contract that could be extended annually. The work is fully remote.
+
+**Primary responsibilities**
+
+-   Support NASA Openscapes Mentors to collaborate across data centers, develop common tutorials, and teach user workshops. This includes participating in synchronous online Mentor Calls and asynchronous collaboration.
+
+-   Contribute to software engineering and documentation for open source software, including base images (example: [corn](https://github.com/nasa-openscapes/corn)), libraries (example: [earthaccess](https://earthaccess.readthedocs.io/en/latest/)) and bridging NASA data formats to Cloud formats.
+
+-   Collaborating closely with our partners at [2i2c](https://2i2c.org/) on Cloud infrastructure implementation. 
+
+-   Support a tutorial review process and tutorial creation across workshops (example: reuse and automation to support the [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/)).
+
+-   Stay up-to-date with emerging issues and collaborate with the broader open Cloud community as it pertains to research (examples: Pangeo, #rstats, pyOpenSci, rOpenSci). 
+
+-   Track, document and communicate the impact of the Cloud transition (quantifying metrics and documenting stories).
+
+-   Share progress and challenges through blog posts, talks, and report-outs.
+
+**Education and Experience**
+
+-   2+ years of experience in open science or open source software.
+
+-   Familiarity with Cloud infrastructure (example: JupyterHub, Amazon Web Services, and GitHub). 
+
+-   Familiarity with coding languages that researchers use (example: Python, R, MATLAB, Julia); multi-language is preferred.
+
+-   Competency teaching in an empathetic, learner-centered way (example: [Carpentries](https://carpentries.org/) Instructor).
+
+-   5+ year track record contributing to successful collaborative projects, including experience:
+
+    -   Collaborating with diverse groups of people, including individuals and teams with different skill sets;
+
+    -   Following a project management plan and reporting; and
+
+    -   Communicating incremental work in progress to share with different audiences.
+
+-   No specific degree is required, but a bachelor\'s or master\'s degree or equivalent level of coursework, training, or on-the-job experience is preferred.
+
+**Qualities and Abilities**
+
+-   A [growth mindset](https://en.wikipedia.org/wiki/Mindset#Fixed_and_growth_mindset) to learn and to support others\' learning. 
+
+-   The ability to contribute to technical and design aspects of cloud infrastructure.
+
+-   Strong project management, including time management, work organization skills, and problem solving abilities.
+
+-   Strong verbal and written communication skills and presentation effectiveness.
+
+-   Demonstrated ability to work in a dynamic environment with a high degree of flexibility.
+
+-   Ability to work effectively both independently and as part of a team.
+
+-   Fluent in English.
+
+**Diversity**
+
+We know that diverse teams build better services. People from historically excluded groups are encouraged to apply. Openscapes works openly as part of a global community, guided by collaboratively developed codes of conduct and anti-harassment policies. 
+
+**Work Environment and Location**
+
+We are committed to fostering a [psychologically safe](https://en.wikipedia.org/wiki/Psychological_safety) and inclusive environment. [NASA Openscapes](https://nasa-openscapes.github.io/) is an initiative from [Openscapes](https://openscapes.org); [our team](https://openscapes.org/team) is distributed across North America and all positions are in a remote working environment. This position will collaborate closely with US time zones. Applicants in time zones that are +/- 4 hours from US Pacific time are preferred. This position may require occasional travel. All Openscapes work abides by our [Code of Conduct](https://openscapes.org/code-of-conduct).
+
+**Compensation**
+
+NASA Openscapes is an open source project transitioning into sustainability. We offer this part-time contractor position at \$8,333 USD per month. This is a contracted funded position for 6 months, that could be extended annually through 2025. 
+
+**How to Apply**
+
+Please email your resume/curriculum vitae and cover letter as a single PDF to \"hello\@openscapes.org\" with the subject heading of \"\[Last Name\] for NASA Openscapes.\" Please include a link to example open source software contributions, documentation, or tutorial materials if available. Your cover letter should address why you are interested in this job, why you\'re a good fit based on the requirements and responsibilities, and respond to the question \"why is user-centered support for changing workflows important for science?\". We are looking to hire for this role starting February, so please share this opportunity and do not hesitate to apply. No phone calls or recruiters please.
+
+**Application deadline: January 19, 2024.** We will not be reaching out to schedule any interviews until after that date.
+
+*Thank you to [Creative Commons Open Climate Campaign](https://creativecommons.org/mission/opportunities/contract-opportunity-open-climate-campaign-communications-manager/), whose job posting was used as an open model for this post.*
+:::
+:::
+
+::: column-screen
+
+::: white-div
+
+```{=html}
 <!---For Approach Guide? 
 ## Amplify through media and events
 
@@ -59,20 +151,18 @@ In your next presentations and publications, include a slide or sentence about o
 
 As you plan department seminar series, conferences, or webinar series, consider inviting Openscapes or others from the open data science community as a speaker!
 --->
-
+```
 <br>
-
 :::
 :::
 
-
-::: {.column-screen}
-::: {.light-gray-div}
+::: column-screen
+::: light-gray-div
 ::: {.blue-underline .center-text}
 # **UPCOMING EVENTS**
 :::
 
-Openscapes holds regular community calls, participates in conference talks, webinars, and organizes opportunities through the Champions Program and other initiatives. Browse [our events listings](events.qmd) and register to attend! 
+Openscapes holds regular community calls, participates in conference talks, webinars, and organizes opportunities through the Champions Program and other initiatives. Browse [our events listings](events.qmd) and register to attend!
 
 <br>
 

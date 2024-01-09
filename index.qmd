@@ -126,7 +126,7 @@ listing:
 <!----------- START Mentors box ----------->
 ::: {.g-col-12 .g-col-md-4 .stat-box}
 ::: {.large-stat-num .blue-text}
-**40**
+**80**
 :::
 :::{.med-sm-body-text}
 **Mentors** onboarded in the Mentors Framework

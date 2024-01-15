@@ -62,7 +62,7 @@ knitr::include_graphics("images/minis/horst_openscapes_desert_snake.png")
 
 **NASA Openscapes is a multi-year effort to develop a mentor community across NASA Earth science data centers to support researchers as they migrate analytical workflows to the Cloud**. We approach this work as movement building, using the concept where transformations occur from relentlessly pushing a giant, heavy flywheel that builds momentum over time.
 
-We began in 2021, and currently working with Mentors from 7 of the 12 NASA Earth science data centers.
+We began in 2021, and currently working with Mentors from 11 of the 12 NASA Earth science data centers.
 
 ::: {.yellow-box}
 ::: {.medium-body-text .center-text}

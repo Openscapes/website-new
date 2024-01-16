@@ -1,0 +1,33 @@
+---
+title: "2024 Pathways to Open Science Program - in collaboration with PREreview"
+# description: 
+author: 
+  - name: Ileana Fenwick
+    orcid: 0009-0002-2900-8236
+  - name: Alex Davis
+    orcid: 0000-0002-8934-4971
+  - name: Aneese Williams
+    orcid: 0009-0000-5469-5758
+  - name: Antoinette Foster
+    orcid: 0000-0001-6773-0460
+date: 2024-01-16
+citation: 
+  url: https://openscapes.org/blog/2024-01-16-pathways-2024/
+categories: [blog, pathways]
+image: logos-openscapes-bweems-prereview-bims.png
+---
+
+*We're thrilled to announce our 2024 offering of Pathways to Open Science! Thanks to funding from the Mozilla Foundation's Alumni Collaboration grants, the Openscapes team led by Ileana Fenwick is excited to collaborate with [PREreview](https://prereview.org/) and Dr Antoinette Foster to bring expertise in anti-racist scholarly review to the programming this year. Pathways to Open Science is a free remote event series for Black environmental & marine researchers to build community for the future of data intensive science.*
+
+*The series kicks off January 25th with six events weekly on Thursdays alternating between Community Calls to learn from speakers and Coworking for folks to bring their own work, code, or questions and learn new skills together (details on the [website](https://openscapes.github.io/pathways-to-open-science/#program-details)). Confirmed speakers include Dr LaTreese Denson (NOAA Fisheries), Dr Dawn Wright (ESRI), Dr Justin Rice (NASA Earth Science), SherAaron Hurt (The Carpentries) and two participants from our 2023 series.*
+
+*If you are a Black marine scientist and/or an HBCU student, we would love to have you! Please register and come to as many of the six events as you are able to and invite others to join you! If you are an ally, please help us amplify Black voices; we suggest allies do not sign up for this particular series.*
+
+*Quicklinks:*
+
+-   [*Registration*](https://zoom.us/meeting/register/tJ0ldempqDIrHtQ4KqAbr442Tm0xl4-h_dtC) *(free)*
+-   *Pathways to Open Science [website](https://openscapes.github.io/pathways-to-open-science/)*
+
+*The following announcement is cross-posted from the Mozilla Foundation blog*
+
+------------------------------------------------------------------------

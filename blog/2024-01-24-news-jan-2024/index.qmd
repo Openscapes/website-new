@@ -1,0 +1,44 @@
+---
+title: "Openscapes Newsletter #8: Winter 2024"
+author:
+  - name: Julie Lowndes
+    orcid: 0000-0003-1682-3872
+  - name: Stefanie Butland
+    orcid: 0000-0002-5427-8951  
+date: 2023-10-05
+draft: true
+citation: 
+  url: https://openscapes.org/blog/2023-09-27 TODO
+categories: [how-we-work, blog]
+#image: TODO
+---
+
+*Welcome to Openscapes’ eighth newsletter! If you’re interested in seeing these infrequent updates in your inbox, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from our get involved page). And! If you have signed up but did not see this in your inbox, please check your spam folder!*
+
+Happy New Year! 2023 saw lots of good momentum for kinder, open science and we are excited for much more change-making to come this year. 
+
+We're kicking off 2024 with the second [Pathways to Open Science program](https://openscapes.github.io/pathways-to-open-science/), which starts this week! This is an ongoing collaboration with [Black in Marine Science (BIMS)](https://www.blackinmarinescience.org/), [Black Women in Ecology, Evolution, and Marine Science (BWEEMS)](https://www.bweems.org/), and HBCU marine science professors led by Ileana Fenwick, with Dr Alex Davis and Aneese Williams. Thanks to new funding from the [Mozilla Foundation's Alumni Connection grants](https://foundation.mozilla.org/en/blog/mozilla-announces-first-ever-alumni-connection-grant-finalists/), we're excited to collaborate with [PREreview](https://prereview.org/) and Dr Antoinette Foster to bring expertise in anti-racist scholarly review to the programming this year. [Register here]() if you're a Black marine or environmental scientist; we ask allies to amplify these events. 
+
+We also have a [February Community Call](TODO LINK): **GitHub for NASA Openscapes community project management & calendaring - a work in progress**. We invite you to come see how the NASA Openscapes Mentors are co-organizing an open calendar and shared tasks — bring your questions and experience!
+
+We'll be sharing more events and goals for 2024 in the coming months.
+
+
+## Some 2023 Highlights
+
+We are continually iterating and documenting what works as we learn from experiences collaborating and teaching. This year we've focused on communicating this in a few talks, particularly [the Flywheel as an open source tool](https://openscapes.org/blog/2024-01-18-agu-talk-2023/) as we described in a talk at the AGU meeting and in [documenting things, particularly onboarding](https://openscapes.org/blog/2023-09-27-documenting-things-posit-conf/) at the Posit conference in September.
+
+[Openscapes Mentors](https://openscapes.org/team) were an important part of the Year of Open Science. Together, across NASA Earthdata, NOAA Fisheries, California Water Boards, Pathways to Open Science, EPA, and Fred Hutch, we learned [coaching skills that have made us better open data science mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/), and co-wrote a preprint [ Shifting institutional culture to develop climate solutions with Open Science](https://eartharxiv.org/repository/view/5948/) that is in review.
+
+[NASA Openscapes](https://nasa-openscapes.github.io) progress focused on learning and codeveloping with the broader open science community via hackdays focused on R, MATLAB, Cookbook, and 2i2c access policies. Mentors across 11 NASA data centers continue improving how we teach and support researchers in the Cloud via workshops, hackathons, and Champions Cohorts. California Water Boards supported [their second annual Champions cohort](https://openscapes.org/blog/2023-12-13-waterboards/) to support their colleagues to meet open, data, and equity goals. NOAA Fisheries shared their Open Data and Open Science vision at the summer ESIP meeting! 
+
+We launched **two new annual programs** in 2023: The [Pathway to Open Science](https://openscapes.org/blog/2023-04-26-pathways-report/) program for Black marine and environmental scientists that kicks off this week, and the [Reflections](https://openscapes.org/blog/2023-09-06-reflections-2023/) program that is a lightweight commitment for individuals to identify and plan around their workflow needs. We'll share registration information ahead of May 2024!
+[[[[- We are also planning to lead an open call for the Champions Program - with no bounds on affiliation or focus. We are looking for sponsors ]]]] do we include this?
+  
+We also invested in sustainability for the community. We worked with SGCI [Focus Week]() in San Diego in May and with Nancy Maron First Five Years in Fall. This work informed our [Challenge.gov submission](LINK TO GOOGLE DOC).  we built a new [Zenodo Openscapes Community](https://openscapes.org/blog/2023-05-31-zenodo-community/) to help find and cite Openscapes things, we [migrated our website to Quarto](TODO LINK TO BLOG), 
+
+We've been grateful to (re)connect with colleagues virtually and in person at ESIP, Carpentries, Posit, Shannon D, CSCCE Tool Tips, We moved to Mastodon and have found it challenging to reestablish the nexus of open source, environmental/Earth science, and inclusive learning that we had previously. In 2024 we will work to reconnect.
+
+We are looking forward to continuing this important work with researchers and those supporting research! 
+
+

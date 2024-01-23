@@ -26,7 +26,7 @@ We'll be sharing more events and goals for 2024 in the coming months.
 
 ## Some 2023 Highlights
 
-We are continually iterating and documenting what works as we learn from experiences collaborating and teaching. This year we've focused on communicating this in a few talks, particularly [the Flywheel as an open source tool](https://openscapes.org/blog/2024-01-18-agu-talk-2023/) as we described in a talk at the AGU meeting and in [documenting things, particularly onboarding](https://openscapes.org/blog/2023-09-27-documenting-things-posit-conf/) at the Posit conference in September.
+We are continually iterating and documenting what works as we learn from our experiences collaborating and teaching. This year we've focused on communicating this in a few talks, emphasizing [the Flywheel as an open source tool](https://openscapes.org/blog/2024-01-18-agu-talk-2023/) as we described in a talk at the AGU fall meeting and [documenting things openly for future us](https://openscapes.org/blog/2023-09-27-documenting-things-posit-conf/), like onboarding, at the Posit conference in September.
 
 [Openscapes Mentors](https://openscapes.org/team) were an important part of the Year of Open Science. Together, across NASA Earthdata, NOAA Fisheries, California Water Boards, Pathways to Open Science, EPA, and Fred Hutch, we learned [coaching skills that have made us better open data science mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/), and co-wrote a preprint [ Shifting institutional culture to develop climate solutions with Open Science](https://eartharxiv.org/repository/view/5948/) that is in review.
 

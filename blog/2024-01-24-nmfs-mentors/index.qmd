@@ -11,6 +11,7 @@ author:
   - name: Phoebe Woodworth-Jefcoats (PIFSC)
     orcid: 0000-0001-9353-923X
   - name: Craig Millard (AKRO)
+    orcid: 0009-0007-9356-8189
   - name: Megsie Siple (AFSC)
     orcid: 0000-0002-4260-9856
   - name: Andy Jones (NEFSC)

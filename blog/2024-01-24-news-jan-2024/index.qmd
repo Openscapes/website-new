@@ -8,7 +8,7 @@ author:
 date: 2024-01-24
 draft: true
 citation: 
-  url: https://openscapes.org/blog/2023-09-27 TODO
+  url: https://openscapes.org/blog/2024-01-24-news-jan-2024/
 categories: [how-we-work, blog]
 #image: TODO
 ---

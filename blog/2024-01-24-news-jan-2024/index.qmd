@@ -6,7 +6,6 @@ author:
   - name: Stefanie Butland
     orcid: 0000-0002-5427-8951  
 date: 2024-01-24
-draft: true
 citation: 
   url: https://openscapes.org/blog/2024-01-24-news-jan-2024/
 categories: [blog, newsletter]

@@ -1,7 +1,7 @@
 ---
-title: "GitHub for NASA Openscapes community project management & calendaring - a work in progress"
-# description: |
-#   
+title: "GitHub for NASA Openscapes community calendaring & project management"
+description: |
+  An open work in progress
 author:
   - name: Openscapes
 #    url: {}

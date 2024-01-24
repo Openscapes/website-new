@@ -41,4 +41,6 @@ We've been grateful to (re)connect with colleagues virtually and in person at ES
 
 We are looking forward to continuing this important work with researchers and those supporting research! 
 
-
+::: {.center-text}
+![](ElliotLowndes-ValleyOaks-DSCF5841.jpg){width="85%" fig-alt="photo with flat green grass in foreground, oak trees, mountains in background, with blue sky and white clouds"}
+:::

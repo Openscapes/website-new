@@ -10,7 +10,7 @@ draft: true
 citation: 
   url: https://openscapes.org/blog/2024-01-24-news-jan-2024/
 categories: [blog, newsletter]
-#image: TODO
+image: ElliotLowndes-ValleyOaks-DSCF5841.jpg
 ---
 
 *Welcome to Openscapes’ eighth newsletter! If you’re interested in seeing these infrequent updates in your inbox, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from our get involved page). And! If you have signed up but did not see this in your inbox, please check your spam folder!*

@@ -19,6 +19,8 @@ aliases:
 
 ## PUBLICATIONS
 
+- Alexa Fredston & Julia Stewart Lowndes [Welcoming More Participation in Open Data Science for the Oceans](https://www.annualreviews.org/doi/full/10.1146/annurev-marine-041723-094741), Annual Review of Marine Science, 2024
+
 - Julia Lowndes et al. [Shifting institutional culture to develop climate solutions with Open Science](https://eartharxiv.org/repository/view/5948/), preprint, 2023
 
 -  Erin Robinson & Julia Stewart Lowndes. [The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices](https://eartharxiv.org/repository/view/4560/), preprint, 2022
@@ -32,6 +34,8 @@ aliases:
 -  Julia S. Stewart Lowndes, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O’Hara, Ning Jiang, & Benjamin S. Halpern. [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). Nature Ecology & Evolution, 2017 ( Openscapes origins)
 
 ## MEDIA
+
+- [Training for culture change in Open Science](https://grssieee.podbean.com/e/s4e10-down-to-earth-training-for-culture-change-in-open-science/) - June 18, 2023. Julie Lowndes & Erin Robinson, Down To Earth: A podcast for Geoscientists by Geoscientist.
 
 -  [Supporting open science as a daily practice](https://docs.google.com/presentation/d/19OoPaUVVOA6AFLLd9mYeiM8f1BNNnoAjJCP4RD6Ahe8/edit#slide=id.g1b5922f14f8_0_83) - December 16, 2022 - Julie Lowndes, Erin Robinson, Openscapes Mentors. AGU Fall Conference Talk, NASA TOPS [The Future is Open](https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/161588) session
 

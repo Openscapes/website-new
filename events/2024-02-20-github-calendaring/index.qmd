@@ -1,5 +1,5 @@
 ---
-title: "GitHub for NASA Openscapes community calendaring & project management"
+title: "Community Call: GitHub for NASA Openscapes community calendaring & project management"
 description: |
   An open work in progress
 author:
@@ -16,11 +16,14 @@ image: github-roadmap-view.png
 **Register (free)** via [Zoom](https://zoom.us/meeting/register/tJ0pf-itqD0qHdK6MSbzMP8nGs7wNrflUqZS) to get the meeting link
 <!--- **View** [event summary and video](/blog/2023-12-08-coiled-community-call/) --->
 
-NASA Openscapes Mentors develop, teach, and support **many** workshops to support scientists using NASA Earthdata as they migrate workflows to the cloud. We all want (need!) to be able to see ongoing NASA Openscapes events and relevant events across 11 NASA data centers, their planning status, and where they fit in our calendars. We need something that is lightweight with a low barrier to entry. Sure, there are many add-ons to make it more “functional” (GitHub templates, Actions), but for whom? These might be barriers to people less familiar with GitHub.
+NASA Openscapes Mentors develop, teach, and support **many** workshops, events, conversations, and each other with their main goal to support scientists using NASA Earthdata as they migrate workflows to the cloud. We all want (need!) to be able to see ongoing NASA Openscapes events and relevant events across 11 NASA data centers, their planning status, and where they fit in our calendars. We need something that is lightweight with a low barrier to entry. Sure, there are many add-ons to make it more “functional” (GitHub templates, Actions), but for whom? These might be barriers to people less familiar with GitHub.
 
 We embrace working in the open and sharing how-we-work early before trying to make something "perfect" that doesn't suit people's needs. Join us for a screenshare-and-tell of how we're using GitHub Issues, Projects, and Roadmap to have an open, dynamic way for many people to use and contribute to this "calendar". It's not just about the tools though. We'll talk about how it started, how it's going, the mindset, skills, and how we document as we go. 
 
 Bring your questions and your experiences. We're keen to hear about how others have done this and how we can improve our setup. We always save time for audience discussion!
+
+**Speakers** will include [**Bri Lind**](https://nasa-openscapes.github.io/mentors.html#bri-lind), a Geospatial Data Scientist at NASA’s Land Processes Distributed Active Archive Center (LP DAAC) and a NASA Openscapes Mentor, [**Stefanie Butland**](/team) from the Openscapes team, and staff from other NASA data centers who are trying out this approach.
+
 
 ## Background and Resources
 
@@ -28,7 +31,7 @@ Starter documentation in our NASA Earthdata Cloud Cookbook: [GitHub for Calendar
 
 Read more on our blog about how we work with [NASA Openscapes Mentors](https://openscapes.org/blog#category=nasa-framework) to support scientists using data from NASA Earthdata as they migrate workflows to the cloud.
 
-Related CSCCE Open Source Tools Trials
+Related CSCCE Open Source Tools Trials:
 
 - [Using GitHub to facilitate community activities](https://www.cscce.org/2023/09/06/cscce-open-source-tools-trial-recap-using-github-to-facilitate-community-activities/)
 - [GitHub and Bitergia to support research and developer communities](https://www.cscce.org/2023/10/24/cscce-open-source-tools-trial-4-recap-github-and-bitergia-to-support-research-and-developer-communities/)

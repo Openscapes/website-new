@@ -9,6 +9,7 @@ categories:
   - noaa-fisheries
   - nasa-framework
   - water boards
+  - pathways
 image: ../../img/blog/esip-holmes-earlyadopter-square.png
 aliases: 
   - https://www.openscapes.org/blog/2022/02/17/esip-winter-2022/

@@ -3,7 +3,7 @@ title: "Adapting the Champions Program for the California Water Boards"
 author: Corey Clatterbuck and Anna Holder
 date: 2022-12-02
 slug: swrcb-2022
-categories: [blog, champions, water boards]
+categories: [blog, champions, water-boards]
 image: ../../img/blog/Openscapes_SWAMPCohort_Timeline_20220526_520x520.png
 ---
 

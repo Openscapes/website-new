@@ -10,7 +10,7 @@ author:
 date: 2023-12-13
 citation: 
   url: https://openscapes.org/blog/2023-12-13-waterboards/
-categories: [champions, blog, water boards]
+categories: [champions, blog, water-boards]
 image: 2023-waterboards-selfie.png
 ---
 

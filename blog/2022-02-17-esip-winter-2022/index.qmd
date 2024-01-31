@@ -8,7 +8,7 @@ categories:
   - conference
   - noaa-fisheries
   - nasa-framework
-  - water boards
+  - water-boards
   - pathways
 image: ../../img/blog/esip-holmes-earlyadopter-square.png
 aliases: 

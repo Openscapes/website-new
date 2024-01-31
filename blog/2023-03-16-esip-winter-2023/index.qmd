@@ -8,7 +8,7 @@ categories:
   - conference
   - noaa-fisheries
   - nasa-framework
-  - water boards
+  - water-boards
   - pathways
 image: esip-2023-speakers-square.png
 aliases: 

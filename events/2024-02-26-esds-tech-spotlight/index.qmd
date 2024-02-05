@@ -12,5 +12,6 @@ categories: [event, nasa-framework]
 
 **Date: Monday, February 26, 2024**  
 **Time: 11:00 - 12:00 MT / 1:00 - 2:00 ET**
+**Presenter: Luis Lopez, National Snow and Ice Data Center**
 
 The monthly Earth Science Data Systems ([ESDS](https://www.earthdata.nasa.gov/esds)) Technology Spotlight webinars provide a platform for ESDIS, the DAACs (NASA Data Centers), IMPACT, and other ESDS initiatives and competitive programs to showcase technology innovations to an ESDS-wide audience and to discuss how these technologies might be adapted and used throughout ESDS. The webinars are open to everyone in the greater ESDS community.

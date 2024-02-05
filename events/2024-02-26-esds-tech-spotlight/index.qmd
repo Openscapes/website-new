@@ -1,5 +1,5 @@
 ---
-title: "ESDS Technology Spotlight"
+title: "NASA Earth Science Data Systems Technology Spotlight"
 # description: |
 #  Panel discussion and demos with NSIDC and Coiled 
 author:

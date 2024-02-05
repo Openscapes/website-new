@@ -5,38 +5,38 @@ description: |
 date: "2024-03-19"
 author: Openscapes
 categories:  [event, talk, water-boards]
-# image: "img.png"
+image: "logo-ca-water-data-consortium.jpeg"
 ---
 
-**Data for Lunch Series**
+## Data for Lunch Series
 
 This event is part of the Consortium's Data for Lunch series, which provides an opportunity to learn about innovative water data-related projects.
 
 **Date:** March 19th from 12:00 - 1:00 pm PT, with additional Q&A from 1-1:30pm
 
-**Presenters** (in alphabetical order):
+### Title: Openscapes: Better science for future us
+
+At [Openscapes](https://openscapes.org/ "https://openscapes.org/"), we believe open science can accelerate interoperable, data-driven solutions and increase diversity, equity, inclusion, and belonging in research and beyond. Our main activity is mentoring environmental and Earth science teams in open science, and connecting and elevating them both through tech like R, Python, Quarto, and JupyterHubs and communities like RLadies, Black Women in Ecology Evolution, and Marine Science, Ladies of Landsat, and NASA. We’ll share stories and approaches about supporting open science as a daily practice – better science for future us – and welcome you to join the movement.
+
+### Presenters
 
 -   Anna Holder, Environmental Scientist & Lead for [Openscapes at the Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/ "https://cawaterboarddatacenter.github.io/swrcb-openscapes/")
 -   Devan Burke, Associate Governmental Program Analyst & Instructor for [Openscapes at the Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/ "https://cawaterboarddatacenter.github.io/swrcb-openscapes/")
 -   Julia Stewart Lowndes, Founding Director, [Openscapes](https://openscapes.org/ "https://openscapes.org/")
 
-**Meeting Agenda**
+### Meeting Agenda
 
 -   Welcome and introduction (10 mins)
 -   Presentation (30 mins)
 -   Facilitated discussion (15 mins)
 -   Additional Q&A time (30 mins)
 
-**Presentation Title:** Openscapes: Better science for future us
-
-**Presentation Summary**
-
-At [Openscapes](https://openscapes.org/ "https://openscapes.org/"), we believe open science can accelerate interoperable, data-driven solutions and increase diversity, equity, inclusion, and belonging in research and beyond. Our main activity is mentoring environmental and Earth science teams in open science, and connecting and elevating them both through tech like R, Python, Quarto, and JupyterHubs and communities like RLadies, Black Women in Ecology Evolution, and Marine Science, Ladies of Landsat, and NASA. We’ll share stories and approaches about supporting open science as a daily practice – better science for future us – and welcome you to join the movement.
-
-**Presenter Bios**
+### Presenter Bios
 
 **Anna Holder** is an Environmental Scientist in the Office of Information Management and Analysis (OIMA) at the State Water Resources Control Board, and is the Lead for [Openscapes at the Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/ "https://cawaterboarddatacenter.github.io/swrcb-openscapes/"). Anna obtained her M.S. and B.S. from CSU Monterey Bay in Applied Marine and Watershed Science. Regardless of role, Anna integrates and uses open science, technology, and equity principles to inform the sustainable and equitable management of California’s natural resources. 
 
 **Devan Burke** is an Analyst at the Office of Information Management and Analysis (OIMA) at the State Water Resources Control Board, and an Instructor for [Openscapes at the Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/ "https://cawaterboarddatacenter.github.io/swrcb-openscapes/"). She holds a M.S. in Sustainability Science and Policy from Maastricht University, Netherlands and a B.A. in Global Studies from CSU Monterey Bay. Devan is passionate about making data and science more accessible, transparent and equitable by implementing team science through open science pathways. 
 
 **Julia Stewart Lowndes**, PhD is a marine ecologist working at the intersection of actionable environmental science, data science, and open science. Julia’s main focus is mentoring teams to develop technical and leadership mindsets and skills for data-intensive research, grounded in climate solutions, inclusion, and kindness. She founded Openscapes in 2018 as a Mozilla Fellow and Senior Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS) at UCSB, having earned her PhD from Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate. 
+
+![](logo-ca-water-data-consortium.jpeg){fig-alt="logo with 2 water droplets to the left of blue text on white background, California Water Data Consortium" fig-align="center" width="300"}

@@ -14,4 +14,4 @@ image: earthaccess-logo.png
 
 The monthly Earth Science Data Systems ([ESDS](https://www.earthdata.nasa.gov/esds)) Technology Spotlight webinars provide a platform for ESDIS, the DAACs (NASA Data Centers), IMPACT, and other ESDS initiatives and competitive programs to showcase technology innovations to an ESDS-wide audience and to discuss how these technologies might be adapted and used throughout ESDS. The webinars are open to everyone in the greater ESDS community.
 
-![](earthaccess-logo.png){fig-alt="hexagonal logo says earth access" fig-align="center" width="200"}
+![](earthaccess-logo.png){fig-alt="hexagonal logo says earth access" fig-align="center" width="132"}

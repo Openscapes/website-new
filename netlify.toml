@@ -69,6 +69,11 @@
   from = "/team/"
   to = "/team"
   status = 301
+  
+[[redirects]]
+  from = "https://openscapes.github.io/pathways-to-open-science/"
+  to = "/pathways-to-open-science"
+  status = 301  
 
 # ---------------- blog posts ---------------- #
 

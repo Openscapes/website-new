@@ -1,5 +1,5 @@
 ---
-title: "White House Fact Sheet Mentions Openscapes"
+title: "White House Fact Sheet Mentions Openscapes!"
 author: Openscapes
 date: 2024-02-09
 # slug: 
@@ -12,17 +12,21 @@ categories:
 image: white-house.png
 ---
 
-We are so thrilled as the Openscapes community to be included in the White House Fact Sheet as the [Biden-⁠Harris Administration Marks the Anniversary of OSTP’s Year of Open Science](https://www.whitehouse.gov/ostp/news-updates/2024/01/31/fact-sheet-biden-harris-administration-marks-the-anniversary-of-ostps-year-of-open-science/)!
+We are so thrilled that the Openscapes community is included in the White House Fact Sheet as the [Biden-⁠Harris Administration Marks the Anniversary of OSTP’s Year of Open Science](https://www.whitehouse.gov/ostp/news-updates/2024/01/31/fact-sheet-biden-harris-administration-marks-the-anniversary-of-ostps-year-of-open-science/)!
 
-This is a huge deal — and not only because now you can google "White House Openscapes"! This Fact Sheet celebrate The Year of Open Science and a lot of hard work by many people within and across agencies and communities. Congratulations to the many many people involved in this movement. We are proud and honored to be recognized as part of this work.
+This is a huge deal — and not only because now you can google "White House Openscapes"! This Fact Sheet celebrates The Year of Open Science and a lot of hard work by many people within and across agencies and communities. Congratulations to the many many people involved in this movement. We are proud and honored to be recognized as part of this work.
 
-While Openscapes supports many groups within and across government and beyond, the Fact Sheet names us specifically as part of our efforts with [NOAA Fisheries Open Science](https://www.fisheries.noaa.gov/science-data/open-science-noaa-fisheries). We are so grateful to the NOAA Fisheries teams, some of whom are shown and listed below!
+While Openscapes supports many groups including US Federal agencies like NASA Earthdata, NOAA Fisheries, and the EPA, the Fact Sheet names us specifically as part of our efforts with [NOAA Fisheries Open Science](https://www.fisheries.noaa.gov/science-data/open-science-noaa-fisheries). We are so grateful to the NOAA Fisheries team members, some of whom are shown and listed below!
 
-![NMFS Openscapes Mentors attending a community session. ](2023-nmfs-mentors-zoomie.png){fig-alt="screenshot of zoom participants in 3 x 6 grid. They are smiling and waving" fig-align="center" width="85%"}
+![](2023-nmfs-mentors-zoomie.png){fig-alt="screenshot of zoom participants in 3 x 6 grid. They are smiling and waving" fig-align="center" width="85%"}
 
-Elizabeth Eli Holmes, Adyan Rios, Em Markowitz, Megsie Siple, Josh London, Molly Stevens, Kathryn Doering, Amanda Bradford, Phoebe Woodworth-Jefcoats, Craig Millard, Andy Jones, Julie Rose, Ana Vaz, John Holzman, Erin Steiner, Matt Grossi, Anna Abelman, Jennifer Bigman, Hem Nalini Mozaria-Luna, Monica Diaz, Elizabeth Gugliotti, Juliette Verstaen, Dale Robinson, Sunny Hospital, Brian Fadely, Craig Faunce, Kristin Holsman, Stacie Koslovsky, Jonathan Richar, Ben Williams, Shannon Hennessey, Maggie Ball, Eric Ward, Christine Stawitz, Jon Brodziak, Devin Johnson, Michael Marsik, Meg Oshima, Eva Schemmel, Kevin Stierhoff, Lynn deWitt, Diana Dishman
+::: {.caption-text .center-text}
+*NOAA Fisheries Openscapes Mentors attending a community session.*
+:::
 
-### Read more about our work with open science in government and academia across the country.
+Elizabeth Eli Holmes, Adyan Rios, Em Markowitz, Megsie Siple, Josh London, Molly Stevens, Kathryn Doering, Amanda Bradford, Phoebe Woodworth-Jefcoats, Craig Millard, Andy Jones, Julie Rose, Ana Vaz, John Holzman, Erin Steiner, Matt Grossi, Christine Stawitz
+
+### Read more about our work with open science in government and academia.
 
 -   **3 approaches for the year of open science** ([post](2023-03-16-esip-winter-2023)). Summary of a conference panel with Openscapes Mentors from NOAA Fisheries, California Water Boards, NASA’s National Snow and Ice Data Center, and NASA’s Physical Oceanography Distributed Active Archive Center, and University of North Carolina.
 -   **NOAA Fisheries invests in Open Science Mentorship**. Report out on the first NMFS Mentor workshops with Openscapes ([post](2024-01-24-nmfs-mentors))

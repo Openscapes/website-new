@@ -33,3 +33,7 @@ While Openscapes supports many groups including US Federal agencies like NASA Ea
 -   **California Water Boards’ 2nd Annual Openscapes Champions Program** - Reflections & Future ([post](2023-12-13-waterboards))
 -   **2024 Pathways to Open Science Program** - in collaboration with PREreview ([post](2024-01-22-pathways-2024)). Building community for Black environmental and marine scientists and HBCU students.
 -   **On-ramp to Open Science at the Fred Hutch Cancer Center**. 2023 Fred Hutch Openscapes Champions Wrap-up ([post](2023-12-04-fred-hutch))
+
+
+![](white-house.png){fig-alt="white graphic on a blue background of The White House. Text below in white says The White House, Washington." fig-align="left" width="50%"}
+

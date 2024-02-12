@@ -3,7 +3,7 @@ title: "NASA Earthdata Webinar. Community Developed Cloud Computing Resources: t
 description: "Speakers, Bri Lind, LP DAAC; Cassie Nickles, PO.DAAC; Luis Lopez, NSIDC; Alexis Hunzinger, GES DISC"
 date: "2024-02-28"
 author: Openscapes and NASA
-categories:  [event, talk, water-boards]
+categories:  [event, talk, nasa-framework]
 image: "nasa-earthdata-logo.png"
 ---
 

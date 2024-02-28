@@ -13,8 +13,8 @@ image: github-roadmap-view.png
 **Date**: Tuesday, February 20, 2024   
 **Time**: 10:00 - 11:00 am PT ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Openscapes+Community+Call&iso=20240220T10&p1=1050&ah=1))  
 **Where**: Zoom   
-**Register (free)** via [Zoom](https://zoom.us/meeting/register/tJ0pf-itqD0qHdK6MSbzMP8nGs7wNrflUqZS) to get the meeting link
-<!--- **View** [event summary and video](/blog/2023-12-08-coiled-community-call/) --->
+<!--- **Register (free)** via [Zoom](https://zoom.us/meeting/register/tJ0pf-itqD0qHdK6MSbzMP8nGs7wNrflUqZS) to get the meeting link  --->
+**View** [event summary and video](/blog/2024-02-28-github-community-call)
 
 NASA Openscapes Mentors develop, teach, and support **many** workshops, events, conversations, and each other with their main goal to support scientists using NASA Earthdata as they migrate workflows to the cloud. We all want (need!) to be able to see ongoing NASA Openscapes events and relevant events across 11 NASA data centers, their planning status, and where they fit in our calendars. We need something that is lightweight with a low barrier to entry. Sure, there are many add-ons to make it more “functional” (GitHub templates, Actions), but for whom? These might be barriers to people less familiar with GitHub.
 

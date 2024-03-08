@@ -14,7 +14,7 @@ image: doc-things-3-places.png
 
 *Quick links:*
 
--   *posit::conf YouTube* - coming soon with all talks from the Conference
+-   *[posit::conf YouTube](https://www.youtube.com/watch?v=OVM5Ok7W1NQ)* - recording of the talk and in a playlist from the Conference
 -   [Documenting things: openly for future us](https://openscapes.github.io/documenting-things) - my slides
 -   Other blog summaries from the community: 
     - [by Millie Symns](https://milliesymns.com/blog/2023-09-25-spoke-at-posit-conf-2023/)

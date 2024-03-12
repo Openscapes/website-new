@@ -80,12 +80,16 @@ Luis shared that working in the Cloud in a curated environment supports new lear
 
 ## Earthdata Cloud Cookbook Walk-through
 
-Cassie screenshared a live walk-through of the [NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook)
+Cassie screenshared a live walk-through of the [NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook). She pointed out the When to Cloud chapter, as well as a glossary and cheatsheets, Cloud environment setup (under active development), a 'How do I ...' chapter to do things like find and subset data, or use APIs, a Tutorials chapter with notebooks, and a chapter of workshops and hackathon materials developed by the Mentors.
 
 ::: blockquote-blue
-> *"quote Cassie"* - **Cassie Nickles, Physical Oceanography Data Active Archive Center (PO.DAAC)**
+> *"We would love for anyone to be able to contribute to this. If you're thinking, 'I have a workflow that I would love share', please send it our way"!* - **Cassie Nickles, Physical Oceanography Data Active Archive Center (PO.DAAC)**
 :::
+
+Cassie welcomed people to contribute - the Cookbook is built on Quarto and GitHub - and showed [how to cite](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/#citation) the Cookbook.
 
 ![Slide from Cassie showing the NASA Earthdata Cloud Cookbook](cookbook-screenshot.png)
 
-She welcomed us to contribute and how to cite
+In closing, on behalf of the NASA Openscapes Mentors, Cassie shared her joy of working with this open community of people who are united around shared interests and needs.
+
+![](open-community.png){fig-alt="We are an open community! cartoon of smiling animals on a landscape with green grass and a path, fox with a welcome sign. Text says People openly creating, sharing, teaching, collaborating united around shared interests (coding language, topic, discipline, etc.) with a culture of shared & continued learning; prioritizing diversity, equity, belonging that can connect online and/or in-person."}

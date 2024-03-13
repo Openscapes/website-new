@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/blog/2024-03-12-nasa-earthdata-webinar/index.html",
       "/blog/2024-03-04-earthaccess-tech-spotlight/index.html",
       "/blog/2024-02-28-github-community-call/index.html",
       "/blog/2024-02-15-nasa-openscapes-talking-points/index.html",
@@ -122,6 +123,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/blog/2024-03-12-nasa-earthdata-webinar/index.html",
       "/blog/2024-03-04-earthaccess-tech-spotlight/index.html",
       "/blog/2024-02-28-github-community-call/index.html",
       "/blog/2024-02-15-nasa-openscapes-talking-points/index.html",

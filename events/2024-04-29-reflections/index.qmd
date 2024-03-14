@@ -1,0 +1,38 @@
+---
+title: "2024 Reflections Program"
+description: |
+  An open data science coaching program for researchers and those who support research.
+author:
+  - name: Openscapes
+    url: {}
+date: 2024-04-29
+categories:
+  - event 
+  - mentorship
+  - reflections
+image: "fig-mountain-2023-square.jpg"   
+---
+
+**[Registration is open for the 2024 Reflections Program](https://forms.gle/aq9vPiyHSoVjfY9t9)!**
+
+**Dates: April 29 - May 17 2024**  (1 hour/week)
+
+> “I’m taking away a bit of energy and motivation to keep my spotlight shining on my workflow. I also have a feeling of hope for a community.” - *2023 Reflections Participant* 
+
+**Openscapes Reflections is an open data science coaching program for researchers and those who support research**. Reflections is a 3-week program (1 hour/week) modeled from professional leadership coaching, skills increasingly core to the Openscapes approach. Running in May each year, Reflections is a light-weight way to reflect on your workflows and make goals going into summer.
+
+This program has a \$95 value. We intend to make this program accessible to anyone interested, with sponsorship available through the [registration form](https://forms.gle/aq9vPiyHSoVjfY9t9).
+
+We designed Reflections to be rewarding for people who haven't been part of Openscapes initiatives so far, as well as returning folks who want some accountability and space to reflect on their workflows and plan how open data science practices can fuel institutional culture change. **Learn more - full details and open source materials available at <https://openscapes.github.io/booklet>**
+
+[Reflections program helps folks identify and plan around their workflow needs in 1 hour/week](https://openscapes.org/blog/2023-09-06-reflections-2023/) - 2023 summary blog post & participant testimonials
+
+<br>
+
+```{r, out.width="40%", fig.align='center', preview=TRUE}
+#| out-width: "40%"
+#| fig-align: "center"
+#| preview: true
+#| echo: false
+knitr::include_graphics("fig-mountain-2023-square.jpg")  
+```

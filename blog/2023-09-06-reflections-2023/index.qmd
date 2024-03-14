@@ -9,7 +9,7 @@ author:
 date: 2023-09-06
 citation: 
   url: https://openscapes.org/blog/2023-09-06-reflections-2023/
-categories: [how-we-work, blog]
+categories: [how-we-work, blog, reflections]
 image: reflection-bohinj.jpg
 ---
 

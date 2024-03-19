@@ -75,6 +75,12 @@ aliases:
 
 *See [NASA-Openscapes](https://nasa-openscapes.github.io/) and [NMFS-Openscapes](https://nmfs-openscapes.github.io/) for many additional presentations from NASA and NOAA Fisheries Mentors!*
 
+- [Openscapes: Open science as movement building for kinder science for future us](https://docs.google.com/presentation/d/1hiSL6lN8Kx616P_e3ljGS0KJxMCxpjlczQddL6ZhxIE/edit?usp=sharing) - Julie Lowndes. March 22, 2024, [Year of Open Science Culminating Conference](https://www.cos.io/yos-conference) (10 min)
+
+- [Openscapes: Better science for future us](https://docs.google.com/presentation/d/1bE66N404BBhkfwgqDBCHv8I4-W51F81yju8SvN9c5nk/edit?usp=sharing) - Julie Lowndes (Openscapes), Devan Burke (California State Water Boards), Anna Holder (California State Water Boards). March 19, 2024. [California Water Data Consortium: Data for Lunch](https://www.eventbrite.com/e/california-water-data-consortium-march-2024-data-for-lunch-tickets-801830345147)
+
+- [NASA Openscapes: How we work supporting Earthdata science in the Cloud. First story of a scientist “fledging” from our JupyterHub!](https://docs.google.com/presentation/d/1Th2NScRyrWLKgGvaMccDMvR1ZLA6VTpNON0eUvo5TgY/edit#slide=id.g262cd94a96b_0_0) - Julie Lowndes, Erin Robinson, and NASA Openscapes community. NASA ESDSWG Meeting, March 5, Huntsville Alabama. (15 min)
+
 - [Onboarding fisheries scientists to Open Science to participate in integrating collaborative and inclusive principles into education, workforce development, and community management](https://docs.google.com/presentation/d/1SY1KByKxSehOu4TCy_DbmxRkFtT404Sp_9fO_qlA_O4/edit?usp=sharing) - Organizers: Gavin Fay (Univ Massachusetts Dartmouth), Eli Holmes (NOAA Fisheries Open Science), Christine Stawitz (NOAA Fisheries Office of Science & Tech), Julie Lowndes (Openscapes). March 4, 2024. World Fisheries Congress, Seattle Washington
 
 

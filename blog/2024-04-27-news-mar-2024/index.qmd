@@ -6,7 +6,7 @@ author:
   - name: Ileana Fenwick
   - name: Stefanie Butland
     orcid: 0000-0002-5427-8951  
-date: 2024-01-24
+date: 2024-03-27
 citation: 
   url: https://openscapes.org/blog/2024-03-27-news-mar-2024/
 categories: [blog, newsletter]

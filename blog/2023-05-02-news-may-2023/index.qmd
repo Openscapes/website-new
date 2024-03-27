@@ -5,7 +5,7 @@ date: 2023-05-02
 slug: news-spring-2023
 categories:
   - blog 
-  # - community
+  - reflections
   - newsletter
 image: fig-mountain-2023-square.jpg
 aliases: 

@@ -1,0 +1,50 @@
+---
+title: "Openscapes Newsletter #9: Inviting you to the Reflections Program"
+author:
+  - name: Julie Lowndes
+    orcid: 0000-0003-1682-3872
+  - name: Ileana Fenwick
+  - name: Stefanie Butland
+    orcid: 0000-0002-5427-8951  
+date: 2024-03-27
+citation: 
+  url: https://openscapes.org/blog/2024-03-27-news-mar-2024/
+categories: [blog, newsletter]
+image: fig-mountain-2023-square.jpg
+---
+
+*Welcome to Openscapes’ ninth newsletter! If you’re interested in seeing these infrequent updates in your inbox, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from our get involved page). And! If you have signed up but did not see this in your inbox, please check your spam folder!*
+
+------------------------------------------------------------------------
+
+Hello! There is a lot going on. We've been trying to check in with ourselves and others, and appreciate the little signs of growth as we move into Spring. We're getting energy preparing for the Reflections program again this year, and invite you to join as a chance to check in on values and habits in our daily workflows.
+
+[**Registration is open for the 2024 Reflections Program**](https://forms.gle/aq9vPiyHSoVjfY9t9)**: April 29 - May 17 2024 (1 hour/week).**
+
+**Openscapes Reflections is an open data science coaching program for researchers and those who support research.** We know many like you have been looking for a lighter-weight way to get involved or continue building habits to support yourself and your colleagues. We’ve designed the Reflections Program to meet this need; Reflections is a 3-week program (1 hour/week) modeled from leadership coaching, something now core to the Openscapes approach.
+
+> “I’m taking away a bit of energy and motivation to keep my spotlight shining on my workflow. I also have a feeling of hope for a community.” - *2023 Reflections Participant*
+
+This program has a \$95 value, and [registration is open](https://forms.gle/aq9vPiyHSoVjfY9t9). We intend to make this program accessible to anyone interested, with sponsorship available through the registration form. Our goal is that funds from Reflections will support future open-call Openscapes Cohorts as a way to support increased participation in open science.
+
+This is our second year leading the Reflections program. Learn from last year's participants about how it [helps folks identify and plan around their workflow needs in 1 hour/week](https://openscapes.org/blog/2023-09-06-reflections-2023/).
+
+## And that's not all!
+
+We were so thrilled for the recognition when the [**White House Fact Sheet Mentions Openscapes**](https://openscapes.org/blog/2024-02-09-white-house-factsheet-openscapes/) in celebration of the Year of Open Science!
+
+The Openscapes community has been working hard in 2024 since then and [our last newsletter](https://openscapes.org/blog/2024-01-24-news-jan-2024/). Here are a few things we've been up to:
+
+The [Pathways to Open Science Program](https://openscapes.github.io/pathways-to-open-science/) completed the six remote events and issued 70 certificates of participation for Black environmental and marine researchers!
+
+The NASA Openscapes Mentors have given several big talks, including the [NASA Earthdata Webinar: Explore the Openscapes Earthdata Cloud Cookbook](https://openscapes.org/blog/2024-03-12-nasa-earthdata-webinar/), the [NASA Tech Spotlight on earthaccess: Accelerating NASA Earthdata access through open, collaborative development](https://openscapes.org/blog/2024-03-04-earthaccess-tech-spotlight/), and [Openscapes Community Call: GitHub for NASA Openscapes community calendaring & project management](https://openscapes.org/blog/2024-02-28-github-community-call/). NASA Earthdata also led an [interview with Aaron Friesz as a Data Chat](https://www.earthdata.nasa.gov/learn/data-chats/aaron-friesz) where he shared about his work with the NASA Openscapes Community and the Land Processes Data Center (LP DAAC).
+
+The California Waterboards gave [a talk](https://docs.google.com/presentation/d/1bE66N404BBhkfwgqDBCHv8I4-W51F81yju8SvN9c5nk/edit?usp=sharing) at the California Water Data Consortium: Data for Lunch and are kicking off their third Champions Cohort next month!
+
+NOAA Fisheries led an inspiring session with 11 speakers sharing about their [Year of Open Science Community Building at NOAA Fisheries](https://events.zoom.us/ejl/At2OWwlddxkzVKGXCAr0NXOasKT7QrUqpVTk4bQVTg5JzpU2vVwI~A-pdFcwijTCLBbt1-G6PeIYV20naigXa3-mMTiJaozE1SM5SU8-gdMuSTvl8DQvhANv-uKmUxuabEZdMCot3-ek5LT5KngprnVo0/sessions/LiIadEBWQmyqWRbkGwzKlw) at the Year of Open Science Culminating Conference!
+
+::: center-text
+![](fig-mountain-2023-square.jpg){width="85%" fig-alt="photo of mountains in the background that are orange with flowers, and in the foreground there are close-up orange poppies and blue lupin flowers."}
+:::
+
+Photo by Elliot Lowndes

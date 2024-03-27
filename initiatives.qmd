@@ -161,7 +161,7 @@ We launched this program in 2023 and plan to lead it annually in May!
 {{< fa book-open title="An open book" >}} Reflections Program Resources<!-- Booklet -->
 :::
 ::: {.center-text}
-Learn more in the [**Openscapes Reflections Booklet**](https://openscapes.github.io/booklet/), which introduces prompts to guide your reflections.
+Learn more and register in the [**Openscapes Reflections Booklet**](https://openscapes.github.io/booklet/), which introduces prompts to guide your reflections.
 :::
 :::
 

@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/blog/2024-04-04-nasa-earthdata-aaron-friesz/index.html",
       "/blog/2024-04-27-news-mar-2024/index.html",
       "/blog/2024-03-12-nasa-earthdata-webinar/index.html",
       "/blog/2024-03-04-earthaccess-tech-spotlight/index.html",
@@ -233,6 +234,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/blog/2024-04-04-nasa-earthdata-aaron-friesz/index.html",
       "/blog/2024-04-27-news-mar-2024/index.html",
       "/blog/2024-03-12-nasa-earthdata-webinar/index.html",
       "/blog/2024-03-04-earthaccess-tech-spotlight/index.html",

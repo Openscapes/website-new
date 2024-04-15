@@ -40,9 +40,9 @@ knitr::include_graphics("images/minis/horst_openscapes_mountains_salmon.png")
 
 -   Reuse our open lessons, slides, and more linked from our [media](media.qmd) and github: [\@openscapes](https://github.com/openscapes), [\@nasa-openscapes](https://github.com/nasa-openscapes)
 -   Follow us on social media: [\@openscapes\@fosstodon.org](https://fosstodon.org/@openscapes) on Mastodon
--   Sign up for our newsletter [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (4x/year)
+-   Sign up for our [newsletter mailing list](https://docs.google.com/forms/d/e/1FAIpQLSd25jpfiAn1gYNwUPcfMVudsL625_pYbKsqxXpRazHCL6QA7g/viewform?usp=sf_link) (4x/year)
 -   Join an upcoming [event](events.qmd), including Openscapes initiatives, community calls, and talks
--   Talk to your colleagues; consider [Supercharge your research](https://openscapes.github.io/supercharge-research/) for your next journal club or lab meeting
+-   Talk to your colleagues; consider [Supercharge your research](https://openscapes.github.io/supercharge-research/) or [Shifting institutional culture](https://eartharxiv.org/repository/view/5948/) for your next journal club or lab meeting
 
 ```{=html}
 <!---TODO Move to Approach Guide

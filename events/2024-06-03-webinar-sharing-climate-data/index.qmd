@@ -1,0 +1,24 @@
+---
+title: "Sharing Climate Data - webinar"
+description: "A Conversation with Creative Commons and Openscapes"
+author:
+  - name: Openscapes and Creative Commons Open Climate Campaign
+date: "2024-06-03"
+categories: [event, community-call]
+image: webinar-sharing-climate-data.png
+---
+
+**Date**: Monday, June 03, 2024\
+**Time**: 10:00 - 11:00am PT / 1:00 - 2:00 ET <!--- ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Openscapes+Community+Call&iso=20240220T10&p1=1050&ah=1)) --->\
+**Register (free)** via [Zoom](https://zoom.us/meeting/register/tJEkdOupqjkoGt2JSO8VE7Zs8LLfn7Skmvl0#/registration) to get the meeting link\
+<!--- **View** [event summary and video](/blog/2024-02-28-github-community-call) --->
+
+Join Openscapes, Creative Commons, and the Open Climate Campaign, in conversation about sharing climate data. This webinar will outline Creative Commons’ [recommendations for better sharing of climate data](https://creativecommons.org/2024/01/29/recommended-best-practices-for-better-sharing-of-climate-data/) and will focus on applicable solutions and examples of opening climate data with CC licenses. Designed for researchers, it is open to anyone interested in learning more about open license recommendations for climate data.
+
+**From Creative Commons and the Open Climate Campaign:**
+
+Open science, open practices, and open licenses are essential in working together to increase access to research and to address global challenges. At [Creative Commons](https://creativecommons.org/), we’ve been focusing our open science program on finding faster, more equitable, and open solutions that are necessary to address climate change. Our [Open Climate Campaign](https://openclimatecampaign.org/), a project in partnership with [SPARC](https://sparcopen.org/) and [Electronic Information for Libraries (EIFL)](https://www.eifl.net/), is focused on policy, international frameworks, and opening up published research. Our Open Climate Data project facilitates the opening and sharing of large climate datasets and climate data models around the world.
+
+To ensure our work is as impactful as possible, our goal is to connect with the research community to discuss open practices and approaches to climate research. We’ve partnered with the team at Openscapes to bring you a webinar that will outline Creative Commons’ [recommendations for better sharing of climate data](https://creativecommons.org/2024/01/29/recommended-best-practices-for-better-sharing-of-climate-data/). Join us for a conversation that will focus on applicable solutions to opening climate data with CC licenses. This webinar is designed for researchers but is open to anyone interested in learning more about open license recommendations for climate data.
+
+![](webinar-sharing-climate-data.png){fig-alt="photo from above brown rocky mountain tops without vegetation" width="85%"}

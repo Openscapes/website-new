@@ -1,0 +1,37 @@
+---
+title: "NLM Workshop on advancing a networked approach to equitable open science"
+description: "US National Libraries of Medicine - National Institutes of Health"
+author:
+  - name: Julie Lowndes
+  - name: Liz Neeley
+date: "2024-06-04"
+categories: [event, workshop]
+image: unesco-open-science.png
+---
+
+*From June 4-5 2024, we are at the National Libraries of Medicine (NLM), part of the US National Institutes of Health (NIH). We are writing this live from the front of the room! This is a brief note about this workshop, with more contributions and summaries to come.* 
+
+## Designing an open science conversation
+
+The NLM Workshop on advancing a networked approach to equitable open science is co-led by Maryam Zaringhalam and Lisa Federer, with us, Liz Neeley and Julie Lowndes as co-chairs. We convened a small group of open science and knowledge translators to share, learn from each other, and vision/plan next steps to support all of our ongoing work and how NLM can be a part of it. 
+
+**Workshop [POP](https://suzannehawkes.com/2010/04/09/pop-everything/)**
+
+- DAY 1 - BRAINSTORMING
+  - Purpose: Explore: what are the ways in which our work in OS and KT complement and/or contrast with one another? How can we heighten those synergies and contrasts to identify areas for bridge building and collaboration to extend reach?
+  - Outcome: Have a better sense for who we all are and where we sit in the OS and KT ecosystem
+  - Process: Collaborative small group work and large group interactive brainstorming
+- DAY 2 - SYNTHESIS
+  - Purpose: Explore: what are opportunities to build out collaborations, networks, and feedback loops? How do we prioritize these opportunities? What does success look like?
+  - Outcome: Prioritize future directions for NLM (and the communities you represent) and co-create a vision for success for equitable open science
+  - Process: Large group discussions that build on our brainstorming and findings from day 1
+
+We opened the workshop with some short stories and framing about what open science means to us and looks like to us - aiming to balance the broadness of open science with specficity (something to hold on to). Our [opening slides](https://docs.google.com/presentation/d/1A7ytF_Ogqv6anEWsuSAmLk31_pTr8h7mf3oR9n_z2kc/edit?pli=1#slide=id.g2e1cac7edde_4_1) shared about our origins as marine scientists with the [Ocean Health Index](https://oceanhealthindex.org/) (which is one of the shining examples what a [path to open data science](https://pubmed.ncbi.nlm.nih.gov/28812630/) can look like) and how we work now through [Openscapes](https://openscapes.org/) and [Liminal](https://www.liminalcreations.com/). Then, we faciliated small group and full group conversations for folks to situating ourselves and each other in the open science and knowledge translation landscape. 
+
+The conversations are still ongoing, stay tuned for more followup!
+
+
+![](unesco-open-science.png){fig-alt="illustration of a colorful four-part wheel describing 4 parts of open science: scientific knowledge, infrastructure, engagement, dialogue" width="85%"}
+
+From the [UNESCO Recommendation on Open Science, 2021](https://unesdoc.unesco.org/ark:/48223/pf0000379949)
+

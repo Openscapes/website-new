@@ -1,0 +1,14 @@
+---
+title: "NLM Workshop on advancing a networked approach to equitable open science"
+description: "US National Libraries of Medicine - National Institutes of Health"
+author:
+  - name: Julie Lowndes
+  - name: Liz Neeley
+date: "2024-06-04"
+categories: [event, workshop]
+image: TODO
+---
+
+
+
+TODO ![](webinar-sharing-climate-data.png){fig-alt="photo from above brown rocky mountain tops without vegetation" width="85%"}

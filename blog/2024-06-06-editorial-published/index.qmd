@@ -10,14 +10,10 @@ categories: [blog, noaa-fisheries, nasa-framework, water-boards, pathways, how-w
 image: ece311341-fig-0001-m.jpg
 ---
 
-We are so happy to share that a paper co-authored by Openscapes mentors across organizations – including NASA Earthdata, NOAA Fisheries, EPA, California Water Boards, Pathways to Open Science, Fred Hutch Cancer Center – was just published: [Shifting institutional culture to develop climate solutions with Open Science](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341).
+We are so happy to share that a paper co-authored by Openscapes mentors across organizations – including NASA Earthdata, NOAA Fisheries, EPA, California Water Boards, Pathways to Open Science, Fred Hutch Cancer Center – was just published: [Shifting institutional culture to develop climate solutions with Open Science](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341). From co-author Anna Holder, Cal EPA / Water Boards: "It’s a short read and quite uplifting and inspirational and provides some more insight and what we’re learning as we implement Openscapes across organizations.” 
 
 ::: blockquote-blue
-> “*It’s short read and quite uplifting and inspirational and provides some more insight and what we’re learning as we implement Openscapes across organizations.*” -- **co-author Anna Holder, Cal EPA / Water Boards**
-:::
-
-::: blockquote-blue
-> "*Our best advice to start shifting culture is to have regularly scheduled learning meetings—with structure and intention to make them different from other work meetings.*" -- **Openscapes Mentors**
+> "*Our best advice to start shifting culture is to have regularly scheduled learning meetings—with structure and intention to make them different from other work meetings.*"
 :::
 
 Please let us know what you think, and share with colleagues!

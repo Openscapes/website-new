@@ -10,8 +10,8 @@ image: webinar-sharing-climate-data.png
 
 **Date**: Monday, June 03, 2024\
 **Time**: 10:00 - 11:00am PT / 1:00 - 2:00 ET <!--- ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Openscapes+Community+Call&iso=20240220T10&p1=1050&ah=1)) --->\
-**Register (free)** via [Zoom](https://zoom.us/meeting/register/tJEkdOupqjkoGt2JSO8VE7Zs8LLfn7Skmvl0#/registration) to get the meeting link\
-<!--- **View** [event summary and video](/blog/2024-02-28-github-community-call) --->
+<!--- Register (free) via Zoom to get the meeting link --->\
+**View** [event video](https://youtu.be/G59k1KPcGoY) and collaborative [notes doc](https://docs.google.com/document/d/1ZI2p2bGvO3HlUpsbIjhaXHfcrpAovpEFhc2O7F6LBgY/edit)
 
 Join Openscapes, Creative Commons, and the Open Climate Campaign, in conversation about sharing climate data. This webinar will outline Creative Commons’ [recommendations for better sharing of climate data](https://creativecommons.org/2024/01/29/recommended-best-practices-for-better-sharing-of-climate-data/) and will focus on applicable solutions and examples of opening climate data with CC licenses. Designed for researchers, it is open to anyone interested in learning more about open license recommendations for climate data.
 

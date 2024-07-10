@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/blog/2024-07-09-2i2c-shared-password/index.html",
       "/blog/2024-06-06-editorial-published/index.html",
       "/blog/2024-04-04-nasa-earthdata-aaron-friesz/index.html",
       "/blog/2024-04-27-news-mar-2024/index.html",
@@ -241,6 +242,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/blog/2024-07-09-2i2c-shared-password/index.html",
       "/blog/2024-06-06-editorial-published/index.html",
       "/blog/2024-04-04-nasa-earthdata-aaron-friesz/index.html",
       "/blog/2024-04-27-news-mar-2024/index.html",

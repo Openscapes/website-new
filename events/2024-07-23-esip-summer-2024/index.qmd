@@ -6,6 +6,7 @@ date: 2024-07-23
 categories:
   - conference
   - nasa-framework
+  - event
 image: esip-banner.png 
 ---
 

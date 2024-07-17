@@ -6,7 +6,7 @@ date: 2024-08-07
 categories:
   - talk
   - event
-image: image.png 
+image: bmic.png
 ---
 
 *This event will follow up on and share from the* [*NLM Workshop on advancing a networked approach to equitable open science*](https://openscapes.org/events/2024-06-04-nlm-equitable-open-science)*. Maryam Zaringhalam, workshop lead, will give a report on the NLM workshop, and Julia Lowndes will provide a perspective on the approach Openscapes has developed to shift research cultures towards greater colla*boration and inclusion through open science. *Maryam Zaringhalam recently gave a keynote summarizing the NLM workshop at a CZI Open Science Meeting ([abstract & slides](https://zenodo.org/records/12523362)).*

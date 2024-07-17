@@ -4,12 +4,10 @@ aliases:
   - https://www.openscapes.org/media/
 ---
 
-::: column-screen
 ![](images/banner_imgs/text_banners/media_banner.png)
 
 <br>
 
-::: white-div
 ::: {.medium-body-text .center-text}
 **Storytelling is key to changing culture and growing the movement for open, kinder science.**<br>Get inspired through the stories below, and pass them on.
 :::
@@ -78,7 +76,7 @@ aliases:
 
 -   [Openscapes: Open science as movement building for kinder science for future us](https://docs.google.com/presentation/d/1hiSL6lN8Kx616P_e3ljGS0KJxMCxpjlczQddL6ZhxIE/edit?usp=sharing) - Julie Lowndes. March 22, 2024, [Year of Open Science Culminating Conference](https://www.cos.io/yos-conference) (10 min)
 
--   [Openscapes: Better science for future us](https://docs.google.com/presentation/d/1bE66N404BBhkfwgqDBCHv8I4-W51F81yju8SvN9c5nk/edit?usp=sharing) - Julie Lowndes (Openscapes), Devan Burke (California State Water Boards), Anna Holder (California State Water Boards). March 19, 2024. [California Water Data Consortium: Data for Lunch](https://www.eventbrite.com/e/california-water-data-consortium-march-2024-data-for-lunch-tickets-801830345147)
+-   [Openscapes: Better science for future us](https://docs.google.com/presentation/d/1bE66N404BBhkfwgqDBCHv8I4-W51F81yju8SvN9c5nk/edit?usp=sharing) - Julie Lowndes (Openscapes), Devan Burke (California State Water Boards), Anna Holder (California State Water Boards). March 19, 2024. [California Water Data Consortium: Data for Lunch](https://www.eventbrite.com/e/california-water-data-consortium-march-2024-data-for-lunch-tickets-801830345147) ([recording](https://youtu.be/aWd6ya6693A))
 
 -   [NASA Openscapes: How we work supporting Earthdata science in the Cloud. First story of a scientist “fledging” from our JupyterHub!](https://docs.google.com/presentation/d/1Th2NScRyrWLKgGvaMccDMvR1ZLA6VTpNON0eUvo5TgY/edit#slide=id.g262cd94a96b_0_0) - Julie Lowndes, Erin Robinson, and NASA Openscapes community. NASA ESDSWG Meeting, March 5, Huntsville Alabama. (15 min)
 
@@ -208,5 +206,3 @@ aliases:
 -   [Openscapes: Building communities of practice around environmental open data science](https://docs.google.com/presentation/d/1c0DGai88kLuRxeWgmcC1KWt9Egm29VB0kmntXRej_-s/edit?usp=sharing) - November 15, 2018: Progress report (15 minutes)
 
 -   [Increasing the value and practice of environmental open data science](https://docs.google.com/presentation/d/13k_Vl5O7CXhgoWYxyUZJv1QfVRu3gv1gcpe7-GjBuJM/edit?usp=sharing) - October 17, 2018: Protein Sustainability Working Group, NCEAS, Santa Barbara, California (10 minutes)
-:::
-:::

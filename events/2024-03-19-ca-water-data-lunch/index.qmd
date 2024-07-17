@@ -14,6 +14,8 @@ This event is part of the Consortium's Data for Lunch series, which provides an 
 
 **Date:** March 19th from 12:00 - 1:00 pm PT, with additional Q&A from 1-1:30pm
 
+**Update:** Event summary, slides, and recording are available on the [California Water Data Consortium's site](https://cawaterdata.org/events/california-water-data-consortium-march-2024-data-for-lunch/) and on [YouTube](https://youtu.be/aWd6ya6693A).
+
 ### Title: Openscapes: Better science for future us
 
 At [Openscapes](https://openscapes.org/ "https://openscapes.org/"), we believe open science can accelerate interoperable, data-driven solutions and increase diversity, equity, inclusion, and belonging in research and beyond. Our main activity is mentoring environmental and Earth science teams in open science, and connecting and elevating them both through tech like R, Python, Quarto, and JupyterHubs and communities like RLadies, Black Women in Ecology Evolution, and Marine Science, Ladies of Landsat, and NASA. We’ll share stories and approaches about supporting open science as a daily practice – better science for future us – and welcome you to join the movement.

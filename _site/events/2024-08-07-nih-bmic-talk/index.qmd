@@ -1,0 +1,20 @@
+---
+title: "How Openscapes supports teams in open science: stories of how we work"
+description: "Invited virtual talk for the NIH Biomedical Informatics Coordinating Committee (BMIC)" 
+author: Openscapes
+date: 2024-08-07
+categories:
+  - talk
+  - event
+image: bmic.png
+---
+
+*This event will follow up on and share from the [NLM Workshop on advancing a networked approach to equitable open science](https://openscapes.org/events/2024-06-04-nlm-equitable-open-science). Maryam Zaringhalam, workshop lead, will give a report on the NLM workshop, and Julia Lowndes will provide a perspective on the approach Openscapes has developed to shift research cultures towards greater collaboration and inclusion through open science. Maryam Zaringhalam recently gave a keynote summarizing the NLM workshop at a CZI Open Science Meeting ([abstract & slides](https://zenodo.org/records/12523362)).*
+
+**Abstract:** Openscapes is an approach and community that helps researchers and those supporting research find each other and feel empowered to conduct data-intensive science. We support open science as “kinder science for future us”: the vision is a scientific culture that is more efficient, more kind, and more collaborative, and that can uncover solutions faster together to the most pressing climate and social challenges. Our main activity is mentorship to build open source technical and collaborative leadership skills within and across teams and organizations, connecting groups and role-modeling open practices that are critical elements to helping shift towards open science. We often hear the question: “what does Open Science look like”? I’ll share examples and stories from the growing Openscapes community including NASA, NOAA, EPA, and Black in Marine Science that supports open science as a daily practice, and welcome you to join the open science movement.
+
+**Bio**\
+Julia Stewart Lowndes, PhD\
+Openscapes core team member and founding director
+
+I am a marine ecologist working at the intersection of actionable science, data science, and open science. My main focus is mentoring teams to develop technical and leadership mindsets and skills for data-intensive research, grounded in climate solutions, inclusion, and kindness. I earned my PhD from Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate. In 2018 I founded Openscapes as an open source community following my own research team’s path to better science in less time, as a Mozilla Fellow and Senior Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California Santa Barbara. In 2022 I started Openscapes LLC, a small woman-owned business to support the growing Openscapes open source community. 

@@ -118,11 +118,11 @@ aliases:
 
 ## Advisors & Collaborators
 
-[**Erin Robinson**](https://erinrobinson.info/) is a long-time Openscapes collaborator and advisor, and core team member until 2024. She co-led the NASA Framework project and has been instrumental in scaling Openscapes with lessons learned from the NASA work, including developing our Flywheel. Erin works at the intersection of community informatics, Earth science and non-profit management.
-
 [**Liz Neeley**](https://www.liminalcreations.com/people) is an Openscapes collaborator and advisor. She is founding partner of Liminal, a science communication collective that focuses on sensemaking. She began her career in ocean conservation, where she learned the hard way that the data don’t speak for themselves. Ever since, she has focused on helping scientists find the courage and language they need to create change within themselves, their institutions, and the world. Liz is also a co-founder of SolvingFor.org and an external advisor to the Institute for Diversity Sciences and the Aspen Institute Science & Society Program, among others. She was previously Executive Director of The Story Collider.
 
 [**Allison Horst**](https://allisonhorst.github.io/) is a long-time Openscapes advisor and collaborator. She is a data scientist, teacher, and artist. With a background in the fine arts, she also works digitally; see her Openscapes open landscapes in the [gallery](gallery.qmd), her [stats illustrations](https://allisonhorst.com/) and follow her on [Twitter](https://twitter.com/allison_horst).
+
+[**Erin Robinson**](https://erinrobinson.info/) is a long-time Openscapes collaborator and advisor, and core team member until 2024. She co-led the NASA Framework project and has been instrumental in scaling Openscapes with lessons learned from the NASA work, including developing our Flywheel. Erin works at the intersection of community informatics, Earth science and non-profit management.
 
 [**Sean Kross**](https://seankross.com/) is a long-time Openscapes collaborator and created the [`{kyber}` R package](https://openscapes.github.io/kyber/) to automate Openscapes cohort infrastructure. His interests are centered around understanding challenges that people doing data science face in the real world, expanding online educational opportunities to new audiences, and building tools to make the future of work and learning possible. Sean is also a frequent consultant for data analysis and software development projects, in addition to being an advocate for open data and a maintainer of several popular open source software repositories.
 

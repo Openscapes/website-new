@@ -14,7 +14,7 @@ aliases:
 ::: {.white-div}
 
 ::: {.medium-body-text .center-text}
-**Meet the many folks behind Openscapes!**
+**Meet the many people behind Openscapes!**
 :::
 
 <br>
@@ -31,7 +31,7 @@ aliases:
 :::
 ::: {.g-col-12 .g-col-md-9}
 <br>
-[**Julia Stewart Lowndes**](https://jules32.github.io/) is a core Openscapes team member and founding director. She is a marine ecologist working at the intersection of actionable environmental science, data science, and open science. She is a Mozilla Fellow and Senior Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California Santa Barbara, having earned her PhD from Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate.
+[**Julia Stewart Lowndes**](https://jules32.github.io/) is a core Openscapes team member and founding director. She is a marine ecologist working at the intersection of actionable science, data science, and open science. She earned her PhD from Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate. In 2018 she founded Openscapes as an open source community following her own research team’s path to better science in less time, as a Mozilla Fellow and project scientist with the Ocean Health Index at the National Center for Ecological Analysis and Synthesis (NCEAS), UC Santa Barbara. Email: julia at openscapes.org.
 :::
 :::
 :::
@@ -39,19 +39,20 @@ aliases:
 
 <br>
 
-<!---------------- START E. Robinson ---------------->
+<!---------------- START S. Butland ---------------->
 ::: {.center-text}
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-9}
 <br>
-[**Erin Robinson**](https://erinrobinson.info/) is a core Openscapes team member and advisor. She co-leads the NASA Framework project with Julie and has been instrumental in scaling Openscapes with lessons learned from their NASA work, including developing our Flywheel. Erin works at the intersection of community informatics, Earth science and non-profit management.
+<br>
+[**Stefanie Butland**](https://stefaniebutland.netlify.app/) is a core Openscapes team member and co-leads Champions Cohorts. She is a research scientist by training and an open science and tech community builder by passion. Stefanie is a Fellow of the Center for Scientific Collaboration and Community Engagement. Email: stefanie at openscapes.org
 :::
 ::: {.g-col-12 .g-col-md-3}
-<img width="80%" src="images/headshots/robinson_round.png">
+<img width="80%" src="images/headshots/butland_round.png">
 :::
 :::
 :::
-<!---------------- END E. Robinson ---------------->
+<!---------------- END S. Butland ---------------->
 
 <br>
 
@@ -71,22 +72,35 @@ aliases:
 
 <br>
 
-<!---------------- START S. Butland ---------------->
+<!---------------- START A. Teucher ---------------->
 ::: {.center-text}
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-9}
 <br>
-<br>
-[**Stefanie Butland**](https://stefaniebutland.netlify.app/) is a core Openscapes team member and co-leads Champions Cohorts. She is a research scientist by training and an open science and tech community builder by passion. Stefanie is a Fellow of the Center for Scientific Collaboration and Community Engagement.
+[**Andy Teucher**](https://andyteucher.ca/) is a core Openscapes team member and develops software and cloud infrastructure. He is a biologist turned data scientist, specializing in helping people and organizations build maintainable, reproducible data workflows. Andy is a strong open data and open code advocate, and believes in the value of using and contributing to open-source software.
 :::
 ::: {.g-col-12 .g-col-md-3}
-<img width="80%" src="images/headshots/butland_round.png">
+<img width="80%" src="images/headshots/teucher_round.png">
 :::
 :::
 :::
-<!---------------- END S. Butland ---------------->
+<!---------------- END A. Teucher ---------------->
 
+<br>
+
+<!---------------- START L. Neeley 
+::: {.center-text}
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<img width="80%" src="images/headshots/neeley_round.png">
 :::
+::: {.g-col-12 .g-col-md-9}
+<br>
+[**Liz Neeley**](https://www.liminalcreations.com/people) is a founding partner of Liminal, a science communication collective that focuses on sensemaking. She began her career in ocean conservation, where she learned the hard way that the data don’t speak for themselves. Ever since, she has focused on helping scientists find the courage and language they need to create change within themselves, their institutions, and the world. Liz is also a co-founder of SolvingFor.org and an external advisor to the Institute for Diversity Sciences and the Aspen Institute Science & Society Program, among others. She was previously Executive Director of The Story Collider. 
+:::
+:::
+:::
+ END L. Neeley ---------------->:::
 :::
 
 ::: {.column-screen}
@@ -98,11 +112,17 @@ aliases:
 
 [**NOAA Fisheries Mentors**](https://nmfs-openscapes.github.io/mentors.html) are supporting colleagues at NOAA Fisheries with open science practices for collaboration, particularly for shared project management and government reports.
 
+[**Pathways to Open Science Mentors**](https://openscapes.github.io/pathways-to-open-science/) support an annual remote event series for Black environmental & marine researchers to build community for the future of data intensive science. This is an ongoing collaboration with Black in Marine Science (BIMS), Black Women in Ecology, Evolution, and Marine Science (BWEEMS), HBCU marine science professors.
+
 [**California Water Board / CalEPA Mentors**](https://cawaterboarddatacenter.github.io/swrcb-openscapes/contact.html) are supporting colleagues to contribute to and inform the sustainable and equitable management of natural resources and identify opportunities for conservation action. 
 
 ## Advisors & Collaborators
 
+[**Liz Neeley**](https://www.liminalcreations.com/people) is an Openscapes collaborator and advisor. She is founding partner of Liminal, a science communication collective that focuses on sensemaking. She began her career in ocean conservation, where she learned the hard way that the data don’t speak for themselves. Ever since, she has focused on helping scientists find the courage and language they need to create change within themselves, their institutions, and the world. Liz is also a co-founder of SolvingFor.org and an external advisor to the Institute for Diversity Sciences and the Aspen Institute Science & Society Program, among others. She was previously Executive Director of The Story Collider.
+
 [**Allison Horst**](https://allisonhorst.github.io/) is a long-time Openscapes advisor and collaborator. She is a data scientist, teacher, and artist. With a background in the fine arts, she also works digitally; see her Openscapes open landscapes in the [gallery](gallery.qmd), her [stats illustrations](https://allisonhorst.com/) and follow her on [Twitter](https://twitter.com/allison_horst).
+
+[**Erin Robinson**](https://erinrobinson.info/) is a long-time Openscapes collaborator and advisor, and core team member until 2024. She co-led the NASA Framework project and has been instrumental in scaling Openscapes with lessons learned from the NASA work, including developing our Flywheel. Erin works at the intersection of community informatics, Earth science and non-profit management.
 
 [**Sean Kross**](https://seankross.com/) is a long-time Openscapes collaborator and created the [`{kyber}` R package](https://openscapes.github.io/kyber/) to automate Openscapes cohort infrastructure. His interests are centered around understanding challenges that people doing data science face in the real world, expanding online educational opportunities to new audiences, and building tools to make the future of work and learning possible. Sean is also a frequent consultant for data analysis and software development projects, in addition to being an advocate for open data and a maintainer of several popular open source software repositories.
 

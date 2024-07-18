@@ -23,7 +23,7 @@ listing:
 
 ::: white-div
 ::: {.medium-body-text .center-text}
-**This is a global movement for open, inclusive, and actionable data-driven environmental research. We're excited to connect.**
+**This is a global movement for open, inclusive, and actionable data-driven research.**<br>**We're excited to connect.**
 :::
 
 <br>
@@ -54,12 +54,6 @@ We tweet about Openscapes news and events, amplify Openscapes Champions, and spo
 ## WORK WITH US
 
 Please [email us](mailto:hello@openscapes.org) if you're interested in booking cohorts, partnering with us, sponsoring our initiatives, or sharing your wild ideas.
-
-<br>
-
-### Contract Opportunity: NASA Openscapes Cloud Team Member
-
-January 26, 2024. Applications are now closed for the NASA Openscapes Cloud Team Member. We received 26 applications for this role and will be planning our interview rounds in the coming weeks. Thank you for your interest.
 :::
 :::
 

@@ -3,6 +3,8 @@ project:
 
 website:
   favicon: images/favicon/favicon_fullres.png
+  site-url: https://www.openscapes.org
+  title: "Openscapes"
   navbar:
     title: false
     logo: images/logo/openscapes_hex_badge.png 

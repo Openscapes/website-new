@@ -10,7 +10,7 @@
 <meta name="dcterms.date" content="2024-07-22">
 <meta name="description" content="Aronne Merrelli describes developing cloud workflows with 2i2c, parallelizing workflows with Coiled, and attaching his university credit card to do real science in the cloud.">
 
-<title>First Forays into the Cloud - first “fledging” story from NASA Openscapes!</title>
+<title>Openscapes - First Forays into the Cloud - first “fledging” story from NASA Openscapes!</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -442,7 +442,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/www\.openscapes\.org");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

@@ -37,7 +37,7 @@ listing:
 
 <br>
 
-**Openscapes is an approach and a movement** that helps researchers and those supporting research find each other and feel empowered to conduct data-intensive science. Through a creative approach drawing inspiration and skills from many places, we provide structures for technical skill-building, collaborative teamwork, and inclusive community development. Here's how:
+**Openscapes is an open source approach and movement** that helps researchers and those supporting research find each other and feel empowered to conduct data-intensive science. Through a creative approach drawing inspiration and skills from many places, we provide structures for technical skill-building, collaborative teamwork, and inclusive community development. Here's how:
 :::
 :::
 

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.openscapes.org/blog.html</loc>
-    <lastmod>2024-08-01T16:29:21.329Z</lastmod>
+    <lastmod>2024-07-24T18:05:50.978Z</lastmod>
   </url>
   <url>
     <loc>https://www.openscapes.org/code-of-conduct.html</loc>
@@ -406,7 +406,7 @@
   </url>
   <url>
     <loc>https://www.openscapes.org/index.html</loc>
-    <lastmod>2024-08-01T16:26:53.141Z</lastmod>
+    <lastmod>2024-08-02T20:48:33.963Z</lastmod>
   </url>
   <url>
     <loc>https://www.openscapes.org/reflections-program.html</loc>
@@ -835,5 +835,9 @@
   <url>
     <loc>https://www.openscapes.org/stories.html</loc>
     <lastmod>2024-08-01T16:29:08.064Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.openscapes.org/blog/2024-08-05-pathways-report/index.html</loc>
+    <lastmod>2024-08-02T21:46:14.035Z</lastmod>
   </url>
 </urlset>

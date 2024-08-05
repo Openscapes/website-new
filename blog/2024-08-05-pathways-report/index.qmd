@@ -4,8 +4,8 @@ description: "Report on Pathways to Open Science, 2024"
 author: 
   - name: "Ileana Fenwick, Alexandra Davis, Aneese Williams, Antoinette Foster, Daniela Saderi, Stefanie Butland, Julia Lowndes"
 date: 2024-08-05
-citation: 
-  url: https://openscapes.org/blog/2024-08-05-pathways-report/
+# citation: 
+#   url: https://openscapes.org/blog/2024-08-05-pathways-report/
 categories: [blog, pathways]
 image: pathways-zoomie.png
 ---

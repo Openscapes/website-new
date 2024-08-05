@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.554">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -50,7 +50,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -59,6 +65,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -98,15 +105,42 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
     <img src="./images/logo/openscapes_hex_badge.png" alt="A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment." class="navbar-logo">
     </a>
@@ -118,114 +152,114 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
- <span class="menu-text">HOME</span></a>
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">HOME</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./approach.html" rel="" target="">
- <span class="menu-text">APPROACH</span></a>
+    <a class="nav-link" href="./approach.html"> 
+<span class="menu-text">APPROACH</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">ABOUT</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
         <li>
-    <a class="dropdown-item" href="./about.html" rel="" target="">
+    <a class="dropdown-item" href="./about.html">
  <span class="dropdown-text">ABOUT US</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./team.html" rel="" target="">
+    <a class="dropdown-item" href="./team.html">
  <span class="dropdown-text">OUR TEAM</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./resources.html" rel="" target="">
+    <a class="dropdown-item" href="./resources.html">
  <span class="dropdown-text">OPEN RESOURCES</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./media.html" rel="" target="">
+    <a class="dropdown-item" href="./media.html">
  <span class="dropdown-text">MEDIA</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./code-of-conduct.html" rel="" target="">
+    <a class="dropdown-item" href="./code-of-conduct.html">
  <span class="dropdown-text">CODE OF CONDUCT</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-initiatives" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">INITIATIVES</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-initiatives">    
         <li>
-    <a class="dropdown-item" href="./initiatives.html" rel="" target="">
+    <a class="dropdown-item" href="./initiatives.html">
  <span class="dropdown-text">ALL INITIATIVES</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./initiatives.html#champions-program" rel="" target="">
+    <a class="dropdown-item" href="./initiatives.html#champions-program">
  <span class="dropdown-text">CHAMPIONS PROGRAM</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./initiatives.html#nasa-openscapes" rel="" target="">
+    <a class="dropdown-item" href="./initiatives.html#nasa-openscapes">
  <span class="dropdown-text">NASA OPENSCAPES</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./initiatives.html#mentors-framework" rel="" target="">
+    <a class="dropdown-item" href="./initiatives.html#mentors-framework">
  <span class="dropdown-text">MENTORS FRAMEWORK</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./initiatives.html#pathways-to-open-science-program" rel="" target="">
+    <a class="dropdown-item" href="./initiatives.html#pathways-to-open-science-program">
  <span class="dropdown-text">PATHWAYS TO OPEN SCIENCE PROGRAM</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./initiatives.html#reflections-program" rel="" target="">
+    <a class="dropdown-item" href="./initiatives.html#reflections-program">
  <span class="dropdown-text">REFLECTIONS PROGRAM</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./blog.html" rel="" target="">
- <span class="menu-text">BLOG</span></a>
+    <a class="nav-link" href="./blog.html"> 
+<span class="menu-text">BLOG</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-connect" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-connect" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">CONNECT</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-connect">    
         <li>
-    <a class="dropdown-item" href="./connect.html" rel="" target="">
+    <a class="dropdown-item" href="./connect.html">
  <span class="dropdown-text">CONNECT WITH US</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./events.html" rel="" target="">
+    <a class="dropdown-item" href="./events.html">
  <span class="dropdown-text">EVENTS</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/openscapes" rel="" target=""><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/openscapes"> <i class="bi bi-github" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://fosstodon.org/@openscapes" rel="" target=""><i class="bi bi-mastodon" role="img">
+    <a class="nav-link" href="https://fosstodon.org/@openscapes"> <i class="bi bi-mastodon" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="mailto:hello@openscapes.org" rel="" target=""><i class="bi bi-envelope" role="img">
+    <a class="nav-link" href="mailto:hello@openscapes.org"> <i class="bi bi-envelope" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./blog.xml" rel="" target=""><i class="bi bi-rss" role="img">
+    <a class="nav-link" href="./blog.xml"> <i class="bi bi-rss" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -236,6 +270,7 @@ ul.task-list li input[type="checkbox"] {
     
 <!-- main -->
 <main class="content page-columns page-full column-body" id="quarto-document-content">
+
 
 
 
@@ -416,7 +451,34 @@ ul.task-list li input[type="checkbox"] {
 <p><br></p>
 <div id="listing-recent-blog-listing" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="blog,nasa-framework,champions" data-listing-date-sort="1721804400000" data-listing-file-modified-sort="1722453692730" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="21">
+<div class="g-col-1" data-index="0" data-categories="blog,pathways" data-listing-date-sort="1722841200000" data-listing-file-modified-sort="1722635174035" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2307">
+<a href="./blog/2024-08-05-pathways-report/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blog/2024-08-05-pathways-report/pathways-zoomie.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Community building for a better tomorrow
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
+blog
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('pathways'); return false;">
+pathways
+</div>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Aug 5, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="blog,nasa-framework,champions" data-listing-date-sort="1721804400000" data-listing-file-modified-sort="1721853230248" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="21" data-listing-word-count-sort="4197">
 <a href="./blog/2024-07-24-2024-nasa-champions-cohort/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -446,7 +508,7 @@ Jul 24, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="blog,nasa-framework,champions" data-listing-date-sort="1721631600000" data-listing-file-modified-sort="1722453692720" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
+<div class="g-col-1" data-index="2" data-categories="blog,nasa-framework,champions" data-listing-date-sort="1721631600000" data-listing-file-modified-sort="1721370139430" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1003">
 <a href="./blog/2024-07-22-aronne-merrelli-fledging-parallelized-science-in-the-cloud/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -476,11 +538,11 @@ Jul 22, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="blog,how-we-work" data-listing-date-sort="1721286000000" data-listing-file-modified-sort="1722453692716" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14">
+<div class="g-col-1" data-index="3" data-categories="blog,how-we-work" data-listing-date-sort="1721286000000" data-listing-file-modified-sort="1721364403646" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14" data-listing-word-count-sort="2772">
 <a href="./blog/2024-07-18-openscapes-update/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./blog/2024-07-18-openscapes-update/llanwrst-wales-jslowndes.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img data-src="./blog/2024-07-18-openscapes-update/llanwrst-wales-jslowndes.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -503,7 +565,7 @@ Jul 18, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="blog,how-we-work" data-listing-date-sort="1720508400000" data-listing-file-modified-sort="1720646490172" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="4" data-categories="blog,how-we-work" data-listing-date-sort="1720508400000" data-listing-file-modified-sort="1721099518277" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="191">
 <a href="./blog/2024-07-09-2i2c-shared-password/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -530,7 +592,7 @@ Jul 9, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="blog,noaa-fisheries,nasa-framework,water-boards,pathways,how-we-work" data-listing-date-sort="1717657200000" data-listing-file-modified-sort="1720645695710" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="5" data-categories="blog,noaa-fisheries,nasa-framework,water-boards,pathways,how-we-work" data-listing-date-sort="1717657200000" data-listing-file-modified-sort="1717778165341" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="335">
 <a href="./blog/2024-06-06-editorial-published/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -569,7 +631,7 @@ Jun 6, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="blog,nasa-framework" data-listing-date-sort="1712214000000" data-listing-file-modified-sort="1712328230235" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="6" data-categories="blog,nasa-framework" data-listing-date-sort="1712214000000" data-listing-file-modified-sort="1712268995018" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="98">
 <a href="./blog/2024-04-04-nasa-earthdata-aaron-friesz/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -596,7 +658,7 @@ Apr 4, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="6" data-categories="blog,newsletter" data-listing-date-sort="1711522800000" data-listing-file-modified-sort="1711565588481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="g-col-1" data-index="7" data-categories="blog,newsletter" data-listing-date-sort="1711522800000" data-listing-file-modified-sort="1712256041907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="531">
 <a href="./blog/2024-04-27-news-mar-2024/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -623,7 +685,7 @@ Mar 27, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="7" data-categories="blog,nasa-framework" data-listing-date-sort="1710226800000" data-listing-file-modified-sort="1710422224558" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7">
+<div class="g-col-1" data-index="8" data-categories="blog,nasa-framework" data-listing-date-sort="1710226800000" data-listing-file-modified-sort="1710348423571" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1264">
 <a href="./blog/2024-03-12-nasa-earthdata-webinar/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -650,33 +712,6 @@ Mar 12, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="8" data-categories="blog,nasa-framework" data-listing-date-sort="1709539200000" data-listing-file-modified-sort="1709903917503" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
-<a href="./blog/2024-03-04-earthaccess-tech-spotlight/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img data-src="./blog/2024-03-04-earthaccess-tech-spotlight/earthaccess-interface-daacs-open-community.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-earthaccess: Accelerating NASA Earthdata access through open, collaborative development
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
-blog
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('nasa-framework'); return false;">
-nasa-framework
-</div>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Mar 4, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
@@ -692,8 +727,8 @@ No matching items
 <p><br></p>
 <!------------------------------------------------------------------------->
 <!---------------- START open resources section (gray div) ---------------->
-<div class="column-screen">
-<div class="light-gray-div">
+<div class="page-columns page-full">
+<div class="light-gray-div page-columns page-full">
 <section id="open-resources" class="level1 blue-underline center-text">
 <h1><strong>OPEN RESOURCES</strong></h1>
 </section>
@@ -702,11 +737,11 @@ No matching items
 <p>We share our curricula, approach, and many other <a href="./resources.html">open resources</a> for reuse.</p>
 <p>Learn more about our <a href="./initiatives.html">initiatives</a> through our <a href="./media.html">media</a>, and <a href="./events.html">events</a> and <a href="./connect.html">connect</a> with us. <br></p>
 </div>
-<div class="cell" data-layout-align="center">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/minis/horst_openscapes_grassland_oak.png" class="img-fluid figure-img" style="width:10.0%" alt="A green tree with a tall and wide canopy. Only a small amount of the brown trunk is visible."></p>
+<div class="cell page-columns page-full" data-layout-align="center">
+<div class="cell-output-display page-columns page-full">
+<div class="quarto-figure quarto-figure-center page-columns page-full">
+<figure class="figure page-columns page-full">
+<p class="page-columns page-full"><img src="images/minis/horst_openscapes_grassland_oak.png" class="img-fluid quarto-figure quarto-figure-center figure-img column-screen" style="width:10.0%" alt="A green tree with a tall and wide canopy. Only a small amount of the brown trunk is visible."></p>
 </figure>
 </div>
 </div>
@@ -823,10 +858,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/www\.openscapes\.org");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -836,8 +888,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -849,7 +910,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -893,6 +1077,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -918,6 +1103,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -980,13 +1191,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">Openscapes is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attributions 4.0 International License</a></div>   
+    <div class="nav-footer-left">
+<p>Openscapes is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attributions 4.0 International License</a></p>
+</div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
-    <div class="nav-footer-right">This website is built with <i class="fa-solid fa-heart" title="a heart" aria-label="heart"></i> and <a href="https://quarto.org/">Quarto</a></div>
+    <div class="nav-footer-right">
+<p>This website is built with <i class="fa-solid fa-heart" title="a heart" aria-label="heart"></i> and <a href="https://quarto.org/">Quarto</a></p>
+</div>
   </div>
 </footer>
+
 
 
 

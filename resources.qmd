@@ -49,8 +49,8 @@ aliases:
 [{{< fa people-carry-box title="Two people carry a box together" >}}]{.large-body-text} 
 ---
 
-[**Openscapes Champions Lesson Series**](https://openscapes.github.io/series). 
-[**Tidy Data Illustrated Series**](https://openscapes.org/blog/2020-10-12-tidy-data/index.html)
+[**Openscapes Champions Lesson Series**](https://openscapes.github.io/series)  
+[**Tidy Data Illustrated Series**](https://openscapes.org/blog/2020-10-12-tidy-data/index.html)  
 [**GitHub Illustrated Series**](https://openscapes.org/blog/2022-05-27-github-illustrated-series/index.html)
 
 

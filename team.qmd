@@ -16,7 +16,7 @@ aliases:
 ::: {.medium-body-text .center-text}
 **Meet the many people behind Openscapes!**
 
-Openscapes is an source community with distributed leadership & collaboration, <br>supported in part by an intentionally small core team.
+Openscapes is an open source community with distributed leadership & collaboration, <br>supported in part by an intentionally small core team.
 :::
 
 <br>

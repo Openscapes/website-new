@@ -38,7 +38,8 @@ aliases:
 
 ---
 
-[**NASA Earthdata Cloud Cookbook**](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/) 
+[**NASA Earthdata Cloud Cookbook**](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/)  
+[**`earthaccess` Python library**](https://earthaccess.readthedocs.io/en/latest/)
 :::
 <!---------------- END NASA ---------------->
 

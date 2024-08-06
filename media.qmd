@@ -72,6 +72,10 @@ aliases:
 
 *See [NASA-Openscapes](https://nasa-openscapes.github.io/) and [NMFS-Openscapes](https://nmfs-openscapes.github.io/) for many additional presentations from NASA and NOAA Fisheries Mentors!*
 
+- [How Openscapes supports teams in open science: 
+stories of how we work
+](https://docs.google.com/presentation/d/1oc_VKU8lAC1CCt8gUHPme9WJI-P6VDWewPL7kgaiews/edit?usp=sharing) - Julie Lowndes. August 7, 2024. US National Institutes of Health (NIH) Biomedical Informatics Coordinating Committee (BMIC)
+
 -   [Openscapes Champions Program and stories of how we work](https://docs.google.com/presentation/d/1RniOnk4BgkOU0Ynm9EeeEO620h0ZEV-z41_EuhCfLys/edit#slide=id.g26d6096c9c0_0_112) - Julie Lowndes. April 5, 2024. Tribal Coding Group
 
 -   [Openscapes: Open science as movement building for kinder science for future us](https://docs.google.com/presentation/d/1hiSL6lN8Kx616P_e3ljGS0KJxMCxpjlczQddL6ZhxIE/edit?usp=sharing) - Julie Lowndes. March 22, 2024, [Year of Open Science Culminating Conference](https://www.cos.io/yos-conference) (10 min)

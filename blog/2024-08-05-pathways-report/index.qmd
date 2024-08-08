@@ -10,6 +10,10 @@ categories: [blog, pathways]
 image: pathways-zoomie.png
 ---
 
+*This is cross-posted on the [PREreview blog](https://content.prereview.org/community-building-for-a-better-tomorrow/).*
+
+------------------------------------------------------------------------
+
 ::: blockquote-blue
 > *“Community matters, and it’s spaces and folks like this that truly help.”* ---2024 Pathways to Open Science participant
 :::

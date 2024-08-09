@@ -9,7 +9,8 @@ citation:
 categories: [blog, pathways]
 image: Antoinette-Foster-AVDS-Elevate-Award.jpg
 ---
-![](Antoinette-Foster-AVDS-Elevate-Award.jpg){fig-align="left"}
+
+![](Antoinette-Foster-AVDS-Elevate-Award.jpg){fig-alt="headshot photo of a Black woman smiling, wearing glasses, gold hoop earrings, a yellow dress with black flowers and leaves. She is standing in front of a green leafy bush" fig-align="left"}
 
 *This piece is written by Dr. Antoinette Foster, who works to directly impact personal and interpersonal racism by empowering community members to become leaders of change. Her career aspiration is to radically shift scientific research culture towards establishing and practicing inclusive values and actions required to drive racial equity overall. All thoughts shared by her are her own and not a reflection of the position of her employer.*
 

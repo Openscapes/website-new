@@ -9,6 +9,7 @@ citation:
 categories: [blog, pathways]
 image: Antoinette-Foster-AVDS-Elevate-Award.jpg
 bibliography: references.bib
+csl: nature.csl
 ---
 
 ::: grid
@@ -64,5 +65,3 @@ This concept tells us that we cannot wait for others to finally hear our pleas f
 The lessons I’ve shared can be applied to any change work. A student in the environmental sciences might ask how different systems of oppression show up and intersect in the community they are about to conduct research in. They might value the relationships they build within this community and value the solutions the local community has to their own problems. They might need to find creative ways to teach others truths that they know or build ways to make these truths irresistible for others to learn. A community member may walk through a similar thought process as they search for solutions to problems within their city, or we might apply these concepts to larger global issues. These lessons might ask you to re-prioritize what is important to you, shifting deeper towards understanding, connection, relationship building, and liberation. Regardless of where we apply them, these lessons guide us as we attempt to shape change and shape our world.
 
 As we move forward in unpredictable times, our community and relationship-based skill set will become increasingly essential. We must remember that while we aim to dismantle oppressive systems, we must also be creating what we want to see, balancing destruction with creation. A question I ask myself and I encourage you to ask yourself frequently is, “What am I doing to get into community? What do the people around me need (even within your own city) and how can we, the people, provide that?”. We are attuned to our needs and the needs of those around us, and together, we can build a future that is irresistible.
-
-## Citations

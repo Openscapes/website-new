@@ -10,10 +10,8 @@ categories:
 image: positconf2024.jpg
 ---
 
-Stefanie Butland, Openscapes team member, is speaking at [posit::conf](https://posit.co/conference/) in Seattle September 13th.
+Stefanie Butland, Openscapes team member, gave a lightning talk at [posit::conf](https://posit.co/conference/) in Seattle August 13th, 2024 ([slides](Using the Kyber R package to connect Google Sheets, RMarkdown, GitHub, and Agenda docs for open education)).
 
 **Abstract**: As we work in open data science spaces, we frequently peer-teach coding and collaboration skills. The setup work is often grossly underestimated and unseen. I’ll share how Openscapes automates setup with the Kyber R package that uses googlesheets4 and creates RMarkdown documents that become collaborative Google Doc agendas, and sets up repositories and organizes people on GitHub. Kyber replaces manual steps with R functions while maintaining the ability to edit outputs so we’re not constrained by the automation. It has enabled us to teach workshops repeatedly in less time – in 2022 we led 4 concurrent learning cohorts with 160 government scientists! Kyber is openly available to fork, reuse, and extend, and other groups are doing just that.
 
 Stef and Julie are attending in person. Let us know if you'll be there! Email stefanie at openscapes.org.
-
-[Registration](https://posit.co/conf-pricing/) is still open, including for virtual attendance.

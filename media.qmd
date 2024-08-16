@@ -72,6 +72,8 @@ aliases:
 
 *See [NASA-Openscapes](https://nasa-openscapes.github.io/) and [NMFS-Openscapes](https://nmfs-openscapes.github.io/) for many additional presentations from NASA and NOAA Fisheries Mentors!*
 
+-   [Using the Kyber R package to connect Google Sheets, RMarkdown, GitHub, and Agenda docs for open education](https://docs.google.com/presentation/d/1p_EXdYEVGY07VVMGdcvvwjjbwFihHsC_5oXRPW_8tVU/edit#slide=id.g2ed253619ff_0_135) - Stefanie Butland. August 13, 2024. [posit::conf](https://posit.co/conference/)
+
 -   [Openscapes Champions Program and stories of how we work](https://docs.google.com/presentation/d/1RniOnk4BgkOU0Ynm9EeeEO620h0ZEV-z41_EuhCfLys/edit#slide=id.g26d6096c9c0_0_112) - Julie Lowndes. April 5, 2024. Tribal Coding Group
 
 -   [Openscapes: Open science as movement building for kinder science for future us](https://docs.google.com/presentation/d/1hiSL6lN8Kx616P_e3ljGS0KJxMCxpjlczQddL6ZhxIE/edit?usp=sharing) - Julie Lowndes. March 22, 2024, [Year of Open Science Culminating Conference](https://www.cos.io/yos-conference) (10 min)

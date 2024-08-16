@@ -14,7 +14,7 @@ aliases:
   - https://www.openscapes.org/blog/2023/02/16/2022-noaa-afsc-fall/
 ---
 
-*In Fall 2022, Openscapes ran four concurrent Champions Cohorts that included participants from all NOAA Fisheries Science Centers, described in [Nationwide Openscapes Training At NOAA Fisheries Science Centers: Facilitating Collaboration, Skill-Sharing, and Open Science](https://www.openscapes.org/blog/2023/01/24/2022-noaa-nmfs-fall/). This post is the executive summary shared with Alaska Fisheries Science Center (AFSC) leadership of the work and experiences of AFSC research staff participants.*
+*In Fall 2022, Openscapes ran four concurrent Champions Cohorts that included participants from all NOAA Fisheries Science Centers, described in [Nationwide Openscapes Training At NOAA Fisheries Science Centers: Facilitating Collaboration, Skill-Sharing, and Open Science](https://openscapes.org/blog/2023-01-24-noaa-nmfs-fall/). This post is the executive summary shared with Alaska Fisheries Science Center (AFSC) leadership of the work and experiences of AFSC research staff participants.*
 
 ***Update February 21, 2023***
 

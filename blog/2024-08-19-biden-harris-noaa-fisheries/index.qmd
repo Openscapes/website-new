@@ -1,0 +1,36 @@
+---
+title: "Biden-Harris Administration announces support for NOAA Fisheries’ data, infrastructure, and workforce modernization in part via Openscapes"
+author: 
+  - name: "Openscapes Team"
+date: 2024-08-19
+citation: 
+  url: https://openscapes.org/blog/2024-08-19-biden-harris-noaa-fisheries
+categories: [blog, noaa-fisheries]
+image: logo-transparent-crop.png
+---
+
+::: {style="font-size: 75%;"}
+*Cross-posted at [openscapes.org/blog](https://openscapes.org/blog) and [nmfs-openscapes.github.io](https://nmfs-openscapes.github.io).*
+:::
+
+Congratulations to NOAA Fisheries as the [Biden-Harris Administration announces \$34 million to modernize NOAA Fisheries’ data, infrastructure and workforce](https://www.fisheries.noaa.gov/science-data/open-science-noaa-fisheries)! This is a historic moment focused on resilient ecosystems and communities and Open Science. We are so honored that Openscapes is a part of this effort, which will help modernize the way NOAA Fisheries collaborates on data-intensive science while boosting the efficiency and quality of their scientific products.
+
+For the last 3 years we have been developing the [NASA Openscapes community](https://nasa-openscapes.github.io), working with staff across twelve NASA Earthdata centers to support researchers as they migrate earth data and climate data workflows to the Cloud with Open Science. We are excited to bring our expertise to NOAA Fisheries to help maximize their ability to rapidly respond to changing ocean conditions through Cloud and Open Science solutions. 
+
+The Openscapes community is deeply motivated to address our climate emergency, and our core team has roots as environmental scientists and 30 years of combined experience in helping federal and academic organizations reskill workforces by embracing Open Science and Open Data culture and technologies. We are also an active part of the broader Open Science community, learning with and contributing to communities including the Pangeo and Earth Science Information Partners \[ESIP\] communities (big data Geoscience), Jupyter, 2i2c, Quarto (Open Infrastructure for big data), rOpenSci and pyOpenSci (Open Source R and Python communities). Increasing inclusion, equity, and diversity in data science drives us, and we are active partners with communities like RLadies, Black Women in Ecology, Evolution and Marine Science (BWEEMS), Black in Marine Science (BIMS), as well as leading organizations for open science training (The Carpentries, University of Washington eScience Institute, Turing Way, Code for Science & Society, NASA Transform to Open Science Initiative, SGCI/SGX3) open leadership and communication (Metadata Game Changers, Liminal, Tara Robertson consulting), and open source software (Mozilla, Posit, Creative Commons). We are excited to continue this work together, and grow the Open Science movement!
+
+Learn more about our work and activities through our [media page](https://openscapes.org/media) and [blog](https://openscapes.org/blog).  
+
+<!---
+-   [NOAA Fisheries Open Science](https://nmfs-opensci.github.io/)  and [Resource Book](https://nmfs-opensci.github.io/ResourceBook/)
+
+-   [NOAA Fisheries Data Vision Open Data and Open Science](https://www.youtube.com/watch?v=ZA6jwLyuIRU) in a session in the Earth Science Information Partners (ESIP) 2023 Summer Meeting and 
+
+-   [A Year of Open Science Community Building at NOAA Fisheries](https://www.youtube.com/watch?v=n1VaV8f6qQE&list=PLChfyH8TVDGnB_zDCm8d9oonMomfk8v9X&index=13) the 2024 Year of Open Science Culminating Conference. 
+
+-   [Shifting institutional culture to develop climate solutions with Open Science](https://openscapes.org/blog/2024-06-06-editorial-published/) - An Open Access peer-reviewed publication written collaboratively by mentors across the Openscapes community
+
+-   [NOAA Fisheries invests in Open Science Mentorship](https://openscapes.org/blog/2024-01-24-nmfs-mentors/)
+
+-   [Strengthening scientific workflow and team collaboration at NOAA Fisheries](https://openscapes.org/blog/2021-11-12-noaa-nmfs-champions/)
+--->

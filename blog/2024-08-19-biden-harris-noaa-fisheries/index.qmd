@@ -9,6 +9,10 @@ categories: [blog, noaa-fisheries]
 image: logo-transparent-crop.png
 ---
 
+::: {style="font-size: 75%;"}
+*Cross-posted at [openscapes.org/blog](https://openscapes.org/blog) and [nmfs-openscapes.github.io](https://nmfs-openscapes.github.io).*
+:::
+
 Congratulations to NOAA Fisheries as the [Biden-Harris Administration announces \$34 million to modernize NOAA Fisheries’ data, infrastructure and workforce](https://www.fisheries.noaa.gov/science-data/open-science-noaa-fisheries)! This is a historic moment focused on resilient ecosystems and communities and Open Science. We are so honored that Openscapes is a part of this effort, which will help modernize the way NOAA Fisheries collaborates on data-intensive science while boosting the efficiency and quality of their scientific products.
 
 For the last 3 years we have been developing the [NASA Openscapes community](https://nasa-openscapes.github.io), working with staff across twelve NASA Earthdata centers to support researchers as they migrate earth data and climate data workflows to the Cloud with Open Science. We are excited to bring our expertise to NOAA Fisheries to help maximize their ability to rapidly respond to changing ocean conditions through Cloud and Open Science solutions. 

@@ -50,7 +50,9 @@ aliases:
 [{{< fa people-carry-box title="Two people carry a box together" >}}]{.large-body-text} 
 ---
 
-[**Openscapes Champions Lesson Series**](https://openscapes.github.io/series)
+[**Openscapes Champions Lesson Series**](https://openscapes.github.io/series)  
+[**Tidy Data Illustrated Series**](https://openscapes.org/blog/2020-10-12-tidy-data/)  
+[**GitHub Illustrated Series**](https://openscapes.org/blog/2022-05-27-github-illustrated-series/index.html)  
 :::
 <!---------------- END Champions Program ---------------->
 
@@ -88,7 +90,8 @@ aliases:
 ---
 
 [**R for Excel Users**](https://rstudio-conf-2020.github.io/r-for-excel)  
-[**Making sharable documents with Quarto**](https://openscapes.github.io/quarto-website-tutorial/)
+[**Making sharable documents with Quarto**](https://openscapes.github.io/quarto-website-tutorial/)  
+[**Documenting things: openly for future us**](https://openscapes.github.io/documenting-things)
 :::
 <!---------------- END RR & Collab ---------------->
 

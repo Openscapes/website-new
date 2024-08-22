@@ -72,6 +72,8 @@ aliases:
 
 *See [NASA-Openscapes](https://nasa-openscapes.github.io/) and [NMFS-Openscapes](https://nmfs-openscapes.github.io/) for many additional presentations from NASA and NOAA Fisheries Mentors!*
 
+- [Openscapes: Kinder science for future us](https://docs.google.com/presentation/d/1yOTdJcvWdVWSLIE72L4cCN2b22y-6ZDlOouqP1i_bSI/edit#slide=id.g2c1dee5ed55_3_272) - Julie Lowndes, Devan Burke, Anna Holder. August 22, 2024. California Department of Water Resources (DWR).
+
 -   [Using the Kyber R package to connect Google Sheets, RMarkdown, GitHub, and Agenda docs for open education](https://docs.google.com/presentation/d/1p_EXdYEVGY07VVMGdcvvwjjbwFihHsC_5oXRPW_8tVU/edit#slide=id.g2ed253619ff_0_135) - Stefanie Butland. August 13, 2024. [posit::conf](https://posit.co/conference/)
 
 -   [Openscapes Champions Program and stories of how we work](https://docs.google.com/presentation/d/1RniOnk4BgkOU0Ynm9EeeEO620h0ZEV-z41_EuhCfLys/edit#slide=id.g26d6096c9c0_0_112) - Julie Lowndes. April 5, 2024. Tribal Coding Group

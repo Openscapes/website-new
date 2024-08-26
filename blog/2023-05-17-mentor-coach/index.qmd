@@ -10,6 +10,8 @@ categories:
   # - impact
   - noaa-fisheries
   - nasa-framework
+  - pathways
+  - water-boards
 image: mrlowndes-bee-square.jpg
 aliases: 
   - https://www.openscapes.org/blog/2023/05/17/mentor-coach/

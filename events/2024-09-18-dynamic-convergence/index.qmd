@@ -9,9 +9,12 @@ categories:
 image: ORCA-v2-transparent.png 
 ---
 
-Julia Lowndes, Openscapes founding director, is an invited panel speaker at the Open Science "Dynamic Convergence" Workshop taking place September 18 -19, 2024 at the Darcy Hotel in Washington, DC. The event is hosted by the Open Research Community Accelerator (ORCA), in collaboration with CERN and UNESCO, with the participation of NASA and the National Science Foundation (NSF).
+The Open Science "Dynamic Convergence" Workshop taking place September 18 -19, 2024 at the Darcy Hotel in Washington, DC. The event is hosted by the Open Research Community Accelerator (ORCA), in collaboration with CERN and UNESCO, with the participation of NASA and the National Science Foundation (NSF).
 
 The workshop will bring together researchers, students, policymakers, funders, and other stakeholders to highlight impactful open science activities, explore collaboration opportunities, and find practical ways to speed up the global adoption of open science. More information about the program and logistics will be shared shortly.
+
+Openscapes core team members Julia Lowndes and Ileana Fenwick are attending this event. Julia is Openscapes founding director and Ileana leads the Pathways to Open Science program. Julia is an invited panel speaker. 
+
 
 ## Apply to participate
 

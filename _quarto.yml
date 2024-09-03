@@ -36,6 +36,8 @@ website:
             href: initiatives.qmd#champions-program
           - text: "NASA OPENSCAPES"
             href: initiatives.qmd#nasa-openscapes
+          - text: "NOAA FISHERIES OPENSCAPES"
+            href: initiatives.qmd#nmfs-openscapes            
           - text: "MENTORS FRAMEWORK"  
             href: initiatives.qmd#mentors-framework
           - text: "PATHWAYS TO OPEN SCIENCE PROGRAM"

@@ -44,7 +44,7 @@ This is our flagship program, and from 2019-2024 we have led 20 cohorts. We work
 ::: {.center-text}
 The [**Openscapes Champions Lesson Series**](https://openscapes.github.io/series) is our open source curriculum we use to teach Champions Cohorts, and you can use it too.
 
-Learn more on the [**Champions Program webpage**](champions-program.qmd), and read about the experiences of our past and current Champions cohorts on our [**blog**](blog.qmd#category=champions).
+The Lessons Series also has details about the overall program, and what to expect. Read about the experiences of our past and current Champions cohorts on our [**blog**](blog.qmd#category=champions)!<!--- and via slides from past talks on our [media](http://localhost:7168/media.html#presentations) page--->
 :::
 :::
 
@@ -62,7 +62,7 @@ knitr::include_graphics("images/minis/horst_openscapes_desert_snake.png")
 
 **NASA Openscapes is a multi-year effort to develop a mentor community across NASA Earth science data centers to support researchers as they migrate analytical workflows to the Cloud**. We approach this work as movement building, using the concept where transformations occur from relentlessly pushing a giant, heavy flywheel that builds momentum over time.
 
-We began in 2021, and currently working with Mentors from 11 of the 12 NASA Earth science data centers.
+We began in 2021, co-led by Erin Robinson of Metadata Game Changers. We are currently working with Mentors from 11 of the 12 NASA Earth science data centers.
 
 ::: {.yellow-box}
 ::: {.medium-body-text .center-text}
@@ -86,6 +86,33 @@ Learn more on the [**NASA Openscapes website**](https://nasa-openscapes.github.i
 knitr::include_graphics("images/logo/nasa-openscapes.png")
 ```
 
+## NMFS OPENSCAPES
+
+**NMFS Openscapes is a 3-year effort to develop a mentor community across NOAA Fisheries science centers and offices to support NOAA Fisheries’ data, infrastructure, and workforce modernization as part of the Biden-Harris Administration's Inflation Reduction Act**. We approach this work as movement building, using the concept where transformations occur from relentlessly pushing a giant, heavy flywheel that builds momentum over time.
+
+This work is co-led by Eli Holmes, Open Science Lead at NOAA Fisheries, also known as the National Marine Fisheries Service (NMFS).
+
+::: {.yellow-box}
+::: {.medium-body-text .center-text}
+{{< fa book-open title="An open book" >}} NOAA Fisheries Openscapes Resources 
+:::
+::: {.center-text}
+
+The [**NMFS OpenSci Resource Book**](https://nmfs-opensci.github.io/ResourceBook/) is a compilation of resources and experience to support open Science communities in NOAA Fisheries, and it is an open source curriculum you can use too!
+
+Learn more on the [**NMFS Openscapes website**](nmfs-openscapes.github.io/), and read about the experiences of our past and current NMFS Openscapes work on our [**blog**](blog.qmd#category=noaa-fisheries).
+:::
+:::
+
+<br>
+
+```{r}
+#| echo: false
+#| fig-align: "center"
+#| out-width: "18%"
+#| fig-alt: "The NOAA Fisheries blue logo next to the Openscapes logo."
+knitr::include_graphics("images/logo/nmfs-openscapes.png")
+```
 
 ## MENTORS FRAMEWORK
 

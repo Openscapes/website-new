@@ -30,7 +30,7 @@ image: tooling-people-policy.png
 
 -   [*ESIP meeting July 2024*](https://2024julyesipmeeting.sched.com/event/1eVNz/mt-pisgah-supporting-nasa-earthdata-users-in-the-cloud-nasa-openscapes-onboarding-and-fledging)
 -   [*Our slides*](https://docs.google.com/presentation/d/1-TiPN8bfY6iDL5EVcEuCQSjqFMs3jPSX2MlNWA6no2E/edit#slide=id.g2eae202a90f_4_248)
--   *Josh Blumenfelds’ NASA Earthdata blog [ to be linked when available ]*
+-   *Josh Blumenfelds’ NASA Earthdata blog \[ to be linked when available \]*
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,6 @@ The theme of the [2024 ESIP Summer meeting](https://2024julyesipmeeting.sched.co
 First, Alexis Hunzinger (GES DISC) shared Aronne Merrelli’s story (show-not-tell). Aronne was a participant in the 2023 NASA Openscapes Champions group, and found the Cloud to be a “superpower” - see this [blog post summary and video](https://openscapes.org/blog/2024-07-22-aronne-merrelli-fledging-parallelized-science-in-the-cloud/) of Aronne sharing with the 2024 Champions science teams.
 
 Then, Aaron Friesz (LP DAAC) and Danny Kaufman (ASDC) broke down all the components that helped build that nest. This includes a central focus on researcher/user needs and iterating through teaching; How we work – openly, with synchronous and asynchronous space and place; and all the onboarding support for how they learn and work.
-
 
 ![Figure: Supporting Users’ First Experiences with the Cloud - approaches blending tooling, people, and policy.](supporting-first-cloud-experience.png){width="85%" fig-alt="Supporting Users' First Experiences with the Cloud text heading above screenshots of a zoomie, workshop classroom, NASA Earthdata Cloud Cookbook, 2i2c JupyterHub notebook, earthaccess python code example with hexagonal logo"}
 
@@ -50,7 +49,6 @@ And then Julie Lowndes (Openscapes) and Eli Holmes (NOAA Fisheries) shared about
 ## Breakout groups - participant feedback
 
 Participants in the room self-identified as Cloud enablers/facilitators (60%), as well as Cloud users (35%) and neither (27%).
-
 
 ![](poll-cloud-enablers-users.png){width="85%" fig-alt="screenshot of results of a slido poll with 60 votes. Question: Are you a cloud user, a cloud enabler/facilitator, or neither? Horizontal green bars show Cloud enabler with most votes at 36, Cloud user at 21, Neither at 16"}
 
@@ -77,8 +75,6 @@ Common ones:
 -   It’s a challenge to spend time and energy optimizing legacy code and data formats for the cloud - it’s tempting to just “lift and shift”.
 
 -   Organizational silos and management priorities are a barrier to experimenting with cloud capabilities.
-
-## Heading
 
 The following screenshots illustrate participants responses to several questions. We include them here for readers to consider where their own communities land.\
 

@@ -19,7 +19,7 @@ image: white-house.png
 <!--- **View** [event summary and video](/blog/2024-02-28-github-community-call)
 --->
 
-## Openscapes is being recognized at the "Celebration of the OSTP Year of Open Science Recognition Challenge Winners" at The White House!
+### Openscapes is being recognized at the "Celebration of the OSTP Year of Open Science Recognition Challenge Winners" at The White House!
 
 Julia Lowndes and Ileana Fenwick will be representing the Openscapes Team and our community at two events in Washington DC September 18 -19, 2024. Ileana & Julie will be attending and Julie is an invited panelist at the [Open Science Dynamic Convergence Workshop](https://openscapes.org/events/2024-09-18-dynamic-convergence/) and they are attending the Celebration of the OSTP Year of Open Science Recognition Challenge Winners at The White House!
 

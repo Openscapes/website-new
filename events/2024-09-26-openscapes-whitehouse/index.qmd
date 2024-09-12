@@ -18,18 +18,19 @@ image: white-house.png
 ::: g-col-3
 ![](white-house.png){fig-alt="white graphic on a blue background of The White House. Text below in white says The White House, Washington." fig-align="left" width="100%"}
 :::
+
 ::: g-col-9
 **Openscapes is being recognized at the "Celebration of the OSTP Year of Open Science Recognition Challenge Winners" at The White House! We want to share the joy with our community.**
 :::
 :::
 
-**Community Call Date**: Thursday, September 26, 2024   
+**Community Call Date**: Thursday, September 26, 2024\
 **Time**: 1:00 - 2:00 pm PT ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Community+Call%3A+Openscapes+Goes+to+the+White+House&iso=20240926T13&p1=1050&ah=1)) <!--- **Where**: Zoom 
---->   
+--->\
 **Register (free)** via [Zoom](https://zoom.us/meeting/register/tJwvce2grzwsHtY5fAG5DWmp2m3wOw0T9_6q) to get the meeting link <!--- **View** [event summary and video](/blog/2024-02-28-github-community-call)
---->  
+--->
 
-Julia Lowndes and Ileana Fenwick will be representing the Openscapes Team and our community at two events in Washington DC September 18 -19, 2024. Ileana & Julie will be attending and Julie is an invited panelist at the [Open Science Dynamic Convergence Workshop](https://openscapes.org/events/2024-09-18-dynamic-convergence/) and they are attending the Celebration of the OSTP Year of Open Science Recognition Challenge Winners at The White House!
+[Julia Lowndes and Ileana Fenwick](https://openscapes.org/team) will be representing the Openscapes Team and our community at two events in Washington DC September 18 -19, 2024. Ileana & Julie will be attending and Julie is an invited panelist at the [Open Science Dynamic Convergence Workshop](https://openscapes.org/events/2024-09-18-dynamic-convergence/) and they are attending the Celebration of the OSTP Year of Open Science Recognition Challenge Winners at The White House!
 
 This is a BIG DEAL. We're so excited that Openscapes is being recognized and to share this moment.
 

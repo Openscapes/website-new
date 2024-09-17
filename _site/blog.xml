@@ -23,6 +23,7 @@
 
 
 <p><em>Welcome to Openscapes’ tenth newsletter! If you’re interested in seeing these infrequent updates in your inbox, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSd25jpfiAn1gYNwUPcfMVudsL625_pYbKsqxXpRazHCL6QA7g/viewform">sign up here</a> (linked from our <a href="https://openscapes.org/connect">connect with us</a> page). And! If you have signed up but did not see this in your inbox, please check your spam folder!</em></p>
+<p><em>Cross-posted at <a href="https://openscapes.org/blog">openscapes.org/blog</a>, <a href="https://nmfs-openscapes.github.io/blog">nmfs-openscapes.github.io/blog</a>, <a href="https://nasa-openscapes.github.io/news.html">nasa-openscapes.github.io/news</a>, <a href="https://openscapes.github.io/pathways-to-open-science/blog.html">openscapes.github.io/pathways-to-open-science/blog</a></em></p>
 <hr>
 <p>Hello all,</p>
 <p>We are feeling rejuvenated momentum and hope going into Fall 2024, and we hope this newsletter finds you well. We have had some recent big inflection points.</p>
@@ -92,6 +93,10 @@ Lowndes, Julie, and Stefanie Butland. 2024. <span>“Openscapes Newsletter
 </div></div></section></div> ]]></description>
   <category>blog</category>
   <category>newsletter</category>
+  <category>nasa-framework</category>
+  <category>noaa-fisheries</category>
+  <category>pathways</category>
+  <category>reflections</category>
   <guid>https://www.openscapes.org/blog/2024-09-17-news-sep-2024/</guid>
   <pubDate>Tue, 17 Sep 2024 07:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-09-17-news-sep-2024/mr-lowndesDSCF1746-square.jpg" medium="image" type="image/jpeg"/>
@@ -112,12 +117,13 @@ Lowndes, Julie, and Stefanie Butland. 2024. <span>“Openscapes Newsletter
 
 
 
+
 <p><em>This is a brief summary of the session we led at the 2024 ESIP summer conference, focused primarily on the breakout group feedback from the session! We define <strong>Onboarding</strong> as a friendly first experience in the Cloud, framed via technical infrastructure, lessons on open science and cloud concepts, and social support. We define <strong>Fledging</strong> as a friendly set up for Cloud that works for me, including a plan, how to do it, how to pay for it. It means leaving the nest, soaring high and perhaps building your own nest.</em></p>
 <p><em>Quicklinks:</em></p>
 <ul>
 <li><a href="https://2024julyesipmeeting.sched.com/event/1eVNz/mt-pisgah-supporting-nasa-earthdata-users-in-the-cloud-nasa-openscapes-onboarding-and-fledging"><em>ESIP meeting July 2024</em></a></li>
 <li><a href="https://docs.google.com/presentation/d/1-TiPN8bfY6iDL5EVcEuCQSjqFMs3jPSX2MlNWA6no2E/edit#slide=id.g2eae202a90f_4_248"><em>Our slides</em></a></li>
-<li><em>Josh Blumenfelds’ NASA Earthdata blog [ to be linked when available ]</em></li>
+<li><a href="https://www.earthdata.nasa.gov/learn/blog/onboarding-fledging-and-beyond-openscapes-journey"><em>Josh Blumenfelds’ NASA Earthdata blog</em></a></li>
 </ul>
 <hr>
 <p>The theme of the <a href="https://2024julyesipmeeting.sched.com">2024 ESIP Summer meeting</a> was “grounded in trust”, with a focus on ethics and establishing relationships. This theme rooted us: we’ve spent the last 3 years introducing people to the cloud for scientific computing, motivated by the fact that NASA is moving Earthdata to the cloud. We focused on helping scientists using NASA Earthdata and what this migration means for them. But only in the past year have we focused on “offboarding”, to complement our onboarding process (focused on where they go after they leave our JupyterHub) – but that term felt harsh, like walking the plank. We wanted a friendlier way to talk about this, so we call it “fledging” since people are spreading their wings after being in the “nest” with their nestmates, learning together in the JupyterHub we provide for workshop participants, in collaboration with our partners at 2i2c.</p>
@@ -126,14 +132,14 @@ Lowndes, Julie, and Stefanie Butland. 2024. <span>“Openscapes Newsletter
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://www.openscapes.org/blog/2024-08-30-esip-summer-2024/supporting-first-cloud-experience.png" class="img-fluid figure-img" style="width:85.0%" alt="Supporting Users' First Experiences with the Cloud text heading above screenshots of a zoomie, workshop classroom, NASA Earthdata Cloud Cookbook, 2i2c JupyterHub notebook, earthaccess python code example with hexagonal logo"></p>
-<figcaption class="figure-caption">Figure: Supporting Users’ First Experiences with the Cloud - approaches blending tooling, people, and policy.</figcaption>
+<figcaption>Figure: Supporting Users’ First Experiences with the Cloud - approaches blending tooling, people, and policy.</figcaption>
 </figure>
 </div>
 <p>And then Julie Lowndes (Openscapes) and Eli Holmes (NOAA Fisheries) shared about fledging experiences so far - what we do and think about. This focused on where people fledge to and cost. Eli Holmes shared how she fledged in a different way, not only as a researcher but also as a facilitator who sets up infrastructure for others within her government agency. She shared how not all the participants leaving the nest are birds. Some are zebras and others are fish. Their needs when fledging are fundamentally different from those of the birds. And even among the birds, there is variety.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://www.openscapes.org/blog/2024-08-30-esip-summer-2024/fledging-analogy-image.png" class="img-fluid figure-img" style="width:85.0%" alt="photo of bird next at top of a tree without foliage, against a blue-grey sky. Next has Jupyter and Openscapes logos superimposed. Image each of a bird, zebra, and fish under water appear beside the nest image"></p>
-<figcaption class="figure-caption">Analogy for people’s fledging experiences: not all the participants leaving the nest are birds. Some are zebras and others are fish</figcaption>
+<figcaption>Analogy for people’s fledging experiences: not all the participants leaving the nest are birds. Some are zebras and others are fish</figcaption>
 </figure>
 </div>
 <section id="breakout-groups---participant-feedback" class="level2">
@@ -171,7 +177,7 @@ Lowndes, Julie, and Stefanie Butland. 2024. <span>“Openscapes Newsletter
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{hunzinger2024,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{hunzinger2024,
   author = {Hunzinger, Alexis and Kaufman, Danny and Friesz, Aaron and
     Thornton, Michele and Barrett, Andy and Leahy, Rhys and Holmes, Eli
     and Lowndes, Julie},

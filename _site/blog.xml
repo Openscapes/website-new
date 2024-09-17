@@ -9,8 +9,93 @@
 <link>https://www.openscapes.org/blog.html</link>
 <atom:link href="https://www.openscapes.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.3.450</generator>
-<lastBuildDate>Fri, 30 Aug 2024 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.554</generator>
+<lastBuildDate>Tue, 17 Sep 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Openscapes Newsletter #10: Fall 2024</title>
+  <dc:creator>Julie Lowndes</dc:creator>
+  <dc:creator>Stefanie Butland</dc:creator>
+  <link>https://www.openscapes.org/blog/2024-09-17-news-sep-2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><em>Welcome to Openscapes’ tenth newsletter! If you’re interested in seeing these infrequent updates in your inbox, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSd25jpfiAn1gYNwUPcfMVudsL625_pYbKsqxXpRazHCL6QA7g/viewform">sign up here</a> (linked from our <a href="https://openscapes.org/connect">connect with us</a> page). And! If you have signed up but did not see this in your inbox, please check your spam folder!</em></p>
+<hr>
+<p>Hello all,</p>
+<p>We are feeling rejuvenated momentum and hope going into Fall 2024, and we hope this newsletter finds you well. We have had some recent big inflection points.</p>
+<p><strong>Openscapes is going to the White House!</strong> Openscapes is being recognized at the “Celebration of the OSTP Year of Open Science Recognition Challenge Winners” on September 19. This is a BIG DEAL and we are excited to share the joy with our community. Our <strong>September 26 Community Call debriefing The White House trip</strong> – which also includes presenting at the Dynamic Convergence Workshop - will continue the celebration as Ileana Fenwick and Julie Lowndes interview each other about their experiences. Please <a href="https://openscapes.org/events/2024-09-26-openscapes-whitehouse/">sign up here</a>!</p>
+<p><strong>NOAA Fisheries announced a 3-year commitment to open science as part of the Biden-Harris Administration Inflation Reduction Act.</strong> <a href="https://openscapes.org/blog/2024-08-19-biden-harris-noaa-fisheries/">Openscapes is thrilled to be part of this work</a>. We have been scaffolding with NOAA Fisheries for the past few years – through 10 Champions Cohorts and developing a cross-agency grassroots mentor community (read next paragraph about a recent publication!). This is such a celebration for the open science community as a whole, a high-profile example of what open science can look like in the government. It means open science directly helping meet the needs of changing oceans by supporting the NOAA workforce focused on climate resilience for fishing communities. It is also a huge celebration for NASA, whom NOAA has been watching and inspired by for their efforts in open science.</p>
+<p><strong>Read our peer-reviewed paper co-authored by Openscapes mentors across organizations</strong> – including NASA Earthdata, NOAA Fisheries, U.S. EPA, California Water Boards, Pathways to Open Science, and the Fred Hutch Cancer Center - recently published in Ecology &amp; Evolution. From co-author Anna Holder, Cal EPA / Water Boards: “It’s a short read and quite uplifting and inspirational and provides some more insight and what we’re learning as we implement Openscapes across organizations.” <a href="https://doi.org/10.1002/ece3.11341" class="uri">https://doi.org/10.1002/ece3.11341</a>; <a href="https://openscapes.org/blog/2024-06-06-editorial-published/">Blog post</a></p>
+<p><a href="https://openscapes.org/blog/2024-07-18-openscapes-update/"><strong>Openscapes update from Julie Lowndes, summer 2024</strong></a> is another big deal. Julie talks about and codifies the Opencapes ethos, the organization’s structure, shares updates on new <a href="https://openscapes.org/team">core team</a> members Liz Neeley and Andy Teucher, how we all work together, and how we are igniting real culture change across science.</p>
+<p><strong>2023 marked 5 years of Openscapes!</strong> We’ve been reflecting on our momentum and impact, and invite you to share what stands out to you in our <a href="https://docs.google.com/forms/d/e/1FAIpQLSeImqEDROIOlgSwDFYcneboi5dM5bdBNqsLgQ3OFirU-zraKQ/viewform?usp=sf_link">Openscapes Survey</a>. We’ve been sharing insights via talks and our submission to the Challenge.gov (the catalyst for The White House visit). We plan to share more at a submitted talk at the AGU Fall Meeting in Washington DC in December.</p>
+<section id="more-highlights" class="level2">
+<h2 class="anchored" data-anchor-id="more-highlights">More highlights</h2>
+<ul>
+<li><p>Please read <a href="https://openscapes.org/blog/2024-08-05-pathways-report/">our repor</a>t on our second annual Pathways to Open Science Program and <a href="https://openscapes.org/blog/2024-08-09-antoinette-foster-letter-make-the-world-better-place/">A letter to researchers that want to make the world a better place</a>, by Dr Antoinette Foster. These were supported in part by a Mozilla Alumni Grant to Openscapes and PREreview&nbsp;</p></li>
+<li><p>We completed our second annual <a href="https://openscapes.github.io/booklet/">Reflections</a> program; we will continue to grow and offer this as another entryway to open science.</p></li>
+<li><p>NASA Openscapes Mentors recently led an ESIP session on Fledging, the culmination of a lot of work, and their work has been featured in many blog posts, webinars, and workshops.</p>
+<ul>
+<li><p><a href="https://openscapes.org/blog/2024-08-30-esip-summer-2024/">ESIP Summer 2024 conference session</a>, “Onboarding and “fledging”: How NASA Openscapes supports NASA Earthdata users in the Cloud”, by Alexis Hunzinger, Danny Kaufman, Aaron Friesz, Michele Thornton, Andy Barrett, Rhys Leahy, Eli Holmes, Julie Lowndes</p></li>
+<li><p>NASA Earthdata blog, <a href="https://www.earthdata.nasa.gov/learn/blog/onboarding-fledging-and-beyond-openscapes-journey">From Onboarding to Fledging and Beyond—An Openscapes Journey</a>, by Josh Blumenfeld featuring stories from Aronne Merrelli, University of Michigan and Eli Holmes, NOAA Fisheries</p></li>
+<li><p><a href="https://openscapes.org/blog/2024-07-22-aronne-merrelli-fledging-parallelized-science-in-the-cloud/">First Forays into the Cloud - first “fledging” story from NASA Openscapes!</a>, by Aronne Merrelli, 2023 NASA Champion</p></li>
+<li><p><a href="https://nasa-openscapes.github.io/news/2024-07-09-2i2c-shared-password/">2i2c develops shared password access with LP DAAC for NASA Surface Biology and Geology Workshop</a>, by 2i2c Team members Yuvi Panda and Jenny Wong</p></li>
+<li><p><a href="https://nasa-openscapes.github.io/news/2024-07-16-swot-workshop/">Learn about and use Surface Water and Ocean Topography (SWOT) Data!</a>, led by Cassie Nickles at the Hacking Limnology Virtual Summit</p></li>
+</ul></li>
+</ul>
+<!-- -->
+<ul>
+<li><p>We developed our first hands-on <a href="https://openscapes.github.io/quarto-clinic/">Quarto + GitHub Contributing Clinic</a> to help Openscapes Mentors upskill; we’ll iterate based on what we learned.&nbsp;</p></li>
+<li><p>We’ve led 24 Champions Cohorts to date! So exciting to see new cross-agency connections developing and amplifying expert voices as more and more past Champions become Mentors and Instructors and share their open science stories more broadly.&nbsp;</p>
+<ul>
+<li><p><a href="https://openscapes.github.io/2024-epa/">2nd U.S. EPA Cohort</a>.</p></li>
+<li><p><a href="https://nasa-openscapes.github.io/2024-nasa-champions/">3rd NASA Cohort</a>. Summary post, <a href="https://openscapes.org/blog/2024-07-24-2024-nasa-champions-cohort/">NASA Champions 2024: Data strategies for when to use cloud, coding strategies for parallelization, &amp; first examples of big science in the Cloud</a>, by NASA Openscapes Mentors.</p></li>
+<li><p><a href="https://cawaterboarddatacenter.github.io/swrcb-openscapes/">California Water Boards forking Openscapes</a> is building momentum. They led their 3rd &amp; 4th Cohorts in 2024, reusing &amp; remixing lessons, and using and contributing back to the Kyber R package we use to create our infrastructure for delivering Champions Cohorts.&nbsp;</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="talks-workshops-conferences-see-events" class="level2">
+<h2 class="anchored" data-anchor-id="talks-workshops-conferences-see-events">Talks, workshops, conferences (see <a href="https://openscapes.org/events">Events</a>)</h2>
+<p>Recordings and slides are linked from the posts below.</p>
+<ul>
+<li><p>May 14: How the NASA Openscapes community supports Earthdata users migrating workflows to the Cloud, at <a href="https://openscapes.org/events/2024-05-14-noaa-edmw/">NOAA Enterprise Data Management (EDMW) Workshop&nbsp;</a></p></li>
+<li><p>June 3: <a href="https://openscapes.org/events/2024-06-03-webinar-sharing-climate-data/">Community Call: Sharing Climate Data</a>. A Conversation with Creative Commons and Openscapes, with recording &amp; collaborative notes doc</p></li>
+<li><p>July 23, 2024: ESIP - highlight above</p></li>
+<li><p>August 7: <a href="https://openscapes.org/events/2024-08-07-nih-bmic-talk/">Invited virtual talk for the NIH Biomedical Informatics Coordinating Committee (BMIC)</a>, “How Openscapes supports teams in open science: stories of how we work”, by Julie Lowndes</p></li>
+<li><p>August 13: <a href="https://reg.conf.posit.co/flow/posit/positconf24/publiccatalog/page/publiccatalog?tab.day=20240812">posit::conf</a> talks and strengthening community connections. Stefanie Butland talked about <a href="https://docs.google.com/presentation/d/1p_EXdYEVGY07VVMGdcvvwjjbwFihHsC_5oXRPW_8tVU/">how we use the Kyber R package</a> to connect Google Sheets, RMarkdown, GitHub, and Agenda docs for open education and Luis Lopez talked about <a href="https://docs.google.com/presentation/d/1Ot879tfrjhok3BzSwSUr2Xpd26dX-hyVGHQzATLVRTo/">earthaccess: Simplifying Earth Science in The Cloud</a>. The conference was a wonderful opportunity to lay down more in-person connections among Mentors from NMFS Openscapes and NASA Openscapes and this wonderful Posit community.&nbsp;</p></li>
+<li><p>August 22: Openscapes at California Department of Water Resources Environmental Coordination Committee Open Forum, <a href="https://docs.google.com/presentation/d/1yOTdJcvWdVWSLIE72L4cCN2b22y-6ZDlOouqP1i_bSI/edit#slide=id.g2c1dee5ed55_3_272">Openscapes: Kinder science for future us</a>, by&nbsp; Julie Lowndes, Devan Burke, Anna Holder.</p></li>
+<li><p>September 10: <a href="https://openscapes.org/events/2024-09-10-nasa-pi-plenary/">Forking as a Worldview: A big idea that frames Openscapes thinking</a>. Julie Lowndes gave a plenary talk at NASA’s internal PI Planning meeting and talked about forking as reusing what works in new places, with examples of earthaccess package development forking the open source software dev approach into government, and NASA Openscapes and then NOAA Fisheries Openscapes forking open source frameworks to tackle big challenges (cloud migration, data modernization). And it turns out, forking is the first step of the Openscapes Flywheel :)</p></li>
+</ul>
+<p>Thank you for reading, and for all that you do. Read more about what this amazing community has been up to via <a href="../../blog.html">blog posts</a>, talks on our <a href="../../media.html">media page</a> and <a href="../../events">events page</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.openscapes.org/blog/2024-09-17-news-sep-2024/mr-lowndesDSCF1746-square.jpg" class="img-fluid figure-img" style="width:50.0%" alt="photo with fluffy clouds dominating a blue sky, blue-grey mountains in background, purple clusters of flowers in foreground, green-yellow groundcover and a river barely visible in midground running across the photo"></p>
+<figcaption>Photo by Elliot Lowndes</figcaption>
+</figure>
+</div>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{lowndes2024,
+  author = {Lowndes, Julie and Butland, Stefanie},
+  title = {Openscapes {Newsletter} \#10: {Fall} 2024},
+  date = {2024-09-17},
+  url = {https://openscapes.org/blog/2024-09-17-news-sep-2024/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-lowndes2024" class="csl-entry quarto-appendix-citeas">
+Lowndes, Julie, and Stefanie Butland. 2024. <span>“Openscapes Newsletter
+#10: Fall 2024.”</span> September 17, 2024. <a href="https://openscapes.org/blog/2024-09-17-news-sep-2024/">https://openscapes.org/blog/2024-09-17-news-sep-2024/</a>.
+</div></div></section></div> ]]></description>
+  <category>blog</category>
+  <category>newsletter</category>
+  <guid>https://www.openscapes.org/blog/2024-09-17-news-sep-2024/</guid>
+  <pubDate>Tue, 17 Sep 2024 07:00:00 GMT</pubDate>
+  <media:content url="https://www.openscapes.org/blog/2024-09-17-news-sep-2024/mr-lowndesDSCF1746-square.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Onboarding and “fledging”: How NASA Openscapes supports NASA Earthdata users in the Cloud</title>
   <dc:creator>Alexis Hunzinger</dc:creator>
@@ -21,7 +106,7 @@
   <dc:creator>Rhys Leahy</dc:creator>
   <dc:creator>Eli Holmes</dc:creator>
   <dc:creator>Julie Lowndes</dc:creator>
-  <link>https://www.openscapes.org/blog/2024-08-30-esip-summer-2024/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-08-30-esip-summer-2024/</link>
   <description><![CDATA[ 
 
 
@@ -105,14 +190,14 @@ Supports NASA Earthdata Users in the Cloud.”</span> August 30, 2024. <a href="
   <category>blog</category>
   <category>nasa-framework</category>
   <category>noaa-fisheries</category>
-  <guid>https://www.openscapes.org/blog/2024-08-30-esip-summer-2024/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-08-30-esip-summer-2024/</guid>
   <pubDate>Fri, 30 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-08-30-esip-summer-2024/tooling-people-policy.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Biden-Harris Administration announces support for NOAA Fisheries’ data, infrastructure, and workforce modernization in part via Openscapes</title>
   <dc:creator>Openscapes Team</dc:creator>
-  <link>https://www.openscapes.org/blog/2024-08-19-biden-harris-noaa-fisheries/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-08-19-biden-harris-noaa-fisheries/</link>
   <description><![CDATA[ 
 
 
@@ -157,14 +242,14 @@ Modernization in Part via Openscapes.”</span> August 19, 2024. <a href="https:
 </div></div></section></div> ]]></description>
   <category>blog</category>
   <category>noaa-fisheries</category>
-  <guid>https://www.openscapes.org/blog/2024-08-19-biden-harris-noaa-fisheries/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-08-19-biden-harris-noaa-fisheries/</guid>
   <pubDate>Mon, 19 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-08-19-biden-harris-noaa-fisheries/logo-transparent-crop.png" medium="image" type="image/png" height="93" width="144"/>
 </item>
 <item>
   <title>A letter to researchers that want to make the world a better place</title>
   <dc:creator>Antoinette Foster</dc:creator>
-  <link>https://www.openscapes.org/blog/2024-08-09-antoinette-foster-letter-make-the-world-better-place/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-08-09-antoinette-foster-letter-make-the-world-better-place/</link>
   <description><![CDATA[ 
 
 
@@ -263,14 +348,14 @@ make the world a better place. <a href="https://openscapes.org/blog/2024-08-09-a
 </div></div></section></div> ]]></description>
   <category>blog</category>
   <category>pathways</category>
-  <guid>https://www.openscapes.org/blog/2024-08-09-antoinette-foster-letter-make-the-world-better-place/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-08-09-antoinette-foster-letter-make-the-world-better-place/</guid>
   <pubDate>Fri, 09 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-08-09-antoinette-foster-letter-make-the-world-better-place/Antoinette-Foster-AVDS-Elevate-Award.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Community building for a better tomorrow</title>
   <dc:creator>Ileana Fenwick, Alexandra Davis, Aneese Williams, Antoinette Foster, Daniela Saderi, Stefanie Butland, Julia Lowndes</dc:creator>
-  <link>https://www.openscapes.org/blog/2024-08-05-pathways-report/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-08-05-pathways-report/</link>
   <description><![CDATA[ 
 
 
@@ -368,7 +453,7 @@ make the world a better place. <a href="https://openscapes.org/blog/2024-08-09-a
  ]]></description>
   <category>blog</category>
   <category>pathways</category>
-  <guid>https://www.openscapes.org/blog/2024-08-05-pathways-report/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-08-05-pathways-report/</guid>
   <pubDate>Mon, 05 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-08-05-pathways-report/pathways-zoomie.png" medium="image" type="image/png" height="86" width="144"/>
 </item>
@@ -387,7 +472,7 @@ make the world a better place. <a href="https://openscapes.org/blog/2024-08-09-a
   <dc:creator>Erin Robinson</dc:creator>
   <dc:creator>Julie Lowndes</dc:creator>
   <dc:creator>NASA Openscapes Mentors</dc:creator>
-  <link>https://www.openscapes.org/blog/2024-07-24-2024-nasa-champions-cohort/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-07-24-2024-nasa-champions-cohort/</link>
   <description><![CDATA[ 
 
 
@@ -551,14 +636,14 @@ Science in the Cloud.”</span> July 24, 2024. <a href="https://openscapes.org/b
   <category>blog</category>
   <category>nasa-framework</category>
   <category>champions</category>
-  <guid>https://www.openscapes.org/blog/2024-07-24-2024-nasa-champions-cohort/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-07-24-2024-nasa-champions-cohort/</guid>
   <pubDate>Wed, 24 Jul 2024 07:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-07-24-2024-nasa-champions-cohort/storage-infrastructure.png" medium="image" type="image/png" height="80" width="144"/>
 </item>
 <item>
   <title>First Forays into the Cloud - first “fledging” story from NASA Openscapes!</title>
   <dc:creator>Aronne Merrelli, University of Michigan</dc:creator>
-  <link>https://www.openscapes.org/blog/2024-07-22-aronne-merrelli-fledging-parallelized-science-in-the-cloud/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-07-22-aronne-merrelli-fledging-parallelized-science-in-the-cloud/</link>
   <description><![CDATA[ 
 
 
@@ -661,14 +746,14 @@ Openscapes!”</span> July 22, 2024. <a href="https://openscapes.org/blog/2024-0
   <category>blog</category>
   <category>nasa-framework</category>
   <category>champions</category>
-  <guid>https://www.openscapes.org/blog/2024-07-22-aronne-merrelli-fledging-parallelized-science-in-the-cloud/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-07-22-aronne-merrelli-fledging-parallelized-science-in-the-cloud/</guid>
   <pubDate>Mon, 22 Jul 2024 07:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-07-22-aronne-merrelli-fledging-parallelized-science-in-the-cloud/merrelli-workflow-scales.png" medium="image" type="image/png" height="78" width="144"/>
 </item>
 <item>
   <title>Openscapes update from Julie Lowndes, summer 2024</title>
   <dc:creator>Julie Lowndes</dc:creator>
-  <link>https://www.openscapes.org/blog/2024-07-18-openscapes-update/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-07-18-openscapes-update/</link>
   <description><![CDATA[ 
 
 
@@ -735,14 +820,14 @@ Summer 2024.”</span> July 18, 2024. <a href="https://openscapes.org/blog/2024-
 </div></div></section></div> ]]></description>
   <category>blog</category>
   <category>how-we-work</category>
-  <guid>https://www.openscapes.org/blog/2024-07-18-openscapes-update/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-07-18-openscapes-update/</guid>
   <pubDate>Thu, 18 Jul 2024 07:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-07-18-openscapes-update/llanwrst-wales-jslowndes.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>2i2c develops shared password access with LP DAAC for NASA Surface Biology and Geology Workshop</title>
   <dc:creator>2i2c Team members Yuvi Panda and Jenny Wong</dc:creator>
-  <link>https://www.openscapes.org/blog/2024-07-09-2i2c-shared-password/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-07-09-2i2c-shared-password/</link>
   <description><![CDATA[ 
 
 
@@ -760,14 +845,14 @@ Summer 2024.”</span> July 18, 2024. <a href="https://openscapes.org/blog/2024-
  ]]></description>
   <category>blog</category>
   <category>how-we-work</category>
-  <guid>https://www.openscapes.org/blog/2024-07-09-2i2c-shared-password/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-07-09-2i2c-shared-password/</guid>
   <pubDate>Tue, 09 Jul 2024 07:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-07-09-2i2c-shared-password/sbg-screenshot.png" medium="image" type="image/png" height="86" width="144"/>
 </item>
 <item>
   <title>Shifting institutional culture to develop climate solutions with Open Science</title>
   <dc:creator>Openscapes </dc:creator>
-  <link>https://www.openscapes.org/blog/2024-06-06-editorial-published/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-06-06-editorial-published/</link>
   <description><![CDATA[ 
 
 
@@ -809,7 +894,7 @@ Climate Solutions with Open Science.”</span> June 6, 2024. <a href="https://op
   <category>water-boards</category>
   <category>pathways</category>
   <category>how-we-work</category>
-  <guid>https://www.openscapes.org/blog/2024-06-06-editorial-published/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-06-06-editorial-published/</guid>
   <pubDate>Thu, 06 Jun 2024 07:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-06-06-editorial-published/ece311341-fig-0001-m.jpg" medium="image" type="image/jpeg"/>
 </item>
@@ -817,7 +902,7 @@ Climate Solutions with Open Science.”</span> June 6, 2024. <a href="https://op
   <title>NASA Earthdata Data Chat with Aaron Friesz</title>
   <dc:creator>Aaron Friesz</dc:creator>
   <dc:creator>Joseph M. Smith</dc:creator>
-  <link>https://www.openscapes.org/blog/2024-04-04-nasa-earthdata-aaron-friesz/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-04-04-nasa-earthdata-aaron-friesz/</link>
   <description><![CDATA[ 
 
 
@@ -842,7 +927,7 @@ Chat with Aaron Friesz.”</span> April 4, 2024. <a href="https://nasa-openscape
 </div></div></section></div> ]]></description>
   <category>blog</category>
   <category>nasa-framework</category>
-  <guid>https://www.openscapes.org/blog/2024-04-04-nasa-earthdata-aaron-friesz/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-04-04-nasa-earthdata-aaron-friesz/</guid>
   <pubDate>Thu, 04 Apr 2024 07:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-04-04-nasa-earthdata-aaron-friesz/aaron-friesz_headshot_data-chat.jpg" medium="image" type="image/jpeg"/>
 </item>
@@ -851,7 +936,7 @@ Chat with Aaron Friesz.”</span> April 4, 2024. <a href="https://nasa-openscape
   <dc:creator>Julie Lowndes</dc:creator>
   <dc:creator>Ileana Fenwick</dc:creator>
   <dc:creator>Stefanie Butland</dc:creator>
-  <link>https://www.openscapes.org/blog/2024-04-27-news-mar-2024/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-04-27-news-mar-2024/</link>
   <description><![CDATA[ 
 
 
@@ -898,7 +983,7 @@ Program.”</span> March 27, 2024. <a href="https://openscapes.org/blog/2024-03-
 </div></div></section></div> ]]></description>
   <category>blog</category>
   <category>newsletter</category>
-  <guid>https://www.openscapes.org/blog/2024-04-27-news-mar-2024/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-04-27-news-mar-2024/</guid>
   <pubDate>Wed, 27 Mar 2024 07:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-04-27-news-mar-2024/fig-mountain-2023-square.jpg" medium="image" type="image/jpeg"/>
 </item>
@@ -909,7 +994,7 @@ Program.”</span> March 27, 2024. <a href="https://openscapes.org/blog/2024-03-
   <dc:creator>Luis Lopez</dc:creator>
   <dc:creator>Cassandra Nickles</dc:creator>
   <dc:creator>NASA Openscapes Community</dc:creator>
-  <link>https://www.openscapes.org/blog/2024-03-12-nasa-earthdata-webinar/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-03-12-nasa-earthdata-webinar/</link>
   <description><![CDATA[ 
 
 
@@ -1020,7 +1105,7 @@ Cookbook.”</span> March 12, 2024. <a href="https://openscapes.org/blog/2024-03
 </div></div></section></div> ]]></description>
   <category>blog</category>
   <category>nasa-framework</category>
-  <guid>https://www.openscapes.org/blog/2024-03-12-nasa-earthdata-webinar/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-03-12-nasa-earthdata-webinar/</guid>
   <pubDate>Tue, 12 Mar 2024 07:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-03-12-nasa-earthdata-webinar/nasa-openscapes-shell.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
@@ -1032,7 +1117,7 @@ Cookbook.”</span> March 12, 2024. <a href="https://openscapes.org/blog/2024-03
   <dc:creator>Qiusheng Wu</dc:creator>
   <dc:creator>Amy Steiker</dc:creator>
   <dc:creator>earthaccess community</dc:creator>
-  <link>https://www.openscapes.org/blog/2024-03-04-earthaccess-tech-spotlight/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-03-04-earthaccess-tech-spotlight/</link>
   <description><![CDATA[ 
 
 
@@ -1116,7 +1201,7 @@ Earthdata Access Through Open, Collaborative Development.”</span> March
 </div></div></section></div> ]]></description>
   <category>blog</category>
   <category>nasa-framework</category>
-  <guid>https://www.openscapes.org/blog/2024-03-04-earthaccess-tech-spotlight/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-03-04-earthaccess-tech-spotlight/</guid>
   <pubDate>Mon, 04 Mar 2024 08:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-03-04-earthaccess-tech-spotlight/earthaccess-interface-daacs-open-community.png" medium="image" type="image/png" height="42" width="144"/>
 </item>
@@ -1124,7 +1209,7 @@ Earthdata Access Through Open, Collaborative Development.”</span> March
   <title>Openscapes Community Call: GitHub for NASA Openscapes community calendaring &amp; project management</title>
   <dc:creator>Bri Lind</dc:creator>
   <dc:creator>Stefanie Butland</dc:creator>
-  <link>https://www.openscapes.org/blog/2024-02-28-github-community-call/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-02-28-github-community-call/</link>
   <description><![CDATA[ 
 
 
@@ -1210,7 +1295,7 @@ Management.”</span> February 28, 2024. <a href="https://openscapes.org/blog/20
   <category>community-call</category>
   <category>blog</category>
   <category>nasa-framework</category>
-  <guid>https://www.openscapes.org/blog/2024-02-28-github-community-call/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-02-28-github-community-call/</guid>
   <pubDate>Wed, 28 Feb 2024 08:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-02-28-github-community-call/github-roadmap-view.png" medium="image" type="image/png" height="75" width="144"/>
 </item>
@@ -1219,7 +1304,7 @@ Management.”</span> February 28, 2024. <a href="https://openscapes.org/blog/20
   <dc:creator>Erin Robinson</dc:creator>
   <dc:creator>Julie Lowndes</dc:creator>
   <dc:creator>NASA Openscapes Team</dc:creator>
-  <link>https://www.openscapes.org/blog/2024-02-15-nasa-openscapes-talking-points/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-02-15-nasa-openscapes-talking-points/</link>
   <description><![CDATA[ 
 
 
@@ -1286,14 +1371,14 @@ Next Two Years.”</span> February 15, 2024. <a href="https://openscapes.org/blo
 </div></div></section></div> ]]></description>
   <category>blog</category>
   <category>nasa-framework</category>
-  <guid>https://www.openscapes.org/blog/2024-02-15-nasa-openscapes-talking-points/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-02-15-nasa-openscapes-talking-points/</guid>
   <pubDate>Thu, 15 Feb 2024 08:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-02-15-nasa-openscapes-talking-points/nasa-puppy-porters-agu.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>White House Fact Sheet Mentions Openscapes!</title>
   <dc:creator>Openscapes </dc:creator>
-  <link>https://www.openscapes.org/blog/2024-02-09-white-house-factsheet-openscapes/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-02-09-white-house-factsheet-openscapes/</link>
   <description><![CDATA[ 
 
 
@@ -1345,7 +1430,7 @@ Openscapes!”</span> February 9, 2024. <a href="https://openscapes.org/blog/202
   <category>nasa-framework</category>
   <category>water-boards</category>
   <category>pathways</category>
-  <guid>https://www.openscapes.org/blog/2024-02-09-white-house-factsheet-openscapes/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-02-09-white-house-factsheet-openscapes/</guid>
   <pubDate>Fri, 09 Feb 2024 08:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-02-09-white-house-factsheet-openscapes/white-house.png" medium="image" type="image/png" height="90" width="144"/>
 </item>
@@ -1353,7 +1438,7 @@ Openscapes!”</span> February 9, 2024. <a href="https://openscapes.org/blog/202
   <title>Openscapes Newsletter #8: Winter 2024</title>
   <dc:creator>Julie Lowndes</dc:creator>
   <dc:creator>Stefanie Butland</dc:creator>
-  <link>https://www.openscapes.org/blog/2024-01-24-news-jan-2024/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-01-24-news-jan-2024/</link>
   <description><![CDATA[ 
 
 
@@ -1395,7 +1480,7 @@ Lowndes, Julie, and Stefanie Butland. 2024. <span>“Openscapes Newsletter
 </div></div></section></div> ]]></description>
   <category>blog</category>
   <category>newsletter</category>
-  <guid>https://www.openscapes.org/blog/2024-01-24-news-jan-2024/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-01-24-news-jan-2024/</guid>
   <pubDate>Wed, 24 Jan 2024 08:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-01-24-news-jan-2024/ElliotLowndes-ValleyOaks-DSCF5841.jpg" medium="image" type="image/jpeg"/>
 </item>
@@ -1418,7 +1503,7 @@ Lowndes, Julie, and Stefanie Butland. 2024. <span>“Openscapes Newsletter
   <dc:creator>Amanda Bradford (PIFSC)</dc:creator>
   <dc:creator>Stefanie Butland (Openscapes)</dc:creator>
   <dc:creator>Julie Lowndes (Openscapes)</dc:creator>
-  <link>https://www.openscapes.org/blog/2024-01-24-nmfs-mentors/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-01-24-nmfs-mentors/</link>
   <description><![CDATA[ 
 
 
@@ -1506,7 +1591,7 @@ Invests in Open Science Mentorship.”</span> January 24, 2024. <a href="https:/
 </div></div></section></div> ]]></description>
   <category>blog</category>
   <category>noaa-fisheries</category>
-  <guid>https://www.openscapes.org/blog/2024-01-24-nmfs-mentors/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-01-24-nmfs-mentors/</guid>
   <pubDate>Wed, 24 Jan 2024 08:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-01-24-nmfs-mentors/2023-nmfs-mentors-zoomie.png" medium="image" type="image/png" height="68" width="144"/>
 </item>
@@ -1516,7 +1601,7 @@ Invests in Open Science Mentorship.”</span> January 24, 2024. <a href="https:/
   <dc:creator>Alex Davis</dc:creator>
   <dc:creator>Aneese Williams</dc:creator>
   <dc:creator>Antoinette Foster</dc:creator>
-  <link>https://www.openscapes.org/blog/2024-01-22-pathways-2024/index.html</link>
+  <link>https://www.openscapes.org/blog/2024-01-22-pathways-2024/</link>
   <description><![CDATA[ 
 
 
@@ -1554,103 +1639,9 @@ with PREreview.”</span> January 22, 2024. <a href="https://openscapes.org/blog
 </div></div></section></div> ]]></description>
   <category>blog</category>
   <category>pathways</category>
-  <guid>https://www.openscapes.org/blog/2024-01-22-pathways-2024/index.html</guid>
+  <guid>https://www.openscapes.org/blog/2024-01-22-pathways-2024/</guid>
   <pubDate>Mon, 22 Jan 2024 08:00:00 GMT</pubDate>
   <media:content url="https://www.openscapes.org/blog/2024-01-22-pathways-2024/logos-openscapes-bweems-prereview-bims.png" medium="image" type="image/png" height="34" width="144"/>
-</item>
-<item>
-  <title>NASA Openscapes: Approaches and Stories of Kinder, Open Science in the Cloud</title>
-  <dc:creator>Julie Lowndes</dc:creator>
-  <dc:creator>Erin Robinson</dc:creator>
-  <dc:creator>NASA Openscapes Mentors</dc:creator>
-  <link>https://www.openscapes.org/blog/2024-01-18-agu-talk-2023/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><em>In December at the <a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Home/0">AGU Fall Meeting</a> in San Francisco, we were so grateful to connect with so many colleagues in person. We supported NASA Mentors Cloud Workshops on Sunday and organized a Happy Hour with colleagues from across NASA and the Open Science world. We attended and gave talks thoughout the week in addition to making many great connections in the Exhibition Hall, Poster Hall, and outside in the sun. This is a brief summary of our Friday 8-minute talk titled NASA Openscapes: Approaches and Stories of Kinder, Open Science in the Cloud.</em></p>
-<p><em>Quick links:</em></p>
-<ul>
-<li><a href="https://docs.google.com/presentation/d/1RPPgWDqoA9Ppyk0pXpY717xqKSwLr_5Ek4-nEOoYBGw/edit?usp=sharing">Slides from our talk</a></li>
-<li><a href="https://nasa-openscapes.github.io/about.html#slides">NASA Openscapes links to all presentations</a></li>
-<li><a href="https://NASA-Openscapes.github.io/2023-planning-agu">Our NASA-Openscapes AGU Planning Repository</a> - summary of our activities</li>
-</ul>
-<hr>
-<section id="why-we-work-motivated-by-climate-and-social-change" class="level2">
-<h2 class="anchored" data-anchor-id="why-we-work-motivated-by-climate-and-social-change">Why we work: motivated by climate and social change</h2>
-<div class="blockquote-blue">
-<blockquote class="blockquote">
-<p><em>“What if we connected our skills &amp; values as a daily practice, for climate?”</em></p>
-</blockquote>
-</div>
-<p>We kicked off our talk with this question to center the motivation for the work we do. As the NASA Openscapes Mentors had given <a href="https://openscapes.org/blog/2023-12-10-agu-fall-meeting/">many talks, workshops, and posters</a> throughout the week showcasing and teaching their shared work, we summarized their efforts with a quote from Cassie Nickles:</p>
-<div class="blockquote-blue">
-<blockquote class="blockquote">
-<p><em><strong>“NASA Openscapes is a collaborative environment for data center [DAAC] staff to collectively support open science initiatives for NASA Earthdata users.</strong> We’ve developed awesome material to help Earthdata users (<a href="https://nasa-openscapes.github.io/earthdata-cloud-cookbook/cheatsheets.html">cheatsheets</a>, a python package (<a href="https://nsidc.github.io/earthaccess/tutorials/demo/">earthaccess</a>), <a href="https://nasa-openscapes.github.io/earthdata-cloud-cookbook/">NASA Earthdata Cloud Cookbook</a>).</em></p>
-<p><em>Perhaps just as important as what we’ve done however, are mindsets we’ve grown into along the way. It’s okay to share imperfect works in progress. Ideas are not too big or too small to share. We are better at dreaming and implementing the future together.” – <strong>Cassie Nickles (PO.DAAC)</strong></em></p>
-</blockquote>
-</div>
-<p>Then we centered our talk on a layer above: <strong>how we work</strong> to support these amazing user support staff to collaborate across data centers and as early adopters, co-develop teaching resources and infrastructure to support researchers in the Cloud.</p>
-</section>
-<section id="how-we-work-openscapes-flywheel" class="level2">
-<h2 class="anchored" data-anchor-id="how-we-work-openscapes-flywheel">How we work: Openscapes Flywheel</h2>
-<p>The Openscapes Flywheel is a tool for movement building <a href="https://eartharxiv.org/repository/view/4560/">(Robinson &amp; Lowndes 2022)</a>. We developed this from the early days collaborating with the NASA Mentors and it is open source: available for you to reuse and fork as other groups are starting to do. We reach for the Flywheel as a tool for planning, implementation and communication, just as we reach for R, Quarto, and JupyterHubs for analysis, documentation, and cloud computing.</p>
-<p>The Flywheel is a concept developed by <a href="https://www.jimcollins.com/concepts/the-flywheel.html">Jim Collins</a>, where transformations occur from consistently doing key activities that add up over time. The Openscapes Flywheel at its simplest form has six steps that we repeat daily, monthly, and over years. Starting from the bottom and going clockwise: Leverage common workflows, skills, and tools; Inspire; Welcome; Create space &amp; place; Invest in learning and trust; Work openly.</p>
-<div class="center-text">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://www.openscapes.org/blog/2024-01-18-agu-talk-2023/flywheel-screenshot.png" class="img-fluid figure-img" style="width:80.0%" alt="A diagram of the Openscapes flywheel. The Openscapes logo sits in the center of a cyclical process. The text around the logo reads as follows: 'Welcome bright spots (be they mentors or researchers) -- people who want to work better and collaborate' > 'Create space and place to connect and collaborate; remove barriers to participation (paid time, part of jobs)' > 'Invest in learning and trust; Everyone has something to learn, ask, teach; don't need to be an expert in everything. Cultivate psychological safety, growth mindset. Slowing down to speed up.' > 'Work Openly; Put what you learn into practice quickly, role-modeing sharing imperfect work and identifying common challenges and opportunities. Openness is a spectrum; first Future You and then Future Us' > Leverage common workflows, skills, tools; This is where we speed up: Iterate, reuse, remix with each other and teh broader community' > 'Inspire broader scientific communities through visible examples and leaders -- Open science shift' > repeat. These six steps are summarized by three overarching goals, which are also written around the logo: 'Engage a future us mindset', 'Empower learning culture', and 'Amplify open leaders'."></p>
-<figcaption class="figure-caption">The Openscapes Flywheel</figcaption>
-</figure>
-</div>
-</div>
-<p>We talked through what this looked like for the NASA Openscapes project in Year 1, and then again in Years 2-3 as the Flywheel gained momentum as the Mentor community grew and supported researchers on the Cloud.</p>
-</section>
-<section id="turning-hundreds-thousands-of-times-in-ways-big-and-small" class="level2">
-<h2 class="anchored" data-anchor-id="turning-hundreds-thousands-of-times-in-ways-big-and-small">Turning hundreds, thousands of times in ways big and small</h2>
-<p>What’s so exciting is that following these initial turns of the Flywheel, it is now turning hundreds, thousands of times in ways big and small: like when a researcher uses GitHub for the first time and then turns around to teach their supervisor, and when staff have the confidence to speak up in meetings with what they know from the broader open science community. We’ve shared these stories in several manuscripts and blog posts, including a cross-government collaboration:</p>
-<ul>
-<li><p><a href="https://eartharxiv.org/repository/view/4560/">The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices</a> (Robinson &amp; Lowndes 2022)</p></li>
-<li><p><a href="https://eartharxiv.org/repository/view/5948/">Shifting institutional culture to develop climate solutions with Open Science</a> (Lowndes et al 2023)</p></li>
-<li><p><a href="https://openscapes.org" class="uri">https://openscapes.org</a></p></li>
-</ul>
-</section>
-<section id="technical-social-infrastructure-together" class="level2">
-<h2 class="anchored" data-anchor-id="technical-social-infrastructure-together">Technical &amp; social infrastructure together</h2>
-<p>What’s key here is that technical &amp; social infrastructure have been prioritized together consistently from the start. We focus on <strong>developing a kinder, open science mindset</strong> together: Mentorship is a skill we can all develop, just as we can all learn coding or data management as a skill, no matter where we’re starting from. In the open science world, there are many places to learn from &amp; we can all join existing efforts with humility and a growth mindset to learn.</p>
-<div class="center-text">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://www.openscapes.org/blog/2024-01-18-agu-talk-2023/developing-kinder-mindset-screenshot.png" class="img-fluid figure-img" style="width:80.0%" alt="Screenshot of slide 12 from AGU talk. See slides link at top of post for text details. Developing a kinder, open science mindset. Mentorship is a skill we can all develop; let's learn from &amp; join existing efforts. Example list: . quote from Ta7talíya Michelle Nahanee: 'Perfection is a colonial conditioning. Worrying that you’re going to get it wrong holds you back from trying, and that erases.' Right side has images of book covers and organization logos"></p>
-<figcaption class="figure-caption">Developing a kinder, open science mindset. Slide from AGU talk</figcaption>
-</figure>
-</div>
-</div>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{lowndes2024,
-  author = {Lowndes, Julie and Robinson, Erin and Openscapes Mentors,
-    NASA},
-  title = {NASA {Openscapes:} {Approaches} and {Stories} of {Kinder,}
-    {Open} {Science} in the {Cloud}},
-  date = {2024-01-18},
-  url = {https://openscapes.org/blog/2024-01-18-agu-talk-2023},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-lowndes2024" class="csl-entry quarto-appendix-citeas">
-Lowndes, Julie, Erin Robinson, and NASA Openscapes Mentors. 2024.
-<span>“NASA Openscapes: Approaches and Stories of Kinder, Open Science
-in the Cloud.”</span> January 18, 2024. <a href="https://openscapes.org/blog/2024-01-18-agu-talk-2023">https://openscapes.org/blog/2024-01-18-agu-talk-2023</a>.
-</div></div></section></div> ]]></description>
-  <category>nasa-framework</category>
-  <category>conference</category>
-  <category>blog</category>
-  <guid>https://www.openscapes.org/blog/2024-01-18-agu-talk-2023/index.html</guid>
-  <pubDate>Thu, 18 Jan 2024 08:00:00 GMT</pubDate>
-  <media:content url="https://www.openscapes.org/blog/2024-01-18-agu-talk-2023/developing-kinder-mindset-screenshot.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>
 </rss>

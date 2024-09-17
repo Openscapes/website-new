@@ -8,11 +8,13 @@ author:
 date: 2024-09-17
 citation: 
   url: https://openscapes.org/blog/2024-09-17-news-sep-2024/
-categories: [blog, newsletter]
+categories: [blog, newsletter, nasa-framework, noaa-fisheries, pathways, reflections]
 image: mr-lowndesDSCF1746-square.jpg
 ---
 
 *Welcome to Openscapes' tenth newsletter! If you're interested in seeing these infrequent updates in your inbox, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSd25jpfiAn1gYNwUPcfMVudsL625_pYbKsqxXpRazHCL6QA7g/viewform) (linked from our [connect with us](https://openscapes.org/connect) page). And! If you have signed up but did not see this in your inbox, please check your spam folder!*
+
+*Cross-posted at [openscapes.org/blog](https://openscapes.org/blog), [nmfs-openscapes.github.io/blog](https://nmfs-openscapes.github.io/blog), [nasa-openscapes.github.io/news](https://nasa-openscapes.github.io/news.html), [openscapes.github.io/pathways-to-open-science/blog](https://openscapes.github.io/pathways-to-open-science/blog.html)*
 
 ------------------------------------------------------------------------
 
@@ -48,9 +50,8 @@ We are feeling rejuvenated momentum and hope going into Fall 2024, and we hope t
 
     -   [Learn about and use Surface Water and Ocean Topography (SWOT) Data!](https://nasa-openscapes.github.io/news/2024-07-16-swot-workshop/), led by Cassie Nickles at the Hacking Limnology Virtual Summit
 
-```{=html}
 <!-- -->
-```
+
 -   We developed our first hands-on [Quarto + GitHub Contributing Clinic](https://openscapes.github.io/quarto-clinic/) to help Openscapes Mentors upskill; we’ll iterate based on what we learned. 
 
 -   We’ve led 24 Champions Cohorts to date! So exciting to see new cross-agency connections developing and amplifying expert voices as more and more past Champions become Mentors and Instructors and share their open science stories more broadly. 

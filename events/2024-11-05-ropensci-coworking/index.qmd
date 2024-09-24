@@ -1,0 +1,15 @@
+---
+title: "rOpenSci Social Coworking and Office Hours - Getting to know Openscapes"
+description: "Stefanie Butland co-hosts rOpenSci Coworking" 
+author: Openscapes
+date: 2024-11-05
+categories:
+  - event
+image: ropensci_icon_short_color.png
+---
+
+**Join us for social coworking as Openscapes and rOpenSci come together** November 5, 9:00 - 11:00 am PT ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2024-11-05T17%3a00%3a00&ah=2&msg=Social%20Coworking%20and%20Office%20Hours%20-%20Getting%20to%20know%20Openscapes))!
+
+These social coworking sessions are so much fun! Read [All About Coworking Sessions with rOpenSci](https://ropensci.org/blog/2023/06/21/coworking/). This time it's team [Stef](https://openscapes.org/team) (Openscapes) + [Steffi](https://ropensci.org/author/steffi-lazerte/) (rOpenSci) co-hosting.
+
+[Details & to add to your calendar.](https://ropensci.org/events/coworking-2024-11/)

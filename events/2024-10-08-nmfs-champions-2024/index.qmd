@@ -1,0 +1,28 @@
+---
+title: "NMFS Openscapes Champions Program Fall 2024"
+description: "120 Openscapes Champions in 3 Cohorts for NOAA's National Marine Fisheries Service"
+author:
+  - name: Openscapes
+date: 2024-10-08
+categories:
+  - event 
+  - champions
+  - noaa-fisheries
+image: NOAA_FISHERIES_logoH.png
+bibliography: references.bib
+---
+
+**This is a professional development and leadership opportunity for NOAA National Marine Fisheries Service (NMFS; NOAA Fisheries)** research groups to explore open data science practices. The self-nomination process is now closed. This opportunity is funded as part of the August 2024 announcement: [Biden-Harris Administration announces \$34 million to modernize NOAA Fisheries’ data, infrastructure and workforce](https://www.fisheries.noaa.gov/media-release/biden-harris-administration-announces-34-million-modernize-noaa-fisheries-data)!
+
+[Openscapes](https://openscapes.org) is an approach for doing better science in less time \[@lowndes2017\]. We help research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes' mentorship and community engagement approaches center on open data science as kinder science [@lowndes2019], enabling increased efficiency and resilience for teams so that their work has more enduring impact.
+
+[Openscapes Champions](https://openscapes.org/initiatives#champions-program) is an open data science mentorship program for science teams. It is a multi-month program that is designed to ignite incremental and sustainable change within research teams and beyond. It helps teams get their own work done, while building skills and community within the realities of scientists’ busy schedules, varying expertise and needs. **From October through December 2024, 120 NMFS researchers will participate in 3 concurrent cohorts.**
+
+### Resources
+
+-   [NMFS Openscapes](https://nmfs-openscapes.github.io)
+-   Blog posts about [NMFS Openscapes](https://openscapes.org/blog#category=noaa-fisheries) and past [Champions](https://openscapes.org/blog#category=champions)
+-   [Nationwide Openscapes Training at NOAA Fisheries Science Centers: Facilitating Collaboration, Skill-sharing, and Open Science](https://openscapes.org/blog/2023-01-24-noaa-nmfs-fall/)
+-   [NMFS Open Science](https://nmfs-opensci.github.io/)
+
+![](NOAA_FISHERIES_logoH.png){fig-alt="logo of NOAA Fisheries on left with text NOAA FISHERIES on right" width="30%"}

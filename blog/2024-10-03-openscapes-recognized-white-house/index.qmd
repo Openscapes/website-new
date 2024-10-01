@@ -43,11 +43,11 @@ The White House recognition follows from an [Openscapes submission](https://docs
 
 ::: grid
 ::: g-col-6
-![Ileana and Julie representing Openscapes at the White House](white-house-ileana-julie-poster.jpg){fig-alt="txt" fig-align="left"}
+![Ileana and Julie representing Openscapes at the White House](white-house-ileana-julie-poster.jpg){fig-alt="a Black woman and a white woman smiling standing in front of a large single storey building holding a large sign with logo of The White House and text 'Celebrating OSTP's Year of Open Science Recognition Challenge Winners dated September 19, 2024'" fig-align="left"}
 :::
 
 ::: g-col-6
-![Recognition Challenge winners on the Navy Steps of the EEOB.](white-house-eeob-steps.jpg){fig-alt="txt" fig-align="left"}
+![Recognition Challenge winners on the Navy Steps of the EEOB.](white-house-eeob-steps.jpg){fig-alt="photo of a group of about 25 women and men standing on steps of a white-grey building that has 2 stories visible with pairs of pillars over the entrance. 3 people hold a large sign with logo of The White House and text 'Celebrating OSTP's Year of Open Science Recognition Challenge Winners dated September 19, 2024'" fig-align="left"}
 :::
 :::
 
@@ -64,7 +64,7 @@ The White House recognition follows from an [Openscapes submission](https://docs
 
 Our big ask was that there aren’t enough examples of what a sustainable career in open science looks like – people need to be paid to learn, teach, contribute to open source, and collaborate across organizations. If we’re asking people to change the way they work for open science, we need to change the way we work too – what levers can we pull with contracts, procurement, and reporting to fund that work and make it enduring. Ileana also underscored how important investing in HBCUs is, as they provide a huge proportion of our workforce.
 
-![Julie and Ileana in Vice President Kamala Harris’ office!](white-house-vpharris-office.jpg){width="70%"}
+![Julie and Ileana in Vice President Kamala Harris’ office!](white-house-vpharris-office.jpg){fig-alt="selfie of a white woman and a Black woman smiling standing under a chandelier and in front of an ornate wall with gilt accents with 3 large portraits of men and 3 large windows" width="70%"}
 
 **Watch the [Community Call recording](https://www.youtube.com/watch?v=uKAm3uEyUks) and browse the [collaborative notes](https://docs.google.com/document/d/1SQrGuMmhc4FDjdihJbkv5uCW4_0uoRjVQui_D9QEVAs/edit?usp=sharing)** to hear more about The White House, our experiences, and the other awesome groups recognized there. You’ll also hear reflections about the Open Science Dynamic Convergence Workshop that we attended, organized by the Open Research Community Accelerator (ORCA), in collaboration with CERN and UNESCO and with the participation of NASA and the National Science Foundation. This was a real international group and exciting to engage with open science on a more global scale. The collaborative notes also have Julie’s talking points from the panel.
 

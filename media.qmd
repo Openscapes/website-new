@@ -72,6 +72,8 @@ aliases:
 
 *See [NASA-Openscapes](https://nasa-openscapes.github.io/) and [NMFS-Openscapes](https://nmfs-openscapes.github.io/) for many additional presentations from NASA and NOAA Fisheries Mentors!*
 
+- [How Openscapes supports teams in open data science: stories of how we work](https://docs.google.com/presentation/d/1GU48_Trlsw3gXSCsntZmFy0FUqYcv44e19v4TYfl3yQ/edit?usp=sharing) - Julie Lowndes. October 7, 2024. University of Wyoming (NBRE and Zoo/Phys, and RLadies Laramie).
+
 - [Forking as a Worldview: A big idea that frames Openscapes thinking](https://docs.google.com/presentation/d/1u0pQ3p3eNMxPn44GsZF0OKxhnJem7MD_3MWp8W_qXp8/edit#slide=id.g2f7acce46f8_0_357) - Julie Lowndes. September 10, 2024. NASA Earthdata PI Planning Plenary.
 
 - [Openscapes: Kinder science for future us](https://docs.google.com/presentation/d/1yOTdJcvWdVWSLIE72L4cCN2b22y-6ZDlOouqP1i_bSI/edit#slide=id.g2c1dee5ed55_3_272) - Julie Lowndes, Devan Burke, Anna Holder. August 22, 2024. California Department of Water Resources (DWR).

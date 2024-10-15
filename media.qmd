@@ -18,7 +18,7 @@ aliases:
 
 -   Alexa Fredston & Julia Stewart Lowndes [Welcoming More Participation in Open Data Science for the Oceans](https://www.annualreviews.org/doi/full/10.1146/annurev-marine-041723-094741), Annual Review of Marine Science, 2024
 
--   Julia Lowndes et al. [Shifting institutional culture to develop climate solutions with Open Science](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341), Ecology and Evolution, 2024 ([preprint](https://eartharxiv.org/repository/view/5948/))
+-   Julia Stewart Lowndes, Anna M. Holder, Emily H. Markowitz, Corey Clatterbuck, Amanda L. Bradford, Kathryn Doering, Molly H. Stevens, Stefanie Butland, Devan Burke, Sean Kross, Jeffrey W. Hollister, Christine Stawitz, Margaret C. Siple, Adyan Rios, Jessica Nicole Welch, Bai Li, Farnaz Nojavan, Alexandra Davis, Erin Steiner, Josh M. London, Ileana Fenwick, Alexis Hunzinger, Juliette Verstaen, Elizabeth Holmes, Makhan Virdi, Andrew P. Barrett, Erin Robinson (2024). [Shifting institutional culture to develop climate solutions with Open Science](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341), Ecology and Evolution, 2024 ([preprint](https://eartharxiv.org/repository/view/5948/))
 
 -   Erin Robinson & Julia Stewart Lowndes. [The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices](https://eartharxiv.org/repository/view/4560/), preprint, 2022
 
@@ -82,6 +82,8 @@ aliases:
 
 - [How Openscapes supports teams in open science: stories of how we work](https://docs.google.com/presentation/d/1oc_VKU8lAC1CCt8gUHPme9WJI-P6VDWewPL7kgaiews/edit#slide=id.g26d6096c9c0_0_112) - Julie Lowndes. August 7, 2024. National Institutes of Health (NIH) Biomedical Informatics Coordinating Committee (BMIC)
 
+- [Hello from your Co-Chairs](https://docs.google.com/presentation/d/1A7ytF_Ogqv6anEWsuSAmLk31_pTr8h7mf3oR9n_z2kc/edit#slide=id.g2e1f80240f3_0_17) - Liz Neeley (Liminal) & Julie Lowndes (Openscapes). June 4-5, 2024. NIH NLM (National Libraries of Medicine) Workshop on advancing a networked approach to equitable open science. Washington, DC.
+
 -   [Openscapes Champions Program and stories of how we work](https://docs.google.com/presentation/d/1RniOnk4BgkOU0Ynm9EeeEO620h0ZEV-z41_EuhCfLys/edit#slide=id.g26d6096c9c0_0_112) - Julie Lowndes. April 5, 2024. Tribal Coding Group
 
 -   [Openscapes: Open science as movement building for kinder science for future us](https://docs.google.com/presentation/d/1hiSL6lN8Kx616P_e3ljGS0KJxMCxpjlczQddL6ZhxIE/edit?usp=sharing) - Julie Lowndes. March 22, 2024, [Year of Open Science Culminating Conference](https://www.cos.io/yos-conference) (10 min)
@@ -92,7 +94,7 @@ aliases:
 
 -   [Onboarding fisheries scientists to Open Science to participate in integrating collaborative and inclusive principles into education, workforce development, and community management](https://docs.google.com/presentation/d/1SY1KByKxSehOu4TCy_DbmxRkFtT404Sp_9fO_qlA_O4/edit?usp=sharing) - Organizers: Gavin Fay (Univ Massachusetts Dartmouth), Eli Holmes (NOAA Fisheries Open Science), Christine Stawitz (NOAA Fisheries Office of Science & Tech), Julie Lowndes (Openscapes). March 4, 2024. World Fisheries Congress, Seattle Washington
 
--   [NASA Openscapes: Approaches and Stories of Kinder, Open Science in the Cloud](https://docs.google.com/presentation/d/1RPPgWDqoA9Ppyk0pXpY717xqKSwLr_5Ek4-nEOoYBGw/edit?usp=sharing) - Julie Lowndes, Erin Robinson & NASA Openscapes Mentors. Dec 15, AGU Fall Meeting (10 minutes)
+-   [NASA Openscapes: Approaches and Stories of Kinder, Open Science in the Cloud](https://docs.google.com/presentation/d/1RPPgWDqoA9Ppyk0pXpY717xqKSwLr_5Ek4-nEOoYBGw/edit?usp=sharing) - Julie Lowndes, Erin Robinson & NASA Openscapes Mentors. Dec 15, 2023, AGU Fall Meeting (10 minutes)
 
 -   [Openscapes Champions Intro for EPA CEMM Pilot #2](https://docs.google.com/presentation/d/1DAJifd6ahjTKKYLsU2t4NRNZwQHbDUHo5cqmFsYvdhk/edit?usp=sharing) - Dec 6, 2023. (20 minutes)
 

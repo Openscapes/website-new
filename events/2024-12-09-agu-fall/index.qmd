@@ -18,12 +18,32 @@ We're thrilled that so many members of our broader Openscapes community are pres
 
 ![](agu-fall-2024.png){fig-alt="AGU 2024 meeting logo white text on blue background says AGU24 Washington, DC | 9-13 December 2024 above a teal horizontal line, then text What's Next for Science" fig-align="center" width="400"}
 
-Monday posters: fledging poster is cross-NASA DAACs. py-rocket talk is NASA-NMFS-UCB. Solutions & Solvers talk is following White House visit and Challenge.gov
+## Monday Dec 09
 
-EPA has a talk
+**Talk**: \`py-rocket\`: A Docker image to promote cross-language (Python, R) collaboration across diverse user platforms for cloud computing in the earth sciences (Invited). Eli Holmes (NOAA Fisheries), Carl Boettiger (UC Berkeley), Luis López (NASA NSIDC). [AGU link](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1619232)
 
-*2022 examples*
+**Poster**: Supporting NASA Earthdata users in the Cloud: NASA Openscapes JupyterHub and User Onboarding & Fledging. Julie Lowndes (Openscapes) [AGU link](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1708480)
 
-**Supporting open science as a daily practice** - December 16, 2022 - Julie Lowndes, Erin Robinson, Openscapes Mentors. AGU Fall Conference Talk, "The Future is Open" session
+**Poster**: Including more solutions and more solvers via actionable open science. Julie Lowndes (Openscapes) [AGU link](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1709763)
 
-**earthaccess: A Python Library for NASA Earthdata** - December 13, 2022 - Luis López, Andrew P. Barrett, Julie Lowndes, Joseph H. Kennedy, Erin Robinson, Amy Steiker, Jessica Scheick, The NASA Openscapes mentors team. Poster.
+## Tuesday Dec 10
+
+**Poster**: Comparison of gas columns retrieved by TEMPO and Pandora – ASDC tools and results. 08:30 - 12:20 EST. Point of Contact: Daniel Kaufman (NASA ASDC) and Hazem Mahmoud (NASA ASDC)
+
+## Wednesday Dec 11
+
+**Poster**: The earthaccess Python Library: Awesome Discovery and Access of NASA Earthdata. 08:30 – 12:20 EST. Point of Contact: Amy Steiker (NASA NSIDC)
+
+**Poster**: "PACE Hackweek: An open community keeping up with PACE" \@ 08:30 – 12:20 EST; Point of Contact: Ian Carroll (NASA/GSFC, UMBC)
+
+## Thursday Dec 12
+
+**Talk**: Chaining together Data Transformations in the Cloud for TEMPO Air Quality Measurements (Invited). 15:20 - 15:30 EST. Point of Contact: Daniel Kaufman (NASA ASDC), Hazem Mahmoud (NASA ASDC), and Matt Tisdale (NASA ASDC)
+
+## Friday Dec 13
+
+**Talk**: Cultivating open and collaborative data science at a U.S. EPA research center. 10:20 – 11:50 EST. Point of Contact: Gayle Hagler (EPA)
+
+## Saturday Dec 14
+
+**Hackday with Pangeo**: We'll join Pangeo hackday to meet and work with other awesome open science/cloud/geospatial folks!

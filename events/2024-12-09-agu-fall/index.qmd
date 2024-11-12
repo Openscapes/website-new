@@ -1,28 +1,29 @@
 ---
-title: "AGU: The Future is Open"
-description: |
-  Openscapes presentations at the American Geophysical Union (AGU) fall 2022 conference
-author:
-  - name: AGU and Openscapes
-    url: {}
-date: 2022-12-13
+title: "AGU: What's Next for Science"
+description: "Presentations from the Openscapes community - NASA Earthdata, NOAA Fisheries, EPA, and the Openscapes Team -  at the American Geophysical Union (AGU) 2024 conference"
+author: AGU and Openscapes
+date: 2024-12-09
 categories: 
   - event 
   - conference
   - nasa-framework
-image: "agu-fall-2022.png"
+image: "agu-fall-2024.png"
 ---
 
-We presented three posters and a plenary lightning talk at the [AGU Fall 2022 meeting](https://www.agu.org/Fall-Meeting).
+*Cross-posted at [openscapes.org/blog](https://openscapes.org/blog), [nmfs-openscapes.github.io/blog](https://nmfs-openscapes.github.io/blog), [nasa-openscapes.github.io/news](https://nasa-openscapes.github.io/news.html), [openscapes.github.io/pathways-to-open-science/blog](https://openscapes.github.io/pathways-to-open-science/blog.html)*
 
-![](agu-fall-2022.png){fig-alt="AGU Fall 2022 meeting logo white text on blue background says \"AGU Fall Meeting. Science Leads the Future. Chicago, Il & online everywhere\"" fig-align="center" width="234"}
+------------------------------------------------------------------------
+
+We're thrilled that so many members of our broader Openscapes community are presenting talks and posters at the [AGU Fall 2024 meeting](https://www.agu.org/annual-meeting). Browse below for details.
+
+![](agu-fall-2024.png){fig-alt="AGU 2024 meeting logo white text on blue background says AGU24 Washington, DC | 9-13 December 2024 above a teal horizontal line, then text What's Next for Science" fig-align="center" width="400"}
+
+Monday posters: fledging poster is cross-NASA DAACs. py-rocket talk is NASA-NMFS-UCB. Solutions & Solvers talk is following White House visit and Challenge.gov
+
+EPA has a talk
+
+*2022 examples*
 
 **Supporting open science as a daily practice** - December 16, 2022 - Julie Lowndes, Erin Robinson, Openscapes Mentors. AGU Fall Conference Talk, "The Future is Open" session
 
 **earthaccess: A Python Library for NASA Earthdata** - December 13, 2022 - Luis López, Andrew P. Barrett, Julie Lowndes, Joseph H. Kennedy, Erin Robinson, Amy Steiker, Jessica Scheick, The NASA Openscapes mentors team. Poster.
-
-**NASA Openscapes: Lessons Learned supporting Cross-DAAC User Services to migrate to the Cloud** - December 13, 2022, Aaron Friesz, Alexis Hunzinger, Amy Steiker, Catalina Oaida Taglialatela, Luis López, Cassandra Nickles, Bri Lind, Mahsa Jami, Celia Ou, Julia Stewart Lowndes, Erin Robinson, NASA Openscapes DAAC Mentor Community. Poster.
-
-**Curating information to guide NASA Earthdata users into the cloud with workflow diagrams and cheatsheets** - December 13, 2022 - Cassandra Nickles, Catalina Oaida Taglialatela, Julie Stewart Lowndes, Amy Steiker, Alexis Hunzinger, Aaron Friesz. Poster.
-
-[Details](https://nasa-openscapes.github.io/about.html#slides) with links to slides

@@ -1,5 +1,7 @@
 project:
   type: website
+execute:
+  freeze: auto
 
 website:
   favicon: images/favicon/favicon_fullres.png
@@ -7,13 +9,13 @@ website:
   title: "Openscapes"
   navbar:
     title: false
-    logo: images/logo/openscapes_hex_badge.png 
+    logo: images/logo/openscapes_hex_badge.png
     logo-alt: "A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment."
     right:
       - text: "HOME"
-        href: index.qmd    
+        href: index.qmd
       - text: "APPROACH"
-        href: approach.qmd            
+        href: approach.qmd
       - text: "ABOUT"
         menu:
           - text: "ABOUT US"
@@ -21,13 +23,13 @@ website:
           - text: "OUR TEAM" # Do we need this as separate navbar item or is ABOUT US enough?
             href: team.qmd
           # - text: "HOW WE WORK" ## HOLD OFF on stories - maybe this is actually how-we-work.
-          #   href: stories.qmd 
+          #   href: stories.qmd
           - text: "OPEN RESOURCES"
-            href: resources.qmd            
+            href: resources.qmd
           - text: "MEDIA"
             href: media.qmd
           - text: "CODE OF CONDUCT"
-            href: code-of-conduct.qmd 
+            href: code-of-conduct.qmd
       - text: "INITIATIVES"
         menu:
           - text: "ALL INITIATIVES"
@@ -37,8 +39,8 @@ website:
           - text: "NASA OPENSCAPES"
             href: initiatives.qmd#nasa-openscapes
           - text: "NOAA FISHERIES OPENSCAPES"
-            href: initiatives.qmd#nmfs-openscapes            
-          - text: "MENTORS FRAMEWORK"  
+            href: initiatives.qmd#nmfs-openscapes
+          - text: "MENTORS FRAMEWORK"
             href: initiatives.qmd#mentors-framework
           - text: "PATHWAYS TO OPEN SCIENCE PROGRAM"
             href: initiatives.qmd#pathways-to-open-science-program
@@ -47,9 +49,9 @@ website:
       - text: "BLOG"
         href: blog.qmd
       - text: "CONNECT"
-        menu: 
+        menu:
            - text: "CONNECT WITH US"
-             href: connect.qmd 
+             href: connect.qmd
            - text: "EVENTS"
              href: events.qmd
       - icon: github
@@ -60,20 +62,16 @@ website:
         href: mailto:hello@openscapes.org
       - icon: rss
         href: blog.xml
-  
-  page-footer:    
+
+  page-footer:
     background: light
     left: Openscapes is licensed under a [Creative Commons Attributions 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
     right: This website is built with {{< fa heart title="a heart" >}} and [Quarto](https://quarto.org/)
-      
+
 format:
   html:
     page-layout: full
     toc: false
-    theme: 
+    theme:
       - styles.scss
     mainfont: Sen
-
-
-
-

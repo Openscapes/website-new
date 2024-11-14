@@ -1,10 +1,14 @@
+# ----- Quarto plugin to render on netlify --- #
+[[plugins]]
+package = "@quarto/netlify-plugin-quarto"
+
 # ---------------- main pages ---------------- #
 
 [[redirects]]
   from = "/about/"
   to = "/about"
   status = 301
-  
+
 [[redirects]]
   from = "/approach/"
   to = "/approach"
@@ -14,12 +18,12 @@
   from = "/blog/"
   to = "/blog"
   status = 301
-  
+
 [[redirects]]
   from = "/champions/"
   to = "/champions-program"
   status = 301
-  
+
 [[redirects]]
   from = "/code-of-conduct/"
   to = "/code-of-conduct"
@@ -44,7 +48,7 @@
   from = "https://openscapes.github.io/events/"
   to = "/events"
   status = 301
-  
+
 [[redirects]]
   from = "/faq/"
   to = "/faq"
@@ -59,7 +63,7 @@
   from = "/media/"
   to = "/media"
   status = 301
-  
+
 [[redirects]]
   from = "/resources/"
   to = "/resources"
@@ -69,11 +73,11 @@
   from = "/team/"
   to = "/team"
   status = 301
-  
+
 [[redirects]]
   from = "https://openscapes.github.io/pathways-to-open-science/"
   to = "/pathways-to-open-science"
-  status = 301  
+  status = 301
 
 # ---------------- blog posts ---------------- #
 
@@ -628,7 +632,7 @@
 	from = "https://openscapes.github.io/events/posts/2022-09-13-tidepool-digital/"
 	to = "/events/2022-09-13-tidepool-digital/"
 	status = 301
-	
+
 [[redirects]]
 	from = "https://openscapes.github.io/events/posts/2022-08-17-swrcb-champions/"
 	to = "/events/2022-08-17-swrcb-champions/"
@@ -763,7 +767,7 @@
 	from = "https://openscapes.github.io/events/posts/2021-05-07-coast-champions/coast.html"
 	to = "/events/2021-05-07-coast-champions/"
 	status = 301
-	
+
 [[redirects]]
 	from = "https://openscapes.github.io/events/posts/2021-03-12-nwfsc/"
 	to = "/events/2021-03-12-nwfsc/"

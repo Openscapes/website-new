@@ -1,5 +1,5 @@
 ---
-title: " "
+title: ""
 # title-block-banner: images/banner_imgs/original_banners/horst_openscapes_desert_breadcrumbs.png 
 aliases: 
   - https://www.openscapes.org/champions/

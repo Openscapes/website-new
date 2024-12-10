@@ -72,6 +72,8 @@ aliases:
 
 *See [NASA-Openscapes](https://nasa-openscapes.github.io/) and [NMFS-Openscapes](https://nmfs-openscapes.github.io/) for many additional presentations from NASA and NOAA Fisheries Mentors!*
 
+- [How Openscapes supports teams in open science: stories of how we work](https://docs.google.com/presentation/d/1rAerlv8vsw1ga8cRSVbiMdOifeSISWV5nLij0Cx7L-4/edit#slide=id.g21f3e4cd791_0_2155) - Ileana Fenwick & Julie Lowndes. December 10, 2024. National Science Foundation Open Science Hours
+
 - [Forking as a Worldview: A big idea that frames Openscapes thinking & how we work.](https://docs.google.com/presentation/d/1aL0TVFM7xxzTCJoE3tEArDE32wh59wkmBCy6Vcmwvy4/edit?usp=sharing) - Julie Lowndes. November 18, 2024. RLadies Rome.
 
 -   [How Openscapes supports teams in open data science: stories of how we work](https://docs.google.com/presentation/d/1GU48_Trlsw3gXSCsntZmFy0FUqYcv44e19v4TYfl3yQ/edit?usp=sharing) - Julie Lowndes. October 7, 2024. University of Wyoming (NBRE and Zoo/Phys, and RLadies Laramie).

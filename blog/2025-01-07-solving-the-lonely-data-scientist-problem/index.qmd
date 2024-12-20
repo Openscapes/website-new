@@ -5,7 +5,7 @@ author:
     orcid: 0000-0001-9878-9166
 date: 2025-01-07
 citation: 
-  url: https://openscapes.org/blog/2024-10-03-openscapes-recognized-white-house
+  url: https://openscapes.org/blog/2025-01-07-solving-the-lonely-data-scientist-problem
 categories: [blog, how-we-work, coding]
 image: trail.jpg
 ---

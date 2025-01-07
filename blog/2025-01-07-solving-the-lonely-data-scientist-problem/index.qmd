@@ -1,0 +1,83 @@
+---
+title: "Solving the lonely data scientist problem"
+author:
+  - name: Monica Gerber
+    orcid: 0000-0001-9878-9166
+date: 2025-01-07
+citation: 
+  url: https://openscapes.org/blog/2025-01-07-solving-the-lonely-data-scientist-problem
+categories: [blog, how-we-work, coding]
+image: trail.jpg
+---
+
+*Cross-posted from [Monica Gerber's blog](https://www.monicagerber.com/blog/2024-12-17-solving-the-lonely-data-scientist-problem/)*
+
+------------------------------------------------------------------------
+
+There is a well documented problem across statisticians, data scientists, and data analysts. Whether they are an [isolated data scientist](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375985) or are embedded on a team of statisticians, they tend to do their [work alone](https://www.ethanrosenthal.com/2023/01/10/data-scientists-alone/?utm_source=vicki&utm_medium=email&utm_campaign=write-code-with-your-alphabet-radio-on). Even if your team is using git and GitHub, it doesn't mean that people are reading each other's code.
+
+The longer that I worked as a statistician on research teams, the more I became convinced that code review should be a key component of this job and would solve the problem of working in isolation. How else would I grow and if I wasn't looking at others' work and having someone review mine? If you are a writer or editor, one of the key ways you get better at your craft is by reading widely and sharing drafts. I started advocating for a code review system in my group. However, each time I tried to implement this practice it felt like it never really stuck.
+
+I couldn't understand why [code review in the lab](https://ropensci.org/blog/2018/11/29/codereview/) was such a difficult practice to establish. Even though it's not a typical practice in the research environments where I worked, the benefits felt apparent. However, it was hard to justify incorporating code review into our work patterns when others viewed it as an additional hurdle to getting things done. I realized later that my request for the group to implement code review failed because I was actually asking the group to adopt a different, *team mindset* for how they approached their work and to develop *different patterns of interacting with each other*.
+
+## The mindset shift
+
+Code review is hard to implement because we tend to view it as a technical change for teams (learning git, setting up an organizational Github, etc.), rather than a shift in how we interact with each other. Mentoring research teams through [Openscapes](https://openscapes.org/blog/2023-12-04-fred-hutch/) helped me understand this failure of implementation more clearly. Openscapes has been pivotal in fostering a conversation about how teams must adopt [new patterns of interacting](https://eartharxiv.org/repository/view/4560/) with each other to solve pressing scientific issues like climate change. Critically, Julia Lowndes, Openscapes Co-founder, points out, teams must implement new [social infrastructure alongside technical infrastructure](https://www.youtube.com/watch?v=OVM5Ok7W1NQ) to [reshape how we do science](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341).
+
+The Openscapes mindset teaches us different ways of working in teams to increase the speed at which we solve big problems. This is a much loftier goal than my own personal goal to decrease isolation in the workplace and improve team morale! But Openscapes showed me that part of my frustration of working in isolation was connected to the larger picture of moving forward from old approaches of working to an Open Science culture.
+
+Below, I dig into the friction I've observed when data science teams[^1] try to adopt [code review](https://se-radio.net/2020/02/episode-400-michaela-greiler-on-code-reviews/)[^2], and how a socio-technical approach can move a team from a group of individuals struggling to move forward together, to a group that practices team science.
+
+[^1]: I use "data science teams" and "statistical teams" interchangeably here.
+
+[^2]: By "code review" I am referring broadly to activities involving reading and reviewing code, from reading and reproducing an analysis notebook, to reviewing a pull request on a shared code repository or software package.
+
+## Friction #1: None of our training has taught us how to do this
+
+First, it's important to acknowledge that most of our educational training did not cover code review, why it might be important, or how to do it. In my experience, there is more of a mindset that code is either 'right' or 'wrong', but not that writing code is a practice to develop or get better at. Additionally, many programs do not teach the tools needed, such as version control, that would help enable code review (historically, at least -- this is changing).
+
+To move forward, team leaders must empower a learning culture. This means not only setting aside the time to learn and take courses, but practicing and demonstrating how to be a learner. Prioritize learning over knowing, and acknowledge that people with all levels of experience have something to learn. Consider scheduling a regular collaborative learning meeting where people have the space to practice, get feedback and learn together (see Openscapes' [Seaside](https://openscapes.org/blog/2019-03-10-seaside-chats/) [Chats](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341)).
+
+## Friction #2: We're afraid of being wrong and embarassed to make errors
+
+There is a subset of statistical programmers who work on clinical trials whose job is to "double program." These statisticians independently write scripts and then compare the data outputs of those scripts for equality. This practice is an example of how, in the biomedical realm, we are focused on getting the output just right, but the work that goes into its creation is hidden, sometimes intentionally. And the programmer becomes the only parameter to safeguard against errors. Because we're used to only checking the output, and we haven't developed the practice of others reading our code and giving feedback, it makes us feel vulnerable to all of a sudden have someone peeking in.
+
+The reality is that when we start looking at more code, a lot of it will be less than ideal -- due to the fact that a lot of us are self-taught or have developed our own practices in isolation. In addition to learning version control and code collaboration tools, there is a real need for learning better programming practices.
+
+While we upskill by learning how to modularize our code, write functions, create unit tests, and nix hard coding variables, it's crucial to develop [psychological safety](https://openscapes.github.io/approach-guide/approach/#psychological-safety) on teams and an environment where people feel comfortable with discussing mistakes ("blameless post mortem" culture). In [Opinionated Analysis Development](https://peerj.com/preprints/3210/), Hilary Parker discusses how to shift our paradigm from viewing an analysis error as an individual's fault to viewing an error as a symptom of a failed system -- this is in contrast to the "double programming" model where any errors that arise are due to a mistake made by the programmer. Managers should also expect that some team members will have [anxiety related to code review](https://link.springer.com/article/10.1007/s10664-024-10550-9) and may need more support (see the [Code Review Anxiety Workbook](https://developer-success-lab.gitbook.io/code-review-anxiety-workbook-1)).
+
+## Friction #3: Our collaborators value the output, not the code development process
+
+In multi-disciplinary scientific teams, we collaborate with other domain experts who may only be interested in seeing the output of code, for example, a figure or a table. The code used to produce outputs is often undervalued or invisible. This is especially true in fields where data is sensitive or restricted (e.g. human subjects research) and open-source tools or practices are harder to implement. If collaborators never see the code, and the code and/or data is not published along with the findings, statisticians are less likely to put the time into improving the code base for the research they are conducting.
+
+This creates a source of consistent and burdensome [technical debt](https://posit.co/resources/videos/technical-debt-is-a-social-problem/) on data science teams. Speed of delivery is prioritized over making things easier for our future selves or co-workers. Even if we can't publish our code and data in a public repository, and not all of our collaborators will value a beautiful code base, investing in the code base will pay off in terms of future time and increased team morale.
+
+In addition to improving our programming skills, there are many tools that we can adopt to improve our code bases and reduce technical debt. Some examples are [style](https://style.tidyverse.org) [guidelines](https://docs.google.com/presentation/d/11eFyIS9K2U4z31VliHqtyaKSUihr3cZBAdKSzktMV7w/edit?usp=sharing) and linters, [templates](https://github.com/FredHutch/VISCtemplates) and [research](https://research-compendium.science) [compendiums](https://github.com/karthik/rstudio2019), and common packages and workflows. However, the team must work together to agree upon the set of shared practices and norms that create the structure that these tools try to implement. Teams must care for their code base, develop an [opinionated approach](https://peerj.com/preprints/3210/) to development, and set aside time to work on shared infrastructure.
+
+## Friction #4: There's not enough time to read code, and when we do, it's hard!
+
+When teams first set up a code review process, it often feels overwhelming. It makes a bunch of technical debt more visible, and there's the pressure on people's time not only to learn, but to now spend time reading code. So while teams are getting started with version control, using package managers, and setting up reproducible environments so that others can run their code, a shift in how the team spends their time may be necessary.
+
+[Kudrjavets and Rstogi's research on code velocity](https://link.springer.com/article/10.1007/s10664-023-10401-z) among software engineers resulted in suggestions for improving the speed of code review. Some of their recommendations include prioritizing follow-up changes (what is critical vs. suggested), being mindful of the size of the code review, and setting aside time for code review. They found that developers spend almost 20% of the work week on reviewing code. I suspect that if this time is not recognized and accounted for on statistical teams, reviewing code is likely to be devalued.
+
+The overwhelm that reviewing code can bring about is also related to the cognitive load that's needed to read an unfamiliar code. Felienne's book, [The Programmer's Brain](https://www.manning.com/books/the-programmers-brain) is an excellent resource for statisticians who would like to get better at reading code and onboarding new team members to a new code base. I like this book because it recognizes that reading code and learning new coding languages is a skill that takes practice and that we can develop.
+
+| Technical Infrastructure | Social Infrastructure |
+|------------------------------------|------------------------------------|
+| Version control (git) | Investment in learning and trust |
+| GitHub and Git Flow | Team psychological safety, learning how to to give and receive feedback, time set aside for code review |
+| Better programming practices (modularizing code, learning to write functions, using a linter, etc.) | Shared guidelines (e.g. a style guide), blameless post mortem culture |
+| Research compendium model, shared templates and workflows | Develop practice of contributing to a shared code base |
+| Reproducibility tools (package management, reproducible computing environments, etc.) | Cultural shift from valuing only outputs of code to valuing the code base as something that needs to be reproduced and maintained over time. |
+
+: Table 1. Technical and social practices that enable code review {.striped .hover}
+
+## In conclusion
+
+Changing the way we work can feel overwhelming due to the uncertainty it creates and the pressures it can place on our time. However, it should also feel exciting and invigorating. That's why I love Julia Lowndes and Erin Robinson's analogy to embarking on a journey and [creating a trail system](https://eartharxiv.org/repository/view/4560/):
+
+> The Open science trail systems, as in real life, don't just happen overnight. They become worn in through use or they are built with intentional investment.
+
+Arriving at the trailhead brings a rush of energy, but at the same time feelings of fear of the unknown or doubts about bandwidth can be ameliorated by traveling "safely together, intentionally." As teams set off on their journey, I hope they pack their social infrastructure--their first aid training and campfire songs--along with their map and compass.
+
+![](trail.jpg){fig-alt="photo with narrow dirt hiking trail across a steeply inclined green mountainside in the foreground and a marmot on the trail facing away from camera. Snow covered mountains in background. Dark green conifers in midground. Blue sky with a few happy white clouds." fig-align="center" width="80%"}

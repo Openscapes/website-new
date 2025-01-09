@@ -3,14 +3,16 @@ title: "openscapes.cloud: A central place for Openscapes JupyterHubs and documen
 author:
   - name: Andy Teucher
     orcid: 0000-0002-7840-692X
-date: 2025-01-08
+date: 2025-01-09
 citation: 
-  url: https://openscapes.org/blog/2025-01-08-openscapes.cloud/
+  url: https://openscapes.org/blog/2025-01-09-openscapes.cloud/
 categories: [blog, nasa-framework, noaa-fisheries]
 image: openscapes-cloud-homepage.png
 ---
 
 *We have created a centralized web resource for the [2i2c](https://2i2c.org) JupyterHubs that we host with NASA and NOAA Fisheries, for learning and experimenting with cloud computing: <https://openscapes.cloud>*
+
+*Cross-posted at [openscapes.org/blog](https://openscapes.org/blog), [nasa-openscapes.github.io/news](https://nasa-openscapes.github.io/news.html), [nmfs-openscapes.github.io/blog](https://nmfs-openscapes.github.io/blog.html)*
 
 ----------------------------------
 

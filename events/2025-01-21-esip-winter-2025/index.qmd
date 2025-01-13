@@ -1,0 +1,16 @@
+---
+title: "ESIP Virtual Meeting Winter 2025"
+description: Stories of governance and open science culture change in government
+author: Openscapes
+date: 2025-01-21
+categories: 
+  - event 
+  - conference
+  - noaa-fisheries
+image: "esip-logo.png"
+---
+
+At the 2025 ESIP Winter Meeting, Eli Holmes and Julie Lowndes will share the story of the GitHub Governance efforts at NOAA Fisheries that are possible because of the cross-organizational Mentors community! If you’re able to attend, it will be a great conference.
+
+**[Stories of governance and open science culture change in government](https://2025januaryesipmeeting.sched.com/event/1snZs/stories-of-governance-and-open-science-culture-change-in-government)**, Thursday January 23, 2025 1:30pm - 3:00pm EST
+

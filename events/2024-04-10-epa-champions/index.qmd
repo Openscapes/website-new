@@ -12,9 +12,11 @@ image: openscapes_hex.png
 
 ## Program overview
 
-**This is a professional development and leadership opportunity for U.S. Environmental Protection Agency research groups to explore open data science practices.**
+**This was a professional development and leadership opportunity for U.S. Environmental Protection Agency research groups to explore open data science practices.**
 
-At the 2024 AGU conference, Gayle Hagler, Associate Director of the Center for Environmental Measurement & Modeling, U.S. EPA Office of Research and Development, gave a talk highlighting stories from EPA Openscapes Champions: Cultivating open and collaborative data science at a U.S. EPA research center - Gayle Hagler, Jeffrey Hollister, Farnaz Nojavan, Michael McManus, Julie Lowndes, Stefanie Butland. December 13, 2024. AGU conference.
+At the 2024 AGU conference, Gayle Hagler, Associate Director of the Center for Environmental Measurement & Modeling, U.S. EPA Office of Research and Development, gave a talk highlighting stories from EPA Openscapes Champions: [Cultivating open and collaborative data science at a U.S. EPA research center](https://drive.google.com/file/d/1yyzfAFgKfASomabzvg9qCCCt6fVFYu-k/) - Gayle Hagler, Jeffrey Hollister, Farnaz Nojavan, Michael McManus, Julie Lowndes, Stefanie Butland.
+
+About this Cohort:
 
 [**Openscapes**](https://openscapes.org) is an approach for doing better science in less time ([Lowndes et al., 2017](https://doi.org/10.1038/s41559-017-0160)). We help research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes' mentorship and community engagement approaches center on open data science as kinder science ([Lowndes, 2019](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/)), enabling increased efficiency and resilience for teams so that their work has more enduring impact.
 

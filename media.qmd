@@ -72,7 +72,7 @@ aliases:
 
 *See [NASA-Openscapes](https://nasa-openscapes.github.io/) and [NMFS-Openscapes](https://nmfs-openscapes.github.io/) for many additional presentations from NASA and NOAA Fisheries Mentors!*
 
--   Cultivating open and collaborative data science at a U.S. EPA research center - Gayle Hagler, Jeffrey Hollister, Farnaz Nojavan, Michael McManus, Julie Lowndes, Stefanie Butland. December 13, 2024. AGU
+-   Cultivating open and collaborative data science at a U.S. EPA research center - Gayle Hagler, Jeffrey Hollister, Farnaz Nojavan, Michael McManus, Julie Lowndes, Stefanie Butland. December 13, 2024. AGU conference.
 
 -   [How Openscapes supports teams in open science: stories of how we work](https://docs.google.com/presentation/d/1rAerlv8vsw1ga8cRSVbiMdOifeSISWV5nLij0Cx7L-4/edit#slide=id.g21f3e4cd791_0_2155) - Ileana Fenwick & Julie Lowndes. December 10, 2024. National Science Foundation Open Science Hours
 

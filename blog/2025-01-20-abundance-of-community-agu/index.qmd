@@ -48,7 +48,7 @@ There were so many acts of reciprocity in the open source/open science community
 
 -   Walking in the cold to see all the Christmas and holiday lights with friends Nikki Tulley (NASA Indigenous Partner Initiative \[TODO google name\]) and Crista Straub (USGS) - these two also support and elevate stories of women using earth observation data with many interwoven international teams
 
--   Ian Carroll (NASA Mentor at OB.DAAC) inviting me to play pickleball with his graduate school friends from Santa Barbara...and when I was overcommitted and later expressed regret and fomo, generously introduced me to his friends via email so we can get together and play back home
+-   Ian Carroll (NASA Mentor at OB.DAAC) inviting me to play pickleball with his graduate school friends from Santa Barbara...and when I was overcommitted and later expressed regret and fomo, generously introduced me to his friends via email so we can get together and play back home.
 
 -   Seeing the `earthaccess` python library in many places: in talks, on posters, stickers on waterbottles! What a great library that people are proud to use and be a part of!
 

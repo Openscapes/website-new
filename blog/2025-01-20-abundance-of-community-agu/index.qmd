@@ -11,7 +11,7 @@ categories: [blog, nasa-framework, noaa-fisheries]
 #image: TODO
 ---
 
-*These are short reflections flying home from the AGU Fall Meeting, where I was buoyed by so many people. As we move into 2025, community is more critical than ever, and spending time on gratitude is a way of keeping grounded and resilient for days ahead. With that idea, I wanted to share some of my notes from December looking forward.*
+*These are short reflections as I fly home from the AGU Fall Meeting, where I was buoyed by so many people. As we move into 2025, community is more critical than ever, and spending time on gratitude is a way of keeping grounded and resilient for days ahead. With that idea, I wanted to share some of my notes from December looking forward.*
 
 *Quicklinks:*
 

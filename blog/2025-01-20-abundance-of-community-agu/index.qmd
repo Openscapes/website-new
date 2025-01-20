@@ -7,7 +7,7 @@ author:
 date: 2025-01-20
 citation: 
   url: https://openscapes.org/blog/2025-01-20-abundance-of-community-agu
-categories: [blog, nasa-framework, noaa-fisheries]
+categories: [blog, nasa-framework, noaa-fisheries, conference]
 #image: TODO
 ---
 

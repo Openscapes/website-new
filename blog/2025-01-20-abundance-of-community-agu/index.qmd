@@ -34,7 +34,7 @@ One of the themes of Serviceberry is the idea of succession ecology ...TODO
 
 There were so many acts of reciprocity in the open source/open science community. There were too many to mention fully here but examples that immediately come to mind:
 
--   **Openscapes Social** on Monday. Wow. Such a joy to be with folks; the picture didn’t capture everyone but a lot of us! I was so buoyed and thrilled to see so many people (\~30 throughout the evening) at a funky bar all together. There were Mentors from NASA, NOAA, Champions, and earthaccess and open source contribituros, Pangeo folks, and I met many for the first time! Thank you to the anonymous generous person who opened a bar tab for us before we arrived. That speaks volumes about this community and how we look out for each other with joy. Thank you!
+-   **Openscapes Social** on Monday. Wow. Such a joy to be with folks; the picture didn’t capture everyone but a lot of us! I was so buoyed and thrilled to see so many people (~30 throughout the evening) at a funky bar all together. There were Mentors from NASA and NOAA, Openscapes Champions, and `earthaccess` and other open source contributors, Pangeo folks, and I met many for the first time! Thank you to the anonymous generous person who opened a bar tab for us before we arrived. That speaks volumes about this community and how we look out for each other with joy. Thank you!
 
 ![](Openscapes-Social-AGU-2024.jpg){fig-align="center" width="514"}
 

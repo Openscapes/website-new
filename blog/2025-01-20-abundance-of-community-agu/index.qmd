@@ -15,7 +15,7 @@ categories: [blog, nasa-framework, noaa-fisheries]
 
 *Quicklinks:*
 
--   \[*AGU meeting December 2024*\] (TODO)
+-   [*AGU meeting December 2024*](https://www.agu.org/annual-meeting)
 -   Openscapes activities (TODO)
 -   Google Photo album subset, to share publicly?
 -   other?

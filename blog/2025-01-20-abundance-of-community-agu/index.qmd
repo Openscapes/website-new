@@ -58,7 +58,7 @@ There were so many acts of reciprocity in the open source/open science community
 
 ![](ayush-nag-luis-lopez-demo-earthaccess.jpg){fig-align="center" width="294"}
 
--   Meeting Cassie Buhler (UC Berkeley) at our Openscapes Social. She is a postdoc with Carl Boettiger and we had met on Slack previously
+-   Meeting Cassie Buhler (UC Berkeley) at our Openscapes Social. She is a postdoc with Carl Boettiger and we had met on Slack previously.
 
 -   Eli Holmes (NOAA Fisheries Openscapes co-lead) and Aaron Friesz (ESIP, previously NASA Mentor at LP DAAC) zooming around the city late night on ebikes! Fun fact: they first met when Eli was a participant in the 2021 Cloud Hackathon that Aaron co-taught with the NASA Openscapes Mentors :)
 

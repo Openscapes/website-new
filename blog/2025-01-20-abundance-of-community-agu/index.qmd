@@ -30,11 +30,11 @@ There were so many acts of reciprocity and gratitude in the open source/open sci
 
 -   **Openscapes Social** on Monday. Wow. Such a joy to be with folks in person; the picture below didn’t capture everyone but a lot of us! I was so buoyed to see so many people (\~30 throughout the evening) at a funky bar all together, sharing stories and ideas. There were Mentors from NASA and NOAA, Openscapes Champions from several different years, contributors to `earthaccess` and other open source projects, Pangeo folks, and I met many for the first time! A heart-felt thank you to the anonymous generous person who opened a bar tab for us before we arrived. That speaks volumes about this community and how we share with each other with joy. Thank you!
 
-![Openscapes social on Monday night](Openscapes-Social-AGU-2024.jpg){fig-align="center" width="514"}
+![Openscapes social on Monday night](Openscapes-Social-AGU-2024.jpg){fig-alt="photo of 20 smiling women and men inside a restaurant" fig-align="center" width="514"}
 
 -   When I shared my goals with Chelle Gentemann, she not only gave recommendations but in-the-moment sent introductions to several people via Slack.
 
-![Julie Lowndes with open science heroes Tasha Snow, Brianna Pagán, Chelle Gentemann, Eli Holmes](open-sci-heroines-agu2024.jpg){fig-align="center" width="366"}
+![Julie Lowndes with open science heroes Tasha Snow, Brianna Pagán, Chelle Gentemann, Eli Holmes](open-sci-heroines-agu2024.jpg){fig-alt="selfie of 5 women, with joy on their faces, each with an arm around the person next to them" fig-align="center" width="366"}
 
 -   On Monday, Brianna Pagán (NASA Mentor at GES DISC) and I had a long conversation about values and how they show up in our work and in beautiful places where we live that have high fire risk. When Brianna flew home hours later with a wildfire threatening her home, she asked me to give an invited talk for her on Wednesday. I said yes without hesitation, and was so honored that she trusted me to give the talk and was confident in our relationship to ask for help. I know that anyone of the NASA Openscapes Mentors would have said yes too. That is the community of reciprocity and generosity that we have.
 
@@ -50,10 +50,10 @@ There were so many acts of reciprocity and gratitude in the open source/open sci
 
 -   Pangeo Hackday on Saturday! Hosted by Development Seed and EarthMover. I'm so glad I went; I wasn't there to hack code but to support, facilitate, ideate with folks. I learned so much, met so many cool and thoughtful people in the geospatial and cloud space. It was a really big moment when Ayush Nag gave a live demo to the group of a pull request he submitted to `earthaccess` that Luis Lopez merged during the hackday!
 
-![Ayush Nag presenting his merged contribution to \`earthaccess\`, as Luis López looks on](ayush-nag-luis-lopez-demo-earthaccess.jpg){fig-align="center" width="439"}
+![Ayush Nag presenting his merged contribution to \`earthaccess\`, as Luis López looks on](ayush-nag-luis-lopez-demo-earthaccess.jpg){fig-alt="photo of informal classroom-like setting with speaker standing facing projected image of a plot, 7 people seated watching and one man standing in the foreground facing the speaker with his back to photographer. He's wearing a cool yellow shirt with green palm leaves" fig-align="center" width="439"}
 
 -   Meeting Cassie Buhler (UC Berkeley) at our Openscapes Social. She is a postdoc with Carl Boettiger and we had met on Slack previously. We were also able to talk more at a Tuesday social hour hosted by Development Seed, and I look forward to future conversations!
 
 -   Eli Holmes (NOAA Fisheries Openscapes co-lead) and Aaron Friesz (ESIP, previously NASA Mentor at LP DAAC) zooming around the city late night on ebikes! Fun fact: they first met when Eli was a participant in the 2021 Cloud Hackathon that Aaron co-taught with the NASA Openscapes Mentors :).
 
-![Aaron Friesz and Eli Holmes zooming around on ebikes](eli-aaron-citibikes-agu2024.jpg){fig-align="center" width="294"}
+![Aaron Friesz and Eli Holmes zooming around on ebikes](eli-aaron-citibikes-agu2024.jpg){fig-alt="selfie of a woman and man, sitting on bikes that are out of view, in front of a white building and a tree and street signs. Dark outside. Colored lights in the background." fig-align="center" width="294"}

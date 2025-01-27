@@ -32,7 +32,7 @@ listing:
 ::: {.column-screen}
 ::: {.white-div}
 ::: {.blue-underline .center-text}
-# **WHAT WE DO**
+## **WHAT WE DO**
 :::
 
 <br>
@@ -102,7 +102,7 @@ listing:
 ::: {.column-screen}
 ::: {.light-gray-div}
 ::: {.blue-underline .center-text}
-# **GROWING THE OPEN MOVEMENT**
+## **GROWING THE OPEN MOVEMENT**
 :::
 <br>
 **As part of the larger open science movement**, Openscapes helps research teams and organizations reimagine data-intensive science and grow community-centered leadership skills.  We call this kinder science for future us.
@@ -220,7 +220,7 @@ listing:
 ::: {.column-screen}
 ::: {.white-div}
 ::: {.blue-underline .center-text}
-# **FROM OUR BLOG**
+## **FROM OUR BLOG**
 :::
 <br>
 
@@ -243,7 +243,7 @@ Our blog shares stories from the community and documents our learning openly. Se
 ::: {.column-screen}
 ::: {.light-gray-div}
 ::: {.blue-underline .center-text}
-# **OPEN RESOURCES**
+## **OPEN RESOURCES**
 :::
 
 <br>
@@ -301,4 +301,3 @@ Mastodon & GitHub: @openscapes
 :::
 <!---------------- END about & contact section (white div) ---------------->
 <!------------------------------------------------------------------------->
-

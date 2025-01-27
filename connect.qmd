@@ -75,7 +75,7 @@ As you plan department seminar series, conferences, or webinar series, consider 
 ::: column-screen
 ::: light-gray-div
 ::: {.blue-underline .center-text}
-# **UPCOMING EVENTS**
+## **UPCOMING EVENTS**
 :::
 
 Openscapes holds regular community calls, participates in conference talks, webinars, and organizes opportunities through the Champions Program and other initiatives. Browse [our events listings](events.qmd) and register to attend!

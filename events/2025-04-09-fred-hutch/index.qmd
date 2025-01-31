@@ -1,0 +1,52 @@
+---
+title: "Fred Hutch Openscapes Champions Program Spring 2025"
+description: "An Openscapes Cohort in partnership with the Fred Hutch Cancer Center Data Science Lab" 
+author: Openscapes, Fred Hutch
+date: 2025-04-09
+categories:
+  - champions
+  - event
+image: Fred-Hutch-Logo-Primary.png 
+---
+
+## Program overview
+
+**This is a professional development and leadership opportunity for Fred Hutch Cancer Center research groups to explore open data science practices and strengthen collaboration and reproducibility.** The spring 2025 Champions Cohort will run from April 9th to June 4th, 2025.
+
+[**Openscapes**](https://openscapes.org) is an approach and a movement that helps researchers and those supporting research find each other and feel empowered to conduct data-intensive science [^1],[^2]. We mentor research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative research communities. Openscapes' mentorship and community engagement approaches center on open data science as kinder science[^3], enabling increased efficiency and resilience for teams so that their work has more enduring impact.
+
+[^1]: [Lowndes et al. 2019: Supercharge your research](https://openscapes.github.io/supercharge-research/)
+
+[^2]: [Robinson & Lowndes 2022: The Openscapes Flywheel](https://eartharxiv.org/repository/view/4560/)
+
+[^3]: [Lowndes 2019: Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science)
+
+[**Openscapes Champions**](https://www.openscapes.org/champions/) is a remote-by-design mentorship program for research teams to explore open data science practices. Participants attend as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort. By discussing open software tooling and communities enabling reproducible research (e.g. R/Python, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture.
+
+## Stories from past Fred Hutch Champions
+
+For stories from the 2023 Fred Hutch Openscapes Champions please see the [summary blog post](../../blog/2023-12-04-fred-hutch/): On-ramp to Open Science at the Fred Hutch Cancer Center, 2023 Fred Hutch Openscapes Champions Wrap-up and the [Cohort webpage](https://openscapes.github.io/2023-fred-hutch/). The Fred Hutch site has shared [testimony from some Champions](https://ocdo.fredhutch.org/programs/openscapes.html?utm_source=substack&utm_medium=email#testimony-from-the-2023-champions-cohort).
+
+## How to apply
+
+This opportunity is open only to those affiliated with Fred Hutch. To apply, please fill out the form to nominate yourself or your group: [Openscapes 2025 Application](https://forms.gle/2SVfjvfCrAP87Hrt8).
+
+Questions? Contact hello \@ openscapes.org or data \@fredhutch.org.
+
+This opportunity is funded and coordinated by the [Fred Hutch Data Science Lab](https://hutchdatascience.org/).
+
+![](Fred-Hutch-Logo-Primary.png){fig-alt="logo image with text Fred Hutch Cancer Center" width="300"}
+
+```{=html}
+<!---
+## Cohort details
+
+**Our Cohort will meet five times over two months, on alternating Tuesdays.**
+
+-   **Dates:** August 29, September 12, 26, October 10, 24, 2023
+-   **Times:** 10:00-11:30 am Pacific Time
+-   **Where:** remotely, via Zoom
+-   **Who:** Cohort of \~7 research teams. We generally recommend teams of 5, although team size, composition, and extent of shared projects can vary.
+-   **Expected time commitment:** The minimum expected time commitment is 1.5 hrs/week for 2 months. This includes 3 hours/month over Zoom as a full Champions Cohort, as well as teams meeting independently to further discuss topics between Cohort Calls.
+--->
+```

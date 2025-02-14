@@ -11,7 +11,7 @@ aliases:
 
 ::: {.white-div}
 ::: {.medium-body-text .center-text}
-**We believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science and beyond.**
+**We believe open practices can accelerate data-driven solutions and increase collaboration across science and beyond.**
 :::
 
 <br>

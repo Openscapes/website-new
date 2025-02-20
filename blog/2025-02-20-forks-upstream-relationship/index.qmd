@@ -14,7 +14,7 @@ categories: [blog, coding, how-we-work ]
 image: ropensci-openscapes.png
 ---
 
-*Cross-posted at [ropensci.org/blog](https://ropensci.org/blog/2024/12/08/forks-upstream-relationship/)*
+*Cross-posted at [ropensci.org/blog](https://ropensci.org/blog/2025/02/20/forks-upstream-relationship/)*
 
 ----------------------------------
 ## Context setting

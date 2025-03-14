@@ -1,0 +1,49 @@
+---
+title: "Community Call: Beyond “it depends”: what we’re learning about cloud costs for Earth science workflows in our JupyterHub"
+description: something?
+author:
+  - name: Openscapes
+#    url: {}
+date: "2025-04-22"
+categories: [event, community-call, nasa-framework]
+image: white-house.png
+---
+
+*Cross-posted at [openscapes.org/blog](https://openscapes.org/blog), [nasa-openscapes.github.io/news](https://nasa-openscapes.github.io/news.html)*
+
+------------------------------------------------------------------------
+
+::::: grid
+::: g-col-3
+![](white-house.png){fig-alt="txt." fig-align="left" width="100%"}
+:::
+
+::: g-col-9
+**Some text beside image**
+:::
+:::::
+
+**Date**: Tuesday, April 22, 2025  
+**Time**: 9:30 - 10:30 am PT ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Community+Call%3A+Openscapes+Goes+to+the+White+House&iso=20240926T13&p1=1050&ah=1))  
+**Where**: Zoom   
+**Register (free)** via [Zoom](https://zoom.us/meeting/register/_SSlgeuuToiLNH5p5VZSXw) to get the meeting link <!--- **View** [recording](https://youtu.be/uKAm3uEyUks) and [event summary](/blog/2024-10-03-openscapes-recognized-white-house/). --->
+
+The purpose of this Community Call is to share tools and processes to explore cloud costs, as well as hard figures like cost per hub, cost per user, cost per science workflow. Openscapes Director Julie Lowndes will interview our guests: Andy Teucher (Openscapes), Alex Lewandowski (NASA Alaska Satellite Facility), Yuvi Panda (2i2c). Participants will leave with new insights and we'll post a recording after the event.
+
+What would **you** like to ask them?
+
+### Speakers
+
+[Andy Teucher](https://openscapes.org/team) is a core Openscapes team member and develops software and cloud infrastructure.
+
+Alex Lewandowski is a Software Engineer at the [NASA Alaska Satellite Facility (ASF)](https://www.earthdata.nasa.gov/centers/asf-daac) data center, University of Alaska Fairbanks Geophysical Institute.
+
+Yuvi Panda is XYZ and co-founder of [2i2c](https://2i2c.org/).
+
+[Julie Lowndes](https://openscapes.org/team) is Openscapes founding director and core team member.
+
+### Resources
+
+-   [openscapes.cloud](https://openscapes.cloud/) for NASA and NOAA Fisheries ... XYZ
+-   [2i2c](https://2i2c.org/) helps communities build their own interactive computing hub in the cloud with open infrastructure.
+-   

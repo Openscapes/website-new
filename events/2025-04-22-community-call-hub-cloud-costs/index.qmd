@@ -49,6 +49,6 @@ Alex Lewandowski is a Software Engineer at the [NASA Alaska Satellite Facility (
 -   [Grafana](https://grafana.com/grafana/) for monitoring and visualizing usage data.
 -   [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/) and [API docs](https://docs.aws.amazon.com/aws-cost-management/latest/APIReference/API_Operations_AWS_Cost_Explorer_Service.html) for managing cloud costs on AWS.
 -   [jupycost](https://github.com/openscapes/jupycost): A work-in-progress R
-package for querying and summarizing JupyterHub cost and usage statistics.
+package from Openscapes for querying and summarizing JupyterHub cost and usage statistics.
 -   [sixtyfour](https://github.com/getwilds/sixtyfour): An R package for interfacing with AWS APIs, from the Fred Hutch Cancer Center Data Science Lab
 -   [grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards): Grafana Dashboards used in our JupyterHubs. Provides Grafana Dashboards as code -- very useful for learning how to query Prometheus metrics.

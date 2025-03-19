@@ -15,7 +15,7 @@ image: white-house.png
 
 ::::: grid
 ::: g-col-4
-![](cloud-costs.png){fig-alt="A diagram illustrating a user accessing the cloud from their laptop. The image includes icons representing a cloud computing instance and cloud storage. There is a price attached to each of the cloud icons." fig-align="left" width="100%"}
+![](nasa-noaa-openscapes-jupyter-2i2c.png){fig-alt="A composite of the Openscapes logo, the NASA logo, the NOAA fisheries logo, the 2i2c logo, and the JupyterHub logo" fig-align="left" width="100%"}
 :::
 
 ::: g-col-8

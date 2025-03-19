@@ -1,6 +1,6 @@
 ---
 title: "Community Call: What we’re learning about cloud costs for Earth science workflows in our JupyterHub"
-description: something?
+description: Beyond "it depends" - learning about cloud costs for science by building reusable open tooling for monitoring and reporting
 author:
   - name: Openscapes
 #    url: {}

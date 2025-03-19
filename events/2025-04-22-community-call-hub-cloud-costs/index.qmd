@@ -1,5 +1,5 @@
 ---
-title: "Community Call: Beyond “it depends”: what we’re learning about cloud costs for Earth science workflows in our JupyterHub"
+title: "Community Call: What we’re learning about cloud costs for Earth science workflows in our JupyterHub"
 description: something?
 author:
   - name: Openscapes

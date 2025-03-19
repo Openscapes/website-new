@@ -6,7 +6,7 @@ author:
 #    url: {}
 date: "2025-04-22"
 categories: [event, community-call, nasa-framework]
-image: white-house.png
+image: nasa-noaa-openscapes-jupyter-2i2c.png
 ---
 
 *Cross-posted at [openscapes.org/blog](https://openscapes.org/blog), [nasa-openscapes.github.io/news](https://nasa-openscapes.github.io/news.html)*

@@ -25,7 +25,7 @@ Openscapes and our partners at NASA, NOAA, and 2i2c have been learning together 
 
 
 **Date**: Tuesday, April 22, 2025  
-**Time**: 9:30 - 10:30 am PT ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Community+Call%3A+Openscapes+Goes+to+the+White+House&iso=20240926T13&p1=1050&ah=1))  
+**Time**: 9:30 - 10:30 am PT ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Community+Call%3A+What+we%E2%80%99re+learning+about+cloud+costs+for+Earth+science+workflows+in+our+JupyterHub&iso=20250422T0930&p1=1050&ah=1))  
 **Where**: Zoom   
 **Register (free)** via [Zoom](https://zoom.us/meeting/register/_SSlgeuuToiLNH5p5VZSXw) to get the meeting link <!--- **View** [recording](https://youtu.be/uKAm3uEyUks) and [event summary](/blog/2024-10-03-openscapes-recognized-white-house/). --->
 

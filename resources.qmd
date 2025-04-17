@@ -78,7 +78,9 @@ aliases:
 
 ---
 
-[**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/)
+[**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/)  
+[**Powerful Questions Card Deck**](https://github.com/Openscapes/powerful-questions-card-deck)  
+
 :::
 <!---------------- END Approach Guide ---------------->
 

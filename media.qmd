@@ -72,6 +72,8 @@ aliases:
 
 *See [NASA-Openscapes](https://nasa-openscapes.github.io/) and [NMFS-Openscapes](https://nmfs-openscapes.github.io/) for many additional presentations from NASA and NOAA Fisheries Mentors!*
 
+- [Crossing the chasm: change & resilience within organizations. Diffusion of Innovation theory in practice with NOAA Fisheries Openscapes](https://docs.google.com/presentation/d/1bclZQBu3QHxYSptg2lbchDz870PbkrDig-ZfQmoK7Wk/edit#slide=id.g34b3b339705_0_2152) - Cloud Native Geospatial Conference, Snowbird Utah, May 1, 2025
+
 - [Supporting data modernization and workforce development within federal agencies](https://docs.google.com/presentation/d/1DJq0lrGYgcxRiPGYM1z8-EBwB7eZSthymzZNNdcrHuk/edit?usp=sharing); USGS Community for Data Integration (CDI) Workshop April 29, 2025
 
 - [The Openscapes Story at NASA: Supporting users’ first & sustained experiences with Earthdata in the Cloud](https://docs.google.com/presentation/d/11tB43uq1E31lKjLk4HtyKy_J5v7BpGErVpoFlS0KSs8/edit?usp=sharing) - Julia Lowndes (Openscapes);

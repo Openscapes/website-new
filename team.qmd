@@ -114,7 +114,7 @@ Openscapes is an open source community with distributed leadership & collaborati
 
 [**NASA Earthdata Mentors**](https://nasa-openscapes.github.io/mentors.html#mentor-cohort) are supporting colleagues and researchers using NASA Earthdata as they migrate workflows to the Cloud.
 
-[**NOAA Fisheries Mentors**](https://nmfs-openscapes.github.io/mentors.html) are supporting colleagues at NOAA Fisheries with open science practices for collaboration, particularly for shared project management and government reports.
+[**NOAA Fisheries Mentors**](https://nmfs-openscapes.github.io/mentors/) are supporting colleagues at NOAA Fisheries with open science practices for collaboration, particularly for shared project management and government reports.
 
 [**Pathways to Open Science Mentors**](https://openscapes.github.io/pathways-to-open-science/) support an annual remote event series for Black environmental & marine researchers to build community for the future of data intensive science. This is an ongoing collaboration with Black in Marine Science (BIMS), Black Women in Ecology, Evolution, and Marine Science (BWEEMS), HBCU marine science professors.
 

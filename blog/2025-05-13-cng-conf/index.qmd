@@ -1,0 +1,33 @@
+---
+title: "We crossed the chasm at NOAA Fisheries"
+description: "Keynote at the Cloud Native Geospatial Conference"
+author: 
+  - name: Julie Lowndes
+    orcid: 0000-0003-1682-3872 
+  - name: Eli Holmes
+    orcid: 0000-0001-9128-8393
+date: 2025-05-13
+citation: 
+  url: https://openscapes.org/blog/2025-05-13-cng-conf
+categories: [blog, noaa-fisheries, conference]
+image: CNG_LowndesHolmes_slide10.png
+---
+
+*Quicklinks:*
+
+-   [*Slides*](https://docs.google.com/presentation/d/1bclZQBu3QHxYSptg2lbchDz870PbkrDig-ZfQmoK7Wk/edit#slide=id.g34b3b339705_0_2152)
+-   [*CNG conf website*](https://conference.cloudnativegeo.org/CNGConference2025)
+
+------------------------------------------------------------------------
+
+Last week at the Cloud Native Geospatial Conference Julie Lowndes gave a keynote titled “**Crossing the chasm: change & resilience within organizations. Diffusion of Innovation theory in practice with NOAA Fisheries Openscapes**”. It was about the awesome staff at NOAA Fisheries who are responsible for the stewardship of the nation’s ocean resources and their habitat. NOAA Fisheries provides vital services for the nation, all backed by sound science and a data-centered approach to management, to ensure productive and sustainable fisheries; safe sources of seafood; recovery and conservation of protected resources; and healthy ecosystems.
+
+Claiming we’ve crossed a big scary chasm is a bold claim, especially for a big goal: data modernization and workforce development across the agency. And, while the work is still hard and ongoing, this crossing is a story to celebrate. To amplify. To point and say “this is possible”. To repeat/fork in new places. To join. To grow. For you, us, to do these things. This is work that has been building for decades, by many dedicated people inside and outside of NOAA Fisheries, with many different job titles and contributions. This chasm crossing is a big deal because new data workflows are more efficient and robust, but they take real time to adopt and they take new skills. It is not easy in a large organization. But through steady work over the last three years, it’s happening. We are out of the early adopter phase and into the early majority. It is a huge honor to be the one to share this story, to be in service of the work of so many people.
+
+::: {style="text-align:center;"}
+![We crossed the chasm!](CNG_LowndesHolmes_slide10.png){fig-alt="photo of a chasm overlayed with text and images. heading 'We crossed the chasm'. Open science early adopters represented by happy leaping stick figures on one side of a bridge and 2 clusters of large groups of Early Majority stick figures" fig-align="center" width="80%"}
+:::
+
+This keynote was co-authored by Eli Holmes, the Open Science Lead at NOAA Fisheries. We shared how we planned, using the Diffusion of Innovation theory by EM Rogers ([1962](https://search.worldcat.org/title/254636)). And then how we operationalized, using the Openscapes Flywheel ([Robinson & Lowndes 2022](https://eartharxiv.org/repository/view/4560/)). We underscored one piece of the Flywheel: **Coworking**. This is one of the most actionable, low cost, immediate things groups can do to support each other and build new skills and workflows. We shared about how coworking is not a “fluffy” activity. Coworking addresses a known barrier to innovation and efficiency in organizations: silo-ing. Coworking is a set aside time when staff work on projects across typical team boundaries. This lightweight innovation ‘hack’ creates connections out of silos. The positive effects are apparent: staff learn of others working on similar problems and multiply their “solution network”. As an example, user support staff across NASA Earthdata – the NASA Openscapes Mentors – coworked to create the [**earthaccess**](https://earthaccess.readthedocs.io/en/latest/) python library, now the primary way to search and access NASA Earthdata from the cloud. The [**py-rocket**](https://nmfs-opensci.github.io/py-rocket-base/) docker image promotes cross-language (Python, R) collaboration across diverse user platforms for cloud computing in the earth sciences, created by a cross government-academic-non-profit-open-science collaboration: Eli Holmes (NOAA Fisheries, NMFS Openscapes); Carl Boettiger (UC Berkeley, Rocker) Luis Lopez (NASA NSIDC, earthaccess) & Yuvi Panda (2i2c, Jupyter). NOAA Fisheries staff have produced [**reusable (“forkable”) documentation for onboarding**](https://nmfs-ost.github.io/PAM_National_Network/), saving time from weeks -\> days to produce unified onboarding and reporting for Passive Acoustic Monitoring (PAM) teams across NOAA Fisheries!
+
+The response to this talk at CNG was enthusiastic, with people celebrating this work at NOAA Fisheries and excited to amplify and reuse these methods in their own spaces – industry and small businesses as well as non-profit, academia, government. I met so many people through this work and we are excited to continue. Thanks all.

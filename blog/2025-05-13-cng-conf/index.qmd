@@ -18,6 +18,8 @@ image: CNG_LowndesHolmes_slide10.png
 -   [*Slides*](https://docs.google.com/presentation/d/1bclZQBu3QHxYSptg2lbchDz870PbkrDig-ZfQmoK7Wk/edit#slide=id.g34b3b339705_0_2152)
 -   [*CNG conf website*](https://conference.cloudnativegeo.org/CNGConference2025)
 
+*Cross-posted at [openscapes.org/blog](https://openscapes.org/blog), [nmfs-openscapes.github.io/blog](https://nmfs-openscapes.github.io/blog)*
+
 ------------------------------------------------------------------------
 
 Last week at the Cloud Native Geospatial Conference Julie Lowndes gave a keynote titled “**Crossing the chasm: change & resilience within organizations. Diffusion of Innovation theory in practice with NOAA Fisheries Openscapes**”. It was about the awesome staff at NOAA Fisheries who are responsible for the stewardship of the nation’s ocean resources and their habitat. NOAA Fisheries provides vital services for the nation, all backed by sound science and a data-centered approach to management, to ensure productive and sustainable fisheries; safe sources of seafood; recovery and conservation of protected resources; and healthy ecosystems.

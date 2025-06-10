@@ -35,7 +35,7 @@ Our initiatives are all remote-by-design, for researchers and those who support 
 
 **Openscapes Champions is an open data science mentorship program for science teams.** It is a multi-month program that is designed to ignite incremental and sustainable change within research teams and beyond. It helps teams get their own work done, while building skills and community within the realities of scientists' busy schedules, varying expertise and needs.
 
-This is our flagship program, and from 2019-2024 we have led 20 cohorts. We work with partners to coordinate cohorts of 5 to 7 research teams. 
+This is our flagship program, and from 2019-2025 we have led 25 cohorts. We work with partners to coordinate cohorts of 5 to 7 research teams. 
 
 ::: {.yellow-box}
 ::: {.medium-body-text .center-text}

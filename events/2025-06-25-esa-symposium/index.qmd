@@ -1,5 +1,5 @@
 ---
-title: "European Space Agency’s Living Planet Symposium"
+title: "Openscapes at the European Space Agency’s Living Planet Symposium"
 description: From Observation to Climate Action and Sustainability for Earth
 author: Openscapes
 date: 2025-06-25

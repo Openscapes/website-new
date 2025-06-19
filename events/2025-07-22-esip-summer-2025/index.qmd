@@ -1,0 +1,24 @@
+---
+title: "Openscapes at the ESIP Summer Meeting"
+# description: "txt" 
+author: Openscapes, NASA, NOAA Fisheries
+date: 2025-07-22
+categories:
+  - conference
+  - nasa-framework
+  - noaa-fisheries
+  - event
+image: esip-banner-2025.png 
+---
+
+ESIP - Earth Science Information Partners - is a home for Earth science data and computing professionals - a neutral space for exciting cross-domain collaborations. The [summer conference](https://2025julyesipmeeting.sched.com/) sessions bring together the community for hands-on, interdisciplinary deep dives as they explore "Innovation to Impact" this year in Seattle WA.
+
+Please find us at these sessions!
+
+-   Tuesday, July 22, 2:00pm - 3:30pm PT and 4:00pm - 5:30pm PT - Foundational to Emerging Cloud-Native Technology [Part 1](https://2025julyesipmeeting.sched.com/event/25ehF/foundational-to-emerging-cloud-native-technology-part-1) and [Part 2](https://2025julyesipmeeting.sched.com/event/25ehR/foundational-to-emerging-cloud-native-technology-part-2). Speakers: Joe Kennedy, Brianna Pagán, Rich Signell, Max Jones, Aimee Barciauskas.
+
+-   Thursday, July 24, 11:00am - 12:30pm PT - [Interoperable and discipline-neutral community metadata standards for cloud-optimized data access](https://2025julyesipmeeting.sched.com/event/25eiY/interoperable-and-discipline-neutral-community-metadata-standards-for-cloud-optimized-data-access). Speakers: Danny Kaufman, Miguel Jimenez-Urias, James Gallagher.
+
+-   Friday, July 25, 9:00am PT - [Crossing the chasm: amplifying success stories about co-creating across institutions](https://2025julyesipmeeting.sched.com/event/25ej2/crossing-the-chasm-amplifying-success-stories-about-co-creating-across-institutions). Speakers: Julie Lowndes, Eli Holmes. Julie will tell the story of [earthaccess](https://earthaccess.readthedocs.io/en/latest/) crossing the chasm.
+
+![](esip-banner-2025.png){fig-alt="banner image with background photo of blue sky, a mountain, and Seattle skyline, with white letters saying ESIP MEETING July 2025. Innovation to Impact." fig-align="center" width="80%"}

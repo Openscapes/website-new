@@ -1,0 +1,22 @@
+---
+title: "European Space Agency’s Living Planet Symposium"
+description: From Observation to Climate Action and Sustainability for Earth
+author: Openscapes
+date: 2025-06-25
+categories: 
+  - event 
+  - conference
+image: "ESA_Logo.jpg"
+---
+
+Openscapes will be at the European Space Agency’s [Living Planet Symposium](https://lps25.esa.int/programme) next week in Vienna! Please find us at the following sessions and message Julia Lowndes ([Bluesky](https://bsky.app/profile/juliesquid.bsky.social), [LinkedIn](https://www.linkedin.com/in/julia-stewart-lowndes/)) to meet up.
+
+-   Monday, June 23 - invited panel speaker - [Implementing FAIR Open Science: Advancing ESA’s EO (Earth Observation) Science Strategy](https://lps25.esa.int/programme/programme-session/?id=63BAD67A-3EF6-4E3D-9B93-3BE2F6BF62B0).  
+
+-   Wednesday, June 25 - speaker - [Forking as a worldview: a software engineering concept transforming government agencies IRL (in real life) with Openscapes](https://lps25.esa.int/programme/programme-session/?id=D00CC8C4-AFCC-4135-AB8B-AC75FDD0855C).
+
+-   Sunday, June 22 - helper - [FAIR and Open Science with EarthCODE Integrated Platforms tutorial](https://lps25.esa.int/programme/programme-session/?id=F3B64208-88D1-43C0-9F9E-6B8FE02AD6D7).
+
+We’ll be going to a range of talks by folks in the cloud-native geospatial community, the R and python communities, as well as teaching and science stories. Check out Tyler Erickson’s [searchable dashboard](https://vorgeo.github.io/lps25-cng/) and the conference website!
+
+![](ESA_Logo.jpg){fig-alt="logo of the European Space Agency, navy blue on white lowercase letters esa" width="234"}

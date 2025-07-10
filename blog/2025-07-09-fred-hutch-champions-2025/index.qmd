@@ -25,9 +25,9 @@ image: 2025-fred-hutch-zoomie.png
 
 *Quicklinks:*
 
--   *Cohort webpage: <https://openscapes.github.io/2025-fred-hutch/>*
--   *On-ramp to Open Science at the Fred Hutch Cancer Center: 2023 Fred Hutch Openscapes Champions Wrap-up: <https://openscapes.org/blog/2023-12-04-fred-hutch/>*
--   *Openscapes at Fred Hutch: <https://ocdo.fredhutch.org/programs/openscapes.html>*
+-   [*Cohort webpage*](https://openscapes.github.io/2025-fred-hutch/)
+-   *On-ramp to Open Science at the Fred Hutch Cancer Center: [2023 Fred Hutch Openscapes Champions Wrap-up](https://openscapes.org/blog/2023-12-04-fred-hutch/)*
+-   [*Openscapes at Fred Hutch*](https://ocdo.fredhutch.org/programs/openscapes.html)
 
 ------------------------------------------------------------------------
 
@@ -40,14 +40,16 @@ The DaSL group has been making progress in supporting data science across the Fr
 During the Spring 2025 Champions Cohort, we saw participants value and grow in their approaches to team culture, sharing work in progress and recognizing that feedback from the community is crucial for making things better. People experienced coworking - many for the first time - in the weeks between Cohort Calls, and saw that coworking with their peers is a tool they can use in different settings [(Lowndes et al. 2024)](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341). Folks learned they are not alone; DaSL and the Scientific Computing (SciComp) team are there to support staff and are actively welcoming and responding to input. The cohort was able to bridge the gap from knowing that these resources exist, to understanding how the different support systems work at the Fred Hutch and who to go to for what issues. This kind of change in small groups can have outsized impact, particularly when the change is led through example.
 
 ::: {style="text-align:center;"}
-![*Zoomie of 2025 Fred Hutch Openscapes Champions and Mentors*](2025-fred-hutch-zoomie.png){fig-align="center" width="80%" fig-alt="txt"}
+![*Zoomie of 2025 Fred Hutch Openscapes Champions and Mentors*](2025-fred-hutch-zoomie.png){fig-align="center" fig-alt="screenshot of zoom participants in a 4 by 5 grid. They are smiling and waving." width="65%"}
 :::
 
 ## The power of “taking stock” to make progress towards better science
 
 In the first Cohort Call, Sitapriya shared her reflections on better science in less time, and how “taking stock” featured prominently ([slides](https://docs.google.com/presentation/d/1sV8Q4oho8AozVCtUlXAM8JDFhmJPf_pW/edit?usp=drive_link&ouid=117331415908654768512&rtpof=true&sd=true) | [recording](https://youtu.be/20HB5aKZrOo?feature=shared)). It is about identifying what you have and what you need. It is about being deliberate and writing it down, an often an undervalued exercise. Taking stock is a norm in the “wet-lab” world, in terms of protocols, equipment, reagents, and cells, but not so much in “dry labs” i.e. computational groups. Sita shared how the [Openscapes Pathway sheet](https://openscapes.github.io/series/pathways.html#pathways-concept) is one framework for taking stock in a dry lab setting, that helped her shift to better practices digitally, and gave her more control and order in her work. It has enabled continued collaborative upskilling and reproducibility.
 
-![From Sitapriya Moorthi’s Better Science presentation; her common misconceptions about Open science that she was able to overcome through working together with Openscapes and DaSL.](openscience-misconceptions-sitapriya-moorthi.png){width="80%"}
+::: {style="text-align:center;"}
+![From Sitapriya Moorthi’s Better Science presentation; her common misconceptions about Open science that she was able to overcome through working together with Openscapes and DaSL.](openscience-misconceptions-sitapriya-moorthi.png){fig-align="center" fig-alt="slide with three lines of text listing misconceptions: Open science meant all my data, workflow and documents had to be shared with the world. Open Science is only for those who code. Open science was too complicated and time-consuming" width="65%"}
+:::
 
 From Sitapriya Moorthi’s Better Science presentation; her common misconceptions about Open science that she was able to overcome through working together with Openscapes and DaSL.
 
@@ -59,7 +61,7 @@ In this Cohort we taught the [core Openscapes Champions lessons](https://opensca
 
 Bringing these people together over ten weeks revealed gaps and opportunities. Participants came looking for advice on how to work better. DaSL Mentors learned that even researchers within the Fred Hutch were not aware of all the resources and technologies available to them. And given pointers to those resources, like the SciWiki or shared high-performance computing infrastructure, how, as a user, do they use them for what they need?
 
-::: {.blockquote-blue}
+::: blockquote-blue
 > *"People didn’t know how to talk to us and identify their problems. During the cohort, everyone was able to ask SciComp and DaSL directly about policies and how we use technologies."* – a DaSL Mentor
 :::
 
@@ -79,7 +81,7 @@ Biweekly coworking sessions were really valuable, with regulars attending who ha
 
 Looking ahead, there is continued work to be done around organizational culture and connecting. How do we shift the idea of the lonely data scientist isolated within research labs towards a community of connected data scientists and superpowered lab members?
 
-::: {.blockquote-blue}
+::: blockquote-blue
 > *"I’ve been a lone practitioner in my org for many years, hoping I can build a community that responds to this approach as it seems like exactly what we need"* - Participant in Call 1
 :::
 
@@ -91,6 +93,7 @@ The value of cohort coworking in a weekly sense is that people screenshare to ge
 
 The **new Fred Hutch DaSL resources map** below shows the wealth of technical and real live human resources folks can already take advantage of. Going forward, helping people find and use these resources and find each other across the chasms of different research and infrastructure groups is part of the work ahead.
 
-![Map of Fred Hutch Data Science Lab (DaSL) technical and social infrastructure to support researchers. “If you’re starting in data science at the Hutch here’s everything you need to know.” Inspired by Disney's "Synergy Map" from 1957.](fred-hutch-dasl-disney-map.png){width="80%"}
+::: {style="text-align:center;"}
+![Map of Fred Hutch Data Science Lab (DaSL) technical and social infrastructure to support researchers. “If you’re starting in data science at the Hutch here’s everything you need to know.” Inspired by [Disney's "Synergy Map"](https://images.squarespace-cdn.com/content/56f152a22fe131e76648aba3/1510151207187-HD2Z7F6Z4PS81R42VFRS/disney-synergy-chart.jpg) from 1957.](fred-hutch-dasl-disney-map.png){fig-align="center" fig-alt="a diagram with a central box labelled 'you' with a sketch of a computer and arrows leading out to 9 boxes, each listing a resource to support researchers, like Data House Calls and Slack" width="80%"}
+:::
 
-Map of Fred Hutch Data Science Lab (DaSL) technical and social infrastructure to support researchers. “If you’re starting in data science at the Hutch here’s everything you need to know.” Inspired by [Disney's "Synergy Map"](https://images.squarespace-cdn.com/content/56f152a22fe131e76648aba3/1510151207187-HD2Z7F6Z4PS81R42VFRS/disney-synergy-chart.jpg) from 1957.

@@ -8,6 +8,7 @@ categories:
   - event
 image: Fred-Hutch-Logo-Primary.png 
 ---
+This Cohort has completed. For details, please see the 2025 Fred Hutch Openscapes Champions [Cohort webpage](https://openscapes.github.io/2025-fred-hutch/) and [summary blog post](../../blog/2025-07-09-fred-hutch-champions-2025/): ‘Taking stock’ to support infrastructure and people at the Fred Hutch, 2025 Fred Hutch Openscapes Champions Wrap-up.
 
 ## Program overview
 

@@ -1,0 +1,43 @@
+---
+title: "'Taking stock' to support infrastructure and people at the Fred Hutch"
+description: "2025 Fred Hutch Openscapes Champions Wrap-up"
+author:
+  - name: Eli Holmes
+    orcid: 
+  - name: Julie Lowndes
+    orcid: 0000-0003-1682-3872
+date: 2025-07-14
+citation: 
+  url: 
+categories: [champions, blog, noaa-fisheries]
+image: 
+---
+
+*preamble*
+
+*Quicklinks:*
+
+-   [*Cohort webpage*](https://nmfs-openscapes.github.io/2024-nmfs-champions/)
+
+------------------------------------------------------------------------
+
+Data and Workforce Modernization Is Happening A common saying when people talk about modernizing is: "Technology is easy; people and social change are difficult." At NOAA Fisheries, we’ve seen that real change is possible when technical and social infrastructure are prioritized together. Modernization efforts not only include data and technical infrastructure, but also the workforce—providing staff with the necessary skills and collaborative tools to drive these changes. One way we are doing this is the Openscapes Champions program. Openscapes creates a space where members from multiple teams come together to develop joint processes to improve overall project success.
+
+Data modernization at NOAA Fisheries means getting information out faster so people can use this information to meet their needs. It includes data, reports, and analyses and making these more efficient to create, share, and update consistently, relieving staff time. It also makes it more transparent both to the team and people interested in the information.
+
+::: blockquote-blue
+> *"I've already seen Openscapes change how NOAA Fisheries is doing things. There's a national peer network for learning, getting help, sharing tools, fixing things, and innovating. I see this continuing to grow as the community grows and people see what's possible. The emphasis on open, reproducible science will make it easier for partners and the public to engage in our work. Openscapes is contributing momentum to implementing tools that we need to do our jobs better."* – Phoebe Woodworth-Jefcoats, Pacific Islands Fisheries Science Center
+:::
+
+Over two months in fall 2024, 120 NOAA Fisheries staff tackled projects to improve or restructure data workflows through the Openscapes Program. They made substantial progress on complex workflow transformation goals, such as:
+
+-   Transitioning to contemporary data storage solutions;
+-   Automating large data-heavy reports with programmatic code and version control;
+-   Developing coordinated science program onboarding and operating procedures that are harmonized across NOAA Fisheries;
+-   Prototyping cloud computing workflows for new data streams from satellites and ocean modeling.
+
+Program leads organized and taught lessons and skill-building workshops, led small group reflection time, and facilitated coworking sessions. During coworking sessions, participants could brainstorm and make progress on what mattered to them with others working on similar tasks. [We can solve problems and complete tasks faster together in a social and collaborative way](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341) by reaching outside our individual work circles.
+
+::: {style="text-align:center;"}
+![*Zoomie of 2025 Fred Hutch Openscapes Champions and Mentors*](2025-fred-hutch-zoomie.png){fig-align="center" fig-alt="screenshot of zoom participants in a 4 by 5 grid. They are smiling and waving." width="65%"}
+:::

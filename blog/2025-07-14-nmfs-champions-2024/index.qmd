@@ -3,9 +3,33 @@ title: "Open Science Momentum at NOAA Fisheries"
 description: "How the Openscapes Champions Program is advancing open science at NOAA Fisheries"
 author:
   - name: Eli Holmes
-    orcid: 0000-0001-9128-8393
+    orcid: 0000-0001-9128-8393 
+  - name: Jonathan Peake
+    orcid: 0000-0001-5288-4184
+  - name: Amanda Bradford
+    orcid: 0000-0002-3236-834X 
+  - name: Lynn Dewitt  
+  - name: Brian Fadely
+    orcid: 0000-0002-9172-1887  
+  - name: Craig Faunce
+    orcid: 0000-0002-7920-4545
+  - name: Brooke Hawkins
+    orcid: 0000-0001-6916-2188  
+  - name: Joshua London
+    orcid: 0000-0002-3647-5046  
+  - name: Emily Markowitz
+    orcid: 0000-0001-5757-4230  
+  - name: Jennifer McCullough
+    orcid: 0000-0003-4212-7846
+  - name: Craig Millard
+    orcid: 0009-0007-9356-8189
+  - name: Margaret Siple
+    orcid: 0000-0002-4260-9856
+  - name: Stefanie Butland
+    orcid: 0000-0002-5427-8951
   - name: Julie Lowndes
     orcid: 0000-0003-1682-3872
+  - name: and the NMFS Openscapes Mentors
 date: 2025-07-14
 citation: 
   url: https://openscapes.org/blog/2025-07-14-nmfs-champions-2024/
@@ -13,7 +37,7 @@ categories: [champions, blog, noaa-fisheries]
 image: zoomies-2024-nmfs-cohorts-abc.png
 ---
 
-*In Fall 2024, we led 3 concurrent [Openscapes Champions](https://nmfs-openscapes.github.io/champions.html) Cohorts for NOAA Fisheries. These were the 13th Cohorts for NOAA Fisheries involving nearly 500 staff and affiliates. This post is a summary and celebration of their work.*
+*In Fall 2024, we led 3 concurrent [Openscapes Champions](https://nmfs-openscapes.github.io/champions.html) Cohorts for NOAA Fisheries. These were the 13th Cohorts for NOAA Fisheries involving nearly 500 staff and affiliates! This post is a summary and celebration of some their work.*
 
 *Quicklinks:*
 
@@ -24,7 +48,7 @@ image: zoomies-2024-nmfs-cohorts-abc.png
 
 ------------------------------------------------------------------------
 
-## Data and Workforce Modernization Is Happening 
+## Data and Workforce Modernization Is Happening
 
 A common saying when people talk about modernizing is: "Technology is easy; people and social change are difficult." At NOAA Fisheries, we’ve seen that real change is possible when technical and social infrastructure are prioritized together. Modernization efforts not only include data and technical infrastructure, but also the workforce—providing staff with the necessary skills and collaborative tools to drive these changes. One way we are doing this is the Openscapes Champions program. Openscapes creates a space where members from multiple teams come together to develop joint processes to improve overall project success.
 
@@ -57,11 +81,11 @@ During the sessions, Champions learned from the successes of past Champions Prog
 ![The Alaska Marine Mammal Stock Assessment team shared their report workflow to showcase what is possible from teams investing in shared workflows together. This is an example of the durable impacts of the training and work, several years after this team participated in the Champions program. Credit: NOAA Fisheries](figure2_AFSC-MML-workflow.png){fig-alt="A chart displaying the workflow between various types of software and output formats including R, Quarto, Zotero, GitHub, and more." fig-align="center" width="85%"}
 :::
 
-## What NOAA Staff Achieved on Projects Across the Agency 
+## What NOAA Staff Achieved on Projects Across the Agency
 
 The Champions program is a place for people to solve challenges together. Everyone works on mission-driven tasks for data workflow modernization that can seem (or are) insurmountable alone. Participants presented their work-in-progress efforts from the program in the fifth and final call. The progress these teams made was impressive, representing a deep investment in skills and people.
 
-### Improved Onboarding for Complex Science Initiatives 
+### Improved Onboarding for Complex Science Initiatives
 
 Abigail Golden, Owen Liu, and Brooke Hawkins focused on developing a workflow for improving onboarding of new staff to a data processing pipeline for vessel monitoring system (VMS) data. They developed an onboarding workflow that would help new staff understand and contribute to the VMS pipeline. They first focused on improving the project README, developing checklists and building a visual of the onboarding pipeline. Siloed workflows and lack of cross-team awareness created inefficiencies in complex initiatives involving multiple use cases.
 
@@ -77,9 +101,13 @@ Jennifer McCullough, Catherine Berchok, Rebecca Van Hoeck, Julia Zeh, Candice Em
 ![The Pacific Islands Fisheries Science Center Passive Acoustics Monitoring Lab Manual, created collaboratively with Quarto and GitHub. Credit: NOAA Fisheries](figure4_PIFSC-PAM-manual.png){fig-alt="A screenshot of a digital manual with links to different passive acoustic monitoring instructions, resources, and protocols." fig-align="center" width="85%"}
 :::
 
-### Simplifying Risk Assessment for Pesticides 
+### Simplifying Risk Assessment for Pesticides
 
 David Baldwin, Holly Suther, and Karrin Goodman from the Office of Protected Resources aimed to further automate the generation of Risk-Plots for pesticides and crops and improve their ability to manage, maintain, and modify these plots. Risk-Plots combine many separate effects and exposure groups and the current process and code have evolved to include nine biological opinions. The team presented how they had begun work by mapping out their current process, and were then able to identify next steps.
+
+::: {style="text-align:center;"}
+![The Office of Protected Resources team white-board map of their current workflow components so that they could identify next steps.](figure5_OPR-risk-characterization.png){fig-alt="photo of whiteboard with a hand-written implementation scheme including Current, Challenge, and Next Steps" fig-align="center" width="85%"}
+:::
 
 ## Onward: Continuing to Modernize Data Workflows
 

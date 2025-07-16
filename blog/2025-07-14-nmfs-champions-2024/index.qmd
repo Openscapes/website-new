@@ -44,7 +44,7 @@ image: zoomies-2024-nmfs-cohorts-abc.png
 -   [*Cohort webpage*](https://nmfs-openscapes.github.io/2024-nmfs-champions/)
 -   [*Browse stories*](https://openscapes.org/blog#category=noaa-fisheries) about the NOAA Fisheries Openscapes framework
 
-*Cross-posted from [NOAA Fisheries](https://www.fisheries.noaa.gov/science-blog/open-science-momentum-noaa-fisheries).*
+*Cross-posted from the [NOAA Fisheries Science Blog](https://www.fisheries.noaa.gov/science-blog/open-science-momentum-noaa-fisheries) and at [nmfs-openscapes.github.io/blog](https://nmfs-openscapes.github.io/blog).*
 
 ------------------------------------------------------------------------
 

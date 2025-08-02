@@ -32,7 +32,7 @@ image: earthaccess-cc-slide-6.png
 -   *Community Call [Collaborative Notes](https://docs.google.com/document/d/1VEP-CatRX_RzS9pBCfPPHcU5kskSvPbCp6fXq3optqs/edit?tab=t.0)*
 -   *Join as an `earthaccess` contributor [https://earthaccess.readthedocs.io/en/latest/contributing](https://earthaccess.readthedocs.io/en/latest/contributing/)*
 
-*Cross-posted at [openscapes.org/events](https://openscapes.org/events), [nasa-openscapes.github.io/news](https://nasa-openscapes.github.io/news.html)*
+*Cross-posted at [openscapes.org/blog](https://openscapes.org/blog), [nasa-openscapes.github.io/news](https://nasa-openscapes.github.io/news.html)*
 
 ------------------------------------------------------------------------
 

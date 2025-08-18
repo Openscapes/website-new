@@ -81,8 +81,7 @@ This project explored how Quarto can be used to generate repeatable report templ
 6\. [Central Locations for Open Science Tools at PIFSC\
 ](https://github.com/nmfs-openscapes/how-we-work/issues/46#issuecomment-2914343160)This team focused on designing a more discoverable and centralized place to access open science resources within PIFSC. Their intent was to “fork” the model used by other groups to curate tools and templates for broader visibility and reuse across the center.
 
-7\. ["Code Cleanup" of R packages](https://github.com/nmfs-openscapes/how-we-work/issues/46#issuecomment-3005666955)  in the National Stock Assessment Program
-The group who maintain or contribute to the centralized [asar](https://nmfs-ost.github.io/asar/) and [stockplotr](https://nmfs-ost.github.io/stockplotr/) R packages for automated stock assessment reports used the time for a collaborative code cleanup.
+7\. ["Code Cleanup" of R packages](https://github.com/nmfs-openscapes/how-we-work/issues/46#issuecomment-3005666955)  in the National Stock Assessment Program The group who maintain or contribute to the centralized [asar](https://nmfs-ost.github.io/asar/) and [stockplotr](https://nmfs-ost.github.io/stockplotr/) R packages for automated stock assessment reports used the time for a collaborative code cleanup.
 
 ## What Comes Next: Enabling NOAA’s Cloud Transition
 

@@ -58,7 +58,7 @@ Without documentation, automation, and shared protocols, scientific work remains
 During the morning and afternoon co-creation blocks, participants worked on active projects with the support of Openscapes mentors and peers. These sessions were a twist on the agile format stand-ups. Participants shared their problems quickly, the entire audience asked clarifying questions, and then a small group had a short breakout on each problem to identify more resources, advice, or questions. With this quickly crowdsourced information, the teams interested in working on each project then split off for dedicated time to make tangible progress.
 
 ::: {style="text-align:center;"}
-![*Working together during a co-creation block.*](cocreation-huddle.jpg){fig-align="center" fig-alt="4 women sit around a table, concentrating with laptops open." width="50%"}
+![*Working together during a co-creation block.*](cocreation-huddle.JPG){fig-alt="4 women sit around a table, concentrating with laptops open." fig-align="center" width="50%"}
 :::
 
 Below is a list of projects that were worked on during the workshop:

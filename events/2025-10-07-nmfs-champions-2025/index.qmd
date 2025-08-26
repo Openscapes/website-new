@@ -1,0 +1,33 @@
+---
+title: "NOAA Fisheries Openscapes Champions Program Fall 2025"
+description: "120 Openscapes Champions in 3 Cohorts for NOAA's National Marine Fisheries Service"
+author:
+  - name: Openscapes
+date: 2025-10-07
+categories:
+  - event 
+  - champions
+  - noaa-fisheries
+image: NOAA_FISHERIES_logoH.png
+bibliography: references.bib
+---
+
+**The NOAA Fisheries Open Science Champions cohorts are coming (back) this fall - [sign up by Sept 8](https://nmfs-openscapes.github.io/champions)!** This is a workflow transformation & leadership opportunity. The Champions cohorts directly support staff and teams as they work on workflow modernization and data science modernization goals. This program is a key part of workforce training and support associated with the [Fisheries Data Modernization Efforts](https://www.fisheries.noaa.gov/science-data/data-modernization-efforts-noaa-fisheries); read about the [2024 cohorts](https://www.fisheries.noaa.gov/science-blog/open-science-momentum-noaa-fisheries). The Champions cohorts help staff across all centers and offices address cross-regional data sharing challenges using cloud and Open Science solutions and implement reproducible data science workflows and tooling.
+
+All details, dates, sign-ups, FAQs, and scheduled “Ask Us Anything” sessions: <https://nmfs-openscapes.github.io/champions>.
+
+We especially encourage people interested in [cloud migration and data preservation](https://docs.google.com/presentation/d/1Q6zerBOYfSr-Sw0YTz2JV8OOskjw_0oGOIM2WSMmS84/edit?slide=id.g3720335bad7_1_989#slide=id.g3720335bad7_1_989) to sign up, although you do not need to be interested in this theme to apply. We will be teaching the Champions core lessons and some will be tailored to help people think through what this year’s theme - reimagine data and workflows in the cloud - might mean for their own work.
+
+[Openscapes](https://openscapes.org) is an approach for doing better science in less time [@lowndes2017]. We help research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes' mentorship and community engagement approaches center on open data science as kinder science [@lowndes2019], enabling increased efficiency and resilience for teams so that their work has more enduring impact.
+
+[Openscapes Champions](https://openscapes.org/initiatives#champions-program) is an open data science mentorship program for science teams. It is a multi-month program that is designed to ignite incremental and sustainable change within research teams and beyond. It helps teams get their own work done, while building skills and community within the realities of scientists’ busy schedules, varying expertise and needs. **From October through December 2025, 120 NMFS researchers will participate in 3 concurrent cohorts.**
+
+### Resources
+
+-   [NMFS Openscapes](https://nmfs-openscapes.github.io)
+-   [NMFS Openscapes Champions Cohorts](https://nmfs-openscapes.github.io/champions.html)
+-   Blog posts about [NMFS Openscapes](https://openscapes.org/blog#category=noaa-fisheries) and past [Champions](https://openscapes.org/blog#category=champions)
+-   [Nationwide Openscapes Training at NOAA Fisheries Science Centers: Facilitating Collaboration, Skill-sharing, and Open Science](https://openscapes.org/blog/2023-01-24-noaa-nmfs-fall/)
+-   [NMFS Open Science](https://nmfs-opensci.github.io/)
+
+![](NOAA_FISHERIES_logoH.png){fig-alt="logo of NOAA Fisheries on left with text NOAA FISHERIES on right" width="30%"}

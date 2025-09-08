@@ -31,7 +31,7 @@ image: chasm-puppy-to-shepherd.png
 -   *Speakers [Slides](https://docs.google.com/presentation/d/1cbjjlAlVfJq7n7TIt0fgQxz3lwhfRZvX-ctlPQC8D0I/edit?slide=id.g344f6b45c2f_0_380#slide=id.g344f6b45c2f_0_380)*
 -   *Community Call [Collaborative Notes](https://docs.google.com/document/d/1VEP-CatRX_RzS9pBCfPPHcU5kskSvPbCp6fXq3optqs/edit?tab=t.0)*
 
-*Cross-posted at [openscapes.org/blog](https://openscapes.org/blog), [nmfs-openscapes.github.io/blog](https://nmfs-openscapes.github.io/blog)*, [*nasa-openscapes.github.io/news*](https://nasa-openscapes.github.io/news.html)
+*Cross-posted at [openscapes.org/blog](https://openscapes.org/blog), [nmfs-openscapes.github.io/blog](https://nmfs-openscapes.github.io/blog)*, [*nasa-openscapes.github.io/news*](https://nasa-openscapes.github.io/news.html).
 
 ------------------------------------------------------------------------
 

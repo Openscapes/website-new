@@ -4,7 +4,7 @@ author:
   - name: Stefanie Butland
     orcid: 0000-0002-5427-8951
   - name: the Openscapes Team
-  - name: and the NMFS Openscapes Mentors
+  - name: and the NASA Openscapes Mentors
 date: 2025-09-30
 citation: 
   url: https://openscapes.org/blog/2025-09-30/leptoukh-lecture

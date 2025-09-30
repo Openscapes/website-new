@@ -52,6 +52,8 @@ website:
         menu:
            - text: "CONNECT WITH US"
              href: connect.qmd
+           - text: "WORK WITH US"
+             href: connect.qmd#work-with-us             
            - text: "EVENTS"
              href: events.qmd
       - icon: github

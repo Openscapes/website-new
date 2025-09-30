@@ -64,7 +64,7 @@ Please [email us](mailto:hello@openscapes.org) if you're interested in booking c
 
 We are looking for an experienced and well-organized **NASA Openscapes Suborbital Team Member** to support suborbital science teams by developing, documenting, and teaching reproducible workflows using computational notebooks. The team member will work with the NASA Openscapes community and deliver a Notebook Clinic to a cohort of suborbital science teams in early 2026 in support of [Openscapes](https://openscapes.org) strategies, goals, and outcomes. 
 
-This position is a part-time (20 hrs/week) contract. The contract may start as early as December 1, 2025. This is a 6-month contract likely to be extended through Summer 2026. The work is fully remote.
+This position is a part-time (20 hrs/week) contract. The contract may start as early as December 1, 2025. This is a 6-month contract likely to be extended further into 2026. The work is fully remote.
 
 **Primary responsibilities**
 
@@ -129,7 +129,7 @@ We know that diverse teams build better services. Openscapes works openly as par
 We are committed to fostering a global and welcoming environment. NASA Openscapes is an initiative from [Openscapes](https://openscapes.org); [our team](https://openscapes.org/team) is distributed and all positions are in a remote working environment. This position will collaborate closely with US time zones. Applicants in time zones that are +/- 4 hours from US Pacific time are preferred. This position may require occasional travel. All Openscapes work abides by our [Code of Conduct](https://openscapes.org/code-of-conduct).
 
 **Compensation\
-**NASA Openscapes is an open source project transitioning into sustainability. We offer this part-time contractor position at \$90 USD per hour. This is a contracted funded position for 6 months, that could be extended further in 2026. 
+**NASA Openscapes is an open source project transitioning into sustainability. We offer this part-time contractor position at \$90 USD per hour. This is a contracted funded position for 6 months, that could be extended further into 2026. 
 
 **How to Apply\
 \

@@ -70,7 +70,7 @@ This position is a part-time (20 hrs/week) contract. The contract may start as e
 
 -   Engage with NASA suborbital science teams to help strengthen a cross-DAAC suborbital community, and to understand challenges and opportunities for open and reproducible workflows using suborbital data.
 
--   Collaborate closely with Openscapes partners at NASA DAACs to design lessons for developing reproducible notebooks (using Jupyter, Quarto, GitHub, Markdown) focused on data access, and analysis of suborbital data. 
+-   Collaborate closely with Openscapes partners at NASA DAACs, CryoCloud, and 2i2c to design lessons for developing reproducible notebooks (using Jupyter, Quarto, GitHub, Markdown) focused on data access, and analysis of suborbital data. 
 
 -   Facilitate and teach clinics with a team, using open and adaptive facilitation techniques and preparing through synchronous online calls and asynchronous collaboration. 
 

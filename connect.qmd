@@ -17,24 +17,27 @@ listing:
 ---
 
 ::::: column-screen
+
 ![](images/banner_imgs/text_banners/connect_with_us_banner.png)
+
+:::::
 
 <br>
 
+::::: column-screen
 :::: white-div
 ::: {.medium-body-text .center-text}
 **This is a global movement for open, inclusive, and actionable data-driven research.**<br>**We're excited to connect.**
+
+![](images/minis/horst_openscapes_mountains_salmon.png){fig-alt="An orange salmon with dark brown spots speckled down its back." width="8%"}
+
 :::
+::::
+:::::
 
-<br>
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "8%"
-#| fig-alt: "An orange salmon with dark brown spots speckled down its back."
-knitr::include_graphics("images/minis/horst_openscapes_mountains_salmon.png")
-```
+:::: column-screen
+:::: white-div
 
 ## JOIN THE MOVEMENT
 
@@ -60,11 +63,17 @@ Please [email us](mailto:hello@openscapes.org) if you're interested in booking c
 
 ### Contract Opportunity: NASA Openscapes Suborbital Team Member
 
-[NASA Openscapes](https://nasa-openscapes.github.io/) supports researchers using data from [NASA Earthdata](https://www.earthdata.nasa.gov/) data centers (Distributed Active Archive Centers \[DAACs\]) as they migrate workflows to the Cloud collaboratively and reproducibly through open science. NASA Earthdata has volumes of remote sensing data collected from satellites, as well as substantial suborbital data collected from field sampling, airborne sampling, boats, and buoys. Suborbital science teams working with suborbital data via NASA programs currently archive data at several NASA DAACs. 
+[NASA Openscapes](https://nasa-openscapes.github.io/) supports researchers using data from [NASA Earthdata](https://www.earthdata.nasa.gov/) data centers (Distributed Active Archive Centers \[DAACs\]) as they migrate workflows to the Cloud collaboratively and reproducibly through open science.
+NASA Earthdata has volumes of remote sensing data collected from satellites, as well as substantial suborbital data collected from field sampling, airborne sampling, boats, and buoys.
+Suborbital science teams working with suborbital data via NASA programs currently archive data at several NASA DAACs. 
 
-We are looking for an experienced and well-organized **NASA Openscapes Suborbital Team Member** to support suborbital science teams by developing, documenting, and teaching reproducible workflows using computational notebooks. The team member will work with the NASA Openscapes community and deliver a Notebook Clinic to a cohort of suborbital science teams in early 2026 in support of [Openscapes](https://openscapes.org) strategies, goals, and outcomes. 
+We are looking for an experienced and well-organized **NASA Openscapes Suborbital Team Member** to support suborbital science teams by developing, documenting, and teaching reproducible workflows using computational notebooks.
+The team member will work with the NASA Openscapes community and deliver a Notebook Clinic to a cohort of suborbital science teams in early 2026 in support of [Openscapes](https://openscapes.org) strategies, goals, and outcomes. 
 
-This position is a part-time (20 hrs/week) contract. The contract may start as early as December 1, 2025. This is a 6-month contract likely to be extended further into 2026. The work is fully remote.
+This position is a part-time (20 hrs/week) contract.
+The contract may start as early as December 1, 2025.
+This is a 6-month contract likely to be extended further into 2026.
+The work is fully remote.
 
 **Primary responsibilities**
 
@@ -122,18 +131,30 @@ This position is a part-time (20 hrs/week) contract. The contract may start as e
 
 **Diversity**
 
-We know that diverse teams build better services. Openscapes works openly as part of a global community, guided by collaboratively developed codes of conduct and anti-harassment policies. 
+We know that diverse teams build better services.
+Openscapes works openly as part of a global community, guided by collaboratively developed codes of conduct and anti-harassment policies. 
 
 **Work Environment and Location**
 
-We are committed to fostering a global and welcoming environment. NASA Openscapes is an initiative from [Openscapes](https://openscapes.org); [our team](https://openscapes.org/team) is distributed and all positions are in a remote working environment. This position will collaborate closely with US time zones. Applicants in time zones that are +/- 4 hours from US Pacific time are preferred. This position may require occasional travel. All Openscapes work abides by our [Code of Conduct](https://openscapes.org/code-of-conduct).
+We are committed to fostering a global and welcoming environment.
+NASA Openscapes is an initiative from [Openscapes](https://openscapes.org); [our team](https://openscapes.org/team) is distributed and all positions are in a remote working environment.
+This position will collaborate closely with US time zones.
+Applicants in time zones that are +/- 4 hours from US Pacific time are preferred.
+This position may require occasional travel.
+All Openscapes work abides by our [Code of Conduct](https://openscapes.org/code-of-conduct).
 
 **Compensation\
-**NASA Openscapes is an open source project transitioning into sustainability. We offer this part-time contractor position at \$100 USD per hour (*corrected rate on Oct 3)*. This is a contracted funded position for 6 months, that could be extended further into 2026. 
+**NASA Openscapes is an open source project transitioning into sustainability.
+We offer this part-time contractor position at \$100 USD per hour (*corrected rate on Oct 3)*.
+This is a contracted funded position for 6 months, that could be extended further into 2026. 
 
 **How to Apply\
 \
-**Please email your resume/curriculum vitae and cover letter as a single PDF to “hello\@openscapes.org” with the subject heading of “\[Last Name\] for NASA Openscapes.” Please include a link to example open source software contributions, documentation, or tutorial materials if available. Your cover letter should address why you are interested in this job, why you’re a good fit based on the requirements and responsibilities, and respond to the question “why is user-centered support for changing workflows important for science?”. We are looking to hire for this role starting by December 1, so please share this opportunity and do not hesitate to apply. No phone calls or recruiters please.
+**Please email your resume/curriculum vitae and cover letter as a single PDF to “hello\@openscapes.org” with the subject heading of “\[Last Name\] for NASA Openscapes.” Please include a link to example open source software contributions, documentation, or tutorial materials if available.
+Your cover letter should address why you are interested in this job, why you’re a good fit based on the requirements and responsibilities, and respond to the question “why is user-centered support for changing workflows important for science?”
+.
+We are looking to hire for this role starting by December 1, so please share this opportunity and do not hesitate to apply.
+No phone calls or recruiters please.
 
 **Application deadline: October 26, 2025, at midnight in your timezone.** We will not be reaching out to schedule any interviews until after that date.
 
@@ -163,7 +184,8 @@ As you plan department seminar series, conferences, or webinar series, consider 
 ## **UPCOMING EVENTS**
 :::
 
-Openscapes holds regular community calls, participates in conference talks, webinars, and organizes opportunities through the Champions Program and other initiatives. Browse [our events listings](events.qmd) and register to attend!
+Openscapes holds regular community calls, participates in conference talks, webinars, and organizes opportunities through the Champions Program and other initiatives.
+Browse [our events listings](events.qmd) and register to attend!
 
 <br>
 

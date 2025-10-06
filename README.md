@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e951a513-252a-4ab6-8eaa-3549ce103299/deploy-status)](https://app.netlify.com/sites/dreamy-solstice-e71879/deploys)
+
 # website-new
 Website migration to Quarto!
 

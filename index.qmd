@@ -252,9 +252,11 @@ Our blog shares stories from the community and documents our learning openly. Se
 We share our curricula, approach, and many other [open resources](resources.qmd) for reuse.
 
 Learn more about our [initiatives](initiatives.qmd) through our [media](media.qmd), and [events](events.qmd) and [connect](connect.qmd) with us.
-:::
+
 <br>
-![](images/minis/horst_openscapes_grassland_oak.png){fig-alt="A green tree with a tall and wide canopy. Only a small amount of the brown trunk is visible." width="10%" fig-align="center"}
+
+![](images/minis/horst_openscapes_grassland_oak.png){fig-alt="A green tree with a tall and wide canopy. Only a small amount of the brown trunk is visible." width="10%"}
+:::
 
 :::
 :::

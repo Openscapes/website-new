@@ -1,7 +1,8 @@
 {
-  "hash": "88dd54d3ff8a3e20e1d5392254c56f7e",
+  "hash": "0c3aa1cfac90f60a9584e24f2c279888",
   "result": {
-    "markdown": "---\ntitle: \"NASA Openscapes Champions Cohort\"\ndescription: |\n  Openscapes Champions Cohort for research teams using data from NASA Distributed Active Archive Centers (DAACs) and interested in open science and migrating their analytical workflows to the cloud.\nauthor:\n  - name: Openscapes and NASA\n    url: {}\ndate: 2022-03-04\ncategories:\n  - event\n  - champions\n  - nasa-framework\nimage: \"nasa-openscapes.png\"   \n---\n\n\n\n\nThis is a mentorship and professional development opportunity for research teams; please see [**nasa-openscapes.github.io/champions**](https://nasa-openscapes.github.io/champions) for details.\n\n<br>\n\n\n::: {.cell layout-align=\"center\" preview='true'}\n::: {.cell-output-display}\n![](nasa-openscapes.png){fig-align='center' width=40%}\n:::\n:::\n",
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"NASA Openscapes Champions Cohort\"\ndescription: |\n  Openscapes Champions Cohort for research teams using data from NASA Distributed Active Archive Centers (DAACs) and interested in open science and migrating their analytical workflows to the cloud.\nauthor:\n  - name: Openscapes and NASA\n    url: {}\ndate: 2022-03-04\ncategories:\n  - event\n  - champions\n  - nasa-framework\nimage: \"nasa-openscapes.png\"   \n---\n\nThis is a mentorship and professional development opportunity for research teams; please see [**nasa-openscapes.github.io/champions**](https://nasa-openscapes.github.io/champions) for details.\n\n<br>\n\n![](nasa-openscapes.png){width=\"40%\" fig-align=\"center\"}\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

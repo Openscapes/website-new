@@ -48,6 +48,7 @@ Of course I want credit for my contributions! When we add an author's ORCID ID t
 <br>
 
 ![](zenodo-orcid.png){fig-alt="screenshot showing zenodo record called 3 Approaches for the Year of Open Science with green ID symbol linked with an arrow to a second screenshot showing the ORCID record for that publication" width="50%" fig-align="center"}
+
 ::: {.caption-text .center-text}
 *Associating a Zenodo record with an author's ORCID ID results in that record being automatically listed in their ORCID profile.*
 :::

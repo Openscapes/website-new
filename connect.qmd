@@ -63,9 +63,13 @@ Please [email us](mailto:hello@openscapes.org) if you're interested in booking c
 
 ### Contract Opportunity: NASA Openscapes Suborbital Team Member
 
+*September 30, 2025 - original posting.*  
+*October 6, 2025 - added “Ideal Canditate” clarification, thank to several queries we received.*
+
+
 [NASA Openscapes](https://nasa-openscapes.github.io/) supports researchers using data from [NASA Earthdata](https://www.earthdata.nasa.gov/) data centers (Distributed Active Archive Centers \[DAACs\]) as they migrate workflows to the Cloud collaboratively and reproducibly through open science.
 NASA Earthdata has volumes of remote sensing data collected from satellites, as well as substantial suborbital data collected from field sampling, airborne sampling, boats, and buoys.
-Suborbital science teams working with suborbital data via NASA programs currently archive data at several NASA DAACs. 
+Suborbital science teams working with suborbital data via NASA programs currently archive data at several NASA DAACs.
 
 We are looking for an experienced and well-organized **NASA Openscapes Suborbital Team Member** to support suborbital science teams by developing, documenting, and teaching reproducible workflows using computational notebooks.
 The team member will work with the NASA Openscapes community and deliver a Notebook Clinic to a cohort of suborbital science teams in early 2026 in support of [Openscapes](https://openscapes.org) strategies, goals, and outcomes. 
@@ -74,6 +78,8 @@ This position is a part-time (20 hrs/week) contract.
 The contract may start as early as December 1, 2025.
 This is a 6-month contract likely to be extended further into 2026.
 The work is fully remote.
+
+**The Ideal Candidate** has experience with NASA suborbital Earthdata, including data discovery, access, and analytical workflows.
 
 **Primary responsibilities**
 

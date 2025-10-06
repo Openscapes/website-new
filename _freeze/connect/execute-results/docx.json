@@ -9,7 +9,7 @@
     ],
     "includes": {},
     "engineDependencies": {},
-    "preserve": {},
-    "postProcess": true
+    "preserve": null,
+    "postProcess": false
   }
 }

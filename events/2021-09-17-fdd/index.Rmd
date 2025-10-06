@@ -12,11 +12,6 @@ categories:
 image: "fdd-logos.png"   
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-
 ## Cohort Summary 
 Sponsored through NOAA Fisheries Northeast Fisheries Science Center ([NEFSC](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center)) and a grant from the [Fisheries Information System Program](https://www.fisheries.noaa.gov/national/commercial-fishing/fisheries-information-system-program) through an award to [UMass Dartmouth-SMAST](https://www.umassd.edu/smast/) through [CINAR](http://www.cinar.org/).
 
@@ -42,9 +37,7 @@ Sponsored through NOAA Fisheries Northeast Fisheries Science Center ([NEFSC](htt
 **This opportunity is funded through NOAA Fisheries Northeast Fisheries Science Center ([NEFSC](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center)) and a grant from the [Fisheries Information System Program](https://www.fisheries.noaa.gov/national/commercial-fishing/fisheries-information-system-program) through an award to [UMass Dartmouth-SMAST](https://www.umassd.edu/smast/) through [CINAR](http://www.cinar.org/).** It is coordinated by Gavin Fay (UMassD-SMAST), Andy Jones (NOAA NEFSC), and Rachel Baum (UMassD Claire T. Carney Library).
 
 
-```{r, out.width="50%", fig.align='center', preview=TRUE}
-knitr::include_graphics("fdd-logos.png")  
-```
+![](fdd-logos.png){width="50%" fig-align="center"}
 
 
 ## Cohort details
@@ -67,6 +60,7 @@ Learn more about the [Openscapes Champions Program](https://openscapes.org/champ
 
 [^1]:
      [nature.com/articles/s41559-017-0160](https://nature.com/articles/s41559-017-0160) 
+
 
 [^2]:
      [blogs.scientificamerican.com/observations/open-software-means-kinder-science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science) 

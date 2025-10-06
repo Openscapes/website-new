@@ -21,19 +21,14 @@ We launched this program in 2023 and plan to lead it annually in May!
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "10%"
-#| fig-alt: "A brown beaver wearing a purple baseball cap with the orange Openscapes logo on the front holds a rock in its outstretched arms."
-knitr::include_graphics("images/minis/beaver_hat.png")
-```
+::: {.center-text}
+![](images/minis/beaver_hat.png){fig-alt="A brown beaver wearing a purple baseball cap with the orange Openscapes logo on the front holds a rock in its outstretched arms." width="10%"}
 
 ::: {.yellow-bg}
-::: {.medium-body-text .center-text}
+::: {.medium-body-text}
 {{< fa book-open title="An open book" >}} Check out our open educational resources!
 :::
-::: {.center-text}
+
 Explore the [Openscapes Reflections Booklet](https://openscapes.github.io/booklet/), which introduces prompts to guide your reflections. These materials are improved iteratively and the most recent version is always available online for reuse and remix.
 :::
 :::

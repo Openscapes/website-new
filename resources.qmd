@@ -18,13 +18,7 @@ aliases:
 
 :::
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "10%"
-#| fig-alt: "A green tree with a tall and wide canopy. Only a small amount of the brown trunk is visible."
-#knitr::include_graphics("images/minis/horst_openscapes_grassland_oak.png")
-```
+![](images/minis/horst_openscapes_grassland_oak.png){fig-alt="A green tree with a tall and wide canopy. Only a small amount of the brown trunk is visible." width="10%" fig-align="center"}
 
 <!--------------------------------------------->
 <!---------------- START row 1 ---------------->
@@ -151,4 +145,3 @@ See also our **[media](media.qmd)** for publications, slides, and videos about o
 
 :::
 :::
-

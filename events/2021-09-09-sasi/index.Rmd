@@ -12,11 +12,6 @@ categories:
 image: "gbmf-protocols.png"
 ---
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ## Cohort Summary 
 This is a Cohort for the Symbiosis in Aquatic Systems Initiative ([SASI](https://www.moore.org/initiative-strategy-detail?initiativeId=symbiosis-in-aquatic-systems-initiative)), funded by the [Gordon and Betty Moore Foundation](https://www.moore.org/). We are co-leading with [protocols.io](https://www.protocols.io/).
 
@@ -29,7 +24,4 @@ This is a Cohort for the Symbiosis in Aquatic Systems Initiative ([SASI](https:/
 
 Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
 
-```{r, out.width="50%", fig.align='center', preview=TRUE}
-knitr::include_graphics("gbmf-protocols.png")  
-```
-
+![](gbmf-protocols.png){width="50%" fig-align="center"}

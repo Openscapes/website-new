@@ -14,10 +14,6 @@ image: "NOAA_logo.png"
 ---
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ## Cohort Summary
 
 Sponsored by NOAA NWFSC, coordinated by Eric Ward and Mary Hunsicker  
@@ -43,8 +39,4 @@ Sponsored by NOAA NWFSC, coordinated by Eric Ward and Mary Hunsicker
 
 **This opportunity is funded and coordinated by NOAA Northwest Fisheries Science Center ([NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)).**
 
-```{r, out.width="40%", fig.align='center', preview=TRUE}
-knitr::include_graphics("NOAA_logo.png")  
-```
-
-
+![](NOAA_logo.png){width="40%" fig-align="center"}

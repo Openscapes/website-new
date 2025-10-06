@@ -12,16 +12,10 @@ categories:
 image: "WaterBoards_logo_high_res2.png"   
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 This is the first Champions Cohort "forked" from Openscapes. Read the summary blog post by co-leads Anna Holder and Corey Clatterbuck: [Adapting the Champions Program for the California Water Boards](https://www.openscapes.org/blog/2022/12/02/swrcb-2022/).
 
 This is a mentorship and professional development opportunity for research teams; please see the [Cohort website](https://openscapes.github.io/2022-swrcb/), and [Openscapes Champions Program](https://www.openscapes.org/champions/) for details.
 
 <br>
 
-```{r, out.width="40%", fig.align='center', preview=TRUE}
-knitr::include_graphics("WaterBoards_logo_high_res2.png")  
-```
+![](WaterBoards_logo_high_res2.png){width="40%" fig-align="center"}

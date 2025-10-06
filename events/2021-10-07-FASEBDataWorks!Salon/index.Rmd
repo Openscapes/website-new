@@ -12,11 +12,6 @@ categories:
 image: "faseb.png"
 ---
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 <!---****[View event summary & video](https://www.openscapes.org/blog/2021/05/27/tara-robertson/)**  **  --->
 **Date: October 7, 2021**\
 **Time: 10:00am PT** (UTC-7)\
@@ -27,8 +22,6 @@ Please join us for the inaugural FASEB DataWorks! Data Salon. It will be an inte
 We are sharing the Openscapes Mindset and participants will explore strategies to instill data-sharing practices within a research team, with the discussion informing the FASEB DataWorks! Fellows program.
 
 
-```{r, out.width="45%", fig.align='center', preview=TRUE}
-knitr::include_graphics("faseb.png")  
-```
+![](faseb.png){width="45%" fig-align="center"}
 
 [FASEB DataWorks!](https://www.faseb.org/Science-Policy-and-Advocacy/Science-Policy-Research-Issues/Data-Science-and-Informatics/Data-Sharing-and-Reuse) is an intentionally open and collaborative approach to promoting culture change in the biological and biomedical sciences through conversation spaces, training, peer support, and prizes. Their goal is to transform the way research is performed and recognized. 

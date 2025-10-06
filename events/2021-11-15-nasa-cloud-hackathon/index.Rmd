@@ -13,11 +13,6 @@ categories:
 image: "https://user-images.githubusercontent.com/2915555/133525653-2a2278b1-1015-4350-b2a5-160d125aaaf7.png"
 ---
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 **Cloud Hackathon: Transitioning Earthdata Workflows to the Cloud,** co-hosted by the NASA EOSDIS Physical Oceanography Distributed Active Archive Center ([PO.DAAC](https://podaac.jpl.nasa.gov/)), National Snow and Ice Data Center DAAC ([NSIDC DAAC](https://nsidc.org/daac)), Land Processes Distributed Active Archive Center ([LP.DAAC](https://lpdaac.usgs.gov/)), with support provided by [ASDC DAAC](https://asdc.larc.nasa.gov/), [GES DISC](https://disc.gsfc.nasa.gov/), [IMPACT](https://impact.earthdata.nasa.gov/) and [NASA Openscapes](https://nasa-openscapes.github.io/).
 
 **Blog summaries**:
@@ -25,9 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - <https://earthdata.nasa.gov/learn/articles/2021-cloud-hackathon>
 - <https://podaac.jpl.nasa.gov/announcements/2021-12-15-The-2021-Cloud-Hackathon>
 
-```{r, out.width="45%", fig.align='center', preview=TRUE}
-knitr::include_graphics("https://user-images.githubusercontent.com/2915555/133525653-2a2278b1-1015-4350-b2a5-160d125aaaf7.png")  
-```
+![](https://user-images.githubusercontent.com/2915555/133525653-2a2278b1-1015-4350-b2a5-160d125aaaf7.png){width="45%" fig-align="center"}
 
 The Cloud Hackathon will take place **virtually** from **November 15-19, 2021.**
 
@@ -37,4 +30,3 @@ Please see **<https://nasa-openscapes.github.io/2021-Cloud-Hackathon/>** for all
 
 
 <br>
-

@@ -12,10 +12,6 @@ categories:
 image: "images/pangeologo.png"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 **Date: June 30, 2021**\
 **Time: 9am PST** (UTC-8)\
 **Where: on Zoom at Pangeo Showcase**\
@@ -24,6 +20,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Please join us for our presentation about the NASA Openscapes Framework at the Pangeo Showcase. The Pangeo Showcase Webinar Series is part of the Pangeo Weekly Community Meeting. See the Meeting Schedule and Notes for more information on Pangeo community meetings.
 
-```{r, out.width="65%", out.extra='style="background-color: white; padding:2px; display: inline-block;"', preview=TRUE}
-knitr::include_graphics("images/pangeologo.png")  
-```
+![](images/pangeologo.png){width="65%" style="background-color: white; padding:2px; display: inline-block;"}

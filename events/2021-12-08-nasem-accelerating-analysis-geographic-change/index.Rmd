@@ -13,18 +13,11 @@ categories:
 image: "nasem-geo-meeting.jpg"
 ---
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 **Date: December 08, 2021**\
 
 We will be presenting about the NASA Openscapes framework at NASEM's meeting co-hosted by the Mapping Sciences Committee and the Geographical Sciences Committee. For full information, agenda, and registration, please see the [NASEM meeting webpage](https://www.nationalacademies.org/event/12-08-2021/accelerating-the-analysis-of-geographic-change). 
 
-```{r, out.width="45%", fig.align='center', preview=TRUE}
-knitr::include_graphics("nasem-geo-meeting.jpg")  
-```
+![](nasem-geo-meeting.jpg){width="45%" fig-align="center"}
 
 Excerpt from the NASEM meeting webpage: 
 

@@ -9,10 +9,6 @@ categories:
 image: "rstudio-conf.jpg"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 At rstudio::conf 2022, Julie Lowndes and Mine Çetinkaya-Rundel will co-deliver a keynote on Publishing and Collaborating with Quarto.
 
 [Julie Lowndes](https://jules32.github.io/) is Founder & Co-Director of Openscapes and Senior Fellow, National Center for Ecological Analysis & Synthesis (NCEAS), University of California Santa Barbara (UCSB).
@@ -22,6 +18,4 @@ At rstudio::conf 2022, Julie Lowndes and Mine Çetinkaya-Rundel will co-deliver 
 <https://www.rstudio.com/conference/>
 
 
-```{r, out.width="45%", fig.align='center', preview=TRUE}
-knitr::include_graphics("keynote-mine-lowndes.png")  
-```
+![](keynote-mine-lowndes.png){width="45%" fig-align="center"}

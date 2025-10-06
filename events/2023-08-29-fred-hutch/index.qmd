@@ -30,13 +30,7 @@ This Cohort has completed. For details, please see the 2023 Fred Hutch Openscape
 
 <br>
 
-```{r, out.width="40%", fig.align='center', preview=TRUE}
-#| out-width: "40%"
-#| fig-align: "center"
-#| preview: true
-#| echo: false
-knitr::include_graphics("fred-hutch-data-science-lab.png")  
-```
+![](fred-hutch-data-science-lab.png){fig-align="center" width="40%"}
 
 ## Cohort details
 

@@ -13,19 +13,14 @@ categories:
 image: "../2021-12-17-agu-open-science-in-action/agu.png"
 ---
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 **Enabling Analysis in the Cloud Using NASA Earth Science Data,** co-hosted by the NASA EOSDIS Physical Oceanography Distributed Active Archive Center ([PO.DAAC](https://podaac.jpl.nasa.gov/)), National Snow and Ice Data Center DAAC ([NSIDC DAAC](https://nsidc.org/daac)), Land Processes Distributed Active Archive Center ([LP.DAAC](https://lpdaac.usgs.gov/)),  [ASDC DAAC](https://asdc.larc.nasa.gov/), [GES DISC](https://disc.gsfc.nasa.gov/), [IMPACT](https://impact.earthdata.nasa.gov/) and [NASA Openscapes](https://nasa-openscapes.github.io/).
 
 Learn more and register:
 **<https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/124026>**.
 
-```{r, out.width="45%", fig.align='center', preview=TRUE}
-knitr::include_graphics("../2021-12-17-agu-open-science-in-action/agu.png")  
-```
+<br>
+
+![](../2021-12-17-agu-open-science-in-action/agu.png){width="45%" fig-align="center"}
 
 **Abstract:** 
 

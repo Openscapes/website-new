@@ -13,10 +13,6 @@ categories:
 image: "nasa-science.png"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 **Date: October 14, 2021**  
 **Time: 12:00pm - 3:00pm ET**  
 **Where: online**  
@@ -26,9 +22,7 @@ Please join us for NASA’s Open Source Science for Data Processing and Archives
 
 <br>
 
-```{r, out.width="45%", fig.align='center', preview=TRUE}
-knitr::include_graphics("nasa-science.png")  
-```
+![](nasa-science.png){width="45%" fig-align="center"}
 
 <br>
 

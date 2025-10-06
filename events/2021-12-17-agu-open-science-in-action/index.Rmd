@@ -13,19 +13,12 @@ categories:
 image: "agu.png"
 ---
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 We will be presenting an invited paper "Open Project Design: Lessons from the NASA Openscapes Framework" virtually at the 2021 American Geophysical Union (AGU) annual conference, in a session "Open Science In Action" convened by Dr. Chelle Gentemann and colleagues.
 
 Learn more and register: **<https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/122142>**
 
 
-```{r, out.width="45%", fig.align='center', preview=TRUE}
-knitr::include_graphics("agu.png")  
-```
+![](agu.png){width="45%" fig-align="center"}
 
 
 **Abstract**

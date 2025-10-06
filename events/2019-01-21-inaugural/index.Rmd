@@ -12,10 +12,6 @@ categories:
 image: "Cohort1_zoom.png"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ## Cohort Summary 
 Sponsored by Mozilla.
 
@@ -52,13 +48,9 @@ An evolutionary biologist using genomic analyses to improve marine conservation 
 An ecologist studying marine and freshwater parasites and infectious disease in a changing world.
 
 
-```{r, out.width="100%", fig.align='center', preview=TRUE}
-knitr::include_graphics("Cohort1_zoom.png")  
-```
+![](Cohort1_zoom.png){width="100%" fig-align="center"}
 
 
 ## Program Overview
 
 Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
-
-

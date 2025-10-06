@@ -10,10 +10,6 @@ categories:
 image: "css-white.png"   
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ## Cohort Summary 
 Sponsored by [Code for Science and Society (CS&S)](https://eventfund.codeforscience.org/)
 
@@ -57,9 +53,7 @@ We will meet four times over two months, on alternating Fridays in 2021.
 Nominate your team by filling out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSf8HfDy-5Bk2LRCSTeVgYFTtcSPga63pQemKoCO8F9TRg1NBA/viewform?usp=sf_link) by March 26, 2021. Please submit one nomination per team, preferably by the team lead (faculty, project manager. principal investigator, etc). We will confirm participation by early April 2021. 
 
 
-```{r, out.width="50%", preview=TRUE}
-knitr::include_graphics("css-white.png")  
-```
+![](css-white.png){width="50%"}
+
 This opportunity is funded by [Code for Science and Society (CS&S)](https://eventfund.codeforscience.org/). 
 <br> 
-

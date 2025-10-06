@@ -11,11 +11,6 @@ categories:
 image: "nature-webcast.png"
 ---
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 **Date: June 4, 2021**  
 **Time: 7am PT / 10am EDT / 3pm BST / 4pm CEST**  
 **Register: [nature.com/webcasts](https://www.nature.com/webcasts/event/how-to-start-learning-to-code-in-research/)**  
@@ -24,6 +19,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Julie Lowndes will be sharing her experience and motivation for Openscapes alongside Jeff Perkel (Springer Nature) and JooYoung Seo (Penn State University and upcoming prof at the Illinois iSchool).
 
-```{r, out.width="65%", out.extra='style="background-color: white; padding:2px; display: inline-block;"', preview=TRUE}
-knitr::include_graphics("nature-webcast.png")  
-```
+![](nature-webcast.png){width="65%" style="background-color: white; padding:2px; display: inline-block;"}

@@ -12,10 +12,6 @@ categories:
 image:  "../2021-09-17-nwfsc/NOAA_logo.png"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ## Cohort Summary 
 
 Sponsored by NOAA, coordinated by Scott Large and Gavin Fay  
@@ -44,7 +40,6 @@ This is a mentorship and professional development opportunity for research teams
 - [Our first Openscapes workshop](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/)
 - [Our Openscapes experience: the Fay Lab](https://www.openscapes.org/blog/2020/03/31/faylab-our-openscapes-experience/)
 
-```{r, out.width="40%", fig.align='center', preview=TRUE}
-knitr::include_graphics("../2021-09-17-nwfsc/NOAA_logo.png")  
-```
+<br>
 
+![](../2021-09-17-nwfsc/NOAA_logo.png){width="40%" fig-align="center"}

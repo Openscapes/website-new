@@ -22,10 +22,4 @@ We are hoping Reflections can be useful for colleagues who haven\'t been part of
 
 <br>
 
-```{r, out.width="40%", fig.align='center', preview=TRUE}
-#| out-width: "40%"
-#| fig-align: "center"
-#| preview: true
-#| echo: false
-knitr::include_graphics("fig-mountain-2023-square.jpg")  
-```
+![](fig-mountain-2023-square.jpg){fig-align="center" width="40%"}

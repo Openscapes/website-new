@@ -10,10 +10,6 @@ categories:
 image: nasa-openscapes-rladies-quarto.png
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 **[View event summary and video](https://www.openscapes.org/blog/2022/06/22/hello-quarto/)**  
 **Date: June 9, 2022**\
 **Time: 3:30-5:00 PT** (UTC-7)\
@@ -40,6 +36,4 @@ J.J. Allaire is the lead developer of Quarto. He is focused on supporting techni
 
 This event is co-hosted by [Openscapes](https://openscapes.org) and [R-Ladies Santa Barbara](https://twitter.com/RLadiesSB).
 
-```{r, out.width="45%", fig.align='center', preview=TRUE}
-knitr::include_graphics("nasa-openscapes-rladies-quarto.png")  
-```
+![](nasa-openscapes-rladies-quarto.png){width="45%" fig-align="center"}

@@ -12,10 +12,6 @@ categories:
 image: "NOAA_logo.png"   
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ## Cohort Summary
 This Cohort had research teams across four NOAA Fisheries Science Centers: Northwest, Northeast, Southeast, Alaska. Sponsored in part and coordinated by NOAA Northwest Fisheries Science Center ([NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)).
 
@@ -39,9 +35,7 @@ This Cohort had research teams across four NOAA Fisheries Science Centers: North
 
 <br>
 
-```{r, out.width="40%", fig.align='center', preview=TRUE}
-knitr::include_graphics("NOAA_logo.png")  
-```
+![](NOAA_logo.png){width="40%" fig-align="center"}
 
 
 ## Cohort details

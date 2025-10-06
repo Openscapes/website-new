@@ -13,11 +13,6 @@ categories:
 image: "moz-movement-building.png"
 ---
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 **Date: December 09, 2021**\
 **Time: 10:00-11:00am PT** (UTC-7)\
 **Where: Zoom**\
@@ -27,9 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 Please join us for a conversation with [Abby Cabunoc Mayes](https://twitter.com/abbycabs) and [Chad Sansing](https://twitter.com/chadsansing) of Mozilla about open leadership, the Mozilla Open Leaders program, and how it was designed and iterated. We'll discuss ideas and lessons learned from Moz OL, as well as from Openscapes, [Open Life Science](https://openlifesci.org/), [Open Post Academics](https://openpostac.org/), and Open Hardware, and invite others to share as well!
 
 
-```{r, out.width="45%", fig.align='center', preview=TRUE}
-knitr::include_graphics("moz-movement-building.png")  
-```
+![](moz-movement-building.png){width="45%" fig-align="center"}
 
 [**Abby Cabunoc Mayes**](http://acabunoc.github.io/) leads Mozilla’s developer-focused trustworthy AI strategy around MozFest and open source. Abby founded Mozilla Open Leaders and works to make openness the norm research and innovation.
 

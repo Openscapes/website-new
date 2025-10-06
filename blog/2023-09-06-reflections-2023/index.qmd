@@ -75,13 +75,7 @@ We'll also think about how to iterate with the structure of the hour-long huddle
 
 We'll announce the Spring 2024 Reflections program in early 2024! Until then, you can reflect with our open resources on your own or with your team: all the prompts are listed in the [Reflections Booklet](https://openscapes.github.io/booklet/).
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "85%"
-#| fig-alt: "Photo of Lake Bohinj in Slovenia. Green hills to left and right of lake. Blue sky, dotted clouds and some low strips of cloud or mist reflected in the lake surface"
-knitr::include_graphics("reflection-bohinj.jpg")
-```
+![](reflection-bohinj.jpg){fig-alt="Photo of Lake Bohinj in Slovenia. Green hills to left and right of lake. Blue sky, dotted clouds and some low strips of cloud or mist reflected in the lake surface" width="85%" fig-align="center"}
 
 ::: {.caption-text .center-text}
 Photo by Elliot Lowndes

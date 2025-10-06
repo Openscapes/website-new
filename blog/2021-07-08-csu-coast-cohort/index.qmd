@@ -33,13 +33,7 @@ We recently wrapped up the 2-month CSU COAST Openscapes Champions Cohort, sponso
 
 Together, over four sessions, we discussed coding and culture best practices, developed pathway documents to guide and plan our progress, and had our first seaside chats to begin implementing actionable items. The pathway document is a great way to take stock of where we are and what we need to do to achieve our goals, and arguably the most important thing to come out of this workshop is the seaside chats. Deliberately setting aside time in addition to or instead of regular lab meetings to implement parts of our pathway, share new tools, or simply have a group discussion is invaluable.
 
-```{r}
-#| eval: true 
-#| echo: false
-#| fig-align: "center"
-#| out-width: "75%" 
-knitr::include_graphics("horst_openscapes_champions.jpg")
-```
+![](horst_openscapes_champions.jpg){fig-align="center" width="75%"}
 
 ::: {.caption-text .center-text}
 In the the open data science landscape, there are many paths forward. Through the Champions program, researchers move from lonely research to team science with a cohort of peer teams by exploring pathways together. Artwork by [Allison Horst](https://twitter.com/allison_horst)
@@ -53,13 +47,7 @@ One of the earliest topics we discussed was Github, and most people were excited
 
 Thinking about data science from an open science perspective was helpful to a lot of people in the cohort. Learning to separate data wrangling from data analysis and not reinventing the wheel with our projects was an important takeaway from the program. Much of the focus was on finding and sharing new tools, as well as positioning ourselves to fully take advantage of them by having reproducible workflows. As Emily in the Nickols lab pointed out, “it’s ok to have a workflow you prefer as long as you make that as obvious and accessible as you can” which I think is a great way of thinking about an open science mindset. Perhaps the most surprising thing people learned was the usefulness of Twitter as a tool to find and share open science techniques, especially for R. The image below shows one of the good plot/bad plot examples created in Dr. Silbiger’s class. 
 
-```{r}
-#| eval: true 
-#| echo: false
-#| fig-align: "center"
-#| out-width: "45%" 
-knitr::include_graphics("tweet-nsilbiger-badplot.png")
-```
+![](tweet-nsilbiger-badplot.png){fig-align="center" width="45%"}
 
 ::: {.caption-text .center-text}
 Tweet from [@NSilbiger](https://twitter.com/NSilbiger/status/1374074205814153216): Nyssa shared with our cohort that in her course they had a "bad plot" competition taking everything they'd learned about data vizualation and then breaking all the rules

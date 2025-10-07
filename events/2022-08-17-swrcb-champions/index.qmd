@@ -1,0 +1,21 @@
+---
+title: "Openscapes Champions: California Water Boards Cohort"
+description: |
+  2022 California SWRCB Openscapes Champions Cohort for the California State Water Resources Control Board (SWRCB, "Water Boards"), with staff participation from the Office of Information Management and Analysis (OIMA) and the Division of Water Quality (DWQ)
+author:
+  - name: Openscapes and California Water Boards
+    url: {}
+date: 2022-08-17
+categories:
+  - event 
+  - champions
+image: "WaterBoards_logo_high_res2.png"   
+---
+
+This is the first Champions Cohort "forked" from Openscapes. Read the summary blog post by co-leads Anna Holder and Corey Clatterbuck: [Adapting the Champions Program for the California Water Boards](https://www.openscapes.org/blog/2022/12/02/swrcb-2022/).
+
+This is a mentorship and professional development opportunity for research teams; please see the [Cohort website](https://openscapes.github.io/2022-swrcb/), and [Openscapes Champions Program](https://www.openscapes.org/champions/) for details.
+
+<br>
+
+![](WaterBoards_logo_high_res2.png){width="40%" fig-align="center"}

@@ -37,10 +37,4 @@ Speakers:
 
 <br>
 
-```{r}
-#| out-width: "40%"
-#| fig-align: "center"
-#| preview: true
-#| echo: false
-knitr::include_graphics("nasa-openscapes-carpentries.png")  
-```
+![](nasa-openscapes-carpentries.png){width="40%" fig-align="center"}

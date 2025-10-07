@@ -1,0 +1,29 @@
+---
+title: "An Open Leadership Chat with Abby Cabunoc Mayes and Chad Sansing"
+description: |
+  Abby Cabunoc Mayes and Chad Sansing lead open source programs at Mozilla, including Mozilla Open Leaders
+author:
+  - name: Openscapes and Mozilla
+    url: {}
+date: 2021-12-09
+categories: 
+  - event 
+  # - community
+  - community-call
+image: "moz-movement-building.png"
+---
+
+**Date: December 09, 2021**\
+**Time: 10:00-11:00am PT** (UTC-7)\
+**Where: Zoom**\
+**Free event, registration through eventbrite.**
+[**Video Recording**](https://www.youtube.com/watch?v=rsd4z8kXJgo)
+
+Please join us for a conversation with [Abby Cabunoc Mayes](https://twitter.com/abbycabs) and [Chad Sansing](https://twitter.com/chadsansing) of Mozilla about open leadership, the Mozilla Open Leaders program, and how it was designed and iterated. We'll discuss ideas and lessons learned from Moz OL, as well as from Openscapes, [Open Life Science](https://openlifesci.org/), [Open Post Academics](https://openpostac.org/), and Open Hardware, and invite others to share as well!
+
+
+![](moz-movement-building.png){width="45%" fig-align="center"}
+
+[**Abby Cabunoc Mayes**](http://acabunoc.github.io/) leads Mozilla’s developer-focused trustworthy AI strategy around MozFest and open source. Abby founded Mozilla Open Leaders and works to make openness the norm research and innovation.
+
+[**Chad Sansing**](https://about.me/chadsansing) is a program manager on the MozFest team at Mozilla. He works on facilitation, leadership, and movement-building with our internet health and trustworthy AI communities.

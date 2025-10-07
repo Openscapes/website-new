@@ -1,0 +1,24 @@
+---
+title: "NASEM: Accelerating the Analysis of Geographic Change"
+description: |
+  National Academies of Science, Engineering, and Medicine (NASEM) meeting co-hosted by the Mapping Sciences Committee and the Geographical Sciences Committee. 
+author:
+  - name: AGU and Openscapes
+    url: {}
+date: 2021-12-08
+categories: 
+  - event 
+  - workshop
+  - nasa-framework
+image: "nasem-geo-meeting.jpg"
+---
+
+**Date: December 08, 2021**\
+
+We will be presenting about the NASA Openscapes framework at NASEM's meeting co-hosted by the Mapping Sciences Committee and the Geographical Sciences Committee. For full information, agenda, and registration, please see the [NASEM meeting webpage](https://www.nationalacademies.org/event/12-08-2021/accelerating-the-analysis-of-geographic-change). 
+
+![](nasem-geo-meeting.jpg){width="45%" fig-align="center"}
+
+Excerpt from the NASEM meeting webpage: 
+
+> In this meeting, we will discuss ways to approach and leverage novel geospatial data, analytics and platforms to understand and assess rapid and profound geographic change. We will discuss the geospatial data science, infrastructure and resource challenges, focusing on human displacement, movement and migration due to sudden and dramatic physical and human events.

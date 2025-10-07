@@ -10,10 +10,6 @@ author: "Openscapes and Tidepool Digital"
 image: "Tidepool_PrimaryLogo_Color+copy.png"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ## Overview
 
 **This is a professional development and leadership opportunity for ocean professionals to make data collaboration more systematic, sustainable, and responsible.**

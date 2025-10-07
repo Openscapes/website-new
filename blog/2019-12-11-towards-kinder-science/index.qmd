@@ -20,13 +20,7 @@ It's about how open source is not only good for science, it's good for scientist
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "100%"
-#| fig-alt: "Partial rear view of a monster with image focusing on their safety harness with a GitHub Octocat logo, chalk bag, carabiners, and rope."
-knitr::include_graphics("../../images/banner_imgs/original_banners/horst_openscapes_desert_1500px.png")
-```
+![](../../images/banner_imgs/original_banners/horst_openscapes_desert_1500px.png){fig-alt="Landscape view of a desert in orange and red hues, with purple hills in the background and cacti in the foreground. There is a hare, a tortoise, a rattlesnake, and a roadrunner on the ground and three vultures soaring in the sky above." width="100%" fig-align="center"}
 
 ::: {.center-text}
 Art by [Allison Horst](https://twitter.com/allison_horst)
@@ -80,5 +74,3 @@ demoralizing and lonely analyses don't make for happy and innovative scientists
 --->
 
 <br> 
-
-

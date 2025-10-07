@@ -19,10 +19,4 @@ For details, please see the 2023 NASA Openscapes Champions Cohort [webpage](http
 
 <br>
 
-```{r}
-#| out-width: "40%"
-#| fig-align: "center"
-#| preview: true
-#| echo: false
-knitr::include_graphics("nasa-openscapes.png")  
-```
+![](nasa-openscapes.png){width="40%" fig-align="center"}

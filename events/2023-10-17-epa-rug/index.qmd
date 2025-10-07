@@ -19,12 +19,4 @@ The virtual workshop has a great lineup of lightning talks and hands-on workshop
 
 [**Ileana Fenwick**](https://twitter.com/_ileanaf) is a core Openscapes team member; she is an open science advocate and Marine Sciences Ph.D. Student at UNC Chapel Hill. Ileana's research focuses on evaluating how marine communities respond to climate change and human impacts. Her work uses innovative quantitative methods to improve our ocean management outcomes. In addition to her research, Ileana is also a fierce advocate for HBCU engagement and equity in open science and marine science through her consulting and volunteer work.
 
-```{r}
-#| eval: true 
-#| echo: false
-#| fig-align: "center"
-#| out-width: "50%" 
-#| fig-alt: "headshots of two women smiling. Julie, a white woman, on left has short light brown hair in a ponytail and is wearing black framed glasses. Ileana, a Black woman, on right has long thick curly hair"
-knitr::include_graphics("julie-ileana-headshots.png")
-```
-
+![](julie-ileana-headshots.png){fig-alt="headshots of two women smiling. Julie, a white woman, on left has short light brown hair in a ponytail and is wearing black framed glasses. Ileana, a Black woman, on right has long thick curly hair" width="50%" fig-align="center"}

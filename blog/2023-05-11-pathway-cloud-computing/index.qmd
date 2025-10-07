@@ -32,13 +32,7 @@ In brief, the main purpose of this presentation will be to share with the broad 
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "55%"
-#| fig-alt: "A title slide of Pan et al's talk titled 'Pathfinder of Cloud Computing using NASA Resources: A case study of characterizing wildfires in the western US' with 3 photos of people: an asian woman and two white men from NASA GES DISC"
-knitr::include_graphics("../../img/blog/pan-talk-title.png")
-```
+![](../../img/blog/pan-talk-title.png){fig-alt="A title slide of Pan et al's talk titled 'Pathfinder of Cloud Computing using NASA Resources: A case study of characterizing wildfires in the western US' with 3 photos of people: an asian woman and two white men from NASA GES DISC" width="55%" fig-align="center"}
 
 ::: {.caption-text .center-text}
 Title slide from the presentation by Pan et al.
@@ -48,13 +42,7 @@ This presentation aims to inform and educate the NASA user community on cloud da
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "55%"
-#| fig-alt: "An outline slide of Pan's talk with the motivation, introduction, FAQ, Demo, Take-home messages, and question time"
-knitr::include_graphics("../../img/blog/pan-talk-outline.png")
-```
+![](../../img/blog/pan-talk-outline.png){fig-alt="An outline slide of Pan's talk with the motivation, introduction, FAQ, Demo, Take-home messages, and question time" width="55%" fig-align="center"}
 
 ::: {.caption-text .center-text}
 Outline of the presentation by Pan et al.
@@ -64,13 +52,7 @@ Xiaohua also shared her journal from a scientist doing her research with all on-
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "55%"
-#| fig-alt: "A slide from Pan's talk with a map of the United States wih an arrow pointing to the Dixie Fire in California, and a time series of fire hotspots showing spikes in 2021"
-knitr::include_graphics("../../img/blog/pan-talk-case-study.png")
-```
+![](../../img/blog/pan-talk-case-study.png){fig-alt="A slide from Pan's talk with a map of the United States wih an arrow pointing to the Dixie Fire in California, and a time series of fire hotspots showing spikes in 2021" width="55%" fig-align="center"}
 
 ::: {.caption-text .center-text}
 Interdisciplinary case study of characterizing wildfires in the western US, from the presentation by Pan et al.

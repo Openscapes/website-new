@@ -1,0 +1,27 @@
+---
+title: "Openscapes Champions: SASI Cohort"
+description: |
+  A Champions Cohort for the Symbiosis in Aquatic Systems Initiative (SASI)
+author:
+  - name: GBMF and Openscapes
+    url: {}
+date: 2021-09-09
+categories:
+  - event 
+  - champions
+image: "gbmf-protocols.png"
+---
+
+## Cohort Summary 
+This is a Cohort for the Symbiosis in Aquatic Systems Initiative ([SASI](https://www.moore.org/initiative-strategy-detail?initiativeId=symbiosis-in-aquatic-systems-initiative)), funded by the [Gordon and Betty Moore Foundation](https://www.moore.org/). We are co-leading with [protocols.io](https://www.protocols.io/).
+
+**Website and participating teams:**
+
+- <https://openscapes.github.io/2021-sasi>
+
+
+## Program Overview
+
+Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
+
+![](gbmf-protocols.png){width="50%" fig-align="center"}

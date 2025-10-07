@@ -23,14 +23,7 @@ image: openscapes-champions-series.png
 My focus during the fellowship was to support environmental science researchers through open source software that we share on GitHub. I modernized Openscapes' open educational resources that I first built with RMarkdown by refactoring them in Quarto, and we have since used these updated resources to teach 6 cohorts (50 teams) of professional environmental and Earth scientists at NASA, NOAA, and the EPA.
 
 
-```{r}
-#| eval: true 
-#| echo: false
-#| fig-align: "center"
-#| out-width: "85%" 
-#| fig-alt: "screenshot of Openscapes Champions Lesson Series Quarto site https://openscapes.github.io/series/. Image of a landscape consisting of a grassy meadow next to a sandy beach and ocean, a winding river, and distant mountains. In the foreground, a sad bunny and skunk are working alone on their laptops, each with a rain cloud over their heads. Nearby is a trailhead with a fox holding a 'Welcome!' sign for a variety of different critters to see. Past the trailhead are branching pathways through the Openscapes landscape. No matter the path, however, there are small groups of animals working together to find their way. Nods to data science are scattered throughout the image, including mountains made of data points and a satellite in the sky."
-knitr::include_graphics("openscapes-champions-series.png")
-```
+![](openscapes-champions-series.png){fig-alt="screenshot of Openscapes Champions Lesson Series Quarto site https://openscapes.github.io/series/. Image of a landscape consisting of a grassy meadow next to a sandy beach and ocean, a winding river, and distant mountains. In the foreground, a sad bunny and skunk are working alone on their laptops, each with a rain cloud over their heads. Nearby is a trailhead with a fox holding a 'Welcome!' sign for a variety of different critters to see. Past the trailhead are branching pathways through the Openscapes landscape. No matter the path, however, there are small groups of animals working together to find their way. Nods to data science are scattered throughout the image, including mountains made of data points and a satellite in the sky." width="85%" fig-align="center"}
 
 ::: {.small-text .center-text .dark-gray-text}
 *A screenshot of the [Openscapes Champions Lesson Series](https://openscapes.github.io/series/) website.*

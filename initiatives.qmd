@@ -16,13 +16,7 @@ aliases:
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "10%"
-#| fig-alt: "A green agave plant."
-knitr::include_graphics("images/minis/horst_openscapes_desert_agave.png")
-```
+![](images/minis/horst_openscapes_desert_agave.png){fig-alt="A green agave plant." width="10%" fig-align="center"}
 <br>
 
 ::: {.center-text}
@@ -50,13 +44,7 @@ The Lessons Series also has details about the overall program, and what to expec
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "15%"
-#| fig-alt: "A brown rattlesnake snake with a darker brown pattern down its back."
-knitr::include_graphics("images/minis/horst_openscapes_desert_snake.png")
-```
+![](images/minis/horst_openscapes_desert_snake.png){fig-alt="A brown rattlesnake snake with a darker brown pattern down its back." width="15%" fig-align="center"}
 
 ## NASA OPENSCAPES
 
@@ -78,13 +66,7 @@ Learn more on the [**NASA Openscapes website**](https://nasa-openscapes.github.i
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "18%"
-#| fig-alt: "The NASA 'meatball' logo that is blue, red, and white next to an orange Openscapes logo."
-knitr::include_graphics("images/logo/nasa-openscapes.png")
-```
+![](images/logo/nasa-openscapes.png){fig-alt="The NASA 'meatball' logo that is blue, red, and white next to an orange Openscapes logo." width="18%" fig-align="center"}
 
 ## NMFS OPENSCAPES
 
@@ -106,13 +88,7 @@ Learn more on the [**NMFS Openscapes website**](nmfs-openscapes.github.io/), and
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "18%"
-#| fig-alt: "The NOAA Fisheries blue logo next to the Openscapes logo."
-knitr::include_graphics("images/logo/nmfs-openscapes.png")
-```
+![](images/logo/nmfs-openscapes.png){fig-alt="The NOAA Fisheries blue logo next to the Openscapes logo." width="18%" fig-align="center"}
 
 ## MENTORS FRAMEWORK
 
@@ -144,13 +120,7 @@ Learn more about the teams who have adopted the Mentors Framework and explore th
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "5%"
-#| fig-alt: "A green Saguaro cactus with two arms."
-knitr::include_graphics("images/minis/horst_openscapes_desert_cactus.png")
-```
+![](images/minis/horst_openscapes_desert_cactus.png){fig-alt="A green Saguaro cactus with two arms." width="5%" fig-align="center"}
 
 ## PATHWAYS TO OPEN SCIENCE PROGRAM
 
@@ -169,13 +139,7 @@ Learn more on the [**Pathways to Open Science Program webpage**](https://opensca
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "13%"
-#| fig-alt: "A brown road runner running to the left."
-knitr::include_graphics("images/minis/horst_openscapes_desert_roadrunner.png")
-```
+![](images/minis/horst_openscapes_desert_roadrunner.png){fig-alt="A brown road runner running to the left." width="13%" fig-align="center"}
 
 ## REFLECTIONS PROGRAM
 
@@ -194,13 +158,7 @@ Learn more and register in the [**Openscapes Reflections Booklet**](https://open
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "13%"
-#| fig-alt: "A brown tortoise."
-knitr::include_graphics("images/minis/horst_openscapes_desert_tortoise.png")
-```
+![](images/minis/horst_openscapes_desert_tortoise.png){fig-alt="A brown tortoise." width="13%" fig-align="center"}
 
 :::
 :::

@@ -16,13 +16,7 @@ aliases:
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "8%"
-#| fig-alt: "An orange fox wearing a purple baseball cap with the orange Openscapes logo on the front holds a white flag that says, 'Welcome!' in its outstretched arm."
-knitr::include_graphics("images/minis/fox_hat.png")
-```
+![](images/minis/fox_hat.png){fig-alt="An orange fox wearing a purple baseball cap with the orange Openscapes logo on the front holds a white flag that says, 'Welcome!' in its outstretched arm." width="8%" fig-align="center"}
 
 <br>
 
@@ -32,13 +26,7 @@ We call this kinder science for future us.
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "75%"
-#| fig-alt: "A landscape consisting of a grassy meadow next to a sandy beach and ocean, a winding river, and distant mountains. In the foreground, a sad bunny and skunk are working alone on their laptops, each with a rain cloud over their heads. Nearby is a trailhead with a fox holding a 'Welcome!' sign for a variety of different critters to see. Past the trailhead are branching pathways through the Openscapes landscape. No matter the path, however, there are small groups of animals working together to find their way. Nods to data science are scattered throughout the image, including mountains made of data points and a satellite in the sky."
-knitr::include_graphics("images/page_imgs/horst_openscapes_champions.jpg")
-```
+![](images/page_imgs/horst_openscapes_champions.jpg){fig-alt="A landscape consisting of a grassy meadow next to a sandy beach and ocean, a winding river, and distant mountains. In the foreground, a sad bunny and skunk are working alone on their laptops, each with a rain cloud over their heads. Nearby is a trailhead with a fox holding a 'Welcome!' sign for a variety of different critters to see. Past the trailhead are branching pathways through the Openscapes landscape. No matter the path, however, there are small groups of animals working together to find their way. Nods to data science are scattered throughout the image, including mountains made of data points and a satellite in the sky." width="75%" fig-align="center"}
 
 <br>
 
@@ -60,13 +48,7 @@ knitr::include_graphics("images/page_imgs/horst_openscapes_champions.jpg")
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "73%"
-#| fig-alt: "A diagram of the Openscapes flywheel. The Openscapes logo sits in the center of a cyclical process. The text around the logo reads as follows: 'Welcome bright spots (be they mentors or researchers) -- people who want to work better and collaborate' > 'Create space and place to connect and collaborate; remove barriers to participation (paid time, part of jobs)' > 'Invest in learning and trust; Everyone has something to learn, ask, teach; don't need to be an expert in everything. Cultivate psychological safety, growth mindset. Slowing down to speed up.' > 'Work Openly; Put what you learn into practice quickly, role-modeing sharing imperfect work and identifying common challenges and opportunities. Openness is a spectrum; first Future You and then Future Us' > Leverage common workflows, skills, tools; This is where we speed up: Iterate, reuse, remix with each other and teh broader community' > 'Inspire broader scientific communities through visible examples and leaders -- Open science shift' > repeat. These six steps are summarized by three overarching goals, which are also written around the logo: 'Engage a future us mindset', 'Empower learning culture', and 'Amplify open leaders'."
-knitr::include_graphics("images/diagrams/openscapes-flywheel-v2023.06.png")
-```
+![](images/diagrams/openscapes-flywheel-v2023.06.png){fig-alt="A diagram of the Openscapes flywheel. The Openscapes logo sits in the center of a cyclical process. The text around the logo reads as follows: 'Welcome bright spots (be they mentors or researchers) -- people who want to work better and collaborate' > 'Create space and place to connect and collaborate; remove barriers to participation (paid time, part of jobs)' > 'Invest in learning and trust; Everyone has something to learn, ask, teach; don't need to be an expert in everything. Cultivate psychological safety, growth mindset. Slowing down to speed up.' > 'Work Openly; Put what you learn into practice quickly, role-modeing sharing imperfect work and identifying common challenges and opportunities. Openness is a spectrum; first Future You and then Future Us' > Leverage common workflows, skills, tools; This is where we speed up: Iterate, reuse, remix with each other and teh broader community' > 'Inspire broader scientific communities through visible examples and leaders -- Open science shift' > repeat. These six steps are summarized by three overarching goals, which are also written around the logo: 'Engage a future us mindset', 'Empower learning culture', and 'Amplify open leaders'." width="73%" fig-align="center"}
 
 
 <br>
@@ -91,13 +73,7 @@ We mentor teams to better tackle their questions by strengthening shared practic
 
 <!---As teams identify their focus and the people involved (blue), we provide mentorship and scaffolding around open data science practices (green), which are underpinned by existing community-developed tools (orange).--->
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "50%"
-#| fig-alt: "The Openscapes theory of change illustrated as concentric circles. The outer gray circle represents approaches. The phrases, 'Data, Evidence, Knowledge', 'Theory, Understanding', and 'Methods, Science, Policy' are written aatop this gray circle. Blue  boxes sit atop the gray circle as well. They say, 'QUESTIONS teams tackle', 'TEAMS: scientists, researchers, practitioners', 'PARTNERS + COMMUNITIES'. A green circle representing Open Data Science Practices sits within the gray outer cricle. The following words are writtedn atop the green circle: 'Kindess + Inclusion', 'Robust Analyses', 'Streamlined Collaboration', 'Expanded Communications'. At the center of this diagram is a Ven Diagram of three overlapping orange circles representing Open Data Science Tools. Once circle represents 'Code + Version Control' (tools such as git, R, Python), 'Contribution Platforms' (tools such as GitHub, disqus), and 'Publication + Distribution' (tools such as R Markdown, dashboards, websites)."
-knitr::include_graphics("images/diagrams/horst_pew_tools_practice_mindset.jpg")
-```
+![](images/diagrams/horst_pew_tools_practice_mindset.jpg){fig-alt="The Openscapes theory of change illustrated as concentric circles. The outer gray circle represents approaches. The phrases, 'Data, Evidence, Knowledge', 'Theory, Understanding', and 'Methods, Science, Policy' are written aatop this gray circle. Blue  boxes sit atop the gray circle as well. They say, 'QUESTIONS teams tackle', 'TEAMS: scientists, researchers, practitioners', 'PARTNERS + COMMUNITIES'. A green circle representing Open Data Science Practices sits within the gray outer cricle. The following words are writtedn atop the green circle: 'Kindess + Inclusion', 'Robust Analyses', 'Streamlined Collaboration', 'Expanded Communications'. At the center of this diagram is a Ven Diagram of three overlapping orange circles representing Open Data Science Tools. Once circle represents 'Code + Version Control' (tools such as git, R, Python), 'Contribution Platforms' (tools such as GitHub, disqus), and 'Publication + Distribution' (tools such as R Markdown, dashboards, websites)." width="50%" fig-align="center"}
 
 Our [our theory of change](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsku45HW-vQCPaVARXIo7a18KHdYxwn_0vk2QdNP5RZ7kUxNyqD466NYiagxZtyqoabXAilK32U5yx/pubhtml?gid=365554279&single=true) is that by engaging, empowering, and amplifying research teams with open habits and mindsets for data-intensive science, they become leaders in the open science movement and have more enduring scientific impact while also creating a kinder, more inclusive scientific culture.
 

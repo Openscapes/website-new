@@ -12,10 +12,6 @@ categories:
 image: "WaterBoards_logo_high_res2.png"   
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 This is the second annual California SWRCB Openscapes Champions Cohort for the California State Water Resources Control Board ([SWRCB](https://www.waterboards.ca.gov/), "Water Boards"), with the Instruction Team led by staff from the Office of Information Management and Analysis ([OIMA](https://www.waterboards.ca.gov/resources/oima/)) and the Division of Water Quality ([DWQ](https://www.waterboards.ca.gov/water_issues/programs/water_quality/)). Learn more about Openscapes at the Water Boards: <https://cawaterboarddatacenter.github.io/swrcb-openscapes/>.
 
 This is a mentorship and professional development opportunity for research teams; please see the [Cohort website](https://openscapes.github.io/2023-swrcb/), and [Openscapes Champions Program](https://www.openscapes.org/champions/) for details.
@@ -25,6 +21,4 @@ The Water Boards Champions Cohorts are "forked" from Openscapes. Read the summar
 
 <br>
 
-```{r, out.width="40%", fig.align='center', preview=TRUE}
-knitr::include_graphics("WaterBoards_logo_high_res2.png")  
-```
+![](WaterBoards_logo_high_res2.png){width="40%" fig-align="center"}

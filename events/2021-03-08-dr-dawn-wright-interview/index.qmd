@@ -12,10 +12,6 @@ categories:
 image: "dr-dawn-wright.jpg"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 **[View event summary](https://www.openscapes.org/blog/2021/03/25/rebel-alliance-dr-dawn-wright/)**  
 **Date: March 8, 2021**  
 **Time: 10:15am PST** (UTC-8)  
@@ -26,9 +22,7 @@ Please join us for a conversation with Dr. Dawn Wright ([\@DeepSeaDawn](https://
 
 <br> 
 
-```{r, out.width="45%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"', preview=TRUE}
-knitr::include_graphics("dr-dawn-wright.jpg")  
-```
+![](dr-dawn-wright.jpg){width="45%" style="background-color: gray; padding:2px; display: inline-block;"}
 
 <br> 
 

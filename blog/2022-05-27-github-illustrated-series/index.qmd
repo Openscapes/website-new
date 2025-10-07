@@ -35,13 +35,7 @@ So let's talk about why GitHub is so empowering for our project-oriented and col
 
 ## Why GitHub?
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "80%"
-#| fig-alt: "A row of 6 cute smiling monsters celebrating using GitHub. The first, wearing a climbing harness labeled 'Me' is high-fiving another whose harness says 'Future Me'. Others hold a box of snacks that are tacos, a map, and a rope. Text above the monsters quotes Jenny Bryan: 'Collaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review.'"
-knitr::include_graphics("../../img/blog/github-illustrated-series/github_friends.png")
-```
+![](../../img/blog/github-illustrated-series/github_friends.png){fig-alt="A row of 6 cute smiling monsters celebrating using GitHub. The first, wearing a climbing harness labeled 'Me' is high-fiving another whose harness says 'Future Me'. Others hold a box of snacks that are tacos, a map, and a rope. Text above the monsters quotes Jenny Bryan: 'Collaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review.'" width="80%" fig-align="center"}
 
 ::: {.center-text}
 Bryan J. 2017. Excuse me, do you have a moment to talk about version control? PeerJ Preprints 5:e3159v2 <https://doi.org/10.7287/peerj.preprints.3159v2>
@@ -53,13 +47,7 @@ The concepts, mechanics, and vocabulary of GitHub (and underlying software Git) 
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "80%"
-#| fig-alt: "On the left is a quote from Hadley Wickham and Jenny Bryan that says 'Using a Git commit is like using anchors and other protection when climbing...if you make a mistake you can't fall past the previous commit. Commits are also helpful to others, because they show your journey, not just the destination.' On the right, two little monsters climb a cliff face. Their ropes are secured by several anchors, each labeled 'Commit'. Three monsters on the ground support the climbers."
-knitr::include_graphics("../../img/blog/github-illustrated-series/github_wickham_bryan_git_quote.png")
-```
+![](../../img/blog/github-illustrated-series/github_wickham_bryan_git_quote.png){fig-alt="On the left is a quote from Hadley Wickham and Jenny Bryan that says 'Using a Git commit is like using anchors and other protection when climbing...if you make a mistake you can't fall past the previous commit. Commits are also helpful to others, because they show your journey, not just the destination.' On the right, two little monsters climb a cliff face. Their ropes are secured by several anchors, each labeled 'Commit'. Three monsters on the ground support the climbers." width="80%" fig-align="center"}
 
 ::: {.center-text}
 Wickham & Bryan, R Packages <https://r-pkgs.org/preface.html>
@@ -69,85 +57,43 @@ Wickham & Bryan, R Packages <https://r-pkgs.org/preface.html>
 
 GitHub helps streamline our work because it takes care of otherwise time-consuming bookkeeping and unrelenting file tracking. Instead of spending our time inspecting and fretting over whether "analysis_final_v2.xls" or "analysis_final_final.xls" is truly the final version, with GitHub we can be confident in our completed analysis and move to the next step. <br>
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "80%"
-#| fig-alt: "In the left panel, against a blue sky with white clouds, a confident-looking monster climbs a rock face. Their rope’s anchors, secured with carabiners, are labeled from bottom to top and say 'Initial commit', 'Data Cleaned', 'Analysis completed'. Another anchor on their harness  is ready to place and is labeled 'Manuscript drafted'. In the right panel, against a gray sky with rain and lightning, an unhappy stressed-looking monster climbs a rock face. Their rope has a knot, is frayed, and is looped around one foot. Their anchors, placed haphazardly and not well-secured, are labeled things like 'analysis_final_v2.xls', 'analysis_final_final.xls', and 'ignore_this.xls'. Text above the left panel says: 'When working with GitHub we can navigate with more obvious, safe, streamlined routes that let us focus on the science-y things we want to do…' Text above the right panel says '...but working without GitHub can be disorienting, with too much time spent sifting through past work to figure out next steps forward.'"
-knitr::include_graphics("../../img/blog/github-illustrated-series/github_compare_text.png")
-```
+![](../../img/blog/github-illustrated-series/github_compare_text.png){fig-alt="In the left panel, against a blue sky with white clouds, a confident-looking monster climbs a rock face. Their rope's anchors, secured with carabiners, are labeled from bottom to top and say 'Initial commit', 'Data Cleaned', 'Analysis completed'. Another anchor on their harness  is ready to place and is labeled 'Manuscript drafted'. In the right panel, against a gray sky with rain and lightning, an unhappy stressed-looking monster climbs a rock face. Their rope has a knot, is frayed, and is looped around one foot. Their anchors, placed haphazardly and not well-secured, are labeled things like 'analysis_final_v2.xls', 'analysis_final_final.xls', and 'ignore_this.xls'. Text above the left panel says: 'When working with GitHub we can navigate with more obvious, safe, streamlined routes that let us focus on the science-y things we want to do…' Text above the right panel says '...but working without GitHub can be disorienting, with too much time spent sifting through past work to figure out next steps forward.'" width="80%" fig-align="center"}
 
 ## GitHub helps us support
 
 GitHub helps us support others and existing work. Whether we are organizing, improving documentation, or asking and answering questions, GitHub helps us provide support to our collaborators on projects, whether we are writing code or not. 
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "80%"
-#| fig-alt: "Four little monsters on grass support another monster starting their climb up a rock face. The climber's harness is labeled, 'Coder', the belayer wears a harness labeled 'Code review', two others consulting a book and route map wear caps labeled 'Documentation' and 'Reuse', and another brings a box labeled 'Project management and snacks'."
-knitr::include_graphics("../../img/blog/github-illustrated-series/github_groundcrew_text.png")
-```
+![](../../img/blog/github-illustrated-series/github_groundcrew_text.png){fig-alt="Four little monsters on grass support another monster starting their climb up a rock face. The climber's harness is labeled, 'Coder', the belayer wears a harness labeled 'Code review', two others consulting a book and route map wear caps labeled 'Documentation' and 'Reuse', and another brings a box labeled 'Project management and snacks'." width="80%" fig-align="center"}
 
 ## GitHub helps us reuse
 
 GitHub helps us reuse existing work, which lets us learn and build from other people's shared experience rather than reinventing on our own. Plus, the existing work gets better each time someone tries it and shares their experience back. Whether it's code, documentation, or knowledge through posted conversations, reusing existing things can save time, resources, and frustration. Importantly, reuse also expands the value of existing work while celebrating the contributions of others. 
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "80%"
-#| fig-alt: "Two monsters consult a book with routes labeled, 'Existing routes' and 'Our route' with warning information - images of lightning, a snake, and rocks falling - and notes on the facing page, while looking at the rock face they plan to climb. In the distance, one monster belays another who is climbing."
-knitr::include_graphics("../../img/blog/github-illustrated-series/github_reuse.jpg")
-```
+![](../../img/blog/github-illustrated-series/github_reuse.jpg){fig-alt="Two monsters consult a book with routes labeled, 'Existing routes' and 'Our route' with warning information - images of lightning, a snake, and rocks falling - and notes on the facing page, while looking at the rock face they plan to climb. In the distance, one monster belays another who is climbing." width="80%" fig-align="center"}
 
 ## GitHub helps us contribute
 
 GitHub helps us contribute ideas through code, text, and more, with less worry about file management. This helps us feel more confident to share work-in-progress and contribute to existing work, knowing that we won't break things. It also helps us share work earlier that might be imperfect, since we can still make changes from there.
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "80%"
-#| fig-alt: "A close-up rear view of a monster climbing a rock face, clicking into an anchor point, with the word, 'Click!'"
-knitr::include_graphics("../../img/blog/github-illustrated-series/github_clip.png")
-```
+![](../../img/blog/github-illustrated-series/github_clip.png){fig-alt="A close-up rear view of a monster climbing a rock face, clicking into an anchor point, with the word, 'Click!'" width="80%" fig-align="center"}
 
 ## GitHub helps us fail safely
 
 GitHub helps us fail safely. Because we can return to previous versions easily, painful consequences of failing are reduced. We can more bravely try things and start making contributions, knowing that some (many?) will fail - but won't be catastrophic! When we fail, we'll be able to start again from where we left off (instead of from the ground), and a clear history can help us learn from the past. 
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "80%"
-#| fig-alt: "A confidently smiling monster is falling from a rock overhang, while secured by four anchors, each labeled, 'Commit'"
-knitr::include_graphics("../../img/blog/github-illustrated-series/github_fall.png")
-```
+![](../../img/blog/github-illustrated-series/github_fall.png){fig-alt="A confidently smiling monster is falling from a rock overhang, while secured by four anchors, each labeled, 'Commit'" width="80%" fig-align="center"}
 
 ## Harness the power of GitHub
 
 Once we are empowered to work collaboratively with GitHub, it opens up a whole new world of projects that feel more welcoming because we can contribute in many different ways, using familiar approaches, and evolving with new possibilities as they emerge. This transferrable ability to collaborate and develop confidence for trying new things might just be the best thing about GitHub.
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "80%"
-#| fig-alt: "Rear-view of three well-prepared monsters arriving at a climb. They have route maps, binoculars, ropes, backpacks, and a box of snacks. The middle monster has a GitHub Octocat image on their backpack. In the distance, several monsters are at different stages of ascending, with one at the summit, and others supporting them from the base."
-knitr::include_graphics("../../img/blog/github-illustrated-series/github_scoping.jpg")
-```
+![](../../img/blog/github-illustrated-series/github_scoping.jpg){fig-alt="Rear-view of three well-prepared monsters arriving at a climb. They have route maps, binoculars, ropes, backpacks, and a box of snacks. The middle monster has a GitHub Octocat image on their backpack. In the distance, several monsters are at different stages of ascending, with one at the summit, and others supporting them from the base." width="80%" fig-align="center"}
 
 ## GitHub for the win!
 
 GitHub enables new frontiers for open science as we collaborate, share, and publish more easily. And, it is critical to continually question who is safe to participate with these tools. Who is not yet participating, and why? Barriers to access include past exclusion, skills, and support. Let's all work empathetically and inclusively to help make more people feel welcome and safe using these powerful tools so we can all go further, together. 
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "80%"
-#| fig-alt: "Partial rear view of a monster with image focusing on their safety harness with a GitHub Octocat logo, chalk bag, carabiners, and rope."
-knitr::include_graphics("../../img/blog/github-illustrated-series/github_harness.jpg")
-```
+![](../../img/blog/github-illustrated-series/github_harness.jpg){fig-alt="Partial rear view of a monster with image focusing on their safety harness with a GitHub Octocat logo, chalk bag, carabiners, and rope." width="80%" fig-align="center"}
 
 <br>
 

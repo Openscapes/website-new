@@ -29,14 +29,7 @@ aliases:
 
 At [rstudio::conf(2022)](https://www.rstudio.com/conference/), I had the distinct honor to welcome folks to [Quarto](https://quarto.org), which Openscapes has been using to collaborate and reimagine how we tackle inclusive environmental science & the climate crisis. Openscapes was the first external user of Quarto, collaborating with the Quarto developer team and [NASA Earthdata Openscapes Mentors](https://nasa-openscapes.github.io) for the last year to develop and teach tutorials to help researchers migrate their workflows to the cloud. We've primarily used Quarto as Python users, creating beautiful collections of Jupyter notebooks that are Quarto websites, including the [2021 Cloud Hackathon](https://nasa-openscapes.github.io/2021-Cloud-Hackathon/) and the [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/). Learn more through [A Quarto Chat with NASA Openscapes, co-hosted with R-Ladies Santa Barbara](https://www.openscapes.org/blog/2022/06/22/hello-quarto/) with Catalina Oaida, Aaron Friesz, Amy Steiker, and J.J. Allaire.
 
-```{r}
-#| eval: true 
-#| echo: false
-#| fig-align: "center"
-#| out-width: "85%" 
-#| fig-alt: "One penguin standing on another penguin's shoulders in a snowscape, looking through a telescope at a Quarto logo \"moon\" in the night sky."
-knitr::include_graphics("horst_collaborate_penguins_telescope_2.png")
-```
+![](horst_collaborate_penguins_telescope_2.png){fig-alt="One penguin standing on another penguin's shoulders in a snowscape, looking through a telescope at a Quarto logo \"moon\" in the night sky." width="85%" fig-align="center"}
 
 ::: {.caption-text .center-text}
 Artwork from "Hello, Quarto" keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustration by Allison Horst.
@@ -54,14 +47,7 @@ This keynote was a big deal, and I \*struggled\* to clearly scope the reimagine 
 
 I am so grateful to J.J. Allaire for his mentorship and friendship and the opportunity to collaborate with Quarto. And I also appreciate J.J., Hadley Wickham, Joe Cheng, Jenny Bryan, and Hannah Frick for their support throughout the years and as well as helping me build confidence in the days before the keynote. And of course Mine Cetinkaya-Rundel on co-creating the keynote and reading [Ileana Fenwick's quote](https://mine.quarto.pub/hello-quarto/#/quote-ileana-fenwick), as I reimagined what I could do :) 
 
-```{r}
-#| eval: true 
-#| echo: false
-#| fig-align: "center"
-#| out-width: "85%" 
-#| fig-alt: "Two excited penguins diving off of an iceberg into the ocean. A Quarto logo \"moon\" in the sky is reflected in the water that they're diving into."
-knitr::include_graphics("horst_reimagine_quarto_twopenguins.png")
-```
+![](horst_reimagine_quarto_twopenguins.png){fig-alt="Two excited penguins diving off of an iceberg into the ocean. A Quarto logo \"moon\" in the sky is reflected in the water that they're diving into." width="85%" fig-align="center"}
 
 ::: {.caption-text .center-text}
 Artwork from "Hello, Quarto" keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst.

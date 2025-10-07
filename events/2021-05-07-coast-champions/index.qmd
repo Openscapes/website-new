@@ -10,10 +10,6 @@ categories:
 image: "COAST-white.png"  
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ## Cohort Summary
 
 Sponsored by [The California State University Council on Ocean Affairs, Science & Technology (CSU-COAST)](https://www2.calstate.edu/impact-of-the-csu/research/coast)
@@ -58,8 +54,7 @@ Nominate your team by filling out this [Google Form](https://docs.google.com/for
 
 <br> 
 
-```{r, out.width="40%", preview=TRUE}
-knitr::include_graphics("COAST-white.png")  
-```
+![](COAST-white.png){width="40%"}
+
 This opportunity is funded by [CSU COAST](https://www2.calstate.edu/impact-of-the-csu/research/coast). 
 <br> 

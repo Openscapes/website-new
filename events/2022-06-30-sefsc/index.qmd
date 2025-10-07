@@ -12,10 +12,6 @@ categories:
 image: NOAA_logo.png
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ## Program overview
 
 **This is a professional development and leadership opportunity for NOAA SEFSC research groups to explore open data science practices.**
@@ -35,9 +31,7 @@ It is the 6th cohort with NOAA Fisheries, and builds from a 2021 cohort that had
 
 <br>
 
-```{r, out.width="40%", fig.align='center', preview=TRUE}
-knitr::include_graphics("NOAA_logo.png")  
-```
+![](NOAA_logo.png){width="40%" fig-align="center"}
 
 
 ## Cohort details

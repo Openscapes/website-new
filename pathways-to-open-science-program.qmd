@@ -19,13 +19,9 @@ The Pathways program is led by [Ileana Fenwick](https://twitter.com/_ileanaf) of
 
 We launched this program in 2023 and plan to lead it annually in January-March.
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "10%"
-#| fig-alt: "A green lizard wearing a purple baseball cap with the orange Openscapes logo on the front waves with an outstretched arm."
-knitr::include_graphics("images/minis/lizard_hat.png")
-```
+::: {.center-text}
+![](images/minis/lizard_hat.png){fig-alt="A green lizard wearing a purple baseball cap with the orange Openscapes logo on the front waves with an outstretched arm." width="10%"}
+:::
 
 ::: {.yellow-bg}
 ::: {.medium-body-text .center-text}

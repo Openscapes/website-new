@@ -1,0 +1,29 @@
+---
+title: "Enabling Analysis in the Cloud Using NASA Earth Science Data"
+description: |
+  A virtual workshop at the American Geophysical Union (AGU) fall conference
+author:
+  - name: AGU and Openscapes
+    url: {}
+date: 2021-12-12
+categories: 
+  - event 
+  - workshop
+  - nasa-framework
+image: "../2021-12-17-agu-open-science-in-action/agu.png"
+---
+
+**Enabling Analysis in the Cloud Using NASA Earth Science Data,** co-hosted by the NASA EOSDIS Physical Oceanography Distributed Active Archive Center ([PO.DAAC](https://podaac.jpl.nasa.gov/)), National Snow and Ice Data Center DAAC ([NSIDC DAAC](https://nsidc.org/daac)), Land Processes Distributed Active Archive Center ([LP.DAAC](https://lpdaac.usgs.gov/)),  [ASDC DAAC](https://asdc.larc.nasa.gov/), [GES DISC](https://disc.gsfc.nasa.gov/), [IMPACT](https://impact.earthdata.nasa.gov/) and [NASA Openscapes](https://nasa-openscapes.github.io/).
+
+Learn more and register:
+**<https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/124026>**.
+
+<br>
+
+![](../2021-12-17-agu-open-science-in-action/agu.png){width="45%" fig-align="center"}
+
+**Abstract:** 
+
+In this workshop, representatives from NASA’s ESDS and EOSDIS DAACs (data centers) will provide an overview of the ESDS cloud vision, discuss what this means for data users, and guide participants through demonstrations highlighting data discovery, accessibility, and usability on and off the cloud. These demonstrations will include science and applications user stories, and will highlight example workflows from the atmosphere, ocean, hydrology, cryosphere, and land disciplines. In addition, the workshop will highlight ESDS efforts in the fields of artificial intelligence (AI) and machine learning (ML) and show how these techniques in novel applications can be applied to EOSDIS data. Participants will leave having a better understanding of how NASA Earthdata Cloud data and services can best be leveraged and integrated within their work across a variety of disciplines and data types.
+
+Come learn about ESDS’s strategic vision to develop and operate multiple components of EOSDIS in a commercial cloud environment and to support data users as they transition to cloud computing. 

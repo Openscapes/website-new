@@ -17,13 +17,7 @@ aliases:
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "13%"
-#| fig-alt: "Two purple squid, swimming side-by-side heading left."
-knitr::include_graphics("images/minis/horst_openscapes_arctic_squid.png")
-```
+![](images/minis/horst_openscapes_arctic_squid.png){fig-alt="Two purple squid, swimming side-by-side heading left." width="13%" fig-align="center"}
 :::
 
 ::: {.white-div}
@@ -39,13 +33,7 @@ We are excited to continue learning and iterating with the open movement towards
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "13%"
-#| fig-alt: "A red sea urchin and a slightly smaller purple sea urchin sitting side-by-side"
-knitr::include_graphics("images/minis/horst_openscapes_arctic_urchins.png")
-```
+![](images/minis/horst_openscapes_arctic_urchins.png){fig-alt="A red sea urchin and a slightly smaller purple sea urchin sitting side-by-side" width="13%" fig-align="center"}
 :::
 
 ::: {.white-div}
@@ -55,13 +43,7 @@ Learn about our [**our team**](team.qmd) who are helping grow and improve Opensc
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "13%"
-#| fig-alt: "A blue-colored narwhal swimming to the left."
-knitr::include_graphics("images/minis/horst_openscapes_arctic_narwhal.png")
-```
+![](images/minis/horst_openscapes_arctic_narwhal.png){fig-alt="A blue-colored narwhal swimming to the left." width="13%" fig-align="center"}
 :::
 
 ::: {.white-div}
@@ -73,13 +55,8 @@ We expect all participants to adhere to our [Code of Conduct](code-of-conduct.qm
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "13%"
-#| fig-alt: "A blue-colored humpback whale swimming to the right."
-knitr::include_graphics("images/minis/horst_openscapes_arctic_humpback.png")
-```
+![](images/minis/horst_openscapes_arctic_humpback.png){fig-alt="A blue-colored humpback whale swimming to the right." width="13%" fig-align="center"}
+
 :::
 
 ::: {.white-div}
@@ -91,13 +68,7 @@ See all of Allison's Openscapes artwork on the [gallery page](gallery.qmd), incl
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "10%"
-#| fig-alt: "A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment."
-knitr::include_graphics("images/logo/openscapes_hex_design_final_correct_dimensions.png")
-```
+![](images/logo/openscapes_hex_design_final_correct_dimensions.png){fig-alt="A stylized landscape showing rolling hills in different shades of orange, with purple flowers along the ridgelines. Subtle gridlines on the hills and circle packing in the flowers give a nod to data in the environment." width="10%" fig-align="center"}
 :::
 
 ::: {.white-div}
@@ -111,13 +82,7 @@ We are dedicated to leading Openscapes as an open source community. This include
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "13%"
-#| fig-alt: "Three small puffins in a cluster facing left."
-knitr::include_graphics("images/minis/horst_openscapes_arctic_puffins.png")
-```
+![](images/minis/horst_openscapes_arctic_puffins.png){fig-alt="Three small puffins in a cluster facing left." width="13%" fig-align="center"}
 :::
 
 ::: {.white-div}
@@ -127,12 +92,6 @@ The Openscapes website was originally built by Julia Stewart Lowndes with [RMark
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| out-width: "13%"
-#| fig-alt: "A ship with an organge hull and silver instrumentation floats in blue water."
-knitr::include_graphics("images/minis/horst_openscapes_arctic_ship.png")
-```
+![](images/minis/horst_openscapes_arctic_ship.png){fig-alt="A ship with an organge hull and silver instrumentation floats in blue water." width="13%" fig-align="center"}
 :::
 :::

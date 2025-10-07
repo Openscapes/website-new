@@ -27,14 +27,7 @@ One of our priority items for this year was to plan and execute a Champions Coho
 
 We started with the Champions Program section in the [Approach Guide](https://openscapes.github.io/approach-guide/), which led us through each step of cohort planning and implementation. We created a behind-the-scenes timeline with internal due dates for items including those in the Approach Guide, ~10 weeks prior to cohort start. For us, this included items like management briefings, mentor onboarding, cohort team engagement, guest speaker invitations, and creating and editing call content based on the participating teams. We also created a [program timeline](https://openscapes.github.io/approach-guide/champions/design.html#high-level-timeline) to visualize the calendar of cohort calls, seaside chats, co-working sessions, and check-ins with the cohort.
 
-```{r}
-#| eval: true 
-#| echo: false
-#| fig-align: "center"
-#| out-width: "85%" 
-#| fig-alt: "Example timeline for an Openscapes Cohort. Orange timeline bar at bottom of image extends from Aug 2022 to Jan 2023. Headings at top of image define shapes that label elements on the timeline.\"Pre-program engagement\" marked by orange horizontal line spans 1.5 weeks and includes Instructor:Team 1:1 meetings; \"Openscapes Champions Program\" marked by blue diamonds (Cohort Call, 2hrs weekly), magenta horizontal lines (Seaside Chats, 1hr weekly between Cohort Calls), green squares (Co-working Sessions, optional, 1hr weekly on Fridays); \"Post-program follow-up\" marked by magenta triangles (2-month Cohort Seaside Chat of 1hr). Vertical lines intersect with timeline at blue diamonds to indicate Cohort Call 1 on 8/17, Call 2 on 8/31, Call 3 on 9/14, Call 4 on 9/28, Call 5 on 10/19. Vertical lines intersect with timeline at green square to indicate co-working on 9/9, 9/23, 10/7, 10/14. Vertical line intersects with timeline at magenta triangle to indicate 2-month Cohort Seaside Chat on 12/14."
-knitr::include_graphics("Openscapes_SWAMPCohort_Timeline_20220526.png")
-```
+![](Openscapes_SWAMPCohort_Timeline_20220526.png){fig-alt="Example timeline for an Openscapes Cohort. Orange timeline bar at bottom of image extends from Aug 2022 to Jan 2023. Headings at top of image define shapes that label elements on the timeline.\"Pre-program engagement\" marked by orange horizontal line spans 1.5 weeks and includes Instructor:Team 1:1 meetings; \"Openscapes Champions Program\" marked by blue diamonds (Cohort Call, 2hrs weekly), magenta horizontal lines (Seaside Chats, 1hr weekly between Cohort Calls), green squares (Co-working Sessions, optional, 1hr weekly on Fridays); \"Post-program follow-up\" marked by magenta triangles (2-month Cohort Seaside Chat of 1hr). Vertical lines intersect with timeline at blue diamonds to indicate Cohort Call 1 on 8/17, Call 2 on 8/31, Call 3 on 9/14, Call 4 on 9/28, Call 5 on 10/19. Vertical lines intersect with timeline at green square to indicate co-working on 9/9, 9/23, 10/7, 10/14. Vertical line intersects with timeline at magenta triangle to indicate 2-month Cohort Seaside Chat on 12/14." width="85%" fig-align="center"}
 
 ::: {.caption-text .center-text}
 Program timeline for the California Water Boards Cohort including Pre-program engagement, Openscapes Champions Program, and Post-program follow-up
@@ -106,16 +99,8 @@ The progressive changes that cohort members identified fit right in with where o
 
 **Develop an implementation strategy:** Just like at other large and small institutions, Water Boards management use strategic plans to document priorities and make decisions about how their staff will spend their time to accomplish programmatic and agency missions. We will be drafting an Openscapes Implementation Strategy to document our OIMA's proposed vision, goals, objectives, and expected outcomes of continuing to lead Openscapes Champions cohorts at the Water Boards, in addition to the implementation steps, target audience, and expected timeline. We are drafting the strategy in November and December 2022 and will begin distributing the strategy through the internal outreach process in 2023.
 
-```{r}
-#| eval: true 
-#| echo: false
-#| fig-align: "center"
-#| out-width: "50%" 
-#| fig-alt: "photo of four women smiling, standing on a path in a forest"
-knitr::include_graphics("swamp_envsci_selfie.jpg")
-```
+![](swamp_envsci_selfie.jpg){fig-alt="photo of four women smiling, standing on a path in a forest" width="50%" fig-align="center"}
 
 ::: {.caption-text .center-text}
 SWAMP team Environmental Scientists that went through the SWRCB 2022 Cohort
 :::
-

@@ -66,7 +66,7 @@ Please [email us](mailto:hello@openscapes.org) if you're interested in booking c
 ### Contract Opportunity: NASA Openscapes Suborbital Team Member
 
 *September 30, 2025 - original posting.*  
-*October 6, 2025 - added “Ideal Canditate” clarification, thanks to several queries we received.*
+*October 6, 2025 - added “Ideal Candidate” clarification, thanks to several queries we received.*
 
 
 [NASA Openscapes](https://nasa-openscapes.github.io/) supports researchers using data from [NASA Earthdata](https://www.earthdata.nasa.gov/) data centers (Distributed Active Archive Centers \[DAACs\]) as they migrate workflows to the Cloud collaboratively and reproducibly through open science.

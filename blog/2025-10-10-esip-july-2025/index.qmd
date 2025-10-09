@@ -1,37 +1,23 @@
 ---
-title: "Title"
-description: "Subtitle"
+title: "Crossing the chasm together - notes from ESIP July 2025 meeting"
+description: "A group somewhere may be missing exactly just your skillset to cross a chasm - Yuvi, 2i2c"
 author:
-  - name: Stefanie Butland
-    orcid: 0000-0002-5427-8951
-  - name: the Openscapes Team
-  - name: and the NMFS Openscapes Mentors
-date: 2025-09-15
-draft: true
+  - name: Julie Lowndes
+    orcid: 0000-0003-1682-3872
+date: 2025-10-10
 citation: 
-  url: https://openscapes.org/blog/2025-09-15-blog-post-template-2025-09/
+  url: https://openscapes.org/blog/2025-10-10/esip-july-2025
 categories: [blog, noaa-fisheries, nasa-framework]
-image: chasm-puppy-to-shepherd.png
+image: 
 ---
 
-**This is a rough template we can use to create a blog post or event page.** View Source for how to add the elements you see here. See our [website wiki](https://github.com/Openscapes/website-new/wiki) for more details. YAML `draft: true` means this will not appear in our website.
-
-*Preamble in italics. What When Who (Example from a Champions Cohort)*
-
-*In Fall 2024, we led 3 concurrent [Openscapes Champions](https://nmfs-openscapes.github.io/champions.html) Cohorts for NOAA Fisheries. These were the 13th Cohorts for NOAA Fisheries involving nearly 500 staff and affiliates! This post is a summary and celebration of some their work.*
+*“Find people whose life paths didn’t look like yours to cross chasms together with” was a slide from Yuvi (2i2c)’s talk during our Crossing the Chasm session, and it really encapsulates so much of the vibe at the ESIP July 2025 meeting.*
 
 *Quicklinks:*
 
--   [*Cohort webpage*](https://nmfs-openscapes.github.io/2024-nmfs-champions/)
--   [*Browse stories*](https://openscapes.org/blog#category=noaa-fisheries) about the NOAA Fisheries Openscapes framework
-
-*Quick links (example from a Community Call):*
-
--   *Community Call YouTube [Recording](https://youtu.be/t8gUSUlSqnc)*
--   *Speakers [Slides](https://docs.google.com/presentation/d/1cbjjlAlVfJq7n7TIt0fgQxz3lwhfRZvX-ctlPQC8D0I/edit?slide=id.g344f6b45c2f_0_380#slide=id.g344f6b45c2f_0_380)*
--   *Community Call [Collaborative Notes](https://docs.google.com/document/d/1VEP-CatRX_RzS9pBCfPPHcU5kskSvPbCp6fXq3optqs/edit?tab=t.0)*
-
-*Cross-posted at [openscapes.org/blog](https://openscapes.org/blog), [nmfs-openscapes.github.io/blog](https://nmfs-openscapes.github.io/blog)*, [*nasa-openscapes.github.io/news*](https://nasa-openscapes.github.io/news.html).
+-   [ESIP July 2025 sched page](https://2025julyesipmeeting.sched.com/list/simple)
+-   [*Crossing the chasm slides*](https://docs.google.com/presentation/d/14ZSgvUbgVMrf_oD2QBIb7NBViavp2dX-Yae3WPITuKo/edit?slide=id.g34b3b339705_0_2152#slide=id.g34b3b339705_0_2152)
+-   [*Archive your first or second data set slides*](https://docs.google.com/presentation/d/1na8ciQn2QROL4zEWq0q8bN0ym_3wOZS_Hzd6fBmJXnY/edit?slide=id.g37049fcd87e_3_73#slide=id.g37049fcd87e_3_73)
 
 ------------------------------------------------------------------------
 
@@ -39,7 +25,35 @@ Text
 
 ## Heading H2
 
-Text
+“Find people whose life paths didn’t look like yours to cross chasms together with” was a slide from Yuvi (2i2c)’s talk during our Crossing the Chasm session, and it really encapsulates so much of the vibe at ESIP. 
+
+I came home from the ESIP summer meeting feeling absolute appreciation for the Openscapes team, mentors, community, and what we are building together – the new scientific infrastructure. We’ve been building for years, with partners in many parts of the open source science ecosystem, which have been expanding and we continually learn from.  It was an emotional and fast-paced week, full of absolute highs of learning with dear colleagues and really crushing lows from the absence of so many federal and federally funded colleagues who were denied attendance. 
+
+Openscapes’ main message at ESIP was that we’re still here. We are supporting NASA Earthdata, NOAA Fisheries, California Water Boards teams and many others as well through making all our work open source and prioritizing amplifying stories, and thankfully funded. We are simultaneously finding new ways to support people and this work. And we are checking in and adapting as we need to to support this – instead of our whole Openscapes team attending, I was our only team member  at ESIP and I co-led 3 sessions, focused on making space, piloting, and connecting stories. 
+
+A peek at the sessions Openscapes co-led:  
+
+-   **Consistent, reproducible workflows for geospatial stewardship**, with Rich Signell, Julia Lowndes, Brianna Pagán, Kate Wing, Carl Boettiger, Jed Sundwall. This session aimed to create consistent, reproducible workflows for others to learn and use. 
+
+-   **Crossing the chasm: amplifying success stories about co-creating across institutions,** with Julie Lowndes, Eli Holmes, Jennifer Schopf, Yuvi. ([slides](https://docs.google.com/presentation/d/14ZSgvUbgVMrf_oD2QBIb7NBViavp2dX-Yae3WPITuKo/edit?slide=id.g34b3b339705_0_2152#slide=id.g34b3b339705_0_2152)). This session shared four stories of the Diffusion of Innovation theory in practice: at NOAA Fisheries, at NASA Earthdata, 2021-2022, at the Texas Advanced Computing Center by saving 50 years of astronomy data with Arecibo, and Finding Chasms to Cross: JupyterHubs at Scale from Wikimedia to UC Berkeley to your Research Institution. 
+
+    -   Note: since NASA Mentors were denied attendance, we prepared a whole Community Call for them to share the following week: [earthaccess — helping users leverage the awesomeness of NASA Earthdata](https://openscapes.org/blog/2025-08-01-earthaccess-awesomeness-nasa-earthdata/)
+
+-   **Archive your first or second data set**, with Julie Lowndes, Joseph Gum, Eli Holmes, Kate Wing, Rachael Blake. ([slides](https://docs.google.com/presentation/d/1na8ciQn2QROL4zEWq0q8bN0ym_3wOZS_Hzd6fBmJXnY/edit?slide=id.g37049fcd87e_3_73#slide=id.g37049fcd87e_3_73)) This was a hands-on companion session to “Case Studies of Transitioning Datasets from Specialist to Generalist Repositories”. The vision here will be to help people figure out where and how to archive their first or second data set, using Zenodo as an explicit example
+
+-   **Additional “popup sessions” I co-led:**
+
+    -   Unconf to prepare for the NASEM’s Future Directions for Earth Observations and Data Stewardship conference in December ([details & registration](https://www.nationalacademies.org/event/45531_12-2025_future-directions-for-earth-observations-and-data-stewardship-a-workshop)), with Steve Diggs, Kate Wing, Rachael Blake 
+
+    -   FUNding Friday [pitch for an earthaccess hackday](https://github.com/nsidc/earthaccess/discussions/1054#discussioncomment-13916327) 
+
+**ESIP takeaways, abridged:**
+
+There was a lot going on the whole week. One of the reasons we were able to step up to co-lead was because our team's and community's social infrastructure of trust and kindness is mapped on to our systems of Google docs and meetings and GitHub, and these really supported folks with cascading effects in ways we will never know. 
+
+I love hearing Eli Holmes talk about crossing the chasm; we have been giving this talk all spring with NOAA leadership and I still learn something new every time. She talks about the social and operational chasm, and how through participating in working groups across NOAA about Data Modernization - she hears what the policies are, what goals, and she says: “Ah, this is what the skillbuilding needs to be. This is the behavior change we need” and then turns around to do it. Using the Diffusion of Innovation theory: she thought deeply at the 13.5% of early adopters needed to cross the chasm – we weren’t there yet. Early Adopters are a personality type. Not a skill set. They hear something and turn around and do it and then teach others. They are rare, and often shackled. Supporting them brightens them and they can contribute to real change, and that’s how we’ve crossed the Chasm. Hearing Yuvi then talk about finding chasms to cross, that “A group somewhere may be missing exactly just your skillset to cross a chasm” was incredibly inspiring, as was Jen’s story of when people ask for help crossing chasms.\
+
+My biggest takeaways from ESIP is the power of small, interconnected open communities that can build and innovate through trust and deep expertise. Our work will continue to be a connector and supporter of people as we build, and these will be some of the themes for our talks at AGU this fall.
 
 ::: blockquote-blue
 > *"Quote in italics"* - **Name, Affiliation in boldface**

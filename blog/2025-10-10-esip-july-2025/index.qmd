@@ -1,0 +1,71 @@
+---
+title: "Title"
+description: "Subtitle"
+author:
+  - name: Stefanie Butland
+    orcid: 0000-0002-5427-8951
+  - name: the Openscapes Team
+  - name: and the NMFS Openscapes Mentors
+date: 2025-09-15
+draft: true
+citation: 
+  url: https://openscapes.org/blog/2025-09-15-blog-post-template-2025-09/
+categories: [blog, noaa-fisheries, nasa-framework]
+image: chasm-puppy-to-shepherd.png
+---
+
+**This is a rough template we can use to create a blog post or event page.** View Source for how to add the elements you see here. See our [website wiki](https://github.com/Openscapes/website-new/wiki) for more details. YAML `draft: true` means this will not appear in our website.
+
+*Preamble in italics. What When Who (Example from a Champions Cohort)*
+
+*In Fall 2024, we led 3 concurrent [Openscapes Champions](https://nmfs-openscapes.github.io/champions.html) Cohorts for NOAA Fisheries. These were the 13th Cohorts for NOAA Fisheries involving nearly 500 staff and affiliates! This post is a summary and celebration of some their work.*
+
+*Quicklinks:*
+
+-   [*Cohort webpage*](https://nmfs-openscapes.github.io/2024-nmfs-champions/)
+-   [*Browse stories*](https://openscapes.org/blog#category=noaa-fisheries) about the NOAA Fisheries Openscapes framework
+
+*Quick links (example from a Community Call):*
+
+-   *Community Call YouTube [Recording](https://youtu.be/t8gUSUlSqnc)*
+-   *Speakers [Slides](https://docs.google.com/presentation/d/1cbjjlAlVfJq7n7TIt0fgQxz3lwhfRZvX-ctlPQC8D0I/edit?slide=id.g344f6b45c2f_0_380#slide=id.g344f6b45c2f_0_380)*
+-   *Community Call [Collaborative Notes](https://docs.google.com/document/d/1VEP-CatRX_RzS9pBCfPPHcU5kskSvPbCp6fXq3optqs/edit?tab=t.0)*
+
+*Cross-posted at [openscapes.org/blog](https://openscapes.org/blog), [nmfs-openscapes.github.io/blog](https://nmfs-openscapes.github.io/blog)*, [*nasa-openscapes.github.io/news*](https://nasa-openscapes.github.io/news.html).
+
+------------------------------------------------------------------------
+
+Text
+
+## Heading H2
+
+Text
+
+::: blockquote-blue
+> *"Quote in italics"* - **Name, Affiliation in boldface**
+:::
+
+**An image:**
+
+::: {style="text-align:center;"}
+![Caption, centered under centered image. Image 85 to 100% width](chasm-puppy-to-shepherd.png){fig-alt="text to describe the image" fig-align="center" width="85%"}
+:::
+
+**An image with text beside it**, added by using columns. Column widths must add up to 12:
+
+::::: grid
+::: g-col-2
+![](earthaccesslogo.png){fig-alt="The earthaccess logo by Allison Horst: a hexagonal shape with the words earth access on two separate lines with pixelated sky with clouds and earth with land and sea" fig-align="left" width="100%"}
+:::
+
+::: g-col-10
+Join us to celebrate `earthaccess`, a python library that simplifies search and access of NASA Earth science data to a few lines of code.
+
+We will record the presentations and post on [Openscapes YouTube](https://www.youtube.com/@openscapes/videos).
+:::
+:::::
+
+## For an event
+
+**Date**: Tuesday, July 29, 2025 **Time**: 9:30 - 11:00 am PT ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Community+Call%3A+What+we%E2%80%99re+learning+about+cloud+costs+for+Earth+science+workflows+in+our+JupyterHub&iso=20250422T0930&p1=1050&ah=1)) <!---**Where**: Zoom
+**Register (free)** via [Zoom](https://zoom.us/meeting/register/Lnt3E9NRSK-deXCN1kkviw) to get the meeting link.---> **View** [recording](https://youtu.be/t8gUSUlSqnc)<!--- and [summary](/blog/LINK).--->

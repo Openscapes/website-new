@@ -3,11 +3,11 @@ title: "NASA Openscapes Champions Program - Fall 2025"
 # description: " "
 author:
   - name: Openscapes
-  - name: NASA Openscapes Mentors
+  - name: NASA Openscapes Mentors 
 #    url: {}
 date: "2025-11-13"
 categories: [event, champions, community-call, nasa-framework]
-image: nasa-openscapes-logos.png
+image: nasa-openscapes-earthaccess-logos.png
 ---
 
 *Cross-posted at [openscapes.org/events](https://openscapes.org/events), [nasa-openscapes.github.io/news](https://nasa-openscapes.github.io/news.html)*

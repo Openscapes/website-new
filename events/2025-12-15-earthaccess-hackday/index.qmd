@@ -7,7 +7,7 @@ author:
 #    url: {}
 date: "2025-12-15"
 categories: [event, nasa-framework]
-image: nasa-openscapes-earthaccess-logos.png
+image: hackday-graphic.png
 ---
 
 *Cross-posted at [openscapes.org/events](https://openscapes.org/events), [nasa-openscapes.github.io/news](https://nasa-openscapes.github.io/news.html)*
@@ -29,5 +29,5 @@ Join us for our [earthaccess](https://earthaccess.readthedocs.io/en/stable/) hac
 
 ​This hackday is supported through the Earth Science Information Partners (ESIP)’s FUNding Friday initiative, and is co-hosted by Cloud-Native Geospatial Forum (CNG) and Openscapes. 
 
-![](nasa-openscapes-earthaccess-logos.png){fig-alt="left to right: nasa logo, openscapes logo, earthaccess logo" fig-align="center" width="319"}
+![](hackday-graphic.png){fig-alt="left to right: purple background with white text reading Openscapes earthaccess Hackday with dates, times, and logos of CNG, earthaccess, Openscapes, and ESIP" fig-align="center" width="319"}
 

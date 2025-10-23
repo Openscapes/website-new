@@ -74,6 +74,8 @@ aliases:
 
 *See [NASA-Openscapes](https://nasa-openscapes.github.io/) and [NMFS-Openscapes](https://nmfs-openscapes.github.io/) for many additional presentations from NASA and NOAA Fisheries Mentors!*
 
+- [Openscapes as a mechanism for Crossing the Chasm between idea and adoption in science](https://docs.google.com/presentation/d/1B3dSYr0eptGgDL_V6EZchU_BrJ-uS3v2K-miDkbhSqc/edit?usp=sharing) – Lowndes and Openscapes Community, ESA EarthCODE Meeting, London. Oct 24, 2025
+
 - [Crossing the chasm at NASA Earthdata and NOAA Fisheries](https://docs.google.com/presentation/d/1-lzXyOWejwiA83JXbn6Z4EugTSIuDBYJWt5wMPiJIUI/edit?slide=id.g344f6b45c2f_0_380#slide=id.g344f6b45c2f_0_380) - Kaufman, Steiker, Lowndes, NCAR CISL Seminar. September 25, 2025
 
 - [Forking as a Worldview: A software engineering concept transforming government agencies in real life with Openscapes](https://docs.google.com/presentation/d/1UQfWQyXzQPEqyJevItR9LzxgYcixPJPV3dyobPwZDM4/edit?slide=id.g2f9b6067b4f_0_1766#slide=id.g2f9b6067b4f_0_1766) - Lowndes, European Space Agency Living Planet Symposium, Vienna, June 25, 2025

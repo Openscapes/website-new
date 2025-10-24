@@ -1,0 +1,76 @@
+---
+title: "Coaching the Openscapes team at the California Water Boards"
+# description: "Subtitle"
+author:
+  - name: Julie Lowndes
+    orcid: 0000-0003-1682-3872
+  - name: Anna Holder
+    orcid: 0000-0002-6207-8028
+  - name: Devan Burke
+    orcid: 0009-0001-0560-4976
+  - name: Tina Ures
+  - name: Elena Suglia
+    orcid: 0009-0007-5223-0827
+  - name: Greg Gearheart
+date: 2025-10-24
+citation: 
+  url: https://openscapes.org/blog/2025-10-24-ca-water-boards-openscapes/
+categories: [blog, water-boards]
+image: Openscapes_Tree_elena-suglia_2025_v2.png
+---
+
+*In 2025 we’ve been doing something new – Julie has been coaching the Openscapes team at the California Water Boards. Openscapes and the California Water Boards have been working closely since our work-exchange in 2021, when Anna Holder and Corey Clatterbuck assisted our Fall Champions Cohorts in exchange for learning how to lead them internally. Since then, the California Water Boards have led four Champions Cohorts internally, and developed a whole [Implementation Strategy](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/CAWaterBoardDataCenter/swrcb-openscapes/main/SWRCB_Openscapes_Implementation_Strategy_202302.pdf) (2022) to communicate with leadership across the state agencies: [https://cawaterboarddatacenter.github.io/swrcb-openscapes](https://cawaterboarddatacenter.github.io/swrcb-openscapes/)! They have also contributed as valuable learning and sharing partners in the cross-Openscapes Mentors community through our (now less-) regular calls, giving talks, writing blogs and peer-reviewed publications, and learning group-coaching together. However, this was the first time that they had the resources to support more focused advising. This is notable since we are all trying to figure out how to improve workflows and team practices across different environmental data research groups, and figure out mechanisms to make that happen, and happen sustainably. This is some of what we have been up to, and our work in progress continues this fall!*
+
+------------------------------------------------------------------------
+
+After four years of developing their Openscapes strategy internally, the Openscapes team at the California Water Boards were looking for targeted coaching for the following areas:
+
+1.  **Receive guidance on how to conduct outreach and communicate about Openscapes to a variety of audiences**
+
+2.  **Develop, test, and revise resources to support communication and engagement (e.g. webpages, slides, fact sheets, presentations, etc.)**
+
+3.  **Develop and begin to implement a plan to scale the Openscapes program at the Water Boards**
+
+A ~~quick doodle~~ work of art by Elena Suglia encapsulated the work we have been doing together to dig into their needs, and draw from lessons learned from [organizing and growing the Openscapes Mentors community](https://openscapes.github.io/approach-guide/mentors-framework/) and amplifying their work at [NASA Earthdata](https://nasa-openscapes.github.io/) and [NOAA Fisheries](https://nmfs-openscapes.github.io/).
+
+::: {style="text-align:center;"}
+![Artwork by Elena Suglia, showing some of the roots and branches of Openscapes themes across environmental data research teams and organizations](Openscapes_Tree_elena-suglia_2025_v2.png){fig-alt="Artwork by Elena Suglia, showing some of the roots and branches of Openscapes themes across environmental data research teams and organizations" fig-align="center" width="75%"}
+:::
+
+The Water Boards have a whole [Implementation Strategy](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/CAWaterBoardDataCenter/swrcb-openscapes/main/SWRCB_Openscapes_Implementation_Strategy_202302.pdf) that they have communicated to different parts of leadership, and also mapped it in a fine-grained way onto their GitHub project board (screenshot below).
+
+::: {style="text-align:center;"}
+![GitHub Project for Water Boards Openscapes Implementation](swrcb-github-project.png){fig-alt="screenshot of a kanban-style GitHub project board " fig-align="center" width="100%"}
+:::
+
+
+When discussing how to communicate with Water Boards executives and leadership, Julie shared how she and Eli Holmes are giving talks called “[Better science in less time? Yes it is possible!](BetterScience_NMFS_Spring2025.pdf)” to specific divisions across the agency at NOAA Fisheries (see all [talks at NOAA Fisheries](https://nmfs-openscapes.github.io/media.html)). We start off the talks with “Why are we here today?”, focus most presentations on concrete stories of “Yes it is possible”, and underscore that “these approaches save time” for staff in the long run.
+
+::: {style="text-align:center;"}
+![A slide from Julie Lowndes’ and Eli Holmes’ “Better science in less time? Yes it is possible!” talks.](lowndes-holmes-about-us.png){fig-alt="a slide with photo of 2 smiling women titled, We have a long history of actionable science & teaching, with a venn diagram to right" fig-align="center" width="85%"}
+:::
+
+
+One of the biggest, immediate decisions we made together was to “slow down to speed up”. Julie shared how NOAA Fisheries decided to take 2023 to develop the Mentors community, and paused leading Champions Cohorts that year. This was largely driven by the strategy to “Cross the Chasm” by investing in the Mentor community of early adopters, in order to then reach a broader group at the agency. This metaphor was another point of discussion with the team; Julie shared about her [keynote at the Cloud-Native Geospatial Forum conference](https://openscapes.org/blog/2025-05-13-cng-conf/) that could be useful for Water Boards to fork/re-tell; and also to learn from and use as a roadmap. The Water Boards team had similar challenges and goals, and decided to pause leading their own Champions Cohorts in 2025, and instead invest their time in preparing to develop their own Water Boards Mentors Community.
+
+Throughout the coaching period, the Water Boards team worked on developing strategic communication resources and documents. Communication resources included items that are publicly facing, such as a revised webpage and adding a [Mentor Community Chapter](https://cawaterboarddatacenter.github.io/swrcb-openscapes/mentors/), so that future prospective cohort members and mentors have the information they need to decide if and when engaging in Openscapes opportunities will be a good fit for them. Hopefully this will enable us to welcome many new champions and mentors to grow the grassroots movement and momentum at the Water Boards from the ground up.
+
+Other documentation centered on developing internal resources (e.g., briefing materials, slides) available to Openscapes Executive Sponsors so that they could support growing the community from the top of the organization downward.
+
+As we’re wrapping up 2025 we are beginning to feel ready(ish) to communicate about our activities more broadly, such as through this blog post, presenting about our Openscapes efforts to the California Office of Data and Innovation’s Data Science Community of Practice (Oct 14; [slides](https://drive.google.com/file/d/1S3GbusIXWi-0TGu_cCL3I8YnXMLtHRyB/)), and holding our first Community Call for the Water Boards to get our folks ready for 2026 (Nov 5).
+
+Our strategic planning, communication,coordination, and investment into developing the Mentor community, has been a lot of work! It has also been deeply joyful and grounding to “create our own certainty”, as the [NASA Openscapes Mentors](https://nasa-openscapes.github.io/mentors) say. We are looking forward to continued work together this Fall and into 2026!
+
+## Posts about our ongoing Water Boards - Openscapes collaboration
+
+California Water Boards Mentor Perspectives, [2021](https://openscapes.org/blog/2021-12-07-california-waterboards-mentors/)
+
+3 takeaways for planning for the year of open science, [2022](https://openscapes.org/blog/2022-02-17-esip-winter-2022/)
+
+Adapting the Champions Program for the California Water Boards, [2022](https://openscapes.org/blog/2022-12-02-swrcb-2022/)
+
+3 approaches for the year of open science, [2023](https://openscapes.org/blog/2023-03-16-esip-winter-2023/)
+
+California Water Boards’ 2nd Annual Openscapes Champions Program - Reflections & Future, [2023](https://openscapes.org/blog/2023-12-13-waterboards/)
+
+Shifting institutional culture to develop climate solutions with Open Science, [2024](https://openscapes.org/blog/2024-06-06-editorial-published/)

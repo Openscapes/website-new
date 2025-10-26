@@ -67,7 +67,7 @@ Showing the power of the social infrastructure and open community collaboration,
 > *"What’s a small something/Earthaccess feature to pitch at ESIP :)"* - **Julie Lowndes**
 :::
 
--   they scope ideas publicly in <https://github.com/nsidc/earthaccess/discussions/1054>; other contributors including Matt Fisher (UC Berkeley) and Eli Holmes (NOAA Fisheries) weigh in.
+-   They scope ideas publicly in <https://github.com/nsidc/earthaccess/discussions/1054>; other contributors including Matt Fisher (UC Berkeley) and Eli Holmes (NOAA Fisheries) weigh in.
 
 **July 24: Poster-making**
 

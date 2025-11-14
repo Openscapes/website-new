@@ -3,13 +3,21 @@ title: "Privacy Policy"
 format: html
 ---
 
-## Openscapes Collaborative LTD customer privacy notice
+## Openscapes LLC and Openscapes Collaborative LTD customer privacy notice
 
 This privacy notice tells you what to expect us to do with your personal information.
 
-###  Contact details
+### Contact details
 
-Post: SJW Accountants, Clawthorpe, CARNFORTH, Lancashire, LA6 1NU, UK
+**In the US:**
+
+Address: Openscapes LLC. 2261 Market Street STE 86314, San Francisco, CA 94114, US
+
+Email: julia at openscapes dot org
+
+**In the UK:**
+
+Address: Openscapes Collaborative LTD. SJW Accountants, Clawthorpe, Carnforth, Lancashire, LA6 1NU, UK
 
 Email: julia at openscapes dot org
 
@@ -18,20 +26,68 @@ Email: julia at openscapes dot org
 We collect or use the following information to **provide services and goods, including delivery**:
 
 -   Names and contact details
-
-<!-- -->
-
 -   Photographs or video recordings
-
-<!-- -->
-
 -   Call recordings
-
-<!-- -->
-
 -   Records of meetings and decisions
 
-### Lawful bases and data protection rights
+#### Our lawful bases for the collection and use of your data
+
+Our lawful bases for collecting or using personal information to **provide services and goods** are:
+
+-   Consent - we have permission from you after we gave you all the relevant information. All of your data protection rights may apply, except the right to object. To be clear, you do have the right to withdraw your consent at any time.
+-   Contract – we have to collect or use the information so we can enter into or carry out a contract with you. All of your data protection rights may apply except the right to object.
+
+#### Where we get personal information from
+
+-   Directly from you
+
+#### How long we keep information
+
+Documents are destroyed securely by means of a certified shredding company or deletion from our systems after 10 years.
+
+### California Addendum – California Consumer Privacy Policy
+
+California’s privacy laws recently expanded to define “consumer” to include individuals acting in a commercial or employment capacity.  In other words, the word “consumer” under these statutes captures not only traditional consumers but also individuals who may interact with a business as an employee or business partner.  If you are a California consumer, the following provisions apply to our processing of information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with you or your household (“California Personal Information”). For California consumers, the provisions of this California Addendum prevail over any conflicting provisions in other sections of this Privacy Policy.
+
+**Information We Have Collected**
+
+We have collected the following categories of California Personal Information within the last 12 months from the sources listed below:
+
+\(a\) Identifiers, such as a real name, email address, account name, or other similar identifiers. 
+
+\(b\) Location data, such as affiliation or state. This category of information is collected from you.
+
+\(c\) Sensory data, including electronic, visual, or similar information. This category of information, such as photos or recordings of phone calls with Openscapes personnel is collected in the performance of our services to our customers.
+
+We retain each category of California Personal Information as described in the “Retention” Section of the Privacy Policy. We may also use the information we collect for our own operational purposes, purposes for which we provide you additional notice, or for purposes compatible with the context in which the California Personal Information was collected.
+
+#### Your California Privacy Rights
+
+If you are a California consumer, you have certain rights related to your California Personal Information, including:
+
+The right to know what California Personal Information we have collected about you, including the categories of personal information, the categories of California Personal Information, the categories of sources from which the California Personal Information is collected, the business or commercial purpose for collecting, selling, or sharing California Personal Information, the categories of third parties to whom we disclose California Personal Information, and the specific pieces of California Personal Information we have collected about you.
+
+The right to correct inaccurate California Personal Information that we have collected about you.
+
+The right to delete California Personal Information that we have collected from you, subject to certain exceptions. 
+
+The right to opt out. You have the right to opt out of the disclosure of California Personal Information to third parties for monetary or other valuable consideration. You also have the right to opt out of the sharing of California Personal Information for cross-context behavioral advertising.
+
+The right not to receive discriminatory treatment by the business for the exercise of privacy rights conferred by applicable law, including the right not to be retaliated against for the exercise of your rights. Openscapes will not discriminate against you for exercising your privacy rights.
+
+You may request to exercise these rights by emailing us at the contact listed above.
+
+#### What Happens When You Exercise Your Rights
+
+As required under applicable law, we will take steps to verify your identity before granting you access to information or acting on your request to exercise your rights. We may require you to provide your first name, last name, email address, and other information to verify your identity. We may limit our response to your exercise of the above rights as permitted under applicable law. When you submit a request to exercise your rights above, we will use the information you provide to process your request and to maintain a record of your request and our response, as permitted under applicable law.
+
+Under California law, you may designate an authorized agent to make a request on your behalf. You may make such a designation by providing the agent with written permission to act on your behalf. We will require the agent to provide proof of that written permission. To the extent permitted by law, we may require you to verify your own identity in response to a request, even if you choose to use an agent. 
+
+If you are an authorized agent submitting a request on behalf of a California consumer, please email us at the contact listed above.
+
+### UK Addendum - GDPR
+
+#### Lawful bases and data protection rights
 
 Under UK data protection law, we must have a “lawful basis” for collecting and using your personal information. There is a list of possible [lawful bases](https://ico.org.uk/for-organisations/advice-for-small-organisations/getting-started-with-gdpr/data-protection-principles-definitions-and-key-terms/#lawfulbasis) in the UK GDPR. You can find out more about lawful bases on the ICO’s website.
 
@@ -55,25 +111,7 @@ If you make a request, we must respond to you without undue delay and in any eve
 
 To make a data protection rights request, please contact us using the contact details at the top of this privacy notice.
 
-### Our lawful bases for the collection and use of your data
-
-Our lawful bases for collecting or using personal information to **provide services and goods** are:
-
--   Consent - we have permission from you after we gave you all the relevant information. All of your data protection rights may apply, except the right to object. To be clear, you do have the right to withdraw your consent at any time.
-
-<!-- -->
-
--   Contract – we have to collect or use the information so we can enter into or carry out a contract with you. All of your data protection rights may apply except the right to object.
-
-### Where we get personal information from
-
--   Directly from you
-
-### How long we keep information
-
-Documents are destroyed securely by means of a certified shredding company or deletion from our systems after 7 years.
-
-### Sharing information outside the UK
+#### Sharing information outside the UK
 
 Where necessary, we will transfer personal information outside of the UK. When doing so, we comply with the UK GDPR, making sure appropriate safeguards are in place.
 
@@ -87,25 +125,37 @@ For further information or to obtain a copy of the appropriate safeguard for any
 
 **How the transfer complies with UK data protection law:** In accordance with the UK Extension to the EU-US Data Privacy Framework” (UK Extension) under Article 45 of the UK General Data Protection Regulation (GDPR).
 
-### How to complain
+#### How We Use Your Information
+
+**We use the information we collect, on its own and combined with other information we collect about you, for the following purposes:**
+
+Providing our Sites or Services to you.
+
+Communicating with you. You can unsubscribe from our communications at any time.
+
+When we process information as de-identified information, we will not re-identify such de-identified information, except as permitted under applicable law.
+
+Openscapes will normally collect your information with your consent, to perform a contract (for example, when providing services), or where the processing is in Openscapes’ legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, Openscapes may also have a legal obligation to process personal information or may need to do so to exercise, establish, or defend legal claims.
+
+#### **How to complain**
 
 If you have any concerns about our use of your personal data, you can make a complaint to us using the contact details at the top of this privacy notice.
 
-If you remain unhappy with how we’ve used your data after raising a complaint with us, you can also complain to the ICO.
+If you remain unhappy with how we’ve used your data after raising a complaint with us and you are in the UK, you can also complain to the ICO.
 
 The ICO’s address:
 
-> Information Commissioner’s Office\
-> Wycliffe House\
-> Water Lane\
-> Wilmslow\
-> Cheshire\
-> SK9 5AF
->
-> Helpline number: 0303 123 1113
->
-> Website: [https://www.ico.org.uk/make-a-complaint](https://ico.org.uk/make-a-complaint/)
+Information Commissioner’s Office\
+Wycliffe House\
+Water Lane\
+Wilmslow\
+Cheshire\
+SK9 5AF
+
+Helpline number: 0303 123 1113
+
+Website: [https://www.ico.org.uk/make-a-complaint](https://ico.org.uk/make-a-complaint/)
 
 ### Last updated
 
-October 10, 2025
+November 14, 2025

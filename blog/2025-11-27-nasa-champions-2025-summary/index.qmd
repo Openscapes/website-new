@@ -44,7 +44,7 @@ image: slide-earthaccess-cookbook.png
 -   [*Slides*](https://docs.google.com/presentation/d/1fJbUpbfXX0N19bKTRHD8FYncXqt4E9v7_5d3Yaraw1U/) *contain links to resources*
 -   [*earthaccess*](https://earthaccess.readthedocs.io/en/stable/)*; [contributing](https://earthaccess.readthedocs.io/en/stable/contributing/)* 
 
-—---
+------------------------------------------------------------------------
 
 ## Navigating NASA Earthdata together with earthaccess
 

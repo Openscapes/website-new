@@ -30,7 +30,7 @@ In December 2025 in New Orleans, as part of the [Greg Leptoukh Lecture Award](ht
 I co-authored the talk with the Openscapes Core Team: Stefanie Butland, Andy Teucher, Melanie Burgess, Stephanie Amend, Ileana Fenwick, Liz Neeley. We told more stories and practices of our team – the unseen infrastructure that enables us to have outsized impact, and continually expand possibilities with our collaborators.
 
 ::: {style="text-align:center;"}
-![Aaron Friesz, Amy Steiker, Sudhir Shrestha Julie Lowndes, Danie Kinkade, Alex Lewandowski, Luis Lopez as Julie receives Leptoukh Award, AGU 2025.](leptoukh-receiving-award.jpg){fig-alt="6 women and men smiling, wearing conference lanyards, standing in front of a large screen projecting a headshot of Julie Lowndes and her talk title Forking as a worldview: How Openscapes uses the open source concept of copy-modify to support researchers & shift culture in science" fig-align="center" width="70%"}
+![Aaron Friesz, Amy Steiker, Sudhir Shrestha, Julie Lowndes, Danie Kinkade, Alex Lewandowski, Luis Lopez as Julie receives Leptoukh Award, AGU 2025.](leptoukh-receiving-award.jpg){fig-alt="6 women and men smiling, wearing conference lanyards, standing in front of a large screen projecting a headshot of Julie Lowndes and her talk title Forking as a worldview: How Openscapes uses the open source concept of copy-modify to support researchers & shift culture in science" fig-align="center" width="70%"}
 :::
 
 The talk’s structure (forked from my [documenting things talk](https://openscapes.org/blog/2023-09-27-documenting-things-posit-conf/index.html) at Posit Conf 2023):

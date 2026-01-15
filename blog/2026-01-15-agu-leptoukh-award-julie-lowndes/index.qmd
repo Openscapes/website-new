@@ -37,7 +37,7 @@ The talk’s structure (forked from my [documenting things talk](https://opensca
 
 -   **Forking mindset** - forking (v) means to copy and modify. We fork code, and also ideas, structures, agendas, documentation, programs…
 
--   **What’s possible from this + how we work** - stories of how forking has made it possible for NOAA scientists to develop collaborative workflows for data-intensive science; how forking has made it possible for NASA data center staff to revolutionize Earthdata workflows in the Cloud; and how forking has made it possible for Openscapes to be sustainable.
+-   **What’s possible from this + how we work** - stories of how forking has made it possible for NOAA scientists to develop collaborative workflows for data-intensive science; how forking has made it possible for NASA data center staff to revolutionize Earthdata workflows in the Cloud; and how forking has made it possible for Openscapes to be sustainable. This was my first time talking more about how I shifted from academic scientist to small business owner and growing the team to support the work we do.
 
 -   **Meeting the moment together** - it’s been a hard, disappointing year. And yet. We can all continue to work together, create our own certainty, default to open. The (Hidden) social infrastructure that drives this is scaled with trust and kindness.
 

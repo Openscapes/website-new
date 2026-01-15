@@ -13,7 +13,7 @@ image: leptoukh-receiving-award.jpg
 
 *At the AGU 2025 Fall Meeting I received the AGU [Greg Leptoukh Lecture Award.](https://www.agu.org/honors/leptoukh) This award celebrates the life of an inspiring Earth scientist in our community and recognizes significant contributions to informatics, computational, or data sciences through research, education, and related activities. Receiving this award is a huge honor. I have worked hard and am proud of what I have done for science, scientists, and people supporting science. And I greatly value my many collaborators who work closely with me; we are receiving this award together. I know this award reflects all our work, as well as me, and it’s really special to be called out.*
 
-*The blog shares a quick overview of my lecture as well as the official citation for my award, and my response. I will give the lecture again online in early 2026 and we will update this post with a recording.*
+*The blog shares a quick overview of my lecture. It focuses on the official citation for my award written by NASA Openscapes Mentors Aaron Friesz (now at ESIP), Amy Steiker Luis Lopez, plus Allison Horst, and my official response. I will give the lecture again online in early 2026 – we will share details when we know – and we will update this post with a recording.*
 
 *Quicklinks:*
 

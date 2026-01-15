@@ -1,5 +1,5 @@
 ---
-title: "Forking as a worldview: How Openscapes uses the open source concept of copy-modify to support researchers & shift culture in science"
+title: "Receiving the Dr. Greg Leptoukh Award lecture at AGU"
 description: "Julie Lowndes reveived the Greg Leptoukh Lecture Award at AGU 2025"
 author:
   - name: Julie Lowndes

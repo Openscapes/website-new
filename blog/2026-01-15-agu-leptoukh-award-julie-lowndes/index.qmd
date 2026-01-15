@@ -8,7 +8,7 @@ date: 2026-01-15
 citation: 
   url: https://openscapes.org/blog/2026-01-15-agu-leptoukh-award-julie-lowndes
 categories: [blog, noaa-fisheries, nasa-framework]
-image: julie-leptoukh-agu-2025.jpg
+image: leptoukh-receiving-award.jpg
 ---
 
 *At the AGU 2025 Fall Meeting I received the AGU [Greg Leptoukh Lecture Award.](https://www.agu.org/honors/leptoukh) This award celebrates the life of an inspiring Earth scientist in our community and recognizes significant contributions to informatics, computational, or data sciences through research, education, and related activities. Receiving this award is a huge honor. I have worked hard and am proud of what I have done for science, scientists, and people supporting science. And I greatly value my many collaborators who make the work possible; these folks are my peer-learners and co-creators and we all contribute in many ways. I know this award reflects all our work, as well as me, and it’s really special to be called out.*
@@ -31,7 +31,7 @@ In December 2025 in New Orleans, as part of the [Greg Leptoukh Lecture Award](ht
 I co-authored the talk with the Openscapes Core Team: Stefanie Butland, Andy Teucher, Melanie Burgess, Stephanie Amend, Ileana Fenwick, Liz Neeley. We told more stories and practices of our team – the unseen infrastructure that enables us to have outsized impact, and continually expand possibilities with our collaborators.
 
 ::: {style="text-align:center;"}
-![Amy Steiker, Aaron Friesz, Julie Lowndes, Alex Lewandowski, Luis Lopez, Eli Holmes at Julie's Leptoukh Award presentation, AGU 2025.](julie-leptoukh-agu-2025.jpg){fig-alt="6 women and men smiling, wearing conference lanyards, standing in front of a large screen projecting a headshot of Julie Lowndes and her talk title Forking as a worldview: How Openscapes uses the open source concept of copy-modify to support researchers & shift culture in science" fig-align="center" width="70%"}
+![Aaron Friesz, Amy Steiker, Sudhir Shrestha Julie Lowndes, Danie Kinkade, Alex Lewandowski, Luis Lopez as Julie receives Leptoukh Award, AGU 2025.](leptoukh-receiving-award.jpg){fig-alt="6 women and men smiling, wearing conference lanyards, standing in front of a large screen projecting a headshot of Julie Lowndes and her talk title Forking as a worldview: How Openscapes uses the open source concept of copy-modify to support researchers & shift culture in science" fig-align="center" width="70%"}
 :::
 
 The talk’s structure (forked from my [documenting things talk](https://openscapes.org/blog/2023-09-27-documenting-things-posit-conf/index.html) at Posit 2023):

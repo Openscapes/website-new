@@ -20,7 +20,6 @@ image: leptoukh-receiving-award.jpg
 -   [*Slides*](https://docs.google.com/presentation/d/10RbeoshmsHx06ZIFA1x-KERbrMkcBtnOtFVyt9UCs5o/edit?slide=id.g3af247f9d45_0_0#slide=id.g3af247f9d45_0_0) *- ”Forking as a Worldview”: How Openscapes uses the open source concept of copy-modify to support researchers & shift culture in science*
 -   [*https://www.agu.org/honors/leptoukh*](https://www.agu.org/honors/leptoukh)
 -   [*https://www.agu.org/honors/leptoukh/past-recipients*](https://www.agu.org/honors/leptoukh/past-recipients)
--   [*https://openscapes.org/blog/2025-09-30-leptoukh-lecture*](https://openscapes.org/blog/2025-09-30-leptoukh-lecture/)
 
 *Cross-posted at [openscapes.org/blog](https://openscapes.org/blog), [nmfs-openscapes.github.io/blog](https://nmfs-openscapes.github.io/blog)*, [*nasa-openscapes.github.io/news*](https://nasa-openscapes.github.io/news.html).
 

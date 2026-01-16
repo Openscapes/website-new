@@ -16,7 +16,7 @@ author:
 date: 2025-05-01
 citation: 
   url: https://openscapes.org/blog/2025-05-01-community-call-hub-cloud-costs/
-categories: [blog, event, nasa-framework, noaa-fisheries]
+categories: [blog, event, community-call, nasa-framework, noaa-fisheries]
 image: cpu-and-memory-requests-osl-nasa-openscapes.png
 ---
 

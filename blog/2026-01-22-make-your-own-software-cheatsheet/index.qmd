@@ -1,0 +1,132 @@
+---
+title: "Make your own software cheatsheet"
+description: "NOAA Fisheries staff document how they figured it out and the resources they used"
+author:
+  - name: Sophie Breitbart
+    orcid: 0000-0001-9641-9786
+  - name: Sam Schiano
+    orcid: 0009-0003-3744-6428
+  - name: Kelli Johnson
+    orcid: 0000-0002-5149-451X
+  - name: Kathryn Doering
+    orcid: 0000-0002-0396-7044
+date: 2026-01-22
+citation: 
+  url: https://openscapes.org/blog/2026-01-22-make-your-own-software-cheatsheet
+categories: [blog, noaa-fisheries]
+image: asar-cheatsheet.png
+---
+
+*At a NOAA Fisheries Mentors Coworking discussion, Sophie Breitbart shared that she had released the first version of a cheatsheet she made for the [asar](https://nmfs-ost.github.io/asar/) (Automated Stock Assessment Reporting) R package she works on - the first cheatsheet she developed. 'Cheatsheets are not meant to be text or documentation! They are scannable visual aids that use layout and visual mnemonics to help people zoom to the functions they need.' ([Posit cheatsheets README](https://github.com/rstudio/cheatsheets/blob/main/README.md#tips-for-making-a-new-cheatsheet)). Many of us wanted to know how she figured out what to include and how to do it effectively. Sophie added notes in a [GitHub Issue](https://github.com/nmfs-openscapes/how-we-work/issues/53), which evolved into blog post to include perspectives of her colleagues who had recently developed cheatsheets. This is a gold mine! Huge appreciation to the Sophie, Sam, Kelli, and Kathryn, for doing the extra work to openly share their earned knowledge.*
+
+*Cross-posted from [NOAA Fisheries Integrated Toolbox](https://nmfs-ost.github.io/noaa-fit-resources/developer%20resources/software-cheatsheet/) at [openscapes.org/blog](https://openscapes.org/blog), [nmfs-openscapes.github.io/blog](https://nmfs-openscapes.github.io/blog)*,
+
+------------------------------------------------------------------------
+
+Have you been curious about making a [cheatsheet](https://posit.co/resources/cheatsheets/) for your software? This can be a helpful way to share with users the essential knowledge of how to use your software. Here are some ideas based on recent experiences of developers putting together cheatsheets.
+
+## **Sophie Breitbart: Cheatsheet for the `asar` R package**
+
+At a late August [NOAA Fisheries Openscapes](https://nmfs-openscapes.github.io/) coworking, I shared that I’d finished [the first version of the `{asar}` cheatsheet](https://github.com/nmfs-ost/asar/blob/0a8fd9678800e068e301b94b67b00f40106a64d5/pkgdown/assets/asar_cheatsheet.pdf). After some further feedback, [the cheatsheet was updated once more](https://nmfs-ost.github.io/asar/asar_cheatsheet.pdf). We plan to continually update the cheatsheet as our package evolves. Here’s some insight into how I made this cheatsheet (my first!):
+
+### **Approach**
+
+-   I looked at several cheatsheets for design inspiration first. Here are links to cheatsheets from [Posit](https://posit.co/resources/cheatsheets/) and [contributors](https://rstudio.github.io/cheatsheets/contributed-cheatsheets.html).
+
+-   I read [some guidance for designing a cheatsheet](https://github.com/dmvillarreal/cheatsheets/tree/master?tab=readme-ov-file). I certainly didn’t follow all of it, but it had some great reminders about balancing text with visual depictions, emphasis on conciseness and differentiation from documentation, and the value of sample code.
+
+-   I also started a back-and-forth with Gemini to see what it could produce. I supplied it a link to `{asar}`’s functions and asked it to make a cheatsheet that looked similar to Posit’s cheatsheets. I tried several prompts to get it to produce something I liked, but I ultimately gave up. It was still useful though, in that this exercise showed me what I did and didn’t want in a cheatsheet:
+
+    -   Gemini grouped content by function type but I realized I wanted `{asar}`’s to be structured by workflow (i.e., chronologically, so to speak).
+
+    -   Gemini could format in HTML or markdown, but there were features I appreciated about the classic Powerpoint-based cheatsheets it couldn’t replicate (or, at least, I didn’t have the patience to keep trying to write the perfect prompt to achieve my vision). It’s tricky to articulate exactly what those things are, but here are some:
+
+        1.  Usage of white space
+
+        2.  Freedom to create and position visual aids
+
+        3.  Properly-fitting columns
+
+        4.  Neat fit onto one page that could be printed out for future reference digitally or on paper as workshop handouts
+
+    -   I also wanted to add other information like data science tips and links to `{asar}` resources like vignettes and issues.
+
+-   So I opened the powerpoint template and began customizing its three-column template.
+
+-   About 1/3 of the way through, I asked my colleague Sam Schiano for her initial thoughts and if this was going in the right direction. She gave some great feedback that invited further edits.
+
+-   My colleague Kelli Johnson also shared some thoughts on how to make the first version clearer and more useful. One of my biggest takeaways was that the cheatsheet would be stronger if more space was devoted to depicting *how functions work* and *what the expected output should look like*. Ideally, the cheatsheet would allow the user to start understanding the workflow and intuiting how to navigate it. A deepener familiarity with the tool will encourage adoption and more productive troubleshooting.
+
+-   I’m sure we’ll edit it as we learn more from our users about what’s most important for them. Maybe we’ll make a more reproducible version based in a format like Quarto, too.
+
+### **Tools**
+
+-   I used open source icons from [Ionicons](https://ionic.io/ionicons) and [Feather](https://feathericons.com/) to symbolize the purpose of each section.
+
+-   I used [this Posit cheatsheet pptx template](https://github.com/rstudio/cheatsheets/blob/main/powerpoints/0-template.pptx), then downloaded it as a PDF.
+
+::: {style="text-align:center;"}
+![Cheatsheet for the asar R package for Automated Stock Assessment Reporting](asar-cheatsheet.png){alt="Caption, centered under centered image. Image 85 to 100% width" fig-alt="txt" fig-align="center" width="80%"}
+:::
+
+## **Samantha Schiano: Cheatsheet for the `stockplotr` R package**
+
+I am a member of the team that develops `{asar}` (the package mentioned by Sophie Breitbart earlier in this blog post!). We also develop a sister package called `stockplotr` which focuses on creating tables and plots for fisheries stock assessments. There are an increasing number of awesome functions we have developed to allow users to create their plots and tables in one click or customize themselves. While Sophie took on the task of developing the cheatsheet for `{asar}`, I took on creating the cheatsheet for `{stockplotr}`. I aimed to make a similar looking cheatsheet to `{asar}` in order to create a cohesive feel across our packages. It was also my first time making a cheatsheet and I learned a lot from Sophie and through my own process.
+
+### **Approach**
+
+Like Sophie, I looked at several cheatsheets for inspiration focusing on cheatsheets that were made for packages similar to`{stockplotr}`, like `{dplyr}` and `{ggplot2}`. Since a lot of the functions in `{stockplotr}` are “wrappers” of `{ggplot2}`, it made sense to begin by modeling the `{stockplotr}` cheatsheet off of the `{ggplot2}` one. I followed some guidance from the RStudio cheatsheet:
+
+-   organize content into 3-4 columns,
+
+-   ensure content follows the order that your eye usually reads in (top–\>bottom, left–\>right),
+
+-   use visual elements to make the sheet scannable,
+
+-   add ready-to-run code where possible,
+
+-   incorporate example tables and,
+
+-   create a visual hierarchy.
+
+I used these concepts and more to try and build a visually pleasing and intuitive cheatsheet that would be highly informative to the package user.
+
+`{stockplotr}` isn’t just producing plots and tables, but also creates captions and alternative text for the plots and tables. This means that the package has a lot of functionality that needs to be conveyed to users, so (for now) I focused on including only stable functions in the cheatsheet in addition to information on how captions and alternative text are generated. The explanation of how captions and alternative text are generated was important to seamlessly integrate `{stockplotr}` products with the products generated in `{asar}`, so users really need to understand this process to take full advantage of the feature.
+
+\
+I played around with the visual structure and font size. I think one of my biggest takeaways from this is that you shouldn’t feel confined to a specific look or flow and that you CAN make your font smaller. After looking at some other cheatsheets, I realized that the ones that have a lot of functions use a smaller font to get everything to fit and still flow cohesively.
+
+\
+Lastly, don’t feel pressured to just have a 1-pager! As we develop and expand `{stockplotr}`, I plan on keeping this original cheatsheet as an overview of the package with **two** additional pages for the package: one for plots and one for tables. Other packages follow this convention and it can be extremely helpful when executed well by being easier to navigate and communicating the expanse and complexity of the package.
+
+### **Tools**
+
+-   I used the same open source icons and cheatsheet template as Sophie.
+
+-   I gained inspiration from the [`{ggplot2}` cheatsheet](https://posit.co/wp-content/uploads/2022/10/data-visualization-1.pdf) and the [`{dplyr}` cheatsheet](https://rstudio.github.io/cheatsheets/data-transformation.pdf).
+
+## **Kelli Johnson: Cheatsheet for the `FIMS` package**
+
+Like others, my inspiration for creating a cheatsheet came from my consistent use of Posit cheatsheets. In fact, I have my book of cheatsheets from the 2024 Posit conference within arms reach of my desk at all times. I find that these cheatsheets offer information that just cannot be found through the traditional R documentation, i.e.,`?function_name`, and I often go to them for their visuals rather than their text.
+
+### **Approach**
+
+Posit makes it extremely easy to mimic the structure of their cheatsheets with their publicly-available [powerpoint template](https://github.com/rstudio/cheatsheets/blob/main/powerpoints/0-template.pptx) on their [GitHub repository](https://github.com/rstudio/cheatsheets), which stores pdf versions of their cheatsheets. I followed the [instructions in their README](https://github.com/rstudio/cheatsheets?tab=readme-ov-file#process) for how to edit their template to create a cheatsheet for [`{FIMS}`](https://noaa-fisheries-integrated-toolbox.r-universe.dev/FIMS). Given that we had already created a [vignette for beginners](https://noaa-fims.github.io/FIMS/articles/fims-demo.html), it was easy to decide the flow of the cheatsheet, which mimics the flow of the vignette.
+
+Where I deviated from the Posit instructions is in getting feedback. The instructions emphasize that the design process will be iterative but they do not stress the importance of getting feedback from individuals outside of the development team. Developers have too much background information to be able to “see” the vignette for the first time, similar to how native speakers of a language can deal with [typoglycemia](https://www.dictionary.com/e/typoglycemia/). To ensure that new users would find the vignette helpful, we had to test it out on new users. Therefore, we held a work session to get feedback from two individuals who had never used the package before and two individuals who were on the development team. The combination of their perspectives really helped bring the cheatsheet to the next level.
+
+When receiving feedback, it is often difficult to wade through all of the comments without getting lost. I try to group comments together into similar themes and focus on the theme with the most feedback first. Additionally, sometimes I do not understand what someone else’s vision would look like so I ask them to directly edit the cheatsheet the way they think it should look. Given that google slides allows you to revert back using the history, I am not concerned with maintaining a copy of the original cheatsheet while they are editing. I feel that by allowing the provider of the feedback to have direct edit access they may feel more empowered, recognized, and willing to contribute. Their ideas were often quite good and we typically ended up keeping their edits.
+
+While designing the cheatsheet I felt like I spent too much time on icons that I ended up not using. I feel like I should have focused more time on the visuals that represent functions, e.g., table snapshots and function output.
+
+The beauty of this process is that it is not over. We tagged the slide with the version and each time we have a new release of [`{FIMS}`](https://noaa-fisheries-integrated-toolbox.r-universe.dev/FIMS) we can update the slide deck given comments we have received. It will be important to keep asking for feedback though because many have comments but do not actively voice them or even know where to provide them.
+
+### **Next Steps**
+
+-   Print it to a pdf and provide the image in the {pkgdown} documentation available on the [documentation for {FIMS}](https://noaa-fims.github.io/FIMS/).
+
+-   Update the cheatsheet for our newest release of version 0.7.0.
+
+-   Add an additional page that summarizes how to run sensitivity models and look at the model output.
+
+-   Get more feedback to ensure the cheatsheet is the best that it can be.

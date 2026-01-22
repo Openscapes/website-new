@@ -25,11 +25,11 @@ image: asar-cheatsheet.png
 
 Have you been curious about making a [cheatsheet](https://posit.co/resources/cheatsheets/) for your software? This can be a helpful way to share with users the essential knowledge of how to use your software. Here are some ideas based on recent experiences of developers putting together cheatsheets.
 
-## **Sophie Breitbart: Cheatsheet for the `asar` R package**
+## Sophie Breitbart: Cheatsheet for the `asar` R package
 
 At a late August [NOAA Fisheries Openscapes](https://nmfs-openscapes.github.io/) coworking, I shared that I’d finished [the first version of the `{asar}` cheatsheet](https://github.com/nmfs-ost/asar/blob/0a8fd9678800e068e301b94b67b00f40106a64d5/pkgdown/assets/asar_cheatsheet.pdf). After some further feedback, [the cheatsheet was updated once more](https://nmfs-ost.github.io/asar/asar_cheatsheet.pdf). We plan to continually update the cheatsheet as our package evolves. Here’s some insight into how I made this cheatsheet (my first!):
 
-### **Approach**
+### Approach
 
 -   I looked at several cheatsheets for design inspiration first. Here are links to cheatsheets from [Posit](https://posit.co/resources/cheatsheets/) and [contributors](https://rstudio.github.io/cheatsheets/contributed-cheatsheets.html).
 
@@ -59,7 +59,7 @@ At a late August [NOAA Fisheries Openscapes](https://nmfs-openscapes.github.io/)
 
 -   I’m sure we’ll edit it as we learn more from our users about what’s most important for them. Maybe we’ll make a more reproducible version based in a format like Quarto, too.
 
-### **Tools**
+### Tools
 
 -   I used open source icons from [Ionicons](https://ionic.io/ionicons) and [Feather](https://feathericons.com/) to symbolize the purpose of each section.
 
@@ -69,11 +69,11 @@ At a late August [NOAA Fisheries Openscapes](https://nmfs-openscapes.github.io/)
 ![Cheatsheet for the asar R package for Automated Stock Assessment Reporting](asar-cheatsheet.png){alt="Caption, centered under centered image. Image 85 to 100% width" fig-alt="txt" fig-align="center" width="80%"}
 :::
 
-## **Samantha Schiano: Cheatsheet for the `stockplotr` R package**
+## Samantha Schiano: Cheatsheet for the `stockplotr` R package
 
 I am a member of the team that develops `{asar}` (the package mentioned by Sophie Breitbart earlier in this blog post!). We also develop a sister package called `stockplotr` which focuses on creating tables and plots for fisheries stock assessments. There are an increasing number of awesome functions we have developed to allow users to create their plots and tables in one click or customize themselves. While Sophie took on the task of developing the cheatsheet for `{asar}`, I took on creating the cheatsheet for `{stockplotr}`. I aimed to make a similar looking cheatsheet to `{asar}` in order to create a cohesive feel across our packages. It was also my first time making a cheatsheet and I learned a lot from Sophie and through my own process.
 
-### **Approach**
+### Approach
 
 Like Sophie, I looked at several cheatsheets for inspiration focusing on cheatsheets that were made for packages similar to`{stockplotr}`, like `{dplyr}` and `{ggplot2}`. Since a lot of the functions in `{stockplotr}` are “wrappers” of `{ggplot2}`, it made sense to begin by modeling the `{stockplotr}` cheatsheet off of the `{ggplot2}` one. I followed some guidance from the RStudio cheatsheet:
 
@@ -99,17 +99,17 @@ I played around with the visual structure and font size. I think one of my bigge
 \
 Lastly, don’t feel pressured to just have a 1-pager! As we develop and expand `{stockplotr}`, I plan on keeping this original cheatsheet as an overview of the package with **two** additional pages for the package: one for plots and one for tables. Other packages follow this convention and it can be extremely helpful when executed well by being easier to navigate and communicating the expanse and complexity of the package.
 
-### **Tools**
+### Tools
 
 -   I used the same open source icons and cheatsheet template as Sophie.
 
 -   I gained inspiration from the [`{ggplot2}` cheatsheet](https://posit.co/wp-content/uploads/2022/10/data-visualization-1.pdf) and the [`{dplyr}` cheatsheet](https://rstudio.github.io/cheatsheets/data-transformation.pdf).
 
-## **Kelli Johnson: Cheatsheet for the `FIMS` package**
+## Kelli Johnson: Cheatsheet for the `FIMS` package
 
 Like others, my inspiration for creating a cheatsheet came from my consistent use of Posit cheatsheets. In fact, I have my book of cheatsheets from the 2024 Posit conference within arms reach of my desk at all times. I find that these cheatsheets offer information that just cannot be found through the traditional R documentation, i.e.,`?function_name`, and I often go to them for their visuals rather than their text.
 
-### **Approach**
+### Approach
 
 Posit makes it extremely easy to mimic the structure of their cheatsheets with their publicly-available [powerpoint template](https://github.com/rstudio/cheatsheets/blob/main/powerpoints/0-template.pptx) on their [GitHub repository](https://github.com/rstudio/cheatsheets), which stores pdf versions of their cheatsheets. I followed the [instructions in their README](https://github.com/rstudio/cheatsheets?tab=readme-ov-file#process) for how to edit their template to create a cheatsheet for [`{FIMS}`](https://noaa-fisheries-integrated-toolbox.r-universe.dev/FIMS). Given that we had already created a [vignette for beginners](https://noaa-fims.github.io/FIMS/articles/fims-demo.html), it was easy to decide the flow of the cheatsheet, which mimics the flow of the vignette.
 
@@ -121,7 +121,7 @@ While designing the cheatsheet I felt like I spent too much time on icons that I
 
 The beauty of this process is that it is not over. We tagged the slide with the version and each time we have a new release of [`{FIMS}`](https://noaa-fisheries-integrated-toolbox.r-universe.dev/FIMS) we can update the slide deck given comments we have received. It will be important to keep asking for feedback though because many have comments but do not actively voice them or even know where to provide them.
 
-### **Next Steps**
+### Next Steps
 
 -   Print it to a pdf and provide the image in the {pkgdown} documentation available on the [documentation for {FIMS}](https://noaa-fims.github.io/FIMS/).
 

@@ -22,15 +22,15 @@ Hello all,
 
 It is a new year, 2026. We are back from the holidays and already feeling the sense of togetherness and not aloneness as we get back to work. We feel this through the shared effort of many groups supporting science, supporting open practices, supporting each other. There are many ways to get this right. We are grateful to be a part of your community and this huge effort supporting science. Openscapes is here, funded, strong and resolved, and providing stability and community for people in their daily work.
 
-We spent 2025 building and iterating with our collaborators. Many of our shared accomplishments are listed in this newsletter’s blog post. We tested systems we have developed, and met the moment by “forking” these systems to respond to changing needs with little turnaround time. As we shared in Julie’s [Greg Leptoukh Lecture Award](https://www.agu.org/honors/leptoukh) “[Forking as a worldview](https://openscapes.org/blog/2026-01-15-agu-leptoukh-award-julie-lowndes/)” talk at the December [2025 AGU Fall Meeting](https://www.agu.org/annual-meeting) – co-authored as our core team – this mindset and practice of “forking” enables us to be responsive and impactful, weathering uncertainty and looking out for each other. For example, “forking” enabled us to support NASA Earthdata users and NOAA Fisheries staff this fall, despite the disruptive government shutdown. We supported them through the [NASA Openscapes Champions](https://openscapes.org/blog/2025-11-27-nasa-champions-2025-summary/) (Nov 13-14) and **earthaccess Hackday on Dec 15** (online and in New Orleans); and leading **3x NOAA Fisheries Champions Cohorts** Nov 18-Jan 21 (online, original dates Oct 7-Dec 11 shifted due to the shutdown).
+We spent 2025 building and iterating with our collaborators. Many of our shared accomplishments are listed in this newsletter’s blog post. We tested systems we have developed, and met the moment by “forking” these systems to respond to changing needs with little turnaround time. As we shared in Julie’s [Greg Leptoukh Lecture Award](https://www.agu.org/honors/leptoukh) “[Forking as a worldview](https://openscapes.org/blog/2026-01-15-agu-leptoukh-award-julie-lowndes/)” talk at the December [2025 AGU Fall Meeting](https://www.agu.org/annual-meeting) – co-authored as our core team – this mindset and practice of “forking” enables us to be responsive and impactful, weathering uncertainty and looking out for each other. For example, “forking” enabled us to support NASA Earthdata users and NOAA Fisheries staff this fall, despite the disruptive government shutdown. We supported them through the [NASA Openscapes Champions](https://openscapes.org/blog/2025-11-27-nasa-champions-2025-summary/) (Nov 13-14) and **earthaccess Hackday on Dec 15** (online and in New Orleans); and leading **3x NOAA Fisheries Champions Cohorts** Nov 18-Jan 21 (online; original dates Oct 7-Dec 11 shifted due to the shutdown).
 
-In 2026 we’re continuing to support our current partners as we expand our collaborations with new partners. We will be leading a **Champions Cohort with the European Space Agency**’s [EarthCODE](https://earthcode.esa.int/) project – our first international cohort! This is also part of the **sustainability and business infrastructure** building in the past year that we shared a bit about in [Julie’s Leptoukh lecture](https://openscapes.org/blog/2026-01-15-agu-leptoukh-award-julie-lowndes/).
+In 2026 we’re continuing to support our current partners as we expand our collaborations with new partners. We will be leading a **Champions Cohort with the European Space Agency**’s [EarthCODE](https://earthcode.esa.int/) project – our first international cohort! This is also part of the **sustainability and business infrastructure** building in the past year that we shared a bit about in Julie’s Leptoukh lecture.
 
 We have upcoming blog posts in the works detailing the items in **bold** above.
 
 As we plan our upcoming events for 2026, we have made the difficult decision to pause our annual [Pathways to Open Science](https://openscapes.github.io/pathways-to-open-science/) and [Reflections](https://openscapes.github.io/booklet/) Programs this year. We appreciate our partners in cultivating the Pathways to Open Science community these past three years! We are also focused on “showing up at other people’s parties” and learning in solidarity with other open communities, as well as leading events with partners. Please check our [events page](https://openscapes.org/events) for upcoming 2026 events, including community calls, cohorts, and conference talks, as they are planned.
 
-When things are hard, we shift to creative and empowerment mode. And we do this together. It can feel overwhelming and not enough at the same time. But we are creating our own certainty where we can, and it matters. Openscapes team member and Liminal founder, Liz Neeley, writes [Meeting the Moment](https://buttondown.com/liminalcreations), a weekly digest to help us keep current—but avoid feeling flooded—by staying focused.
+When things are hard, we shift to create and empower mode. And we do this together. It can feel overwhelming and not enough at the same time. But we are creating our own certainty where we can, and it matters. Openscapes team member and Liminal founder, Liz Neeley, writes [Meeting the Moment](https://buttondown.com/liminalcreations), a weekly digest to help us keep current—but avoid feeling flooded—by staying focused.
 
 We appreciate what you are all doing.
 
@@ -42,7 +42,7 @@ We appreciate what you are all doing.
 
 -   NOAA Fisheries Openscapes Summer Mentors Workshop in July. Building a Culture of Reproducible Science ([post](https://openscapes.org/blog/2025-08-19-nmfs-mentors-workshop/)).
 
--   [Fall 2025 Champions](https://nmfs-openscapes.github.io/champions) under way. Theme: cloud migration and data preservation. New [Zenodo Clinic](https://openscapes.github.io/series/additional-lessons/zenodo-clinic.html) and metadata lesson, thanks to Rachael Blake and Kate Wing, [Intertidal Agency](https://www.intertidalagency.org/). 
+-   [Fall 2025 Champions](https://nmfs-openscapes.github.io/champions) just completed. Theme: cloud migration and data preservation. New [Zenodo Clinic](https://openscapes.github.io/series/additional-lessons/zenodo-clinic.html) and metadata lesson, thanks to Rachael Blake and Kate Wing, [Intertidal Agency](https://www.intertidalagency.org/). 
 
 -   Experts from our extended network have been coming to share their knowledge and cowork with NOAA Fisheries Mentors. Many mutual benefits. 
 
@@ -84,7 +84,7 @@ We appreciate what you are all doing.
 
 ### California Water Boards
 
--   Openscapes advising their mentor community building strategy ([blog](https://openscapes.org/blog/2025-10-24-ca-water-boards-openscapes/)).
+-   Openscapes advising Water Boards' mentor community building strategy ([blog](https://openscapes.org/blog/2025-10-24-ca-water-boards-openscapes/)).
 
 -   Mentors are kicking off [25 scheduled Road Show presentations](https://cawaterboarddatacenter.github.io/swrcb-openscapes/events.html#road-show-presentations) about their Data Equity Handbook and Openscapes opportunities this year!
 

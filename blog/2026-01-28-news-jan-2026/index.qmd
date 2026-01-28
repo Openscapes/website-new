@@ -1,5 +1,5 @@
 ---
-title: "Openscapes Newsletter #12: Winter 2025"
+title: "Openscapes Newsletter #12: Winter 2026"
 author:
   - name: Julie Lowndes
     orcid: 0000-0003-1682-3872

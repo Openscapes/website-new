@@ -48,7 +48,7 @@ date: 2026-02-04
 citation: 
   url: https://openscapes.org/blog/2026-02-04-earthaccess-dec15-hackday/
 categories: [blog, nasa-framework]
-image: eearthaccess-stickerheads_20251215.jpg
+image: earthaccess-stickerheads_20251215.jpg
 ---
 
 *On December 15, 2025 we led a hackday funded by [ESIP](https://www.esipfed.org/) (Earth Science Information Partners), in collaboration with [CNG](https://cloudnativegeo.org/) (Cloud Native Geospatial) and Openscapes. 41 people participated, with 14 in person and 27 joining remotely. 22 co-leads and facilitators from many organizations were critical to its success, including six [NASA DAACs (Earthdata Data Centers)](https://www.earthdata.nasa.gov/centers), [Development Seed](https://developmentseed.org/), [UC Berkeley Center for Data Science & Environment](https://dse.berkeley.edu/), [University of New Hampshire](https://eos.unh.edu/), ESIP, and Openscapes. This blog post is focusing on the people, structure, and mechanics behind the hackday – the reality of how we put this together. This was a HUGE collaborative effort with folks stepping up to help facilitate and lead, with limited time. We are proud of the people we brought together, and what we accomplished. Thank you all facilitators – all are co-authors! We plan to share outcomes from the hackday at the July 2026 ESIP Summer Meeting in Austin Texas.*

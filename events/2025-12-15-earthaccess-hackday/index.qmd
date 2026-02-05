@@ -13,7 +13,7 @@ image: hackday-graphic.png
 *Cross-posted at [openscapes.org/events](https://openscapes.org/events), [nasa-openscapes.github.io/news](https://nasa-openscapes.github.io/news.html)*
 
 ------------------------------------------------------------------------
-This event is completed. Read the summary, "[People, structure, mechanics: How we led the earthaccess December 15 Hackday online and in New Orleans](../blog/2026-02-04-earthaccess-dec15-hackday)".
+This event is completed. Read the summary, "[People, structure, mechanics: How we led the earthaccess December 15 Hackday online and in New Orleans](../../blog/2026-02-04-earthaccess-dec15-hackday)".
 
 Join us for our [earthaccess](https://earthaccess.readthedocs.io/en/stable/) hackday in **New Orleans and online**! This hackday is independent of [AGU2025](https://www.agu.org/annual-meeting) but conveniently co-located for attendees. Registration is free. Please sign up by November 19, end of day in your time zone. We will send confirmations by November 25.
 

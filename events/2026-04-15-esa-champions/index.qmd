@@ -15,15 +15,15 @@ bibliography: references.bib
 
 **This is a professional development and leadership opportunity for European Space Agency (ESA) affiliated researchers and people supporting ESA research** to explore open data science practices and strengthen collaboration and reproducibility. The spring 2026 Champions Cohort will run from **April 15th to June 10th, 2026**, meeting biweekly 14:00 - 15:30 GMT. Please nominate yourself **by March 25, 2026**.
 
-[Openscapes](https://openscapes.org/) is an approach and a movement that helps researchers find each other and feel empowered to conduct data-intensive science [@lowndes2019; @robinson2022]. We mentor researchers to reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative research communities. Openscapes’ approach has been recognized by NASA and other groups.
+[Openscapes](https://openscapes.org/) is an approach and a movement that helps researchers find each other and feel empowered to conduct data-intensive science [@lowndes2019; @robinson2022]. We mentor researchers to reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative research communities. Since 2019, Openscapes has mentored over 600 researchers at universities across the US and at NASA and NOAA.
 
 [Openscapes Champions](https://www.openscapes.org/champions/) is a remote-by-design mentorship program for researchers to explore open data science practices. Participants attend in a cohort together, and by discussing open software tooling and communities enabling reproducible research (e.g. R/Python, GitHub, metadata), you develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in your own research, while contributing to a more inclusive scientific culture.
 
-[ESA EarthCODE](https://earthcode.esa.int/) is part of the ESA’s vision for Earth Observation (EO) Open Science and Innovation. EarthCODE enables scientists to find and reuse research data, use integrated EO platforms to develop scientific workflows, and publish them by automating the “[FAIR](https://www.go-fair.org/fair-principles/?)ification” process - making digital assets more Findable, Accessible, Interoperable, and Reusable. In a first stage, the key EarthCODE stakeholder groups include the activities contributing to the various ESA Science Clusters, and the Earth System Science Hub.
+[ESA EarthCODE](https://earthcode.esa.int/) is part of the ESA’s vision for Earth Observation (EO) Open Science and Innovation. EarthCODE enables scientists to find and reuse research data, use integrated EO platforms to develop scientific workflows, and publish them by automating the “[FAIR](https://www.go-fair.org/fair-principles/?)ification” process - making digital assets more Findable, Accessible, Interoperable, and Reusable. Key EarthCODE stakeholder groups in its first phase include researchers in the Earth System Science Hub, Phi Lab, and ESA Science Clusters.
 
 ## Cohort details
 
-**We will meet as a cohort five times over two months**, on alternating Wednesdays, with additional optional coworking times. 
+**We will meet as a cohort five times over two months**, on alternating Wednesdays, with additional optional coworking times.
 
 -   **Dates**: April 15, 29, May 13, 27, June 10.
 
@@ -31,7 +31,7 @@ bibliography: references.bib
 
 -   **Where**: remotely, via Zoom.
 
--   **Who**: ESA-affiliated researchers (postdoctoral fellows, graduate students, principal investigators, other academic researchers) and people supporting ESA research.
+-   **Who**: ESA-affiliated researchers (postdoctoral fellows, graduate students, principal investigators, other academic researchers) and people supporting ESA research. Preference will be given to Science Hub, Phi Lab, and ESA Cluster researchers if we reach capacity.
 
 -   **Cost**: Free; this opportunity is supported by the ESA EarthCODE Project through a contract to Openscapes.
 

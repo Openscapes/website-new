@@ -121,7 +121,7 @@ Desiree Tommasi (SWFSC), Liz Brooks (NEFSC), and Alex Norelli (SEFSC) are stock 
 Questions, philosophical discussions, and compiled notes led to an MSE Cloud Workflow with recommendations for prep, setup, and run and archive phases, and helped Alex contribute to the Google Cloud Workstation workshop ([documentation](https://github.com/nmfs-opensci/CloudComputingSetup/); with Molly Stevens and Jon Peake. The team shared main issues and their current solutions in their pathway presentation (image below). For example, they learned that Google Cloud Workstations don’t have enough storage or power (cores) for their outputs. They had to divide their pipeline across multiple Workstations in order to do the work. They are having ongoing talks with their local IT staff and the Pilot Workstation team and are hopeful for a future “dream workstation” – that will be valuable for many people at NOAA Fisheries, not just them.
 
 ::: {style="text-align:center;"}
-![Major milestones in testing Google Cloud Workstations for MSE, listed as Issues (left) they identified and their current solutions (right).](MSE-cloud-pathway-milestones-tommasi-brooks-norelli.png){fig-alt="text to describe the image" fig-align="center" width="80%"}
+![Major milestones in testing Google Cloud Workstations for MSE, listed as Issues (left) they identified and their current solutions (right).](MSE-cloud-pathway-milestones-tommasi-brooks-norelli.png){fig-alt="Major milestones. Issue: Learning \"the cloud\" is intimidating and we're busy people, how do you even start using workstations? Solution: Alex walked us through her MSE process and the Openscapes program hosted a hands-on clinic to get people started. Issue: Google Cloud Workstations don't have enough storage for MSE simulation output. Solution: Mounting a Google Cloud Bucket makes the workstation space nearly infinite. Issue: Google Cloud Workstations don't have enough power/cores to increase the speed of a project. Clone workstations and divide the work across many workstations is a current workaround. Issue: Our ideal workstation would be larger than those provided in the pilot program. Solution: Ongoing discussions with IT about the workstation sizes and Google Cloud Buckets." fig-align="center" width="80%"}
 :::
 
 ### Exploring cloud workflows for species distribution modeling
@@ -135,7 +135,7 @@ Josh works on daily forecasts of fishing conditions for target species and bycat
 Christy Kozama (PIFSC) focused her time during Openscapes Champions exploring how her procurement pipeline could be improved. Procurement (also known as how purchasing and buying stuff, say, computers or fishing gear, works within an organization) may not be what comes to mind when we think about data at NOAA Fisheries. But procurement data is indeed a part of the whole picture, and there is a process and many decisions and documentation that go into it. For example, “market research” (image: top, second to the left) comparing prices and vendors – as well as tracking and process and documentation – has the money been sent, has the item been received, does the scientist or original requester now have it? As part of NOAA Cloud migration, NOAA staff are also encouraged to be using AI more. With that in mind, Christy explored what her procurement pipeline could look like using AI-driven tooling (lower half of image below).
 
 ::: {style="text-align:center;"}
-![Procurement for field camp prep and gear purchasing workflows, from a manual and siloed process to a future integrated and automated system.](prep-and-gear-purchasing-workflows-kozama.png){fig-alt="text to describe the image" fig-align="center" width="80%"}
+![Procurement for field camp prep and gear purchasing workflows, from a manual and siloed process to a future integrated and automated system.](prep-and-gear-purchasing-workflows-kozama.png){fig-alt="An AI-generated workflow diagram with current workflow on top and future workflow on bottom" fig-align="center" width="80%"}
 :::
 
 ## Data preservation
@@ -143,7 +143,7 @@ Christy Kozama (PIFSC) focused her time during Openscapes Champions exploring ho
 Making sure data is usable is part of data preservation. Brett Cooper’s (PIFSC) Shiny dashboard is an eye towards making data more accessible to a whole team, while preserving confidentiality. He transformed a manual, opaque catch reporting workflow into a reproducible, transparent dashboard that protects confidentiality while enabling real-time fishery monitoring for the Pacific Islands long-line fishery.
 
 ::: {style="text-align:center;"}
-![Interactive Cumulative Catch Dashboard developed using Shiny.](Cumulative-Catch-Dashboard-brett-cooper.png){fig-alt="text to describe the image" fig-align="center" width="80%"}
+![Interactive Cumulative Catch Dashboard developed using Shiny.](Cumulative-Catch-Dashboard-brett-cooper.png){fig-alt="screenshot of a dashboard titled Cumulative Catch Dashboard showing 4 plots each for a different type of tuna" fig-align="center" width="80%"}
 :::
 
 ## Project management
@@ -161,7 +161,7 @@ Another open project management pathway was presented by the Fisheries Monitorin
 Cameron Speir’s Openscapes participation is part of a larger project in the NMFS Social science community: the Community Social Vulnerability Indicators (CSVI) reproducibility project. CSVI does two things: 1) Classifies communities by engagement and reliance on commercial and recreational fishing and 2) Characterizes social, demographic, and economic well-being of those communities. Cameron shared three progress reports on his Openscapes goals: reproducibility, communications, and data storage. He aims to build awareness so that even people who didn’t need to know about the code can still know about the decisions going into the CSVI indicators.
 
 ::: {style="text-align:center;"}
-![Progress report on communication for Community Social Vulnerability Indicators](Community-Social-Indicators-Pathways-cameron-speir.png){fig-alt="text to describe the image" fig-align="center" width="80%"}
+![Progress report on communication for Community Social Vulnerability Indicators](Community-Social-Indicators-Pathways-cameron-speir.png){fig-align="center" width="80%"}
 :::
 
 Megan Wood and Kait Palmer (PIFSC) collaborated on Makara database transition with an Openscapes mindset. They used GitHub Issues to leave breadcrumbs in a single thread instead of sending an email that would lead to 17 followups buried in emails.

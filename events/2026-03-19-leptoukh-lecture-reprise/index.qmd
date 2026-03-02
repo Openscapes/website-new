@@ -21,8 +21,10 @@ We're lucky that Julie will give her talk again so we can all tune in. It will b
 
 Details with the official AGU citation, her abstract, and slides are [posted](https://openscapes.org/blog/2026-01-15-agu-leptoukh-award-julie-lowndes/).
 
+**Dates**: March 19, 2026\
+**Time**: 1:00 pm Eastern Time; 10:00 am Pacific Time\
+**Where**: remotely, [via Zoom](https://agu.zoom.us/j/99945375572?pwd=sdDH5cy8uvnwy5DaTub1MkJdNjdkI9.1)\
 \
-**When:** Mar 19, 2026 01:00 PM Eastern Time (US and Canada)\
 Join Zoom Meeting: <https://agu.zoom.us/j/99945375572?pwd=sdDH5cy8uvnwy5DaTub1MkJdNjdkI9.1>\
 Meeting ID: 999 4537 5572\
 Passcode: kh#dP562
@@ -32,7 +34,5 @@ One tap mobile\
 +16469313860,,99945375572#,,,,\*86748094# US
 
 ::: {style="text-align:center;"}
-![Aaron Friesz, Amy Steiker, Sudhir Shrestha, Julie Lowndes, Danie Kinkade, Alex Lewandowski, Luis Lopez as Julie receives Leptoukh Award, AGU 2025.](leptoukh-receiving-award.jpg){fig-alt="6 women and men smiling, wearing conference lanyards, standing in front of a large screen projecting a headshot of Julie Lowndes and her talk title Forking as a worldview: How Openscapes uses the open source concept of copy-modify to support researchers & shift culture in science" fig-align="center" width="70%"}
+![Aaron Friesz, Amy Steiker, Sudhir Shrestha, Julie Lowndes, Danie Kinkade, Alex Lewandowski, Luis Lopez as Julie receives Leptoukh Award, AGU 2025.](leptoukh-receiving-award.jpg){fig-alt="6 women and men smiling, wearing conference lanyards, standing in front of a large screen projecting a headshot of Julie Lowndes and her talk title Forking as a worldview: How Openscapes uses the open source concept of copy-modify to support researchers & shift culture in science" fig-align="center" width="50%"}
 :::
-
-![](logos-esa-openscapes.png){width="80%"}

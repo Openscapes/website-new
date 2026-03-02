@@ -1,0 +1,38 @@
+---
+title: "Julie Lowndes' Greg Leptoukh Lecture Reprise"
+description: "Forking as a Worldview: How Openscapes uses the open source concept of copy-modify to support researchers & shift culture in science"
+author:
+  - name: Openscapes
+date: 2026-03-19
+categories:
+  - event 
+  - nasa-framework
+  - noaa-fisheries
+image: leptoukh-receiving-award.jpg
+---
+
+*Cross-posted at* [openscapes.org/events](https://openscapes.org/blog)*, [nmfs-openscapes.github.io/blog](https://nmfs-openscapes.github.io/blog)*, [*nasa-openscapes.github.io/news*](https://nasa-openscapes.github.io/news.html).
+
+------------------------------------------------------------------------
+
+At the AGU 2025 Fall Meeting Julie Lowndes, Openscapes founding director, received the [AGU Greg Leptoukh Lecture Award](https://www.agu.org/honors/leptoukh). This award celebrates the life of an inspiring Earth scientist in our community and recognizes significant contributions to informatics, computational, or data sciences through research, education, and related activities.
+
+We're lucky that Julie will give her talk again so we can all tune in. It will be recorded.
+
+Details with the official AGU citation, her abstract, and slides are [posted](https://openscapes.org/blog/2026-01-15-agu-leptoukh-award-julie-lowndes/).
+
+\
+**When:** Mar 19, 2026 01:00 PM Eastern Time (US and Canada)\
+Join Zoom Meeting: <https://agu.zoom.us/j/99945375572?pwd=sdDH5cy8uvnwy5DaTub1MkJdNjdkI9.1>\
+Meeting ID: 999 4537 5572\
+Passcode: kh#dP562
+
+One tap mobile\
++16465588656,,99945375572#,,,,\*86748094# US (New York)\
++16469313860,,99945375572#,,,,\*86748094# US
+
+::: {style="text-align:center;"}
+![Aaron Friesz, Amy Steiker, Sudhir Shrestha, Julie Lowndes, Danie Kinkade, Alex Lewandowski, Luis Lopez as Julie receives Leptoukh Award, AGU 2025.](leptoukh-receiving-award.jpg){fig-alt="6 women and men smiling, wearing conference lanyards, standing in front of a large screen projecting a headshot of Julie Lowndes and her talk title Forking as a worldview: How Openscapes uses the open source concept of copy-modify to support researchers & shift culture in science" fig-align="center" width="70%"}
+:::
+
+![](logos-esa-openscapes.png){width="80%"}

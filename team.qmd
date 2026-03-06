@@ -90,6 +90,22 @@ Openscapes is an open source community with distributed leadership & collaborati
 
 <br>
 
+<!---------------- START Ronny Hernandez Mora ---------------->
+::: {.center-text}
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<img width="80%" src="images/headshots/ronny_round.png">
+:::
+::: {.g-col-12 .g-col-md-9}
+<br>
+[**Ronny Hernández Mora**](https://ronnyale.com/) is a core Openscapes team member supporting NASA suborbital science teams. He works at the intersection of Earth data, open and reproducible workflows. Ronny has spent the past eight years teaching researchers and professionals in academia and industry how to adopt collaborative, open, and maintainable workflows in real-world contexts. Email: ronny at openscapes.org
+:::
+:::
+:::
+<!---------------- END Ronny Hernandez Mora ---------------->
+
+<br>
+
 <!---------------- START L. Neeley 
 ::: {.center-text}
 ::: {.grid}

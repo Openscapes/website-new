@@ -108,6 +108,15 @@ Openscapes is an open source community with distributed leadership & collaborati
 ::: {.column-screen}
 ::: {.white-div}
 
+<!--- 
+
+[Melanie Burgess](https://www.burgessconsulting-llc.com/about) is a core Openscapes team member and co-leads our strategy and business architecture. From navigating federal compliance to overseeing risk management and financial health, she excels at making dense regulatory language and accounting understandable and useful. Melanie partners with leadership and external organizations to streamline processes and equip teams with the mindsets and tools to thrive.  
+
+[Stephanie Amend](https://www.linkedin.com/in/stephanie-amend-3507317/) is part of the Openscapes Core Team and co-leads our strategy and business architecture. Her experience lies in government contracts and grants management, business system compliance, and business administration. Her focus is supporting founders in facilitating strategy and business operations, assessing and optimizing contracts, crafting proposals, managing intellectual property strategy, and leading compliance.
+--->
+
+
+
 ## Mentors
 
 **Mentors work daily to support their colleagues with open science as part of their jobs in their organizations and beyond.**

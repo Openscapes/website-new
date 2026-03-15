@@ -123,12 +123,12 @@ Openscapes is an open source community with distributed leadership & collaborati
 <!---------------- START M Burgess ---------------->
 ::: {.center-text}
 ::: {.grid}
-::: {.g-col-12 .g-col-md-3}
-<img width="80%" src="images/headshots/burgess_round.png">
-:::
 ::: {.g-col-12 .g-col-md-9}
 <br>
-[**Melanie Burgess**](https://www.burgessconsulting-llc.com/about) is a core Openscapes team member and co-leads our strategy and business architecture. From navigating federal compliance to overseeing risk management and financial health, she excels at making dense regulatory language and accounting understandable and useful. Melanie partners with leadership and external organizations to streamline processes and equip teams with the mindsets and tools to thrive. 
+[**Melanie Burgess**](https://www.burgessconsulting-llc.com/about) is a core Openscapes team member and co-leads our strategy and business architecture. From navigating federal compliance to overseeing risk management and financial health, she excels at making dense regulatory language and accounting understandable and useful. Melanie partners with leadership and external organizations to streamline processes and equip teams with the mindsets and tools to thrive.
+:::
+::: {.g-col-12 .g-col-md-3}
+<img width="80%" src="images/headshots/burgess_round.png"> 
 :::
 :::
 :::
@@ -139,12 +139,12 @@ Openscapes is an open source community with distributed leadership & collaborati
 <!---------------- START S. Amend ---------------->
 ::: {.center-text}
 ::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<img width="80%" src="images/headshots/amend_round.png">
+:::
 ::: {.g-col-12 .g-col-md-9}
 <br>
 [**Stephanie Amend**](https://www.linkedin.com/in/stephanie-amend-3507317/) is part of the Openscapes Core Team and co-leads our strategy and business architecture. Her experience lies in government contracts and grants management, business system compliance, and business administration. Her focus is supporting founders in facilitating strategy and business operations, assessing and optimizing contracts, crafting proposals, managing intellectual property strategy, and leading compliance. 
-:::
-::: {.g-col-12 .g-col-md-3}
-<img width="80%" src="images/headshots/amend_round.png">
 :::
 :::
 :::

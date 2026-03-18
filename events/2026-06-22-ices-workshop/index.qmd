@@ -1,6 +1,6 @@
 ---
-title: "Reimagining complex data-intensive reports"
-description: "A training course for ICES: International Council for the Exploration of the Sea"
+title: "Training opportunity: Reimagining complex data-intensive reports"
+description: "A 5-day course for ICES, the International Council for the Exploration of the Sea"
 author:
   - name: Openscapes
 date: 2026-06-22

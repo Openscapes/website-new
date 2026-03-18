@@ -1,0 +1,41 @@
+---
+title: "Training opportunity: Reimagining complex data-intensive reports"
+description: "A 5-day course for ICES, the International Council for the Exploration of the Sea"
+author:
+  - name: Openscapes
+date: 2026-06-22
+categories:
+  - event 
+  - workshop
+image: ices-logo.png
+---
+
+*Cross-posted at [openscapes.org/events](https://openscapes.org/events), [nmfs-openscapes.github.io/blog](https://nmfs-openscapes.github.io/blog)*.
+
+------------------------------------------------------------------------
+
+Welcome! This is a training opportunity for fisheries scientists as part of the prestigious ICES Summer Training Courses. [ICES](https://www.ices.dk/) (International Council for the Exploration of the Sea) is the world's oldest intergovernmental science organization focused on marine science and is well-known for facilitating upskilling and collaboration among fisheries colleagues[^1].
+
+[^1]: <https://en.wikipedia.org/wiki/International_Council_for_the_Exploration_of_the_Sea>
+
+**When**: June 22 - 26, 2026
+
+**Where**: in-person, Copenhagen, Denmark
+
+**Details and registration**: ICES Training Courses - [Reimagining complex data-intensive reports](https://www.ices.dk/events/Training/Pages/reimagining_complex_data-intensive_reports.aspx)
+
+**Application deadline:** 27 April 2026
+
+There is a cost for members and non-members to participate.
+
+## About the Workshop
+
+​​​This 5-day in-person workshop is designed to help diverse teams - that have a variety of roles and skills, transition to collaborative and reproducible workflows for their data-driven reports. This workshop blends the [Openscapes Champions Program](https://openscapes.org/) with the [NOAA Fisheries RVerse](https://rverse-tutorials.github.io/) hands-on skill-building clinics. During the workshop, participants will learn and use Quarto (next-gen R Markdown, now for R, Python or Julia) and GitHub to develop a reproducible report tailored to the participant’s own goals. NOAA Fisheries has led the way developing reproducible data-intensive reports using R + Quarto + GitHub, including developing features that will be in the newest release of Quarto. This course will teach you how to do this!
+
+The goal of this workshop is to help teams move away from “*data_report_v24_final_FINAL.doc*” and long email chains, “*Re: Re: FWD: data question*”, and reduce the loneliness, lost-time, brittleness, and frustration that comes from silo-ed and manual workflows that are inefficient and error-prone and that are not robust to staff turn-over.
+
+Please see the [workshop website](https://www.ices.dk/events/Training/Pages/reimagining_complex_data-intensive_reports.aspx) for more details on the target audience and what to expect.
+
+## Instructors
+
+[Eli Holmes](https://www.fisheries.noaa.gov/contact/eli-holmes-phd) (NOAA Fisheries Open Science), [Julie Lowndes](https://openscapes.org/team#openscapes-core-team) (Openscapes), and [Gavin Fay](https://gavinfay.github.io/) (University of Massachusetts, Dartmouth) will co-teach this workshop. They have been working together in their own organizations to support fisheries scientists to collaborate around data-intensive workflows. This team has a long history of working and teaching together, including co-leading a panel and unconference [Onboarding fisheries scientists to Open Science to participate in integrating collaborative and inclusive principles into education, workforce development, and community management](https://docs.google.com/presentation/d/1SY1KByKxSehOu4TCy_DbmxRkFtT404Sp_9fO_qlA_O4/edit?usp=sharing), along with Christine Stawitz (then at NOAA Fisheries Office of Science & Technolgy).

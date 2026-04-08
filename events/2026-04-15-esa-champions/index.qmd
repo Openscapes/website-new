@@ -13,9 +13,9 @@ bibliography: references.bib
 
 ## Join us to do better science in less time, together
 
-**This is a professional development and leadership opportunity for European Space Agency (ESA) affiliated researchers and people supporting ESA research** to explore open data science practices and make incremental and sustainable change, no matter where you are starting from. The spring 2026 Champions Cohort will run from **April 15th to June 10th, 2026**, meeting biweekly 14:00 - 15:30 GMT. Please nominate yourself **by March 25, 2026**.
+**This is a professional development and leadership opportunity for European Space Agency (ESA) affiliated researchers and people supporting ESA research** to explore open data science practices and make incremental and sustainable change, no matter where you are starting from. The spring 2026 Champions Cohort will run from **April 15th to June 10th, 2026**, meeting biweekly 14:00 - 15:30 BST. Applications are now closed. <!---Please nominate yourself **by March 25, 2026**.
 
-Jump to [how to apply](#sec-how-to-apply), below.
+Jump to [how to apply](#sec-how-to-apply), below.--->
 
 [Openscapes](https://openscapes.org/) is an approach and a movement that helps researchers find each other and feel empowered to conduct data-intensive science [@lowndes2019; @robinson2022]. Since 2019, Openscapes has mentored over 600 researchers at universities across the US and at NASA and NOAA, helping to shift institutional culture to develop climate solutions with open science [@lowndes2024].
 
@@ -29,7 +29,7 @@ Jump to [how to apply](#sec-how-to-apply), below.
 
 -   **Dates**: April 15, 29, May 13, 27, June 10.
 
--   **Times**: 14:00 - 15:30 GMT.
+-   **Times**: 14:00 - 15:30 BST.
 
 -   **Where**: remotely, via Zoom.
 
@@ -41,11 +41,11 @@ Jump to [how to apply](#sec-how-to-apply), below.
 
 For more information about the Openscapes and our Champions Program, see “Openscapes as a mechanism for Crossing the Chasm between idea and adoption in science” ([slides](https://docs.google.com/presentation/d/1B3dSYr0eptGgDL_V6EZchU_BrJ-uS3v2K-miDkbhSqc/)) and [What to Expect](https://openscapes.github.io/series/what-to-expect). For stories from over 25 past Openscapes Champions Cohorts from NASA Earthdata, NOAA Fisheries, other government agencies and academic groups, please browse these [blog posts](https://openscapes.org/blog#category=champions).
 
-## How to apply {#sec-how-to-apply}
+<!--- ## How to apply {#sec-how-to-apply}
 
 To nominate yourself, please **fill out the [nomination form](https://forms.gle/tE4GompYeJWN5Duu6) by March 25**. Open science is collaborative! We encourage you to sign up with a colleague or two – it is more fun to participate together and you have more accountability. You don’t need to be working on the same project, only an interest in improving workflows.
 
-Questions? Contact hello \@ openscapes.org.
+Questions? Contact hello \@ openscapes.org.--->
 
 This opportunity is funded by the [European Space Agency EarthCODE](https://earthcode.esa.int/).
 

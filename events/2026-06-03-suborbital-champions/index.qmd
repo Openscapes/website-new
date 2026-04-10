@@ -7,7 +7,7 @@ date: 2026-06-03
 categories:
   - event 
   - champions
-image: logos-esa-openscapes.png
+image: nasa-openscapes.png
 bibliography: references.bib
 ---
 
@@ -22,6 +22,8 @@ a Cohort via Zoom four times over one month.
 <!---The 2026 Champions Cohort will
 run from **April 15th to June 10th, 2026**, meeting biweekly 14:00 - 15:30 GMT.
 Please nominate yourself **by March 25, 2026**.--->
+
+**Applications will open in May 2026.**
 
 <!---Jump to [how to apply](#sec-how-to-apply), below.--->
 
@@ -64,9 +66,10 @@ The 2026 NASA Suborbital Openscapes Champions Cohort will run in June 2026. We
 will meet as a Cohort via Zoom four times over one month for 1.5 hours, on
 alternating Wednesdays or Thursdays. We propose the following three options:
 
- - Option 1) Thursdays at 12-1:30 pm PT  Dates: June 4, 11, 18, 25
- - Option 2) Wednesdays at 10-11:30 am PT  Dates: June 3, 10, 17, 24
- - Option 3) Thursdays at 10-11:30 am PT  Dates: June 4, 11, 18, 25
+ - **When**:
+   - Option 1) Thursdays at 12-1:30 pm PT  Dates: June 4, 11, 18, 25
+   - Option 2) Wednesdays at 10-11:30 am PT  Dates: June 3, 10, 17, 24
+   - Option 3) Thursdays at 10-11:30 am PT  Dates: June 4, 11, 18, 25
 
 <!--- on alternating Wednesdays in April - June, 2026.
 
@@ -76,20 +79,31 @@ alternating Wednesdays or Thursdays. We propose the following three options:
 
 -   **Where**: remotely, via Zoom. --->
 
--   **Who**: ESA-affiliated researchers (postdoctoral fellows, graduate students, principal investigators, other academic researchers) and people supporting ESA research. Preference will be given to Science Hub, Phi Lab, and ESA Cluster researchers if we reach capacity.
+-   **Who**: EVS-4 and SoAR teams.
 
--   **Cost**: Free; this opportunity is supported by the ESA EarthCODE Project through a contract to Openscapes.
+-   **Cost**: Free. This opportunity is supported by NASA through a contract to Openscapes.
 
--   **Expected time commitment**: 6hrs/month for 2 months is an expected time commitment. This accounts for 3 hours/month of synchronous Zoom calls, optional coworking times, and collaborating with your peers to strengthen shared workflows.
+-   **Expected time commitment**: 2.5hrs/week for 1 month is an expected time 
+    commitment. This accounts for 1.5 hours/week of synchronous Zoom calls, and
+    collaborating with your peers to strengthen shared workflows.
 
-For more information about the Openscapes and our Champions Program, see “Openscapes as a mechanism for Crossing the Chasm between idea and adoption in science” ([slides](https://docs.google.com/presentation/d/1B3dSYr0eptGgDL_V6EZchU_BrJ-uS3v2K-miDkbhSqc/)) and [What to Expect](https://openscapes.github.io/series/what-to-expect). For stories from over 25 past Openscapes Champions Cohorts from NASA Earthdata, NOAA Fisheries, other government agencies and academic groups, please browse these [blog posts](https://openscapes.org/blog#category=champions).
+For more information about the Openscapes and our Champions Program, see
+“Openscapes as a mechanism for Crossing the Chasm between idea and adoption in
+science”
+([slides](https://docs.google.com/presentation/d/1B3dSYr0eptGgDL_V6EZchU_BrJ-uS3v2K-miDkbhSqc/))
+and [What to Expect](https://openscapes.github.io/series/what-to-expect). For
+stories from over 25 past Openscapes Champions Cohorts from NASA Earthdata, NOAA
+Fisheries, other government agencies and academic groups, please browse these
+[blog posts](https://openscapes.org/blog#category=champions).
 
-## How to apply {#sec-how-to-apply}
+<!--- ## How to apply {#sec-how-to-apply} --->
 
-To nominate yourself, please **fill out the [nomination form](https://forms.gle/tE4GompYeJWN5Duu6) by March 25**. Open science is collaborative! We encourage you to sign up with a colleague or two – it is more fun to participate together and you have more accountability. You don’t need to be working on the same project, only an interest in improving workflows.
+<!--- To nominate yourself, please **fill out the [nomination
+form](https://forms.gle/tE4GompYeJWN5Duu6) by March 25**. Open science is
+collaborative! We encourage you to sign up with a colleague or two – it is more
+fun to participate together and you have more accountability. You don’t need to
+be working on the same project, only an interest in improving workflows. --->
 
 Questions? Contact hello \@ openscapes.org.
 
-This opportunity is funded by the [European Space Agency EarthCODE](https://earthcode.esa.int/).
-
-![](logos-esa-openscapes.png){fig-alt="logo of ESA on left with Openscapes logo on right" width="40%"}
+![](nasa-openscapes.png){fig-alt="logo of NASA on left with Openscapes logo on right" width="40%"}

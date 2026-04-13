@@ -13,7 +13,7 @@ bibliography: references.bib
 
 ## Join us to do better science in less time, together
 
-**This is a professional development and leadership opportunity for NASA
+**This is a professional development and leadership opportunity for
 suborbital affiliated researchers and people supporting NASA suborbital
 research** to explore open data science practices and make incremental and
 sustainable change, no matter where you are starting from. The 2026 NASA

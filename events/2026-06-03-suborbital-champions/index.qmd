@@ -48,7 +48,7 @@ teams](https://openscapes.org/blog/2026-03-03-suborbital/)
 
 Through the Champions Program, EVS-4 and SoAR teams will develop common skills
 for documenting workflows with NASA suborbital data (Documentation, Open Science
-Data Management Plans, GitHub, “forking as a worldview” mindset). Working
+Data Management Plans, GitHub, “Forking as a Worldview” mindset). Working
 together in the cohort will help to lower barriers for a better workflow
 documentation by developing shared skills and strengthened relationships.
 

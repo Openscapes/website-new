@@ -15,7 +15,7 @@ bibliography: references.bib
 
 **This is a professional development and leadership opportunity for
 people doing and supporting research using NASA Earthdata collected from suborbital instruments**
-research** to explore open data science practices and make incremental and
+to explore open data science practices and make incremental and
 sustainable change, no matter where you are starting from. The 2026 NASA
 Suborbital Openscapes Champions Cohort will run in June 2026. We will meet as
 a Cohort via Zoom four times over one month.

@@ -58,7 +58,7 @@ documentation by developing shared skills and strengthened relationships.
 remote-by-design mentorship program for researchers to explore open data science
 practices. [Core lessons
 include](https://openscapes.github.io/series/what-to-expect.html#cohort-calls)
-open mindset, Open Science Data Management Plans, GitHub for publishing and
+open mindset, GitHub for publishing and
 project management, documentation strategies, team culture, and metadata
 strategies.
 

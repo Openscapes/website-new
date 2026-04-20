@@ -59,7 +59,7 @@ remote-by-design mentorship program for researchers to explore open data science
 practices. [Core lessons
 include](https://openscapes.github.io/series/what-to-expect.html#cohort-calls)
 open mindset, GitHub for publishing and
-project management, documentation strategies, team culture, and metadata
+project management, coding and data strategies, and team culture.
 strategies.
 
 The 2026 NASA Suborbital Openscapes Champions Cohort will run in June 2026. We

@@ -1,5 +1,5 @@
 ---
-title: "NASA Suborbital Champions Program 2026"
+title: "NASA Openscapes Champions Program, Spring 2026"
 description: "An Openscapes Cohort to learn open science approaches for your daily workflows"
 author:
   - name: Openscapes and NASA

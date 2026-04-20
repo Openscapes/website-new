@@ -30,7 +30,7 @@ researchers at universities across the US and at NASA and NOAA, helping to shift
 institutional culture to develop climate solutions with open science
 [@lowndes2024].
 
-NASA Earthdata has volumes of remote sensing data collected by platforms in
+[NASA Earthdata](https://www.earthdata.nasa.gov/) has volumes of remote sensing data collected by platforms in
 space, air, water, and land. Substantial suborbital data is collected from
 airborne sampling via airplanes, ground networks, and field sampling on land,
 boats, and buoys. Suborbital science teams are teams that create and use

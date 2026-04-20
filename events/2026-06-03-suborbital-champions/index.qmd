@@ -1,6 +1,6 @@
 ---
 title: "NASA Openscapes Champions Program, Spring 2026"
-description: "An Openscapes Cohort to learn open science approaches for your daily workflows"
+description: "An Openscapes Cohort to learn open science approaches for your daily workflows with NASA airborne and other suborbital data"
 author:
   - name: Openscapes and NASA
 date: 2026-06-03

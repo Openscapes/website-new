@@ -52,7 +52,6 @@ focus on documentation strategies for suborbital data.
 
 The 2026 NASA Suborbital Openscapes Champions Cohort will run in June 2026. We
 will meet as a Cohort via Zoom four times over one month for 1.5 hours, on
-alternating Wednesdays or Thursdays. We propose the following three options:
 
  - **Dates**: June 3, 10, 17, 24.
 - **Times**: 10:00 - 11:30 am Pacific Time

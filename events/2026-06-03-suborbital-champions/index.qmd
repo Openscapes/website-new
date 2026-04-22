@@ -3,7 +3,7 @@ title: "NASA Openscapes Champions Program, Spring 2026"
 description: "An Openscapes Cohort to learn open science approaches for your daily workflows  with NASA airborne and other suborbital data"
 author:
   - name: Openscapes and NASA
-date: 2026-06-03
+date: 2026-04-20
 categories:
   - event 
   - champions
@@ -13,19 +13,15 @@ bibliography: references.bib
 
 ## Join us to do better science in less time, together
 
-**This is a professional development and leadership opportunity for
-people doing and supporting research using NASA Earthdata collected from suborbital sampling**
-to explore open data science practices and make incremental and
+**This is a professional development and leadership opportunity for people doing
+and supporting research using NASA Earthdata collected from suborbital
+sampling** to explore open data science practices and make incremental and
 sustainable change, no matter where you are starting from. The 2026 NASA
-Suborbital Openscapes Champions Cohort will run in June 2026. We will meet as
-a Cohort via Zoom four times over one month.
-<!---The 2026 Champions Cohort will
-run from **April 15th to June 10th, 2026**, meeting biweekly 14:00 - 15:30 GMT.
-Please nominate yourself **by March 25, 2026**.--->
+Suborbital Openscapes Champions Cohort will run in June 2026. We will meet as a
+Cohort via Zoom four times over one month.
 
-**Applications will open (linked here) April 22, 2026.**
 
-<!---Jump to [how to apply](#sec-how-to-apply), below.--->
+**Applications are open! Jump to [how to apply](#sec-how-to-apply), below.**
 
 [Openscapes](https://openscapes.org/) is an approach and a movement that helps
 researchers find each other and feel empowered to conduct data-intensive science
@@ -34,23 +30,15 @@ researchers at universities across the US and at NASA and NOAA, helping to shift
 institutional culture to develop climate solutions with open science
 [@lowndes2024].
 
-NASA Earthdata has volumes of remote sensing data collected by platforms in
+[NASA Earthdata](https://www.earthdata.nasa.gov/) has volumes of remote sensing data collected by platforms in
 space, air, water, and land. Substantial suborbital data is collected from
 airborne sampling via airplanes, ground networks, and field sampling on land,
-boats, and buoys.
-
-Suborbital science teams are teams that create and use suborbital data via NASA
-programs like EVS-4. The science teams use suborbital data to ground-truth
-satellite data, as well as to conduct other awesome research like studying
-Arctic coastlines via the FORTE mission and glaciers and ice sheets via the
-Snow4Flow mission. [Read about how Openscapes supports NASA suborbital science
-teams](https://openscapes.org/blog/2026-03-03-suborbital/)
-
-Through the Champions Program, EVS-4 and SoAR teams will develop common skills
-for documenting workflows with NASA suborbital data (Documentation, Open Science
-Data Management Plans, GitHub, “Forking as a Worldview” mindset). Working
-together in the cohort will help to lower barriers for a better workflow
-documentation by developing shared skills and strengthened relationships.
+boats, and buoys. Suborbital science teams are teams that create and use
+suborbital data via NASA programs like EVS-4. The science teams use suborbital
+data to ground-truth satellite data, as well as to conduct other awesome
+research like studying Arctic coastlines via the FORTE mission and glaciers and
+ice sheets via the Snow4Flow mission. [Read about how Openscapes supports NASA
+suborbital science teams](https://openscapes.org/blog/2026-03-03-suborbital/).
 
 ## Program details
 
@@ -58,32 +46,29 @@ documentation by developing shared skills and strengthened relationships.
 remote-by-design mentorship program for researchers to explore open data science
 practices. [Core lessons
 include](https://openscapes.github.io/series/what-to-expect.html#cohort-calls)
-open mindset, GitHub for publishing and
-project management, coding and data strategies, and team culture.
-To support EVS-4 teams, this cohort will also focus on documentation strategies for suborbital data.
+open mindset, GitHub for publishing and project management, coding and data
+strategies, and team culture. To support EVS-4 teams, this cohort will also
+focus on documentation strategies for suborbital data.
 
 The 2026 NASA Suborbital Openscapes Champions Cohort will run in June 2026. We
-will meet as a Cohort via Zoom four times over one month for 1.5 hours, on
-alternating Wednesdays or Thursdays. We propose the following three options:
+will meet as a Cohort via Zoom four times over one month for 1.5 hours.
 
- - **When**:
-   - Wednesdays at 10-11:30 am PT  Dates: June 3, 10, 17, 24
+ - **Dates**: Wednesdays, June 3, 10, 17, 24.
+- **Times**: 10:00 - 11:30 am Pacific Time
 
-<!--- on alternating Wednesdays in April - June, 2026.
+  -  **Where**: remotely, via Zoom. 
 
--   **Dates**: April 15, 29, May 13, 27, June 10.
+  - **Who**: Researchers (postdoctoral fellows, graduate students, principal
+  investigators, other academic researchers) and people supporting research with
+  NASA airborne and suborbital data. Preference will be given to EVS-4 and SoAR
+  teams if we reach capacity. 
 
--   **Times**: 14:00 - 15:30 GMT.
+  - **Cost**: Free. This opportunity is supported by NASA through a contract to
+  Openscapes.
 
--   **Where**: remotely, via Zoom. --->
-
--   **Who**: Researchers (postdoctoral fellows, graduate students, principal investigators, other academic researchers) and people supporting research with NASA airborne and suborbital data. Preference will be given to EVS-4 and SoAR teams if we reach capacity. 
-
--   **Cost**: Free. This opportunity is supported by NASA through a contract to Openscapes.
-
--   **Expected time commitment**: 2.5hrs/week for 1 month is an expected time 
-    commitment. This accounts for 1.5 hours/week of synchronous Zoom calls, and
-    collaborating with your peers to strengthen shared workflows.
+  - **Expected time commitment**: 2.5hrs/week for 1 month is an expected time
+  commitment. This accounts for 1.5 hours/week of synchronous Zoom calls, plus
+  self-organized time 
 
 For more information about the Openscapes and our Champions Program, see
 “Openscapes as a mechanism for Crossing the Chasm between idea and adoption in
@@ -94,13 +79,13 @@ stories from over 25 past Openscapes Champions Cohorts from NASA Earthdata, NOAA
 Fisheries, other government agencies and academic groups, please browse these
 [blog posts](https://openscapes.org/blog#category=champions).
 
-<!--- ## How to apply {#sec-how-to-apply} --->
+## How to apply {#sec-how-to-apply}
 
-<!--- To nominate yourself, please **fill out the [nomination
-form](https://forms.gle/tE4GompYeJWN5Duu6) by March 25**. Open science is
+To nominate yourself, please **fill out the [nomination
+form](https://forms.gle/oQv7Pd1pxbFJ8iLy9) by May 24**. Open science is
 collaborative! We encourage you to sign up with a colleague or two – it is more
 fun to participate together and you have more accountability. You don’t need to
-be working on the same project, only an interest in improving workflows. --->
+be working on the same project, only an interest in improving workflows.
 
 Questions? Contact hello \@ openscapes.org.
 

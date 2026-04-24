@@ -1,0 +1,32 @@
+---
+title: "Monday Hackday at ESIP Summer Meeting: 'Making Things easier for scientists'"
+description: "Please save the date! Plan to arrive in Austin for Monday afternoon."
+author:
+  - name: Openscapes
+  - name: NASA Openscapes Mentors
+#    url: {}
+date: "2026-07-27"
+categories: [event, nasa-framework]
+image: 
+---
+
+*Cross-posted at [openscapes.org/events](https://openscapes.org/events), [nasa-openscapes.github.io/news](https://nasa-openscapes.github.io/news.html)*
+
+------------------------------------------------------------------------
+## Please save the date! Plan to arrive in Austin for Monday afternoon
+
+Please save the date! Plan to arrive in Austin for Monday afternoon. "Hackday" to our NASA Openscapes and earthaccess communities means we will be collaboratively problem-solving and strategizing, and translating ideas into action, which includes decisions, code, and documentation.
+
+**Purpose:** to gather anyone interested who's going to ESIP, and hack on "making things easier for scientists": STAC, virtulizarr, earthaccess (What would a single query look like for differnt agencies i.e. lemon and oranges), point-collocation between data sets...
+**Outcomes:** to connect interested folks and strengthen the community, to move forward on decisions and ideas
+**Process:** light agenda, building from recent events like [earthaccess December 15 Hackday online and in New Orleans](https://openscapes.org/events/2025-12-15-earthaccess-hackday/). Below are the starting details, please check back for more details as we get closer! We will have a way to contribute ideas ahead of the event, likely as a Google Doc or GitHub repo. 
+
+- **Date**: Monday, July 27, 2026 
+- **Times**: 1-6pm local Austin time (Central Time)
+-  **Where**: in person at the ESIP meeting hotel (<https://2026julyesipmeeting.sched.com>)
+- **Who**: Folks interested in working together across the ESIP community and contributing to "making things easier for scientists" from policy, social and technical perspectives
+- **Cost**: Free. The space is generously provided by ESIP and coordinated by the Openscapes community.
+
+
+![](TODO){fig-alt="left to right: purple background with white text reading Openscapes earthaccess Hackday with dates, times, and logos of CNG, earthaccess, Openscapes, and ESIP" fig-align="center" width="319"}
+

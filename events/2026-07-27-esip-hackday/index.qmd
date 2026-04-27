@@ -1,0 +1,33 @@
+---
+title: "Monday Hackday at ESIP Summer Meeting. Theme: 'Making Things Easier for Scientists'"
+description: "Please save the date! Plan to arrive in Austin for Monday afternoon."
+author:
+  - name: Openscapes
+  - name: NASA Openscapes Mentors
+#    url: {}
+date: "2026-07-27"
+categories: [event, nasa-framework]
+image: earthaccess-hackday-action-shot.jpg
+---
+
+*Cross-posted at [openscapes.org/events](https://openscapes.org/events), [nasa-openscapes.github.io/news](https://nasa-openscapes.github.io/news.html), [nmfs-openscapes.github.io/blog](https://nmfs-openscapes.github.io/blog)*
+
+------------------------------------------------------------------------
+
+## Please save the date!
+
+Monday, July 27th, the day before the [ESIP meeting](https://2026julyesipmeeting.sched.com) starts, we'll host a hackday. Plan to arrive in Austin to join us Monday afternoon. "Hackday" to our [NASA Openscapes](https://nasa-openscapes.github.io/) and [earthaccess](https://earthaccess.readthedocs.io/en/stable/) communities means we will be collaboratively problem-solving and strategizing, and translating ideas into action. This includes decisions, code, and documentation.
+
+**Purpose:** to gather anyone interested who's going to ESIP, and hack on "making things easier for scientists": [STAC](https://stacspec.org/), [virtualizarr](https://virtualizarr.readthedocs.io/en/stable/), [earthaccess](https://earthaccess.readthedocs.io/en/stable/) (What would a single query look like for different agencies i.e. lemons and oranges), point-collocation ([python library](https://fish-pace.github.io/point-collocation/); [video](https://youtu.be/o9bLQ8Vn69w)) between data sets, ... your choice!
+
+**Outcomes:** to connect interested folks and strengthen the community, to move forward on decisions and ideas.
+
+**Process:** to have a light and purposeful plan, influenced from recent events like [earthaccess hackday](https://openscapes.org/events/2025-12-15-earthaccess-hackday/). Below are the starting details, please check back for more details as we get closer! We will have a way to contribute ideas ahead of the event, likely as a Google Doc or GitHub repo.
+
+-   **Date**: Monday, July 27, 2026
+-   **Time**: 1-6pm local Austin time (Central Time)
+-   **Where**: In person at the ESIP meeting hotel (<https://2026julyesipmeeting.sched.com>)
+-   **Who**: Folks interested in working together across the ESIP community and contributing to "making things easier for scientists" from policy, social and technical perspectives.
+-   **Cost**: Free. The space is generously provided by ESIP and coordinated by the Openscapes community.
+
+![](earthaccess-hackday-action-shot.jpg){fig-alt="5 people seated around a rectangular table with laptops open looking a a person standing pointing to a whiteboard" fig-align="center" width="70%"}

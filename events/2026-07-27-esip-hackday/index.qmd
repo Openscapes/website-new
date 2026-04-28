@@ -18,7 +18,7 @@ image: earthaccess-hackday-action-shot.jpg
 
 Monday, July 27th, the day before the [ESIP meeting](https://2026julyesipmeeting.sched.com) starts, we'll host a hackday. Plan to arrive in Austin to join us Monday afternoon. "Hackday" to our [NASA Openscapes](https://nasa-openscapes.github.io/) and [earthaccess](https://earthaccess.readthedocs.io/en/stable/) communities means we will be collaboratively problem-solving and strategizing, and translating ideas into action. This includes decisions, code, and documentation.
 
-**Purpose:** to gather anyone interested who's going to ESIP, and hack on "making things easier for scientists": [STAC](https://stacspec.org/), [virtualizarr](https://virtualizarr.readthedocs.io/en/stable/), [earthaccess](https://earthaccess.readthedocs.io/en/stable/) (What would a single query look like for different agencies i.e. lemons and oranges), point-collocation ([python library](https://fish-pace.github.io/point-collocation/); [video](https://youtu.be/o9bLQ8Vn69w)) between data sets, ... your choice!
+**Purpose:** to gather anyone interested who's going to ESIP, and hack on "making things easier for scientists": [STAC](https://stacspec.org/), [virtualizarr](https://virtualizarr.readthedocs.io/en/stable/), [earthaccess](https://earthaccess.readthedocs.io/en/stable/) (What would a single earthaccess query look like for different agencies? Would queries for NOAA and NASA be like apples and oranges, or more similar like lemons and oranges?), point-collocation ([python library](https://fish-pace.github.io/point-collocation/); [video](https://youtu.be/o9bLQ8Vn69w)) between data sets, ... your choice!
 
 **Outcomes:** to connect interested folks and strengthen the community, to move forward on decisions and ideas.
 

@@ -4,7 +4,7 @@ title: "Two things I’m proud of recently” and the paths to Openscapes: an in
 author:
   - name: Ronny A. Hernández Mora
     orcid: 0000-0001-6225-7096
-date: 2026-04-27
+date: 2026-04-28
 citation: 
   url: https://openscapes.org/news/2026-04-28-team-interview/
 categories: [blog, nasa-framework]

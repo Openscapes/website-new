@@ -1,5 +1,5 @@
 ---
-title: "Two things I’m proud of recently” and the paths to Openscapes: an interview with Stefanie Butland and Andy Teucher"
+title: '"Two things I’m proud of recently” and the paths to Openscapes: an interview with Stefanie Butland and Andy Teucher'
 # description: "Subtitle"
 author:
   - name: Ronny A. Hernández Mora
@@ -7,7 +7,7 @@ author:
 date: 2026-04-28
 citation: 
   url: https://openscapes.org/news/2026-04-28-team-interview/
-categories: [blog, nasa-framework]
+categories: [blog, nasa-framework, noaa-fisheries]
 image: team.png
 bibliography: references.bib
 ---
@@ -23,9 +23,13 @@ tons of interesting stories and insights from their careers.*
 their work at Openscapes. We discussed their recent work, including “tell me two
 things you’re proud of”, as well as their career paths, and what drives them.*
 
-*Cross-posted at [openscapes.org/blog](https://openscapes.org/blog), [nasa-openscapes.github.io/news](https://nasa-openscapes.github.io/news)*.
+*Cross-posted at [openscapes.org/blog](https://openscapes.org/blog), [nasa-openscapes.github.io/news](https://nasa-openscapes.github.io/news), [NMFS-Openscapes](nmfs-openscapes.github.io/blog)*.
 
 ------------------------------------------------------------------------
+
+::: {style="text-align:center;"}
+![*Zoomies of Stefanie Butland, Andy Teucher, and Ronny Hernandez Mora during the interview.*](team.png){fig-align="center" fig-alt="3 screenshots of zoom participants. People are smiling."}
+:::
 
 ## “Two things I’m proud of”
 

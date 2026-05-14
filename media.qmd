@@ -16,6 +16,8 @@ aliases:
 
 ## PUBLICATIONS
 
+- Tasha Snow, Christopher Holdgraf, Wilson Sauthoff, Jessica Scheick, Ellianna Abrahams, Joanna Millstein, Sanjay Bhangar, Carl Boettiger, James Colliander, Luis Alberto Lopez Espinosa, Elizabeth Holmes, Joseph H. Kennedy, Julia S. Lowndes, Alex I. Mandel, P. Yuvi, Fernando Pérez, Joe-Paul Swinski, Andy Teucher, Matthew R. Siegfried. 2026. [A Path to Better Science Through Co-Creation and Open Infrastructure]. Perspectives of Earth and Space Scientists. <https://doi.org/10.1029/2025CN000295>
+
 -   Alexa Fredston & Julia Stewart Lowndes [Welcoming More Participation in Open Data Science for the Oceans](https://www.annualreviews.org/doi/full/10.1146/annurev-marine-041723-094741), Annual Review of Marine Science, 2024
 
 -   Julia Stewart Lowndes, Anna M. Holder, Emily H. Markowitz, Corey Clatterbuck, Amanda L. Bradford, Kathryn Doering, Molly H. Stevens, Stefanie Butland, Devan Burke, Sean Kross, Jeffrey W. Hollister, Christine Stawitz, Margaret C. Siple, Adyan Rios, Jessica Nicole Welch, Bai Li, Farnaz Nojavan, Alexandra Davis, Erin Steiner, Josh M. London, Ileana Fenwick, Alexis Hunzinger, Juliette Verstaen, Elizabeth Holmes, Makhan Virdi, Andrew P. Barrett, Erin Robinson (2024). [Shifting institutional culture to develop climate solutions with Open Science](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341), Ecology and Evolution, 2024 ([preprint](https://eartharxiv.org/repository/view/5948/))
@@ -73,6 +75,8 @@ aliases:
 ## PRESENTATIONS
 
 *See [NASA-Openscapes](https://nasa-openscapes.github.io/) and [NMFS-Openscapes](https://nmfs-openscapes.github.io/) for many additional presentations from NASA and NOAA Fisheries Mentors!*
+
+- [Forking as a Worldview](https://docs.google.com/presentation/d/1FUegGnHNIHhfKuxxW6XDQMsd6bvUoZxDbx9Vo8Eh3-Q/edit?usp=sharing) - Julia Lowndes, PREreview Champions Call, May 14, 2026 (15 min)
 
 - [Reprise — Forking as a Worldview: How Openscapes uses the open source concept of copy-modify to support researchers & shift culture in science](https://docs.google.com/presentation/d/1FaaMid8_pSmU5zR9uoDiBqcdqSwZjl3OlC_nppw_nxM/edit?slide=id.g3af247f9d45_0_0#slide=id.g3af247f9d45_0_0) - Julia Lowndes, AGU Dr. Greg Leptoukh Lecture Award, March 19, 2026 (50 min) ([recording](https://www.youtube.com/watch?v=GPFa6_o7GRQ))
 

@@ -16,7 +16,7 @@ aliases:
 
 ## PUBLICATIONS
 
-- Tasha Snow, Christopher Holdgraf, Wilson Sauthoff, Jessica Scheick, Ellianna Abrahams, Joanna Millstein, Sanjay Bhangar, Carl Boettiger, James Colliander, Luis Alberto Lopez Espinosa, Elizabeth Holmes, Joseph H. Kennedy, Julia S. Lowndes, Alex I. Mandel, P. Yuvi, Fernando Pérez, Joe-Paul Swinski, Andy Teucher, Matthew R. Siegfried. 2026. [A Path to Better Science Through Co-Creation and Open Infrastructure]. Perspectives of Earth and Space Scientists. <https://doi.org/10.1029/2025CN000295>
+- Tasha Snow, Christopher Holdgraf, Wilson Sauthoff, Jessica Scheick, Ellianna Abrahams, Joanna Millstein, Sanjay Bhangar, Carl Boettiger, James Colliander, Luis Alberto Lopez Espinosa, Elizabeth Holmes, Joseph H. Kennedy, Julia S. Lowndes, Alex I. Mandel, P. Yuvi, Fernando Pérez, Joe-Paul Swinski, Andy Teucher, Matthew R. Siegfried [A Path to Better Science Through Co-Creation and Open Infrastructure](https://doi.org/10.1029/2025CN000295). Perspectives of Earth and Space Scientists, 2026.
 
 -   Alexa Fredston & Julia Stewart Lowndes [Welcoming More Participation in Open Data Science for the Oceans](https://www.annualreviews.org/doi/full/10.1146/annurev-marine-041723-094741), Annual Review of Marine Science, 2024
 

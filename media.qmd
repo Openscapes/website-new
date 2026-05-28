@@ -36,6 +36,8 @@ aliases:
 
 <!--- [Sustainability Blueprint Factory Final Report]() --->
 
+- [Sustainability Blueprint Factory Report: What Makes a Science Gateway Sustainable?](https://sciencegateways.org/index.php?option=com_content&view=article&id=1213:what-makes-a-science-gateway-sustainable&catid=29:b&Itemid=169) - June 2025, Nancy L. Maron & Valerie McNutt, SGX3: A Center of Excellence to Extend Access, Expand the Community, and Exemplify Good Practices for Cyber Infrastructure Through Science Gateways. ([pdf](https://drive.google.com/drive/u/0/folders/1VGBB6vvUbeIlEz4EM1Zzqd4uJYDjsEUc))
+
 -   [Training for culture change in Open Science](https://grssieee.podbean.com/e/s4e10-down-to-earth-training-for-culture-change-in-open-science/) - June 18, 2023. Julie Lowndes & Erin Robinson, Down To Earth: A podcast for Geoscientists by Geoscientist.
 
 -   [Supporting open science as a daily practice](https://docs.google.com/presentation/d/19OoPaUVVOA6AFLLd9mYeiM8f1BNNnoAjJCP4RD6Ahe8/edit#slide=id.g1b5922f14f8_0_83) - December 16, 2022 - Julie Lowndes, Erin Robinson, Openscapes Mentors. AGU Fall Conference Talk, NASA TOPS [The Future is Open](https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/161588) session

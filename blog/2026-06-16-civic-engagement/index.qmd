@@ -4,7 +4,6 @@ author:
   - name: Julie Lowndes
     orcid: 0000-0003-1682-3872
 date: 2026-06-16
-draft: true
 citation: 
   url: https://openscapes.org/blog/2026-06-16-civic-engagement
 categories: [blog]

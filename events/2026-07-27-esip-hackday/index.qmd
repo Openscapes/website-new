@@ -1,6 +1,6 @@
 ---
 title: "Monday Hackday at ESIP Summer Meeting. Theme: 'Making Things Easier for Scientists'"
-description: "Please save the date! Plan to arrive in Austin for Monday afternoon."
+description: "What problem do you think needs solving?"
 author:
   - name: Openscapes
   - name: NASA Openscapes Mentors
@@ -14,20 +14,36 @@ image: earthaccess-hackday-action-shot.jpg
 
 ------------------------------------------------------------------------
 
-## Please save the date!
+## Please save the date and share your ideas now!
 
-Monday, July 27th, the day before the [ESIP meeting](https://2026julyesipmeeting.sched.com) starts, we'll host a hackday. Plan to arrive in Austin to join us Monday afternoon. "Hackday" to our [NASA Openscapes](https://nasa-openscapes.github.io/) and [earthaccess](https://earthaccess.readthedocs.io/en/stable/) communities means we will be collaboratively problem-solving and strategizing, and translating ideas into action. This includes decisions, code, and documentation.
+Monday, July 27th, the day before the [ESIP meeting](https://2026julyesipmeeting.sched.com) starts, we'll host a hackday from 1 - 6 pm local time ([ESIP Sched page](https://2026julyesipmeeting.sched.com/event/2PWWU/openscapes-hackday)). Plan to arrive in Austin to join us Monday afternoon.
 
-**Purpose:** to gather anyone interested who's going to ESIP, and hack on "making things easier for scientists": [STAC](https://stacspec.org/), [virtualizarr](https://virtualizarr.readthedocs.io/en/stable/), [earthaccess](https://earthaccess.readthedocs.io/en/stable/) (What would a single earthaccess query look like for different agencies? Would queries for NOAA and NASA be like apples and oranges, or more similar like lemons and oranges?), point-collocation ([python library](https://fish-pace.github.io/point-collocation/); [video](https://youtu.be/o9bLQ8Vn69w)) between data sets, ... your choice!
+"Hackday" to our [NASA Openscapes](https://nasa-openscapes.github.io/) and [earthaccess](https://earthaccess.readthedocs.io/en/stable/) communities means we will be collaboratively problem-solving and strategizing, and translating ideas into action. This includes decisions, code, and documentation.
 
-**Outcomes:** to connect interested folks and strengthen the community, to move forward on decisions and ideas.
+**Purpose:** To gather anyone who's interested and going to ESIP, and hack on "making things easier for scientists" from policy, social and technical perspectives. This in-person hackday is about how we’re supporting scientists with infrastructure. A lot of hacking is not hands-on coding. It’s hacking on decisions. It’s seeing how each other works. Asking each other questions about interoperability. It’s **surfacing friction - which friction lies in the tech and which lies in the social?** We know [earthaccess](https://earthaccess.readthedocs.io/en/stable/) has transformed the way people access NASA Earthdata. It’s technically possible to do this with data across agencies like NOAA, USGS. What would that look like? We want to identify what we can move forward after the hackday. What problem do *you* think needs solving?
 
-**Process:** to have a light and purposeful plan, influenced from recent events like [earthaccess hackday](https://openscapes.org/events/2025-12-15-earthaccess-hackday/). Below are the starting details, please check back for more details as we get closer! We will have a way to contribute ideas ahead of the event, likely as a Google Doc or GitHub repo.
+**At the hackday itself**, we’ll kick things off with a friendly showcase to orient people:
 
--   **Date**: Monday, July 27, 2026
--   **Time**: 1-6pm local Austin time (Central Time)
--   **Where**: In person at the ESIP meeting hotel (<https://2026julyesipmeeting.sched.com>)
--   **Who**: Folks interested in working together across the ESIP community and contributing to "making things easier for scientists" from policy, social and technical perspectives.
--   **Cost**: Free. The space is generously provided by ESIP and coordinated by the Openscapes community.
+- How to use [earthaccess](https://earthaccess.readthedocs.io/en/stable/) with NASA data (Amy Steiker)
+
+- earthaccess with virtual datasets (data masquerading as cloud-native) (Luis Lopez) 
+
+- [Point-collocation](https://fish-pace.github.io/point-collocation/) with remote-sensed plus buoy data - this is hard! (Eli Holmes)
+
+## Right now (before ESIP)
+
+**We want you to tell us**: What problem do you think needs solving? Please share your ideas now in this [Monday Hackday - Ideas Doc](https://docs.google.com/document/d/17X5B8k1M-2nAA7OoAm7dlBHnWzvD3gyoAgUSfWnKh8A/) using the ‘[**your idea**](https://docs.google.com/document/d/17X5B8k1M-2nAA7OoAm7dlBHnWzvD3gyoAgUSfWnKh8A/edit?tab=t.0#heading=h.1x92ulo2ftve)’ template. This is the one and only place to suggest, comment, ask questions, prior to the Monday hackday. Based on these asynchronous conversations, we’ll design collaborative breakouts for the hackday itself.
+
+#### **Your idea (template)**
+
+- Your name
+- Project goal (big picture) and proximate goal (achieved by end of hackday), 
+- What’s in & out of scope. 
+- What skills & tool-familiarity are needed to contribute. 
+- Is it a clearly defined piece of work or something that will start with brainstorming?
+- Will it involve identifying use cases, documentation, or strictly coding?
+- Resources
+
+This is a followup to [our FUNding Friday event](https://openscapes.org/blog/2026-02-04-earthaccess-dec15-hackday/) (thank you ESIP!). The space is generously provided by ESIP and coordinated by the Openscapes community.
 
 ![](earthaccess-hackday-action-shot.jpg){fig-alt="5 people seated around a rectangular table with laptops open looking a a person standing pointing to a whiteboard" fig-align="center" width="70%"}

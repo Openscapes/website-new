@@ -1,6 +1,6 @@
 ---
 title: "On-ramp to FAIR data in the EarthCODE Federation"
-description: "Subtitle"
+description: "Recap of our first ESA Openscapes Champions Cohort"
 author:
   - name: Julie Lowndes
     orcid: 0000-0003-1682-3872

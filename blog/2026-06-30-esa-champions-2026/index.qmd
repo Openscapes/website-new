@@ -18,7 +18,7 @@ date: 2026-06-30
 citation: 
   url: https://openscapes.org/blog/2026-06-30-esa-champions-2026/
 categories: [blog, champions]
-image: logos-esa-openscapes-earthcode.png
+image: logos-openscapes-lampata-esa-earthcode.png
 ---
 
 *This spring, ESA partnered with Openscapes to lead a 10–week Champions Cohort to explore open data science practices to help participants experiment and plan FAIR principles for Earth Observation and EarthCODE. This is a short post of what participants learned and what we did, all with an eye toward reuse and growing the open science movement.*
@@ -45,7 +45,7 @@ From April to June 2026, EarthCODE collaborated with Openscapes to host a 10-wee
 Participants were mainly from key EarthCODE stakeholder groups: researchers in the Earth System Science Hub, ESA ɸ-Lab, and ESA Science Clusters, and many of them were in person together at [ESRIN](https://www.esa.int/About_Us/ESRIN/) (ESA’s Centre for Earth Observation in Frascati, Italy). Other participants were from Europe, India, and Africa; they are scientists using ESA EO data in their research and who heard about the Champions Cohort via open science networks during the nomination period. These researchers study forests, clouds, sea ice, drought, cryosphere, wildfire, sea level rise, socio-ecological systems, extreme and compound event analysis. They use many different technologies for their science, including Python, GitHub, STAC APIs, Zenodo, data cubes, Overleaf, Jupyter Notebooks, HPCs, and were keen to learn more about how to collaborate, document, and improve their workflows.
 
 ::: {style="text-align:center;"}
-![Video conference screen shot of some researchers in the 2026 ESA Openscapes Champions Cohort.](Zoomie-OpenscapesChampions [ 2026-esa ].png){fig-alt="video conference participants in a 4 by 4 grid. People are smiling and waving" fig-align="center" width="60%"}
+![Video conference screen shot of some researchers in the 2026 ESA Openscapes Champions Cohort.](Zoomie-OpenscapesChampions%20%5B%202026-esa%20%5D.png){fig-alt="video conference participants in a 4 by 4 grid. People are smiling and waving" fig-align="center" width="60%"}
 :::
 
 ## Impacts: putting new ideas to immediate use

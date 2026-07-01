@@ -9,6 +9,7 @@ author:
   - name: Ronny Hernández Mora
     orcid: 0000-0001-6225-7096
   - name: Dean Summers
+    orcid: 0009-0003-3803-8522
   - name: Krasen Samardzhiev
     orcid: 0009-0002-1336-4199
   - name: Anca Anghelea
@@ -29,7 +30,7 @@ image: logos-esa-openscapes-earthcode.png
 - Data strategies for Future Us: Documenting your Data ([slides](https://docs.google.com/presentation/d/1CgpNio4tdP04cVWxCnGvqbT24ih9slXStP8T8RjPIAc/)), by Krasen Samardzhiev, [Lampata](https://lampata.co.uk/).
 - FAIR strategies for Future Us: Tools, standards & technologies supporting FAIR in the EarthCODE federation ([slides](https://docs.google.com/presentation/d/1GYNPRVn9g1cP0YwdbAc_aoPsra1H8bpKlTprSOekorQ/), [video](https://youtu.be/ftcmAVyJLAs?si=aFspHdX9qyVGLJ5e)), by Krasen Samardzhiev, Lampata.
 
-*Cross-posted at [earthcode.esa.int/resources](https://earthcode.esa.int/resources) and [openscapes.org/blog](https://openscapes.org/blog).*
+*Cross-posted at [earthcode.esa.int/blog](https://earthcode.esa.int/blog/esa-champions-cohort) and [openscapes.org/blog](https://openscapes.org/blog).*
 
 ------------------------------------------------------------------------
 

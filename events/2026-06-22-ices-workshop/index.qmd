@@ -4,6 +4,7 @@ description: "A 5-day course for ICES, the International Council for the Explora
 author:
   - name: Openscapes
 date: 2026-06-22
+draft: true
 categories:
   - event 
   - workshop

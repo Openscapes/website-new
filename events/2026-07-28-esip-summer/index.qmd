@@ -2,7 +2,7 @@
 title: "Openscapes at the ESIP Summer Meeting"
 # description: "txt" 
 author: Openscapes, NASA, NOAA Fisheries
-date: 2026-07-27
+date: 2026-07-28
 categories:
   - conference
   - nasa-framework
@@ -66,10 +66,6 @@ to connect half-way through ESIP, and think about the unconf
 time and going forward 
 - Thursday dinner this will be Mentors-only social time somewhere fun, and we
 can meet up/invite others following dinner! Location: TBD, we'll update here.
-
-
-
-
 
 ![](esip_banner_2026.png){fig-alt="banner image with background photo of blue
 sky, a mountain, and Seattle skyline, with white letters saying ESIP MEETING

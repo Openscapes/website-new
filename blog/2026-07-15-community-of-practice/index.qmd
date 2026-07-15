@@ -13,7 +13,7 @@ image: chasm-puppy-to-shepherd.png
 bibliography: references.bib
 ---
 
-*This post comes from my notes introducing the concept of a community of practice to NOAA Fisheries Openscapes Mentors – and it applies to all Openscapes Mentors and work we do. I’m a scientist-turned-enabler. The knowledge I shared leverages my training in scientific community engagement from the [CSCCE](https://www.cscce.org/) (Center for Scientific Collaboration and Community Engagement), resources published by Etienne & Beverly Wenger-Traynor (from which I liberally quote), and my work as [rOpenSci’](https://ropensci.org/)s first-ever Community Manager. My goals were to lay a foundation of concepts and have NOAA Fisheries Mentors recognize they already are a community of practice and how they belong. Unless cited otherwise, all direct quotes are from* [@wenger-trayner2015].
+*This post comes from my notes introducing the concept of a community of practice to NOAA Fisheries Openscapes Mentors – and it applies to all Openscapes Mentors and work we do. I’m a scientist-turned-enabler. The knowledge I shared leverages my training in scientific community engagement from the [CSCCE](https://www.cscce.org/) (Center for Scientific Collaboration and Community Engagement), resources published by Etienne & Beverly Wenger-Traynor (from which I liberally quote), and my work as [rOpenSci’](https://ropensci.org/)s first-ever Community Manager. My goals were to lay a foundation of concepts and have NOAA Fisheries Mentors recognize they already are a community of practice and how they belong. Unless cited otherwise, all quoted text is from* [@wenger-trayner2015].
 
 ------------------------------------------------------------------------
 
@@ -35,29 +35,30 @@ bibliography: references.bib
 
 The [Openscapes](https://openscapes.org/team) and [NMFS Open Science](https://github.com/nmfs-opensci) teams together work to scaffold and support the CoP. The domain is folks supporting NOAA Fisheries’ Mission: the stewardship of the nation's ocean resources and their habitat. The community is the NOAA Fisheries Mentors that meet weekly for Mentors Calls and Coworking and independently to work on shared goals. The practice shows up in the [MentorActivities GitHub Project](https://github.com/orgs/nmfs-openscapes/projects/46/views/6) that houses discussions and points to resources Mentors are working on, like the [PIFSC_DataReport_Template](https://github.com/noaa-pifsc/PIFSC_DataReport_Template) and the [PAM_National_Network](https://nmfs-ost.github.io/PAM_National_Network/).
 
-## **How do we work in a community of practice?**
+## How do we work in a community of practice?
 
-**An image:**
-
-::: {style="text-align:center;"}
-![Caption, centered under centered image. Image 85 to 100% width](chasm-puppy-to-shepherd.png){fig-alt="text to describe the image" fig-align="center" width="85%"}
+::: blockquote-blue
+> *“Communities of practice enable practitioners to take collective responsibility for managing the knowledge they need, recognizing that, given the proper structure, they are in the best position to do this.”* - [@wenger-trayner2015]
 :::
 
-**An image with text beside it**, added by using columns. Column widths must add up to 12:
+Let’s start with some relatable examples of CoPs outside of science & technology. Discussions among nurses who meet regularly for lunch in the cafeteria are one of their main sources of knowledge about how to care for patients. Impressionist painters found they shared an interest in painting landscape and contemporary life rather than historical or mythological scenes. They often went out into the countryside together to paint, and had meetups in cafes for discussions about their practice [@wenger-trayner2015]; [Wikipedia](https://en.wikipedia.org/wiki/Impressionism)).
 
-::::: grid
-::: g-col-2
-![](earthaccesslogo.png){fig-alt="The earthaccess logo by Allison Horst: a hexagonal shape with the words earth access on two separate lines with pixelated sky with clouds and earth with land and sea" fig-align="left" width="100%"}
-:::
+## IMAGE
 
-::: g-col-10
-Join us to celebrate `earthaccess`, a python library that simplifies search and access of NASA Earth science data to a few lines of code.
+Making change as a CoP and managing change are two very different things. This is different from other “ownership” models we're used to. Working as a CoP requires opening up ownership, and a culture where people feel safe to speak up with a bold idea, ask for help, or share early work in progress. As a participant, you may not agree with everything, but you desire to be a positive force.
 
-We will record the presentations and post on [Openscapes YouTube](https://www.youtube.com/@openscapes/videos).
-:::
-:::::
+## IMAGE
 
-## For an event
+Caption: [Desire paths](https://en.wikipedia.org/wiki/Desire_path) analogy for paths of participation in a CoP. (left) A desire path in a forested park follows a route different from the path that is paved. (right) Blue concentric circles depict levels of participation in the rOpenSci CoP with increasing involvement from outer to inner circles. The yellow inner circle indicates staff. Outer circles represent transactional activities like using an R package or attending a Community Call. Progressively more involved activities in rOpenSci’s Software Review process are labeled in inner circles include package reviewers, submitters (package maintainers who choose to submit their package for peer review), and editors. Labelled arrows depict some people’s paths of participation over time in rOpenSci Software Peer Review. Unlabelled arrows depict other people’s paths through rOpenSci’s activities outside the software review process. From Butland, Woodley, Ram, 2021 rOpenSci’s Model for Managing a Federated Open Source Software Community, talk for useR!2021 conf ([slides](https://docs.google.com/presentation/d/1W4DepLd6FvunkGsTloyn-be_X5jI7dS-gAVtpsJb6iM/edit?slide=id.p#slide=id.p); [recording](https://www.youtube.com/watch?v=2B7H8WJOX40&t=1048s)).
 
-**Date**: Tuesday, July 29, 2025 **Time**: 9:30 - 11:00 am PT ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Community+Call%3A+What+we%E2%80%99re+learning+about+cloud+costs+for+Earth+science+workflows+in+our+JupyterHub&iso=20250422T0930&p1=1050&ah=1)) <!---**Where**: Zoom
-**Register (free)** via [Zoom](https://zoom.us/meeting/register/Lnt3E9NRSK-deXCN1kkviw) to get the meeting link.---> **View** [recording](https://youtu.be/t8gUSUlSqnc)<!--- and [summary](/blog/LINK).--->
+Our Openscapes CoP is made of people within and across agencies: there are paths within NOAA Fisheries Openscapes CoP that also invites them with the broader Openscapes CoP. Our focus in Fall 2026 Champions Cohorts is to grow the CoP further by extending the invitation to people working across the data life cycle who don’t yet see themselves as belonging. What does this look like? How do we grow the NOAA Fisheries Openscapes Mentors community (of practice) with intention? How do we adapt our Champions lesson on Open Communities? 
+
+## Communities of practice in the age of AI
+
+A healthy CoP starts small and is built on shared values and trust. New people joining a healthy CoP see implicit role-modeling of what we do and how we do it. Members of a CoP can say what they get from this CoP that they can’t get anywhere else, and these are often both technical and social impacts.
+
+Very recently, Mara Averick has written about [What We're No Longer Seeing: AI and the Invisible Newcomer in Open Source](https://blog.stdlib.io/ai-and-the-invisible-newcomer-in-open-source/):
+
+> *“The communities that come through this in shape will be the ones oriented around relationships and narrative—not tooling, not clever onboarding flows, not any one platform. The technology stack underneath a community is replaceable. What isn't replaceable is whether the people in it are in real relationship with each other and with the project, and whether the project has a story about itself that someone can find their way into. That sounds soft. It is the hard part.  Invitation has to come from someone already inside the community—someone with standing, someone whose attention means something—saying out loud to a particular person: we see you, and there's a place for you here.”* – Mara Averick, citation.
+
+This topic has come up now in conversations with our NOAA Fisheries community, with our [ESA Openscapes Champions](https://openscapes.org/blog/2026-06-30-esa-champions-2026/) and our new partners at Lampata and the European Space Agency, as well as resparking conversations online. We’re hosting a [Community Call](https://github.com/orgs/Openscapes/projects/13/?pane=issue&itemId=192771689&issue=Openscapes%7Chow_we_work%7C475) in early fall 2026 to dig in to some of these things. Please stay tuned and join us!

@@ -1,0 +1,63 @@
+---
+title: "Openscapes Mentor communities are Communities of Practice"
+# description: "Subtitle"
+author:
+  - name: Stefanie Butland
+    orcid: 0000-0002-5427-8951
+date: 2026-07-15
+draft: true
+citation: 
+  url: https://openscapes.org/blog/2026-07-15-community-of-practice/
+categories: [blog, noaa-fisheries, nasa-framework]
+image: chasm-puppy-to-shepherd.png
+bibliography: references.bib
+---
+
+*This post comes from my notes introducing the concept of a community of practice to NOAA Fisheries Openscapes Mentors – and it applies to all Openscapes Mentors and work we do. I’m a scientist-turned-enabler. The knowledge I shared leverages my training in scientific community engagement from the [CSCCE](https://www.cscce.org/) (Center for Scientific Collaboration and Community Engagement), resources published by Etienne & Beverly Wenger-Traynor (from which I liberally quote), and my work as [rOpenSci’](https://ropensci.org/)s first-ever Community Manager. My goals were to lay a foundation of concepts and have NOAA Fisheries Mentors recognize they already are a community of practice and how they belong. Unless cited otherwise, all direct quotes are from* [@wenger-trayner2015].
+
+------------------------------------------------------------------------
+
+::: blockquote-blue
+> *"Communities of practice (CoP) are groups of people who share a concern or a passion for something they do and learn how to do it better as they interact regularly."* - [@wenger-trayner2015]
+:::
+
+<center>🚨 \<spoiler alert\> NOAA Fisheries Openscapes Mentors are already are a community of practice!</center>
+
+“Not everything called a community is a community of practice. A neighborhood …is often called a community, but is usually not a community of practice.” Three elements are crucial. As you read these, do you see yourself as a member of a CoP?
+
+> **The domain**. “Membership implies a commitment to the domain, and therefore a shared competence that distinguishes members from others.”
+
+> **The community**. “In pursuing their interest in their domain, members engage in joint activities and discussions, help each other, and share information. They build relationships that enable them to learn from each other; they care about their standing with each other.”
+
+> **The practice**. More than just a group of people who love sci-fi books or the Heated Rivalry series, “members of a community of practice are **practitioners**. They develop a shared repertoire of resources: experiences, stories, tools, ways of addressing recurring problems—in short a shared practice. This takes time and sustained interaction.”
+
+<center>**This is us! 💥**</center>
+
+The [Openscapes](https://openscapes.org/team) and [NMFS Open Science](https://github.com/nmfs-opensci) teams together work to scaffold and support the CoP. The domain is folks supporting NOAA Fisheries’ Mission: the stewardship of the nation's ocean resources and their habitat. The community is the NOAA Fisheries Mentors that meet weekly for Mentors Calls and Coworking and independently to work on shared goals. The practice shows up in the [MentorActivities GitHub Project](https://github.com/orgs/nmfs-openscapes/projects/46/views/6) that houses discussions and points to resources Mentors are working on, like the [PIFSC_DataReport_Template](https://github.com/noaa-pifsc/PIFSC_DataReport_Template) and the [PAM_National_Network](https://nmfs-ost.github.io/PAM_National_Network/).
+
+## **How do we work in a community of practice?**
+
+**An image:**
+
+::: {style="text-align:center;"}
+![Caption, centered under centered image. Image 85 to 100% width](chasm-puppy-to-shepherd.png){fig-alt="text to describe the image" fig-align="center" width="85%"}
+:::
+
+**An image with text beside it**, added by using columns. Column widths must add up to 12:
+
+::::: grid
+::: g-col-2
+![](earthaccesslogo.png){fig-alt="The earthaccess logo by Allison Horst: a hexagonal shape with the words earth access on two separate lines with pixelated sky with clouds and earth with land and sea" fig-align="left" width="100%"}
+:::
+
+::: g-col-10
+Join us to celebrate `earthaccess`, a python library that simplifies search and access of NASA Earth science data to a few lines of code.
+
+We will record the presentations and post on [Openscapes YouTube](https://www.youtube.com/@openscapes/videos).
+:::
+:::::
+
+## For an event
+
+**Date**: Tuesday, July 29, 2025 **Time**: 9:30 - 11:00 am PT ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Community+Call%3A+What+we%E2%80%99re+learning+about+cloud+costs+for+Earth+science+workflows+in+our+JupyterHub&iso=20250422T0930&p1=1050&ah=1)) <!---**Where**: Zoom
+**Register (free)** via [Zoom](https://zoom.us/meeting/register/Lnt3E9NRSK-deXCN1kkviw) to get the meeting link.---> **View** [recording](https://youtu.be/t8gUSUlSqnc)<!--- and [summary](/blog/LINK).--->

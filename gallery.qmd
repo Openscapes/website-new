@@ -168,6 +168,12 @@ Diverse, inclusive teams and communities are key to tackling our research so tha
 *Digital illustration of two cute fuzzy monsters sitting on a park bench with a smiling data table between them, all eating ice cream together. In text above the illustration are the hand drawn words "make friends with tidy data."*
 :::
 
+## Git and GitHub Illustrated Series
+
+[GitHub for supporting, reusing, contributing, and failing safely](https://openscapes.org/blog/2022-05-27-github-illustrated-series/) is an illustrated series about why Git and GitHub are so powerful for supporting, reusing, contributing, and failing safely
+
+![](https://openscapes.org/img/blog/github-illustrated-series/github_friends.png){fig-alt="Illustrated slide with a light blue background featuring a quote by Jenny Bryan: 'Collaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review.' Along the bottom, six colorful cartoon characters represent different forms of collaboration, including a person working with their “future me,” someone sharing food, and others reviewing a map or handling equipment. A citation to Bryan’s 2017 PeerJ Preprint on version control appears at the bottom." width="100%" fig-align="center"}
+
 :::
 
 :::

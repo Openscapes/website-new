@@ -9,7 +9,7 @@ date: 2026-07-15
 citation: 
   url: https://openscapes.org/blog/2026-07-15-community-of-practice/
 categories: [blog, noaa-fisheries, nasa-framework]
-# image: 
+image: e4a11b1f-f235-461f-ab73-ce6128c59e49_rw_1920.png
 bibliography: references.bib
 ---
 

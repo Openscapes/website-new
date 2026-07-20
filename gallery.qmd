@@ -165,7 +165,7 @@ Diverse, inclusive teams and communities are key to tackling our research so tha
 ![](images/tidydata/tidydata_7.jpg){fig-alt="Digital illustration of two cute fuzzy monsters sitting on a park bench with a smiling data table between them, all eating ice cream together. In text above the illustration are the hand drawn words 'make friends with tidy data'." width="100%" fig-align="center"}
 
 ::: {.caption-text .center-text}
-*Digital illustration of two cute fuzzy monsters sitting on a park bench with a smiling data table between them, all eating ice cream together. In text above the illustration are the hand drawn words "make friends with tidy data."*
+*Make friends with tidy data*
 :::
 
 ## Git and GitHub Illustrated Series

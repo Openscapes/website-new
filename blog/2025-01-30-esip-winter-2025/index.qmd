@@ -10,7 +10,6 @@ citation:
   url: https://openscapes.org/blog/2025-01-30-esip-winter-2025
 categories: [blog, noaa-fisheries]
 image: cover.png
-bibliography: references.bib
 ---
 
 *At the 2025 ESIP winter meeting, Eli Holmes told the story of GitHub at NOAA
@@ -20,7 +19,7 @@ differences in other federal agencies.*
 
 *Quicklinks:*
 
--   [*Slides*](https://docs.google.com/presentation/d/1WTVD403FCJsLoYAVAc51PG8_UoXyZmcuofZ0c-w3Wgo/edit#slide=id.g3270b11283a_1_272) *& [Recording](https://youtu.be/GPFa6_o7GRQ) - Stories of governance and open science culture change in government* 
+-   [*Slides*](https://docs.google.com/presentation/d/1WTVD403FCJsLoYAVAc51PG8_UoXyZmcuofZ0c-w3Wgo/edit#slide=id.g3270b11283a_1_272) *& [Recording](https://www.youtube.com/watch?v=Df6ps0o8GU4) - Stories of governance and open science culture change in government* 
 - [*Public Session Document*](https://docs.google.com/document/d/1Twhk_K6eACMXzPXmjEjUrt7DpoF8kKam3hjdaiAWHJQ/edit?tab=t.0)
 -   [*ESIP Meeting Session Info*](https://2025januaryesipmeeting.sched.com/event/1snZs/stories-of-governance-and-open-science-culture-change-in-government)
 

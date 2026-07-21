@@ -1,14 +1,13 @@
 ---
 title: "The GitHub Story at NOAA Fisheries"
-description: ""
 author:
   - name: Eli Holmes
-    orcid: 
+    orcid: 0000-0001-9128-8393
   - name: Julie Lowndes
     orcid: 0000-0003-1682-3872
 date: 2025-01-30
 citation: 
-  url: https://openscapes.org/blog/2026-01-15-agu-leptoukh-award-julie-lowndes
+  url: https://openscapes.org/blog/2025-01-30-esip-winter-2025
 categories: [blog, noaa-fisheries]
 image: cover.png
 bibliography: references.bib

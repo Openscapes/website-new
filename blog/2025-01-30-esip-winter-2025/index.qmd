@@ -23,7 +23,7 @@ differences in other federal agencies.*
 - [*Public Session Document*](https://docs.google.com/document/d/1Twhk_K6eACMXzPXmjEjUrt7DpoF8kKam3hjdaiAWHJQ/edit?tab=t.0)
 -   [*ESIP Meeting Session Info*](https://2025januaryesipmeeting.sched.com/event/1snZs/stories-of-governance-and-open-science-culture-change-in-government)
 
-*Cross-posted at [openscapes.org/blog](https://openscapes.org/blog), [nmfs-openscapes.github.io/blog](https://nmfs-openscapes.github.io/blog)*, [*nasa-openscapes.github.io/news*](https://nasa-openscapes.github.io/news.html).
+*Cross-posted at [openscapes.org/blog](https://openscapes.org/blog), [nmfs-openscapes.github.io/blog](https://nmfs-openscapes.github.io/blog)*.
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,10 @@ sharing scientific work, there was a rapid growth of public GitHub repositories
 Fisheries
 
 ::: {style="text-align:center;"}
-![](./pictorial_story_gh_noaa.png){fig-alt="" fig-align="center" width="70%"}
+![](./pictorial_story_gh_noaa.png){fig-alt="Pictorial history of GitHub
+adoption at NOAA Fisheries, showing the growth of public repositories following
+the 2013 NOAA memo, the contribution of Openscapes workshops, and the expansion
+of GitHub organizations and activity by 2022." fig-align="center" width="70%"}
 :::
 
 Eli shared the challenge that there was not consistent guidance about GitHub
@@ -66,7 +69,7 @@ different meetings, listened. If they had a similar problem, she reached out,
 to offer help, to be an ally. Not to ask them for anything.
 
 ::: {style="text-align:center;"}
-![](./doi.png){fig-alt="" fig-align="center" width="70%"}
+![](./doi.png){fig-alt="Rogers’ Diffusion of Innovation theory, illustrating how an innovation spreads from innovators and early adopters to the early and late majorities and, eventually, laggards. The framework helped identify the importance of building a strong group of early adopters to expand use of the GitHub Guide across NOAA Fisheries." fig-align="center" width="70%"}
 :::
 
 The Diffusion of Innovation theory has something important between early
@@ -88,7 +91,7 @@ instead proposing GitHub Enterprise and working with IT.
   * We can talk about HOW policies are made and WHO should have a voice in them. \- better ways to create rules; engage people who are being “ruled” as people with experience and needs
 
 ::: {style="text-align:center;"}
-![](./gh_at_noaa_2025.png){fig-alt="" fig-align="center" width="70%"}
+![](./gh_at_noaa_2025.png){fig-alt="GitHub governance at NOAA Fisheries circa January 2025, illustrating the rollout of GitHub Enterprise, the relationship among enterprise, organizational, and user repositories, and a joint governance model involving scientists, IT staff, and leadership." fig-align="center" width="70%"}
 :::
 
 

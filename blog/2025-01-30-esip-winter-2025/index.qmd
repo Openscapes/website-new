@@ -15,7 +15,7 @@ image: cover.png
 *At the 2025 ESIP winter meeting, Eli Holmes told the story of GitHub at NOAA
 Fisheries, in conversation with Julie Lowndes. There were 28 participants at
 this virtual session, and interesting discussions around similarities and
-differences in other federal agencies.*
+differences in other federal agencies. Note: we are posting this in July 2026 as part of our blog backlog, but keeping its original date for ease of documentation (finding this post again as part of ESIP January 2025.*
 
 *Quicklinks:*
 

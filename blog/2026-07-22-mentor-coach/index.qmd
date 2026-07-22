@@ -40,7 +40,7 @@ NOAA Fisheries Mentors understand how coaching skills help them support the migr
 
 ## Skills/tools we covered and where they show up in our work and life
 
-This table was developed collaboratively in our last session, as mentors reflected with each other how they already use and plan to use coaching skills\
+This table was developed collaboratively in our last session, as mentors reflected with each other how they already use and plan to use coaching skills.
 
 +-----------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |                                                           |                                                                                                                                                |                                                                                                                                                                           |
@@ -162,6 +162,8 @@ This series helped Mentors make stronger connections with their colleagues, and 
 - [You Need a Manifesto](https://bookshop.org/p/books/you-need-a-manifesto-how-to-craft-your-convictions-and-put-them-to-work/2e28593bb6c909d0?ean=9781984858061&next=t&) a book of exercises for identifying values and language around why you do what you do, from Charlotte Burgess-Auburn at Stanford’s Design School
 
 - [Dare To Lead/Brené Brown’s Values List](https://brenebrown.com/resources/dare-to-lead-list-of-values/)
+
+- [How coaching skills have made us better open data science mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/index.html), by Tara Robertson, Stefanie Butland, Julie Lowndes, on Openscapes 2023 Mentoring with a Coach Approach series.
 
 ::: {style="text-align:center;"}
 ![Photo by Elliot Lowndes](mrlowndes-bee.jpg){fig-alt="A bee standing on a pink flower with multiple florets, against a black background" fig-align="center" width="85%"}

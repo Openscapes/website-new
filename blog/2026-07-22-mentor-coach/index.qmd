@@ -1,0 +1,170 @@
+---
+title: "How building coaching skills helps us listen and lead as mentors in technical environments"
+author: 
+  - name: Eli Holmes
+    orcid: 0000-0001-9128-8393  
+  - name: Jon Peake
+    orcid: 0000-0001-5288-4184  
+  - name: Julie Lowndes
+    orcid: 0000-0003-1682-3872  
+  - name: Stefanie Butland
+    orcid: 0000-0002-5427-8951 
+  - name: Alvin Pilobello
+  - name: Tara Robertson
+    orcid: 0000-0002-8972-1423
+  - name: NOAA Fisheries Openscapes Mentors
+date: 2026-07-22
+citation: 
+  url: https://openscapes.org/blog/2026-07-22-mentor-coach/
+categories: [blog, noaa-fisheries, nasa-framework, water-boards]
+image: mrlowndes-bee.jpg
+---
+
+*NOAA Fisheries is currently leading a sustained effort to migrate their data and workflows to the cloud. This means new ways of working that are not only on our own laptops but in shared compute environments, with standardized metadata and data accessed from the cloud, all with new concepts, terminology, and software. This migration is not just about technology: giving all staff new software and updated permissions is not enough. The question is: does it work for people? Do they know how to use it, does it work with their science needs, for example managing confidential data? Can Google Workstations, a newly available cloud computing environment, analyze data that is newly stored in Google Drive? Surfacing and building solutions to these challenges need social approaches, not only technical ones. For the fourth year as an Openscapes Mentors community across agencies (including NOAA Fisheries, NASA Earthdata, California Water Boards, Intertidal Agency, Fred Hutch, Lampata), we continued to develop coaching skills together that make us better mentors to support these large shifts in the way organizations work. This 5-part series was funded by NOAA Fisheries for the second year, led by certified coaches Tara Robertson and Alvin Pilobello.*
+
+------------------------------------------------------------------------
+
+::: blockquote-blue
+> *"Wow, in 3 questions my partner helped me see that I am facing an emotional barrier, not a technical barrier. This changes how I will put my effort"* **--- Openscapes Mentor**
+:::
+
+Openscapes Mentors are an important part of the on-going transformational shifts to cloud computing, artificial intelligence (AI)-ready data, and new workflows across the agencies and institutions where they work. Mentors are staff within their own agencies who are part of a community across their agency to learn together, and identify and address common challenges.
+
+At NOAA Fisheries, Mentors are the folks supporting science teams and technical experts creating the solutions to emerging needs. They are the folks designing and leading workshops to onboard staff to Google Workstations and cloud storage, and surfacing the friction of what is and is not working for staff. They are the ones discussing with IT and leadership about where they see common problems – as well as where within the agency there are solutions that IT and leadership can help scale. Those kinds of conversations can feel new and challenging. And there are skills to build and practice that can help us navigate them with directness and kindness.
+
+::: blockquote-blue
+> *“The skills that got me where I am can be different to those that I need to work on to get to where I want to be next.”* **--- Openscapes Mentor**
+:::
+
+NOAA Fisheries Mentors understand how coaching skills help them support the migration to the cloud and AI. Other Openscapes Mentors understand this too: NASA is undergoing organizational change and formalizing the mentor community, California Water Boards is changing how they operationalize equity in engagement and contracting processes. Particularly when agencies are navigating how to incorporate and interpret AI in their work, interpersonal leadership skills are key.
+
+## Skills/tools we covered and where they show up in our work and life
+
+This table was developed collaboratively in our last session, as mentors reflected with each other how they already use and plan to use coaching skills.
+
++-----------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                           |                                                                                                                                                |                                                                                                                                                                           |
++===========================================================+================================================================================================================================================+===========================================================================================================================================================================+
+| **Skills and tools**                                      | **Where Openscapes Mentors have used coaching skills in your work + life so far**                                                              | **Where Openscapes Mentors plan to use coaching skills in work + life**                                                                                                   |
++-----------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Designed alliance (agreements about how we work together) | - When doing field work at sea, how we take and give feedback in a high-pressure environment                                                   | - We are going through leadership changes in our Division, and using this in discussions for strategic planning, needs, prioritizations, etc.                             |
+|                                                           |                                                                                                                                                |                                                                                                                                                                           |
+|                                                           | - 1:1s with new colleagues/interns/fellows                                                                                                     | - How do we tie up loose ends in a project                                                                                                                                |
++-----------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3 levels of listening (described below this table)        | - Everywhere - doing this series more than once has helped solidify it for me                                                                  | - Helping people articulate their needs                                                                                                                                   |
+|                                                           |                                                                                                                                                |                                                                                                                                                                           |
+|                                                           | - Noticing how people respond to me, or when they’re vulnerable or when their face lights up; I understand their response to a deeper level    | - Navigating change                                                                                                                                                       |
+|                                                           |                                                                                                                                                |                                                                                                                                                                           |
+|                                                           |                                                                                                                                                | - Level 2 and 3 listening is a great skill to model and can be subtly contagious                                                                                          |
++-----------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Powerful questions                                        | - With coworkers and family                                                                                                                    | - Uncomfortable conversations - to get to the crux of the issue +1+1                                                                                                      |
+|                                                           |                                                                                                                                                |                                                                                                                                                                           |
+|                                                           | - Digging deeper, beyond an initial response. +1                                                                                               | - Treating critical comments and feedback as opportunities to ask questions +1                                                                                            |
+|                                                           |                                                                                                                                                |                                                                                                                                                                           |
+|                                                           | - Asking them of yourself when you have a reflexive reaction                                                                                   |                                                                                                                                                                           |
+|                                                           |                                                                                                                                                |                                                                                                                                                                           |
+|                                                           | - Using silence to reflect and absorb +1                                                                                                       |                                                                                                                                                                           |
++-----------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Values                                                    | - Had to define this for a leadership training program application                                                                             | - Values help me prioritize: I have to say no to something                                                                                                                |
+|                                                           |                                                                                                                                                |                                                                                                                                                                           |
+|                                                           | - I think it would be useful to know the values of others that I work with, but for now I like having established the compass of what mine are | - Our office discovered and articulated our core values (See [OIMA values statement](https://www.waterboards.ca.gov/resources/oima/docs/oima-values-statement-2023.pdf)) |
++-----------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Work purpose statement                                    | - I like using it as a positive affirmation.                                                                                                   | - Prioritizing collaborations/ projects—focusing                                                                                                                          |
++-----------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+### Listening
+
+The 3 levels of listening:
+
+- L1: listening and connecting inward, relating the words to your experience
+
+- L2: listening to what the other person is literally saying
+
+- L3: listening for what's not being said but is felt in the room or "vibe"
+
+How this shows up for our work as Mentors:
+
+- L1: listen like a mentor, share expertise or advice that relates to what we are hearing
+
+- L2: listen like a coach, to help them find/define/solve their own problem. Not solutioneering.
+
+- L3: listen like a coach, articulate what's not being literally said, but is being communicated subconsciously.\
+
+It takes intention to identify whether to listen as a mentor or a coach in different situations. In a coach role, it takes a lot of self-management to not do Level 1 listening. It is hard to listen quietly and give space for people to articulate what they need; it is a new skill that we practiced throughout the session. Tara demoed this and gave a lot of space.
+
+::: blockquote-blue
+>*“As Mentors, one of the biggest gifts we can give is to give space for other people to speak (even if that is not afforded to us).”* **--- Alvin Pilobello**
+:::
+
+### Powerful questions
+
+These are important questions in a coach role:
+
+- Open ended, not yes/no
+
+- Short (5 or 7 words or less)
+
+- Come from a place of curiosity (don’t know the answer!)
+
+Additional insight we learned through experience: you can repeat/refine a question to help the person share different/deeper things. You can ask: “What’s important”? “And what’s important about that?”. Powerful questions don’t have to be fancy. They’re powerful. You start off with consent (“may I ask a coaching question?”), then coach the person, not the problem.\
+
+## What are you taking away from this series?
+
+We asked what people are taking away from this series, and how it would help them in their work going forward.
+
+\> Listening and being more empathetic as a result. Understanding what my values are and using that to help me see/understand those of others.\
+
+\> I’ve seen other people living their values, and now I want to live mine and let them show.
+
+\> New skills to show up for and care for colleagues, and help us all grow and do the hard and innovative and joyful work we do\
+
+\> New team facilitation skills that are kind - like Alvin’s “the thing I’ll add”\
+
+\> New courage/confidence knowing that we are new leadership
+
+\> Understanding that centering myself - through grounding in my values and purpose, and embracing / claiming acknowledgements - ultimately results in a better me and enables me to pour into others and my work more fully.\
+
+\> Leading is more than just facts and figures. It takes insight into self, listening to others, and bringing my whole self.
+
+
+## Advice for colleagues who are curious
+
+We know colleagues are curious so we asked, “if someone was undecided about signing up next time, what would you tell them?”
+
+\> You learn a lot about yourself and how to better understand others. It will bring a lot of fulfillment to your job and relationships.
+
+\> Seeing how these meetings are run, and how we are encouraged to meaningfully connect, is inspiring for how we could grow as leaders and emulate the positivity and support shown to each other in the workplace, and in life outside of work.
+
+\> For years I’ve wanted to be a better listener but didn’t know what that meant. In developing listening skills I realize how much it plays into my daily work in supporting data workflows, helping people verbalize things they never had before (via powerful questions).
+
+## Closing
+
+Coaching skills are so valuable as we all grow into new leadership roles – whether those are official or in the way we interact with peers. It is normal to undergo training for technological topics skill-building. It’s hard to find a complement that builds the very difficult and under-appreciated human skills. Both skillsets - technical and relational - are required to do our jobs well.
+
+This series helped Mentors make stronger connections with their colleagues, and find out more about themselves, which continues to help them to show up at work and at home with their values and clear intent. It’s hard work, and it’s worth it.
+
+::: blockquote-blue
+> *"We will all be more intentional listeners, showing up for one another."* **--- Openscapes Mentor**
+:::
+
+## Resources and related posts
+
+- [Openscapes Powerful Questions card deck](https://github.com/Openscapes/powerful-questions-card-deck) by Tara Robertson, 2025
+
+- Lara Hogan’s [20 Great Open Questions](https://wherewithall.com/resources/20-Great-Open-Questions.pdf)
+
+- Priya Parker’s Magical Questions
+
+  - Tell me about the first time you did X, and tell me what you think about it now
+
+  - Tell me about the first time you travel by yourself
+
+- [You Need a Manifesto](https://bookshop.org/p/books/you-need-a-manifesto-how-to-craft-your-convictions-and-put-them-to-work/2e28593bb6c909d0?ean=9781984858061&next=t&) a book of exercises for identifying values and language around why you do what you do, from Charlotte Burgess-Auburn at Stanford’s Design School
+
+- [Dare To Lead/Brené Brown’s Values List](https://brenebrown.com/resources/dare-to-lead-list-of-values/)
+
+- [How coaching skills have made us better open data science mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/index.html), by Tara Robertson, Stefanie Butland, Julie Lowndes, on Openscapes 2023 Mentoring with a Coach Approach series.
+
+::: {style="text-align:center;"}
+![Photo by Elliot Lowndes](mrlowndes-bee.jpg){fig-alt="A bee standing on a pink flower with multiple florets, against a black background" fig-align="center" width="85%"}
+:::

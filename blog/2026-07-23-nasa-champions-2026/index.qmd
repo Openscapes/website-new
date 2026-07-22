@@ -20,18 +20,17 @@ date: 2026-07-23
 citation: 
   url: https://openscapes.org/blog/2026-07-23-nasa-champions-2026
 categories: [blog, champions]
-image: image.png
+image: ./zommie_2.png 
 ---
 
 *This spring we had our 2026 NASA Champions Cohort (aka Openscapes Suborbital Clinic) with a twist: 4 sessions over one month with a suborbital emphasis. Most of our lessons were taught as usual, with NASA Openscapes Mentor Ian Carroll (OB.DAAC) presenting the Better Science lesson in the first call. We also included 2 new lessons: Metadata strategies for suborbital data by NASA Openscapes Mentor Rupesh Shrestha (ORNL) and Documenting with notebooks by Openscapes’ newest team member Ronny Hernandez Mora! We planned and led this Cohort on a short timeline to maximize early availability by the EVS-4 science teams. We plan to host biweekly coworking with EVS-4 teams (it’s ok if team members didn’t participate in Champions!) and NASA Mentors, starting in September. There are some shared needs already surfaced and we’ll see what folks want to prioritize and how we can support.*
 
 *Quicklinks:*
 
-- Cohort webpage: https://nasa-openscapes.github.io/2026-nasa-champions/ 
-- Better Science for Future Us (slides, video), by Ian Carroll Associate Research Scientist at the University of Maryland Baltimore County working for NASA Goddard Space Flight Center.
-- Metadata for Suborbital Data Publication (slides, video), by Rupesh Shrestha and Michele Thornton research staff scientists at Oak Ridge National Laboratory (ORNL), and NASA Openscapes Mentors.
-- Project overview blog: Supporting NASA suborbital science teams to develop reproducible workflows
-
+- *Cohort webpage: [https://nasa-openscapes.github.io/2026-nasa-champions/](https://nasa-openscapes.github.io/2026-nasa-champions/)*   
+- *Better Science for Future Us ([slides](https://openscapes.github.io/series/core-lessons/guest-instructors/better-science-2026-06-03.html#/title-slide), [video](https://www.youtube.com/watch?si=utRv6sqsELhaecNn&v=aDeXqxkgYYM&feature=youtu.be&themeRefresh=1)), by [Ian Carroll](https://science.gsfc.nasa.gov/sci/bio/ian.t.carroll) Associate Research Scientist at the University of Maryland Baltimore County working for NASA Goddard Space Flight Center.*  
+- *Metadata for Suborbital Data Publication ([slides](https://docs.google.com/presentation/d/1-flozA_ph9tBzqatoOs69lD8NpcfiIZ6VFeP2MDINmk/edit?slide=id.g3f173a351bb_1_137#slide=id.g3f173a351bb_1_137)*, [*video*](https://drive.google.com/file/d/19trpyeo4DAV3qtFi-Cje_CWGUoqlPP0o/view?usp=sharing&t=345.229)*), by [Rupesh Shrestha](https://www.ornl.gov/staff-profile/rupesh-shrestha) and [Michele Thornton](https://www.ornl.gov/staff-profile/michele-m-thornton) research staff scientists at Oak Ridge National Laboratory (ORNL), and [NASA Openscapes](https://nasa-openscapes.github.io/) Mentors.*  
+- *Project overview blog: [Supporting NASA suborbital science teams to develop reproducible workflows](https://openscapes.org/blog/2026-03-03-suborbital/)*
 
 *Cross-posted at *
 
@@ -82,10 +81,8 @@ these people to all be together. NASA Openscapes Mentors Ian Carroll (OB.DAAC)
 and Rupesh Shrestha (ORNL) taught great lessons that resonated with the
 participants, and developed materials to reuse.
 
-TODO: Zoomie photo (in our folder), caption, and alt text
-
-::: {style="text-align:center;"}
-![Video conference screen shot of some researchers in the 2026 ESA Openscapes Champions Cohort.](Zoomie-OpenscapesChampions%20%5B%202026-esa%20%5D.png){fig-alt="video conference participants in a 4 by 4 grid. People are smiling and waving" fig-align="center" width="60%"}
+::: {style=""}
+![Video conference screen shot of NASA Openscapes Champions Cohort.](./zommie.png){fig-alt="video conference participants in grid. People are smiling and waving" fig-align="center" width="60%"}
 :::
 
 ## Impact: What participants learned
@@ -202,11 +199,8 @@ factors such as aircraft movement, weather, and lighting conditions can affect
 the observations. Enriched metadata captures these details, supporting data
 interpretation, discoverability, and reuse.
 
-TODO: check Rupesh's slides and choose one to screenshot and include as an image, caption, and alt text
-
-
 ::: {style=""}
-![Video conference screen shot of some researchers in the 2026 ESA Openscapes Champions Cohort.](){fig-alt="video conference participants in a 4 by 4 grid. People are smiling and waving" fig-align="center" width="60%"}
+![Enhanced metadata workflow for suborbital data.](./SuborbitalMetadata.png){fig-alt="Conceptual flowchart showing enriched metadata about the platform, campaign, provenance, and measured variables associated with suborbital data granules. The granule metadata is represented using UMM-G, connected with GCMD terminology, and submitted to NASA’s Common Metadata Repository." fig-align="center" width="60%"}
 :::
 
 This Champions cohort was also used as onboarding for new NASA Openscapes

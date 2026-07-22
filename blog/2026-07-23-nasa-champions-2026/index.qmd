@@ -1,0 +1,51 @@
+---
+title: "NASA Openscapes supports different suborbital science groups leveraging their expertise and programming - 2026 Champions Recap"
+description: "Recap of our first ESA Openscapes Champions Cohort"
+author:
+  - name: Rupesh Shrestha
+    orcid: 
+  - name: Michele Thornton
+    orcid: 
+  - name: Ian Carroll
+    orcid: 
+  - name: Ronny Hernández Mora
+    orcid: 0000-0001-6225-7096
+  - name: Andy Teucher
+    orcid:
+  - name: Julie Lowndes
+    orcid: 0000-0003-1682-3872
+  - name: Stefanie Butland
+    orcid: 0000-0002-5427-8951
+date: 2026-07-23
+citation: 
+  url: https://openscapes.org/blog/2026-07-23-nasa-champions-2026
+categories: [blog, champions]
+image: image.png
+---
+
+*This spring we had our 2026 NASA Champions Cohort (aka Openscapes Suborbital Clinic) with a twist: 4 sessions over one month with a suborbital emphasis. Most of our lessons were taught as usual, with NASA Openscapes Mentor Ian Carroll (OB.DAAC) presenting the Better Science lesson in the first call. We also included 2 new lessons: Metadata strategies for suborbital data by NASA Openscapes Mentor Rupesh Shrestha (ORNL) and Documenting with notebooks by Openscapes’ newest team member Ronny Hernandez Mora! We planned and led this Cohort on a short timeline to maximize early availability by the EVS-4 science teams. We plan to host biweekly coworking with EVS-4 teams (it’s ok if team members didn’t participate in Champions!) and NASA Mentors, starting in September. There are some shared needs already surfaced and we’ll see what folks want to prioritize and how we can support.*
+
+*Quicklinks:*
+
+- Cohort webpage: https://nasa-openscapes.github.io/2026-nasa-champions/ 
+- Better Science for Future Us (slides, video), by Ian Carroll Associate Research Scientist at the University of Maryland Baltimore County working for NASA Goddard Space Flight Center.
+- Metadata for Suborbital Data Publication (slides, video), by Rupesh Shrestha and Michele Thornton research staff scientists at Oak Ridge National Laboratory (ORNL), and NASA Openscapes Mentors.
+- Project overview blog: Supporting NASA suborbital science teams to develop reproducible workflows
+
+
+*Cross-posted at *
+
+------------------------------------------------------------------------
+
+## NASA Openscapes Mentors supporting suborbital teams
+
+
+::: blockquote-blue
+> *“Having a practice that allows research to continue being used after researchers leave the lab - this resonated with me a lot”* - a participant comment during Call 1
+:::
+
+
+::: {style="text-align:center;"}
+![Video conference screen shot of some researchers in the 2026 ESA Openscapes Champions Cohort.](Zoomie-OpenscapesChampions%20%5B%202026-esa%20%5D.png){fig-alt="video conference participants in a 4 by 4 grid. People are smiling and waving" fig-align="center" width="60%"}
+:::
+

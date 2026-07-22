@@ -82,7 +82,7 @@ and Rupesh Shrestha (ORNL) taught great lessons that resonated with the
 participants, and developed materials to reuse.
 
 ::: {style=""}
-![Video conference screen shot of NASA Openscapes Champions Cohort.](./zommie.png){fig-alt="video conference participants in grid. People are smiling and waving" fig-align="center" width="60%"}
+![Video conference screen shot of NASA Openscapes Champions Cohort.](./zommie.png){fig-alt="video conference participants in grid. People are smiling and waving" fig-align="center" width="70%"}
 :::
 
 ## Impact: What participants learned
@@ -200,7 +200,7 @@ the observations. Enriched metadata captures these details, supporting data
 interpretation, discoverability, and reuse.
 
 ::: {style=""}
-![Enhanced metadata workflow for suborbital data.](./SuborbitalMetadata.png){fig-alt="Conceptual flowchart showing enriched metadata about the platform, campaign, provenance, and measured variables associated with suborbital data granules. The granule metadata is represented using UMM-G, connected with GCMD terminology, and submitted to NASA’s Common Metadata Repository." fig-align="center" width="60%"}
+![Enhanced metadata workflow for suborbital data.](./SuborbitalMetadata.png){fig-alt="Conceptual flowchart showing enriched metadata about the platform, campaign, provenance, and measured variables associated with suborbital data granules. The granule metadata is represented using UMM-G, connected with GCMD terminology, and submitted to NASA’s Common Metadata Repository." fig-align="center" width="80%"}
 :::
 
 This Champions cohort was also used as onboarding for new NASA Openscapes
@@ -294,7 +294,6 @@ challenges. We will create breakout rooms around the themes people work on, and
 will have Openscapes staff and NASA Openscapes Mentors available to mentor and
 develop as needs emerge. During the cohort sessions, some topics were suggested
 as areas where additional support could be valuable such as:    
- 
 
 * **Shared, open documentation with notebooks (Quarto, Jupyter)**   
   * How to create notebooks  
@@ -321,8 +320,6 @@ exchange and learning, and how communities can adapt to continue to welcome and
 support people.
 
 ## Related posts
-
-A paragraph including resources from Rupesh’s session? Such a big part of this 
 
 * [Thoughts from NASA Champions 2025 \- A welcome to NASA Earthdata and earthaccess](https://nasa-openscapes.github.io/news/2025-11-27-nasa-champions-2025-summary/)  
 * [NASA Champions 2024: Data strategies for when to use cloud, coding strategies for parallelization, & first examples of big science in the Cloud](https://nasa-openscapes.github.io/news/2024-07-24-2024-nasa-champions-cohort/)

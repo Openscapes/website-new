@@ -3,15 +3,15 @@ title: "NASA Openscapes supports different suborbital science groups leveraging 
 description: "Recap of our first ESA Openscapes Champions Cohort"
 author:
   - name: Rupesh Shrestha
-    orcid: 
+    orcid: 0000-0002-3140-6623
   - name: Michele Thornton
-    orcid: 
+    orcid: 0000-0002-6533-6328
   - name: Ian Carroll
-    orcid: 
+    orcid: 0000-0002-3616-810
   - name: Ronny Hernández Mora
     orcid: 0000-0001-6225-7096
   - name: Andy Teucher
-    orcid:
+    orcid: 0000-0002-7840-692X
   - name: Julie Lowndes
     orcid: 0000-0003-1682-3872
   - name: Stefanie Butland

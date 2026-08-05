@@ -1,6 +1,5 @@
 ---
 title: "NASA Openscapes supports different suborbital science groups leveraging their expertise and programming - 2026 Champions Recap"
-description: "Recap of our first ESA Openscapes Champions Cohort"
 author:
   - name: Rupesh Shrestha
     orcid: 0000-0002-3140-6623

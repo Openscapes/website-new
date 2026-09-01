@@ -30,7 +30,7 @@ date: 2026-09-01
 citation: 
   url: https://openscapes.org/blog/2026-09-01-esip-hacking-on-ideas/
 categories: [blog, noaa-fisheries, nasa-framework]
-#image: chasm-puppy-to-shepherd.png
+image: esip-pointcollocation-breakout.png
 ---
 
 *In July 2026, we participated in the [ESIP (Earth Systems Information Partners) Summer Meeting](https://2026julyesipmeeting.sched.com/) in Austin, Texas convening virtual and in-person participants under the theme of Bridging Divides: Data, Technology, Community. ESIP meetings are a unique and well-coordinated combination of community, conversation, and creativity that transforms the usual conference experience into an interactive and engaging meet-up for dreamers and doers alike. This year, the [NASA Openscapes](https://nasa-openscapes.github.io/) and [earthaccess](https://earthaccess.readthedocs.io/en/stable/) communities hosted a hackday to gather anyone interested in “making things easier for scientists” from policy, social, and technical perspectives. “Hackday” to us means collaboratively problem-solving and strategizing, and translating ideas into action. This includes decisions, code, and documentation. [earthaccess was one of the winners of ESIP’s FUNding Friday](https://earthaccess.readthedocs.io/en/latest/growing/esip-funding-friday-song-lyrics/) at the July 2025 ESIP Meeting, supporting a [hackday in December](https://openscapes.org/blog/2026-02-04-earthaccess-dec15-hackday/), and we were grateful the ESIP staff provided us a room to host one again. Here is some of what we all learned along the way!*
@@ -85,6 +85,10 @@ Openscapes hosted this Hackday the day before formal programming for the confere
 
 35 participants joined us, from across different agencies and organizations (NASA, NOAA, Open Geospatial Consortium, Federal Geographic Data Committee, Open Science Computing). 
 
+::: {style="text-align:center;"}
+![Hackday participants identified the ideal combination of learning and development in the context of motivations when working in a project team by answering: When working on a project team, what do you personally need to experience for this time to be a satisfying success? What supports & motivates your learning? Each sticky note positioned in the triangle describes a participants ideal combination of motivation driven by: completing tasks/projects (top), working out challenges & tasks on my own (bottom left), and peer learning, co-mentoring, and working together (bottom right). *From Charley Haley eScience Institute/Wayforagers.org, inspired by feedback from Michelle Hu (original [slides](https://docs.google.com/presentation/d/1qJDpFdS42kF5pcrbmxm1xFWzNoNamVrnMFelwAOh73Q/edit?slide=id.ge3b3f30b2a_5_53#slide=id.ge3b3f30b2a_5_53)).*](esip-hackday-icebreaker.png){fig-alt="A room full of seated Hackday participants is looking toward the presenter of the breakout group activity. The activity is displayed on a wall and made up of sticky notes within a triangle of red tape, representing the spectrum of audience perspectives on collaboration." fig-align="center"}
+:::
+
 ## **What we learned together**
 
 Over the course of the five hours we spent together, we used a combination of community building tools (group icebreaker, silent journaling, agenda in a shared Google doc for collaborative note taking) and active conversation (in breakouts and reporting out to the group) to encourage connection, ideation, and documentation, for folks to hack on. We had four breakout groups with the following topics: 
@@ -119,14 +123,31 @@ Across all breakout groups there were three themes that emerged time and time ag
 
 **Interoperability + Quality Control**
 
-*Within the STAC group, participants identified earthaccess as a good place to start hacking on improved interoperability in data cataloging. Challenges the group identified included: richness of [CMR](https://www.earthdata.nasa.gov/about/esdis/eosdis/cmr) (NASA’s common metadata repository), data getting lost, limitations around storing search results for future use, and the necessity to reduce CMR hits in order to increase efficiency.*  
+Within the STAC group, participants identified earthaccess as a good place to start hacking on improved interoperability in data cataloging. Challenges the group identified included: richness of [CMR](https://www.earthdata.nasa.gov/about/esdis/eosdis/cmr) (NASA’s common metadata repository), data getting lost, limitations around storing search results for future use, and the necessity to reduce CMR hits in order to increase efficiency. 
 
+::: blockquote-blue
 > *During the Hackday they asked the following:* ***What is a small step we can take?***
+:::
 
-*As a group they determined their step to be drafting a new section/page for the Earthdata Cloud Cookbook, under Core Concepts to cover Metadata Catalogs. Their time together resulted in drafted language, suggested content, and references to include, outlined in a [GitHub Issue](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook/issues/501).*
+As a group they determined their step to be drafting a new section/page for the Earthdata Cloud Cookbook, under Core Concepts to cover Metadata Catalogs. Their time together resulted in drafted language, suggested content, and references to include, outlined in a [GitHub Issue](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook/issues/501).
 
-\
-Heading H2
+**User Experience Challenges**
+
+Within the virtual datasets group, they role-played a new user’s experience virtualizing NASA data to test for challenges and stopping points. To do so, they tested the virtualization of data from the Oak Ridge National Laboratory Distributed Active Archive Center (ORNL DAAC) where terrestrial biogeochemistry, ecology, and environmental information is stored. 
+
+> *Very quickly the group’s task was complicated and stalled. So they took a step back and asked: **What assumptions are we making about our users?***
+
+In doing so they determined that a key user assumption was “breaking” the workflow in a place they wanted to be more flexible. Another success was watching this group hit a snag that another researcher in the room, Tom Nicholas (Earthmover), was able to troubleshoot and advise on! They were given direct and actionable feedback that resulted in success that would have been stalled significantly without the improvisation of breakout group collaboration during the Hackday. As a result, by the end of the Hackday their group had determined the steps of a successful, local workflow. They concluded with identifying scalability as a primary challenge to address moving forward.
+
+::: {style="text-align:center;"}
+![Eli Holmes (NOAA Fisheries Openscapes and Open Science Lead) leading the point collocation group sharing resources with one another to improve the new user experience. Roland Schweitzer (NOAA PMEL) points to his workflow that he hopes point-collocation can solve – this was his goal for attending the Hackday!](esip-pointcollocation-breakout.png){fig-alt="A group of six people sit or stand around a round table with laptop screens open. One person points to their screen as others watch or listen." fig-align="center"}
+:::
+
+## **Closing** 
+
+One of the most impactful outcomes of the Hackday was the opportunity to ask powerful questions in community where being in the same space allowed spontaneity for novel conversation. When participating in a Hackday, the reality of solving a big question in a few hours is more often than not impractical. We are approaching big, bold revisions to how we work and approach scientific innovation, research, and progress that require collective and long-term effort. 
+
+What does this mean for your organization or individual work? It means incremental, intentional steps towards open science can look like asking questions that we are years away from answering and speaking honestly about how we are trying now. In doing so, we have seen in real time how disparate ideas become pathways to successful collaboration, how troubleshooting across a different ecosystem of problems informs a new approach, and how collective conversation instigates the exploration and expansion of technical approaches. As organizations large and small grapple with the realities of the rapidly shifting landscape of data science and scientific research, significant technological shifts and innovations will require social hacking. This model of hacking on decisions has proven useful at any stage and is a framework we emphasize as a tool to bring anyone a step closer to their big, bold ideas. 
 
 Text
 
@@ -134,27 +155,7 @@ Text
 > *"Quote in italics"* - **Name, Affiliation in boldface**
 :::
 
-**An image:**
-
-::: {style="text-align:center;"}
-![Caption, centered under centered image. Image 85 to 100% width](esip-hackday-icebreaker.png){fig-alt="A room full of seated Hackday participants is looking toward the presenter of the breakout group activity. The activity is displayed on a wall and made up of sticky notes within a triangle of red tape, representing the spectrum of audience perspectives on collaboration." fig-align="center"}
-:::
-
-**An image with text beside it**, added by using columns. Column widths must add up to 12:
-
-::::: grid
-::: g-col-2
-![](earthaccesslogo.png){fig-alt="The earthaccess logo by Allison Horst: a hexagonal shape with the words earth access on two separate lines with pixelated sky with clouds and earth with land and sea" fig-align="left" width="100%"}
-:::
-
-::: g-col-10
-Join us to celebrate `earthaccess`, a python library that simplifies search and access of NASA Earth science data to a few lines of code.
-
-We will record the presentations and post on [Openscapes YouTube](https://www.youtube.com/@openscapes/videos).
-:::
-:::::
-
-## For an event
+**An image:**For an event
 
 **Date**: Tuesday, July 29, 2025 **Time**: 9:30 - 11:00 am PT ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Community+Call%3A+What+we%E2%80%99re+learning+about+cloud+costs+for+Earth+science+workflows+in+our+JupyterHub&iso=20250422T0930&p1=1050&ah=1)) <!---**Where**: Zoom
 **Register (free)** via [Zoom](https://zoom.us/meeting/register/Lnt3E9NRSK-deXCN1kkviw) to get the meeting link.---> **View** [recording](https://youtu.be/t8gUSUlSqnc)<!--- and [summary](/blog/LINK).--->

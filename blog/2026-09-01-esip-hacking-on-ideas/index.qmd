@@ -55,7 +55,7 @@ image: esip-pointcollocation-breakout.png
 
 ------------------------------------------------------------------------
 
-## **Arriving in the action**
+## Arriving in the action
 
 As conference attendees arrived in preparation for the upcoming meeting, our Hackday room in the conference center quickly filled, and with participants came an air of excitement. While setting up to begin, we could hear snippets of conversations, meetings, and reunions. Questions of “how far did you come from?” and introductions followed by “wow, it’s so awesome to see you in person!” swirled around the room as we all began to gather for our time “hacking” together. Hacking can mean many things, and more often than not it is associated with hands-on coding and troubleshooting, however, here we were hacking on decisions. Specifically, we challenged everyone to consider the friction in their work and the barriers to the implementation, usability, or social infrastructure for success that exist for their projects. We shared frustrations, heard successes, enjoyed the ease of asking questions while all in the same room, and ultimately came out with stronger projects and ideas on the other side. 
 
@@ -89,7 +89,7 @@ Openscapes hosted this Hackday the day before formal programming for the confere
 ![Hackday participants identified the ideal combination of learning and development in the context of motivations when working in a project team by answering: When working on a project team, what do you personally need to experience for this time to be a satisfying success? What supports & motivates your learning? Each sticky note positioned in the triangle describes a participants ideal combination of motivation driven by: completing tasks/projects (top), working out challenges & tasks on my own (bottom left), and peer learning, co-mentoring, and working together (bottom right). *From Charley Haley eScience Institute/Wayforagers.org, inspired by feedback from Michelle Hu (original [slides](https://docs.google.com/presentation/d/1qJDpFdS42kF5pcrbmxm1xFWzNoNamVrnMFelwAOh73Q/edit?slide=id.ge3b3f30b2a_5_53#slide=id.ge3b3f30b2a_5_53)).*](esip-hackday-icebreaker.png){fig-alt="A room full of seated Hackday participants is looking toward the presenter of the breakout group activity. The activity is displayed on a wall and made up of sticky notes within a triangle of red tape, representing the spectrum of audience perspectives on collaboration." fig-align="center"}
 :::
 
-## **What we learned together**
+## What we learned together
 
 Over the course of the five hours we spent together, we used a combination of community building tools (group icebreaker, silent journaling, agenda in a shared Google doc for collaborative note taking) and active conversation (in breakouts and reporting out to the group) to encourage connection, ideation, and documentation, for folks to hack on. We had four breakout groups with the following topics: 
 
@@ -143,19 +143,8 @@ In doing so they determined that a key user assumption was “breaking” the wo
 ![Eli Holmes (NOAA Fisheries Openscapes and Open Science Lead) leading the point collocation group sharing resources with one another to improve the new user experience. Roland Schweitzer (NOAA PMEL) points to his workflow that he hopes point-collocation can solve – this was his goal for attending the Hackday!](esip-pointcollocation-breakout.png){fig-alt="A group of six people sit or stand around a round table with laptop screens open. One person points to their screen as others watch or listen." fig-align="center"}
 :::
 
-## **Closing** 
+## Closing
 
 One of the most impactful outcomes of the Hackday was the opportunity to ask powerful questions in community where being in the same space allowed spontaneity for novel conversation. When participating in a Hackday, the reality of solving a big question in a few hours is more often than not impractical. We are approaching big, bold revisions to how we work and approach scientific innovation, research, and progress that require collective and long-term effort. 
 
-What does this mean for your organization or individual work? It means incremental, intentional steps towards open science can look like asking questions that we are years away from answering and speaking honestly about how we are trying now. In doing so, we have seen in real time how disparate ideas become pathways to successful collaboration, how troubleshooting across a different ecosystem of problems informs a new approach, and how collective conversation instigates the exploration and expansion of technical approaches. As organizations large and small grapple with the realities of the rapidly shifting landscape of data science and scientific research, significant technological shifts and innovations will require social hacking. This model of hacking on decisions has proven useful at any stage and is a framework we emphasize as a tool to bring anyone a step closer to their big, bold ideas. 
-
-Text
-
-::: blockquote-blue
-> *"Quote in italics"* - **Name, Affiliation in boldface**
-:::
-
-**An image:**For an event
-
-**Date**: Tuesday, July 29, 2025 **Time**: 9:30 - 11:00 am PT ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Community+Call%3A+What+we%E2%80%99re+learning+about+cloud+costs+for+Earth+science+workflows+in+our+JupyterHub&iso=20250422T0930&p1=1050&ah=1)) <!---**Where**: Zoom
-**Register (free)** via [Zoom](https://zoom.us/meeting/register/Lnt3E9NRSK-deXCN1kkviw) to get the meeting link.---> **View** [recording](https://youtu.be/t8gUSUlSqnc)<!--- and [summary](/blog/LINK).--->
+What does this mean for your organization or individual work? It means incremental, intentional steps towards open science can look like asking questions that we are years away from answering and speaking honestly about how we are trying now. In doing so, we have seen in real time how disparate ideas become pathways to successful collaboration, how troubleshooting across a different ecosystem of problems informs a new approach, and how collective conversation instigates the exploration and expansion of technical approaches. As organizations large and small grapple with the realities of the rapidly shifting landscape of data science and scientific research, significant technological shifts and innovations will require social hacking. This model of hacking on decisions has proven useful at any stage and is a framework we emphasize as a tool to bring anyone a step closer to their big, bold ideas.

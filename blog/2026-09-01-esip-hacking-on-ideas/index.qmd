@@ -32,7 +32,7 @@ citation:
 categories: [blog, noaa-fisheries, nasa-framework]
 image: esip-pointcollocation-breakout.png
 callout-appearance: minimal
-callout-icon: false
+callout-icon: true
 callout-collapse: true
 ---
 
@@ -98,27 +98,35 @@ Over the course of the five hours we spent together, we used a combination of co
 
 ##### *earthaccess onboarding \| Goal: Development of clear and practical use cases with a focus on new user onboarding and documentation of user challenges (Lead: Amy Steiker, NSIDC DAAC)*  
 
-::: {.callout-note collapse="true" appearance="simple" icon="true" collapse = "true"} \## earthaccess
+::: {.callout-note collapse = "true"}
+## earthaccess
 
-earthaccess is a community-driven Python library that enables access to NASA’s Earth science data with just a few lines of code. (<https://earthaccess.readthedocs.io>) :::
+earthaccess is a community-driven Python library that enables access to NASA’s Earth science data with just a few lines of code. (<https://earthaccess.readthedocs.io>)
+:::
 
 ##### *STAC (SpatioTemporal Asset Catalogs) \| Goal: To support a broader vision of interoperable metadata cataloguing and to explore earthaccess as a pathway for success (Lead: Danny Kaufman, ASDC and Ian Carroll, OB.DAAC)*
 
-::: {.callout-note collapse="true" appearance="simple" icon="true" collapse = "true"} \## STAC
+::: {.callout-note collapse="true" }
+## STAC
 
-STAC specification is a common language for describing and cataloguing files of geospatial information about the earth captured in a certain space and time. (<https://stacspec.org/>) :::
+STAC specification is a common language for describing and cataloguing files of geospatial information about the earth captured in a certain space and time. (<https://stacspec.org/>)
+:::
 
 ##### *Point-collocation \| Goal: To test and develop pre-existing examples of new user workflows and identify challenges to usability. (Lead: Eli Holmes, NOAA Fisheries)*
 
-::: {.callout-note collapse="true" appearance="simple" icon="true" collapse = "true"} \## point-collocation
+::: {.callout-note collapse="true"} 
+## point-collocation
 
-point-collocation is a Python library built as an earthaccess plug-in that can combine data from field stations, animal tracks, survey points, or other lat/lon/time observations and the corresponding satellite or model values from NASA Earthdata (<https://fish-pace.github.io/point-collocation>) :::
+point-collocation is a Python library built as an earthaccess plug-in that can combine data from field stations, animal tracks, survey points, or other lat/lon/time observations and the corresponding satellite or model values from NASA Earthdata (<https://fish-pace.github.io/point-collocation>).
+:::
 
 ##### *earthaccess virtual datasets \| Goal: Identifying ergonomic and performance opportunities with earthaccess virtual access patterns. (Lead: Luis Lopez)*
 
-::: {.callout-note collapse="true" appearance="simple" icon="true" collapse = "true"} \## virtual data stores
+::: {.callout-note collapse="true"} 
+## virtual data stores
 
-Virtual data stores is an approach that enables data that is not cloud-optimized to masquerade as cloud-optimized, something required in order to stream data instead of downloading ([NASA blog](https://www.earthdata.nasa.gov/news/feature-articles/working-non-cloud-optimized-data-just-got-easier), [virtualzarr.cloud](https://virtualzarr.cloud/news))  :::
+Virtual data stores is an approach that enables data that is not cloud-optimized to masquerade as cloud-optimized, something required in order to stream data instead of downloading ([NASA blog](https://www.earthdata.nasa.gov/news/feature-articles/working-non-cloud-optimized-data-just-got-easier), [virtualzarr.cloud](https://virtualzarr.cloud/news))  
+:::
 
 ##### *(Transitioned to a social hour discussion) Earth data in the age of AI agents + how they are changing the game.*
 

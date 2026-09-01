@@ -1,5 +1,5 @@
 ---
-title: "Finding solutions faster by hacking on ideas with Openscapes at ESIP"
+title: "Finding Solutions Faster by Hacking on Ideas with Openscapes at ESIP"
 #description: "Subtitle"
 author:
   - name: Ileana Fenwick 
@@ -31,6 +31,9 @@ citation:
   url: https://openscapes.org/blog/2026-09-01-esip-hacking-on-ideas/
 categories: [blog, noaa-fisheries, nasa-framework]
 image: esip-pointcollocation-breakout.png
+callout-appearance: minimal
+callout-icon: false
+callout-collapse: true
 ---
 
 *In July 2026, we participated in the [ESIP (Earth Systems Information Partners) Summer Meeting](https://2026julyesipmeeting.sched.com/) in Austin, Texas convening virtual and in-person participants under the theme of Bridging Divides: Data, Technology, Community. ESIP meetings are a unique and well-coordinated combination of community, conversation, and creativity that transforms the usual conference experience into an interactive and engaging meet-up for dreamers and doers alike. This year, the [NASA Openscapes](https://nasa-openscapes.github.io/) and [earthaccess](https://earthaccess.readthedocs.io/en/stable/) communities hosted a hackday to gather anyone interested in “making things easier for scientists” from policy, social, and technical perspectives. “Hackday” to us means collaboratively problem-solving and strategizing, and translating ideas into action. This includes decisions, code, and documentation. [earthaccess was one of the winners of ESIP’s FUNding Friday](https://earthaccess.readthedocs.io/en/latest/growing/esip-funding-friday-song-lyrics/) at the July 2025 ESIP Meeting, supporting a [hackday in December](https://openscapes.org/blog/2026-02-04-earthaccess-dec15-hackday/), and we were grateful the ESIP staff provided us a room to host one again. Here is some of what we all learned along the way!*
@@ -61,9 +64,9 @@ As conference attendees arrived in preparation for the upcoming meeting, our Hac
 
 ## The Hackday : what we did
 
-*A timeline of the Hackday*
+Before joining us at ESIP we asked attendees to answer “What problem do you think needs solving?” in a shared ideas document. We used this as a guide to design collaborative breakout groups during the session. Attendees could also arrive and pitch new ideas!
 
-*Before joining us at ESIP we asked attendees to answer “What problem do you think needs solving?” in a shared ideas document. We used this as a guide to design collaborative breakout groups during the session. Attendees could also arrive and pitch new ideas!* 
+A timeline of the Hackday:
 
 1:30-2:30 pm CDT - Welcome; pitches
 
@@ -93,45 +96,43 @@ Openscapes hosted this Hackday the day before formal programming for the confere
 
 Over the course of the five hours we spent together, we used a combination of community building tools (group icebreaker, silent journaling, agenda in a shared Google doc for collaborative note taking) and active conversation (in breakouts and reporting out to the group) to encourage connection, ideation, and documentation, for folks to hack on. We had four breakout groups with the following topics: 
 
-*earthaccess onboarding \| Goal: Development of clear and practical use cases with a focus on new user onboarding and documentation of user challenges (Lead: Amy Steiker, NSIDC DAAC)*  
+##### *earthaccess onboarding \| Goal: Development of clear and practical use cases with a focus on new user onboarding and documentation of user challenges (Lead: Amy Steiker, NSIDC DAAC)*  
 
-::: callout-note
-earthaccess is a community-driven python library that enables access to nasa’s earth science data with just a few lines of code. (<https://earthaccess.readthedocs.io>)
-:::
+::: {.callout-note collapse="true" appearance="simple" icon="true" collapse = "true"} \## earthaccess
 
-*STAC (SpatioTemporal Asset Catalogs) \| Goal: To support a broader vision of interoperable metadata cataloguing and to explore earthaccess as a pathway for success (Lead: Danny Kaufman, ASDC and Ian Carroll, OB.DAAC)*
+earthaccess is a community-driven Python library that enables access to NASA’s Earth science data with just a few lines of code. (<https://earthaccess.readthedocs.io>) :::
 
-::: callout-note
-STAC specification is a common language for describing and cataloguing files of geospatial information about the earth captured in a certain space and time. (https://stacspec.org/)
-:::
+##### *STAC (SpatioTemporal Asset Catalogs) \| Goal: To support a broader vision of interoperable metadata cataloguing and to explore earthaccess as a pathway for success (Lead: Danny Kaufman, ASDC and Ian Carroll, OB.DAAC)*
 
-*Point-collocation \| Goal: To test and develop pre-existing examples of new user workflows and identify challenges to usability. (Lead: Eli Holmes, NOAA Fisheries)*
+::: {.callout-note collapse="true" appearance="simple" icon="true" collapse = "true"} \## STAC
 
-::: callout-note
-point-collocation is a Python library built as an earthaccess plug-in that can combine data from field stations, animal tracks, survey points, or other lat/lon/time observations and the corresponding satellite or model values from NASA Earthdata (https://fish-pace.github.io/point-collocation)
-:::
+STAC specification is a common language for describing and cataloguing files of geospatial information about the earth captured in a certain space and time. (<https://stacspec.org/>) :::
 
-*earthaccess virtual datasets \| Goal: Identifying ergonomic and performance opportunities with earthaccess virtual access patterns. (Lead: Luis Lopez)*
+##### *Point-collocation \| Goal: To test and develop pre-existing examples of new user workflows and identify challenges to usability. (Lead: Eli Holmes, NOAA Fisheries)*
 
-::: callout-note
-Virtual data stores is an approach that enables data that is not cloud-optimized to masquerade as cloud-optimized, something required in order to stream data instead of downloading ([NASA blog](https://www.earthdata.nasa.gov/news/feature-articles/working-non-cloud-optimized-data-just-got-easier), [virtualzarr.cloud](https://virtualzarr.cloud/news)) 
-:::
+::: {.callout-note collapse="true" appearance="simple" icon="true" collapse = "true"} \## point-collocation
 
-*(Transitioned to a social hour discussion) Earth data in the age of AI agents + how they are changing the game.*
+point-collocation is a Python library built as an earthaccess plug-in that can combine data from field stations, animal tracks, survey points, or other lat/lon/time observations and the corresponding satellite or model values from NASA Earthdata (<https://fish-pace.github.io/point-collocation>) :::
+
+##### *earthaccess virtual datasets \| Goal: Identifying ergonomic and performance opportunities with earthaccess virtual access patterns. (Lead: Luis Lopez)*
+
+::: {.callout-note collapse="true" appearance="simple" icon="true" collapse = "true"} \## virtual data stores
+
+Virtual data stores is an approach that enables data that is not cloud-optimized to masquerade as cloud-optimized, something required in order to stream data instead of downloading ([NASA blog](https://www.earthdata.nasa.gov/news/feature-articles/working-non-cloud-optimized-data-just-got-easier), [virtualzarr.cloud](https://virtualzarr.cloud/news))  :::
+
+##### *(Transitioned to a social hour discussion) Earth data in the age of AI agents + how they are changing the game.*
 
 Across all breakout groups there were three themes that emerged time and time again: interoperability, quality control, and user experience challenges. Below we share some of the actions, conversations, and powerful questions that emerged from our time together.
 
-**Interoperability + Quality Control**
+#### **Interoperability + Quality Control**
 
 Within the STAC group, participants identified earthaccess as a good place to start hacking on improved interoperability in data cataloging. Challenges the group identified included: richness of [CMR](https://www.earthdata.nasa.gov/about/esdis/eosdis/cmr) (NASA’s common metadata repository), data getting lost, limitations around storing search results for future use, and the necessity to reduce CMR hits in order to increase efficiency. 
 
-::: blockquote-blue
 > *During the Hackday they asked the following:* ***What is a small step we can take?***
-:::
 
 As a group they determined their step to be drafting a new section/page for the Earthdata Cloud Cookbook, under Core Concepts to cover Metadata Catalogs. Their time together resulted in drafted language, suggested content, and references to include, outlined in a [GitHub Issue](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook/issues/501).
 
-**User Experience Challenges**
+#### **User Experience Challenges**
 
 Within the virtual datasets group, they role-played a new user’s experience virtualizing NASA data to test for challenges and stopping points. To do so, they tested the virtualization of data from the Oak Ridge National Laboratory Distributed Active Archive Center (ORNL DAAC) where terrestrial biogeochemistry, ecology, and environmental information is stored. 
 

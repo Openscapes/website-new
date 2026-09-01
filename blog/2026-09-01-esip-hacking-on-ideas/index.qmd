@@ -4,26 +4,28 @@ title: "Finding Solutions Faster by Hacking on Ideas with Openscapes at ESIP"
 author:
   - name: Ileana Fenwick 
     orcid: 0009-0002-2900-8236
-  - name: Amy Steiker, NSIDC DAAC
-  - name: Mikala	Beig, NSIDC DAAC
-  - name: Ian Carroll, OB.DAAC
-  - name: Rupesh Shrestha, ORNL DAAC
-  - name: Daniel	Kaufman, ASDC
-  - name: Luis Lopez Espinosa, NSIDC 
-  - name: Diane Fritz, NSIDC DAAC
-  - name: Aimee	Neeley, NASA (ICESat-2 Mission Applications lead) 
-  - name: Eli Holmes, NOAA Fisheries
-  - name: Julie Lowndes, Openscapes
-  - name: Ronny	Hernández Mora, Openscapes
-  - name: Stefanie Butland, Openscapes  
-  - name: Justin Rice, NASA 
-  - name: Kate Rose, NOAA NCEI
-  - name: Roland Schweitzer, NOAA/PMEL
-  - name: Jimi Sanchez, NASA ESDIS 
-  - name: Mathew Biddle, NOAA IOOS
-  - name: Tim Goff, EED3 EDC platform/ RTX 
-  - name: Katherine Pitts, STC for NOAA/NESDIS/GEO Program Science  
-  - name: Rich Signell, Open Science Computing
+  - name: ESIP Hackday Attendees 
+  - name: Openscapes Team  
+  # - name: Amy Steiker, NSIDC DAAC
+  # - name: Mikala	Beig, NSIDC DAAC
+  # - name: Ian Carroll, OB.DAAC
+  # - name: Rupesh Shrestha, ORNL DAAC
+  # - name: Daniel	Kaufman, ASDC
+  # - name: Luis Lopez Espinosa, NSIDC 
+  # - name: Diane Fritz, NSIDC DAAC
+  # - name: Aimee	Neeley, NASA (ICESat-2 Mission Applications lead) 
+  # - name: Eli Holmes, NOAA Fisheries
+  # - name: Julie Lowndes, Openscapes
+  # - name: Ronny	Hernández Mora, Openscapes
+  # - name: Stefanie Butland, Openscapes  
+  # - name: Justin Rice, NASA 
+  # - name: Kate Rose, NOAA NCEI
+  # - name: Roland Schweitzer, NOAA/PMEL
+  # - name: Jimi Sanchez, NASA ESDIS 
+  # - name: Mathew Biddle, NOAA IOOS
+  # - name: Tim Goff, EED3 EDC platform/ RTX 
+  # - name: Katherine Pitts, STC for NOAA/NESDIS/GEO Program Science  
+  # - name: Rich Signell, Open Science Computing
 
 date: 2026-09-01
 # draft: true
@@ -37,6 +39,8 @@ callout-collapse: false
 ---
 
 *In July 2026, we participated in the [ESIP (Earth Systems Information Partners) Summer Meeting](https://2026julyesipmeeting.sched.com/) in Austin, Texas convening virtual and in-person participants under the theme of Bridging Divides: Data, Technology, Community. ESIP meetings are a unique and well-coordinated combination of community, conversation, and creativity that transforms the usual conference experience into an interactive and engaging meet-up for dreamers and doers alike. This year, the [NASA Openscapes](https://nasa-openscapes.github.io/) and [earthaccess](https://earthaccess.readthedocs.io/en/stable/) communities hosted a hackday to gather anyone interested in “making things easier for scientists” from policy, social, and technical perspectives. “Hackday” to us means collaboratively problem-solving and strategizing, and translating ideas into action. This includes decisions, code, and documentation. [earthaccess was one of the winners of ESIP’s FUNding Friday](https://earthaccess.readthedocs.io/en/latest/growing/esip-funding-friday-song-lyrics/) at the July 2025 ESIP Meeting, supporting a [hackday in December](https://openscapes.org/blog/2026-02-04-earthaccess-dec15-hackday/), and we were grateful the ESIP staff provided us a room to host one again. Here is some of what we all learned along the way!*
+
+*Authors and Affiliations: Ileana Fenwick, Opescapes; Amy Steiker, NSIDC DAAC; Mikala Beig, NSIDC DAAC; Ian Carroll, OB.DAAC; Rupesh Shrestha, ORNL DAAC; Daniel Kaufman, ASDC; Luis Lopez Espinosa, NSIDC; Diane Fritz, NSIDC DAAC; Aimee Neeley, NASA (ICESat-2 Mission Applications lead); Eli Holmes, NOAA Fisheries; Julie Lowndes, Openscapes; Ronny Hernández Mora, Openscapes; Stefanie Butland, Openscapes; Justin Rice, NASA; Kate Rose, NOAA NCEI; Roland Schweitzer, NOAA/PMEL; Jimi Sanchez, NASA ESDIS; Mathew Biddle, NOAA IOOS; Tim Goff, EED3 EDC platform/ RTX; Katherine Pitts, STC for NOAA/NESDIS/GEO Program Science; Rich Signell, Open Science Computing*
 
 *Quicklinks:*
 
@@ -122,7 +126,7 @@ point-collocation is a Python library built as an earthaccess plug-in that can c
 
 **earthaccess virtual datasets** \| Goal: Identifying ergonomic and performance opportunities with earthaccess virtual access patterns. (Lead: Luis Lopez)
 
-::: {.callout-note}
+::: callout-note
 ## virtual data stores
 
 Virtual data stores is an approach that enables data that is not cloud-optimized to masquerade as cloud-optimized, something required in order to stream data instead of downloading ([NASA blog](https://www.earthdata.nasa.gov/news/feature-articles/working-non-cloud-optimized-data-just-got-easier), [virtualzarr.cloud](https://virtualzarr.cloud/news)) 

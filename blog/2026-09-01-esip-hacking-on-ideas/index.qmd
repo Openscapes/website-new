@@ -1,0 +1,105 @@
+---
+title: "Title"
+description: "Subtitle"
+author:
+  - name: Stefanie Butland
+    orcid: 0000-0002-5427-8951
+  - name: the Openscapes Team
+  - name: and the NMFS Openscapes Mentors
+date: 2025-09-15
+draft: true
+citation: 
+  url: https://openscapes.org/blog/2025-09-15-blog-post-template-2025-09/
+categories: [blog, noaa-fisheries, nasa-framework]
+image: chasm-puppy-to-shepherd.png
+---
+
+*In July 2026, we participated in the [ESIP (Earth Systems Information Partners) Summer Meeting](https://2026julyesipmeeting.sched.com/) in Austin, Texas convening virtual and in-person participants under the theme of Bridging Divides: Data, Technology, Community. ESIP meetings are a unique and well-coordinated combination of community, conversation, and creativity that transforms the usual conference experience into an interactive and engaging meet-up for dreamers and doers alike. This year, the [NASA Openscapes](https://nasa-openscapes.github.io/) and [earthaccess](https://earthaccess.readthedocs.io/en/stable/) communities hosted a hackday to gather anyone interested in “making things easier for scientists” from policy, social, and technical perspectives. “Hackday” to us means collaboratively problem-solving and strategizing, and translating ideas into action. This includes decisions, code, and documentation. [earthaccess was one of the winners of ESIP’s FUNding Friday](https://earthaccess.readthedocs.io/en/latest/growing/esip-funding-friday-song-lyrics/) at the July 2025 ESIP Meeting, supporting a [hackday in December](https://openscapes.org/blog/2026-02-04-earthaccess-dec15-hackday/), and we were grateful the ESIP staff provided us a room to host one again. Here is some of what we all learned along the way!*
+
+*Quicklinks:*
+
+- [*Cohort webpage*](https://nmfs-openscapes.github.io/2024-nmfs-champions/)
+- [*Browse stories*](https://openscapes.org/blog#category=noaa-fisheries) about the NOAA Fisheries Openscapes framework
+
+*Quick links (example from a Community Call):*
+
+- *Community Call YouTube [Recording](https://youtu.be/t8gUSUlSqnc)*
+- *Speakers [Slides](https://docs.google.com/presentation/d/1cbjjlAlVfJq7n7TIt0fgQxz3lwhfRZvX-ctlPQC8D0I/edit?slide=id.g344f6b45c2f_0_380#slide=id.g344f6b45c2f_0_380)*
+- *Community Call [Collaborative Notes](https://docs.google.com/document/d/1VEP-CatRX_RzS9pBCfPPHcU5kskSvPbCp6fXq3optqs/edit?tab=t.0)*
+
+*Cross-posted at [openscapes.org/blog](https://openscapes.org/blog), [nmfs-openscapes.github.io/blog](https://nmfs-openscapes.github.io/blog)*, [*nasa-openscapes.github.io/news*](https://nasa-openscapes.github.io/news.html).
+
+------------------------------------------------------------------------
+
+## **Arriving in the action**
+
+As conference attendees arrived in preparation for the upcoming meeting, our Hackday room in the conference center quickly filled, and with participants came an air of excitement. While setting up to begin, we could hear snippets of conversations, meetings, and reunions. Questions of “how far did you come from?” and introductions followed by “wow, it’s so awesome to see you in person!” swirled around the room as we all began to gather for our time “hacking” together. Hacking can mean many things, and more often than not it is associated with hands-on coding and troubleshooting, however, here we were hacking on decisions. Specifically, we challenged everyone to consider the friction in their work and the barriers to the implementation, usability, or social infrastructure for success that exist for their projects. We shared frustrations, heard successes, enjoyed the ease of asking questions while all in the same room, and ultimately came out with stronger projects and ideas on the other side. 
+
+## The Hackday : what we did
+
+A timeline of the Hackday
+
+\
+
+Before joining us at ESIP we asked attendees to answer “What problem do you think needs solving?” in a shared ideas document. We used this as a guide to design collaborative breakout groups during the session. Attendees could also arrive and pitch new ideas! 
+
+\
+
+1:30-2:30 pm CDT - Welcome; pitches
+
+2:30-4:00 pm CDT - Breakout groups
+
+4:00-4:10 pm CDT - Midway Check-in
+
+4:10-5:30 pm CDT - Breakout groups
+
+5:15 pm CDT - Stop Hacking; summarize where you’ve gotten to and communicate
+
+5:30 pm CDT - Final Shareouts
+
+6:00 pm CDT - Close out, transition to social time!
+
+6:30-9pm CDT - Openscapes Happy Hour
+
+\
+
+Openscapes hosted this Hackday the day before formal programming for the conference began. Logistically, most ESIP attendees arrive on Day 0 as conference activities begin at 8 AM on Day 1. Those in attendance chose earlier flights and made arrangements to join us the afternoon before, which we intentionally planned so folks would not have to add extra travel to come! The space was generously provided by ESIP and coordinated by the Openscapes community.
+
+\
+
+35 participants joined us, from across different agencies and organizations (NASA, NOAA, Open Geospatial Consortium, Federal Geographic Data Committee, Open Science Computing). 
+
+Text
+
+## Heading H2
+
+Text
+
+::: blockquote-blue
+> *"Quote in italics"* - **Name, Affiliation in boldface**
+:::
+
+**An image:**
+
+::: {style="text-align:center;"}
+![Caption, centered under centered image. Image 85 to 100% width](esip-hackday-icebreaker.png){fig-alt="A room full of seated Hackday participants is looking toward the presenter of the breakout group activity. The activity is displayed on a wall and made up of sticky notes within a triangle of red tape, representing the spectrum of audience perspectives on collaboration." fig-align="center"}
+:::
+
+**An image with text beside it**, added by using columns. Column widths must add up to 12:
+
+::::: grid
+::: g-col-2
+![](earthaccesslogo.png){fig-alt="The earthaccess logo by Allison Horst: a hexagonal shape with the words earth access on two separate lines with pixelated sky with clouds and earth with land and sea" fig-align="left" width="100%"}
+:::
+
+::: g-col-10
+Join us to celebrate `earthaccess`, a python library that simplifies search and access of NASA Earth science data to a few lines of code.
+
+We will record the presentations and post on [Openscapes YouTube](https://www.youtube.com/@openscapes/videos).
+:::
+:::::
+
+## For an event
+
+**Date**: Tuesday, July 29, 2025 **Time**: 9:30 - 11:00 am PT ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Community+Call%3A+What+we%E2%80%99re+learning+about+cloud+costs+for+Earth+science+workflows+in+our+JupyterHub&iso=20250422T0930&p1=1050&ah=1)) <!---**Where**: Zoom
+**Register (free)** via [Zoom](https://zoom.us/meeting/register/Lnt3E9NRSK-deXCN1kkviw) to get the meeting link.---> **View** [recording](https://youtu.be/t8gUSUlSqnc)<!--- and [summary](/blog/LINK).--->

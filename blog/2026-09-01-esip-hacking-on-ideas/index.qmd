@@ -115,17 +115,15 @@ Virtual data stores is an approach that enables data that is not cloud-optimized
 
 *(Transitioned to a social hour discussion) Earth data in the age of AI agents + how they are changing the game.*
 
-Across all breakout groups there were three themes that emerged time and time again: interoperability, quality control, and user experience challenges. Below we share some of the actions, conversations, and powerful questions that emerged from our time together.\
+Across all breakout groups there were three themes that emerged time and time again: interoperability, quality control, and user experience challenges. Below we share some of the actions, conversations, and powerful questions that emerged from our time together.
 
 **Interoperability + Quality Control**
 
-Within the STAC group, participants identified earthaccess as a good place to start hacking on improved interoperability in data cataloging. Challenges the group identified included: richness of [CMR](https://www.earthdata.nasa.gov/about/esdis/eosdis/cmr) (NASA’s common metadata repository), data getting lost, limitations around storing search results for future use, and the necessity to reduce CMR hits in order to increase efficiency.  
+*Within the STAC group, participants identified earthaccess as a good place to start hacking on improved interoperability in data cataloging. Challenges the group identified included: richness of [CMR](https://www.earthdata.nasa.gov/about/esdis/eosdis/cmr) (NASA’s common metadata repository), data getting lost, limitations around storing search results for future use, and the necessity to reduce CMR hits in order to increase efficiency.*  
 
-During the Hackday they asked the following: **What is a small step we can take?**
+> *During the Hackday they asked the following:* ***What is a small step we can take?***
 
-\
-
-As a group they determined their step to be drafting a new section/page for the Earthdata Cloud Cookbook, under Core Concepts to cover Metadata Catalogs. Their time together resulted in drafted language, suggested content, and references to include, outlined in a [GitHub Issue](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook/issues/501).
+*As a group they determined their step to be drafting a new section/page for the Earthdata Cloud Cookbook, under Core Concepts to cover Metadata Catalogs. Their time together resulted in drafted language, suggested content, and references to include, outlined in a [GitHub Issue](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook/issues/501).*
 
 \
 Heading H2

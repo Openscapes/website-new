@@ -31,7 +31,7 @@ citation:
   url: https://openscapes.org/blog/2026-09-01-esip-hacking-on-ideas/
 categories: [blog, noaa-fisheries, nasa-framework]
 image: esip-pointcollocation-breakout.png
-callout-appearance: minimal
+callout-appearance: simple
 callout-icon: true
 callout-collapse: false
 ---
@@ -96,9 +96,9 @@ Openscapes hosted this Hackday the day before formal programming for the confere
 
 Over the course of the five hours we spent together, we used a combination of community building tools (group icebreaker, silent journaling, agenda in a shared Google doc for collaborative note taking) and active conversation (in breakouts and reporting out to the group) to encourage connection, ideation, and documentation, for folks to hack on. We had four breakout groups with the following topics: 
 
-##### *earthaccess onboarding \| Goal: Development of clear and practical use cases with a focus on new user onboarding and documentation of user challenges (Lead: Amy Steiker, NSIDC DAAC)*  
+**earthaccess onboarding** \| Goal: Development of clear and practical use cases with a focus on new user onboarding and documentation of user challenges (Lead: Amy Steiker, NSIDC DAAC)  
 
-::: {.callout-note } 
+::: callout-note
 ## earthaccess
 
 earthaccess is a community-driven Python library that enables access to NASA’s Earth science data with just a few lines of code. (<https://earthaccess.readthedocs.io>)
@@ -106,29 +106,29 @@ earthaccess is a community-driven Python library that enables access to NASA’s
 
 **STAC (SpatioTemporal Asset Catalogs)** \| Goal: To support a broader vision of interoperable metadata cataloguing and to explore earthaccess as a pathway for success (Lead: Danny Kaufman, ASDC and Ian Carroll, OB.DAAC)
 
-::: {.callout-note }
+::: callout-note
 ## STAC
 
 STAC specification is a common language for describing and cataloguing files of geospatial information about the earth captured in a certain space and time. (<https://stacspec.org/>)
 :::
 
-##### *Point-collocation \| Goal: To test and develop pre-existing examples of new user workflows and identify challenges to usability. (Lead: Eli Holmes, NOAA Fisheries)*
+**Point-collocation** \| Goal: To test and develop pre-existing examples of new user workflows and identify challenges to usability. (Lead: Eli Holmes, NOAA Fisheries)
 
-::: {.callout-note }
+::: callout-note
 ## point-collocation
 
 point-collocation is a Python library built as an earthaccess plug-in that can combine data from field stations, animal tracks, survey points, or other lat/lon/time observations and the corresponding satellite or model values from NASA Earthdata (<https://fish-pace.github.io/point-collocation>).
 :::
 
-##### *earthaccess virtual datasets \| Goal: Identifying ergonomic and performance opportunities with earthaccess virtual access patterns. (Lead: Luis Lopez)*
+**earthaccess virtual datasets** \| Goal: Identifying ergonomic and performance opportunities with earthaccess virtual access patterns. (Lead: Luis Lopez)
 
-::: {.callout-note collapse="true"}
+::: {.callout-note}
 ## virtual data stores
 
 Virtual data stores is an approach that enables data that is not cloud-optimized to masquerade as cloud-optimized, something required in order to stream data instead of downloading ([NASA blog](https://www.earthdata.nasa.gov/news/feature-articles/working-non-cloud-optimized-data-just-got-easier), [virtualzarr.cloud](https://virtualzarr.cloud/news)) 
 :::
 
-##### *(Transitioned to a social hour discussion) Earth data in the age of AI agents + how they are changing the game.*
+**Earth data in the age of AI agents + how they are changing the game** \| Transitioned to a social hour discussion
 
 Across all breakout groups there were three themes that emerged time and time again: interoperability, quality control, and user experience challenges. Below we share some of the actions, conversations, and powerful questions that emerged from our time together.
 
@@ -137,7 +137,7 @@ Across all breakout groups there were three themes that emerged time and time ag
 Within the STAC group, participants identified earthaccess as a good place to start hacking on improved interoperability in data cataloging. Challenges the group identified included: richness of [CMR](https://www.earthdata.nasa.gov/about/esdis/eosdis/cmr) (NASA’s common metadata repository), data getting lost, limitations around storing search results for future use, and the necessity to reduce CMR hits in order to increase efficiency. 
 
 ::: blockquote-blue
-> *During the Hackday they asked the following:***What is a small step we can take**
+> *During the Hackday they asked the following:* **What is a small step we can take?**
 :::
 
 As a group they determined their step to be drafting a new section/page for the Earthdata Cloud Cookbook, under Core Concepts to cover Metadata Catalogs. Their time together resulted in drafted language, suggested content, and references to include, outlined in a [GitHub Issue](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook/issues/501).
@@ -146,7 +146,9 @@ As a group they determined their step to be drafting a new section/page for the 
 
 Within the virtual datasets group, they role-played a new user’s experience virtualizing NASA data to test for challenges and stopping points. To do so, they tested the virtualization of data from the Oak Ridge National Laboratory Distributed Active Archive Center (ORNL DAAC) where terrestrial biogeochemistry, ecology, and environmental information is stored. 
 
+::: blockquote-blue
 > *Very quickly the group’s task was complicated and stalled. So they took a step back and asked: **What assumptions are we making about our users?***
+:::
 
 In doing so they determined that a key user assumption was “breaking” the workflow in a place they wanted to be more flexible. Another success was watching this group hit a snag that another researcher in the room, Tom Nicholas (Earthmover), was able to troubleshoot and advise on! They were given direct and actionable feedback that resulted in success that would have been stalled significantly without the improvisation of breakout group collaboration during the Hackday. As a result, by the end of the Hackday their group had determined the steps of a successful, local workflow. They concluded with identifying scalability as a primary challenge to address moving forward.
 

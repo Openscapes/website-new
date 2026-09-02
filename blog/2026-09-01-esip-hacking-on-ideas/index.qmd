@@ -4,28 +4,40 @@ title: "Finding Solutions Faster by Hacking on Ideas with Openscapes at ESIP"
 author:
   - name: Ileana Fenwick 
     orcid: 0009-0002-2900-8236
-  - name: ESIP Hackday Attendees 
-  - name: Openscapes Team  
-  # - name: Amy Steiker, NSIDC DAAC
-  # - name: Mikala	Beig, NSIDC DAAC
-  # - name: Ian Carroll, OB.DAAC
-  # - name: Rupesh Shrestha, ORNL DAAC
-  # - name: Daniel	Kaufman, ASDC
-  # - name: Luis Lopez Espinosa, NSIDC 
-  # - name: Diane Fritz, NSIDC DAAC
-  # - name: Aimee	Neeley, NASA (ICESat-2 Mission Applications lead) 
-  # - name: Eli Holmes, NOAA Fisheries
-  # - name: Julie Lowndes, Openscapes
-  # - name: Ronny	Hernández Mora, Openscapes
-  # - name: Stefanie Butland, Openscapes  
-  # - name: Justin Rice, NASA 
-  # - name: Kate Rose, NOAA NCEI
-  # - name: Roland Schweitzer, NOAA/PMEL
-  # - name: Jimi Sanchez, NASA ESDIS 
-  # - name: Mathew Biddle, NOAA IOOS
-  # - name: Tim Goff, EED3 EDC platform/ RTX 
-  # - name: Katherine Pitts, STC for NOAA/NESDIS/GEO Program Science  
-  # - name: Rich Signell, Open Science Computing
+  - name: Amy Steiker
+    orcid: 0000-0002-3039-0260
+  - name: Mikala	Beig  
+  - name: Ian Carroll
+    orcid: 0000-0002-3616-810X
+  - name: Rupesh Shrestha
+    orcid: 0000-0002-3140-6623
+  - name: Daniel	Kaufman
+    orcid: 0000-0002-1487-7298
+  - name: Luis Lopez Espinosa
+    orcid: 0000-0003-4896-3263
+  - name: Diane Fritz  
+  - name: Aimee	Neeley 
+    orcid: 0000-0001-5701-0953
+  - name: Eli Holmes
+    orcid: 0000-0001-9128-8393
+  - name: Julie Lowndes
+    orcid: 0000-0003-1682-3872
+  - name: Ronny	Hernández Mora
+    orcid: 0000-0001-6225-7096
+  - name: Stefanie Butland
+    orcid: 0000-0002-5427-8951
+  - name: Justin Rice
+  - name: Kate Rose
+  - name: Roland Schweitzer
+    orcid: 0000-0001-8685-544
+  - name: Jimi Sanchez
+    orcid: 0000-0003-0385-5891
+  - name: Mathew Biddle
+  - name: Tim Goff
+  - name: Katherine Pitts
+    orcid: 0000-0001-6201-1467
+  - name: Rich Signell
+    orcid: 0000-0003-0682-9613
 
 date: 2026-09-01
 # draft: true

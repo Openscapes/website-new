@@ -48,7 +48,7 @@ callout-collapse: false
 - [*Agenda Doc*](https://docs.google.com/document/d/17X5B8k1M-2nAA7OoAm7dlBHnWzvD3gyoAgUSfWnKh8A/edit?usp=sharing) *with topic pitches beforehand and live notes during the hackday*
 - [*People, structure, mechanics: How we led the earthaccess December 15 Hackday*](https://openscapes.org/blog/2026-02-04-earthaccess-dec15-hackday/)
 - *ESIP July Meeting Highlights Webinar ([slides](https://zenodo.org/records/22099706), [recording](https://www.youtube.com/watch?v=5cbM78GVufM)) on August 26, 2026*
-- *Powerful Questions [card deck](https://github.com/Openscapes/powerful-questions-card-deck)by Tara Robertson*
+- *Powerful Questions [card deck](https://github.com/Openscapes/powerful-questions-card-deck)* *by Tara Robertson*
 - *Outputs from the Hackday:*
   - [*STAC GitHub issue in the Earthdata Cloud Cookbook*](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook/issues/501)
   - [*Extract model values GitHub Issue in the point-collocation library*](https://github.com/fish-pace/point-collocation/issues/147)

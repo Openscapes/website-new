@@ -11,7 +11,7 @@ date: 2026-06-30
 citation: 
   url: https://openscapes.org/blog/2026-06-30-esa-champions-2026/
 categories: [blog, champions]
-image: logos-openscapes-lampata-esa-earthcode.png
+image: landscape_boxes.png
 ---
 
 *This is a short post about the Hackday we held at NASA User Working Group
@@ -54,8 +54,11 @@ Change](https://www.kotterinc.com/methodology/8-steps/) framework (Kotter,
 7. Building momentum around the change  
 8. Finally, anchoring the change in the organization
 
-TODO: insert image
-![](Figure 1: Our Openscapes landscape with the change framework overlaid )
+
+
+::: {style=""}
+![Figure 1: Our Openscapes landscape with the change framework overlaid](./landscape_boxes.png){fig-alt="Figure 1: Our Openscapes landscape with the change framework overlaid" fig-align="center" width="70%"}
+:::
 
 While these are presented linearly, as we heard in the session and have all
 experienced, we move back and forth through them.
@@ -160,9 +163,9 @@ to digest the input. By and large, there was something useful on every card,
 and people were genuinely surprised how valuable anonymous feedback from someone 
 outside their context turned out to be.
 
-TODO: insert fig
-
-![](Figure 2. Folks discussing the input on their cards)
+::: {style=""}
+![Figure 2. Folks discussing the input on their cards](./workshop.png){fig-alt="Figure 2. Folks discussing the input on their cards" fig-align="center" width="70%"}
+:::
 
 ## **Strategies We Synthesized**
 

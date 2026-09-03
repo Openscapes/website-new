@@ -1,0 +1,36 @@
+---
+title: 'Making Change: What We Learned at the ESIP Session "Bridging Divides and Getting to Yes"'
+author:
+  - name: Julie Lowndes
+    orcid: 0000-0003-1682-3872
+  - name: Stefanie Butland
+    orcid: 0000-0002-5427-8951
+  - name: Ronny Hernández Mora
+    orcid: 0000-0001-6225-7096
+date: 2026-06-30
+citation: 
+  url: https://openscapes.org/blog/2026-06-30-esa-champions-2026/
+categories: [blog, champions]
+image: logos-openscapes-lampata-esa-earthcode.png
+---
+
+*This is a short post about the Hackday we held at NASA User Working Group
+(UWG) Summit, on the heels of the Hackday we led at the 2026 July Meeting! We
+were able to reuse our planning and coordinating process and infrastructure,
+but adapt for a different audience (scientists and support staff from all of
+the NASA Earthdata DAACs), goals, and time constraints. The goal here was to
+gather anyone who’s attending the UWG Summit or from on-site at Goddard, and
+hack on “contributing to open science to make things easier for scientists”
+from policy, social and technical perspectives.*
+
+*Quicklinks:*
+
+- [ESIP Hackday blog post](https://openscapes.org/blog/2026-09-02-esip-hacking-on-ideas/) 
+- [Getting to yes slides on zenodo](https://zenodo.org/me/requests/596f3b2f-73ac-468e-9443-8a96f74a1554#record)  
+- [ESIP Highlight Slide](https://docs.google.com/presentation/d/13ZAFIAgly2yDH5I7md-STQv2PXSJepBzkRnZu8Gs16g/edit?pli=1&slide=id.g3f6a2cd3f22_2_5#slide=id.g3f6a2cd3f22_2_5)
+
+*Cross-posted at *
+
+------------------------------------------------------------------------
+
+

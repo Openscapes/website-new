@@ -24,14 +24,14 @@ categories: [blog, uwg, NASA]
 image: ./uwg_summit_2026_icebreaker.jpg
 ---
 
-* This is a short post about the Hackday we held at NASA User Working Group
+*This is a short post about the Hackday we held at NASA User Working Group
 (UWG) Summit, on the heels of the Hackday we led at the 2026 July Meeting! We
 were able to reuse our planning and coordinating process and infrastructure,
 but adapt for a different audience (scientists and support staff from all of
 the NASA Earthdata DAACs), goals, and time constraints. The goal here was to
 gather anyone who’s attending the UWG Summit or from on-site at Goddard, and
 hack on “contributing to open science to make things easier for scientists”
-from policy, social and technical perspectives. *
+from policy, social and technical perspectives.*
 
 *Quicklinks:*
 

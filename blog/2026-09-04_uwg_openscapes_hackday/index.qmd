@@ -12,7 +12,7 @@ date: 2026-09-04
 citation: 
   url: https://openscapes.org/blog/2026-09-04_uwg_openscapes_hackday/
 categories: [blog, uwg, NASA]
-image: 
+image: ./uwg_summit_2026_icebreaker.jpg
 ---
 
 **
@@ -72,7 +72,7 @@ what each group accomplished – links to their contributions to open science:
 
 
 ::: {style="text-align:center;"}
-![Video conference screen shot of some researchers in the 2026 ESA Openscapes Champions Cohort.](Zoomie-OpenscapesChampions%20%5B%202026-esa%20%5D.png){fig-alt="video conference participants in a 4 by 4 grid. People are smiling and waving" fig-align="center" width="60%"}
+![Icebreaker activity](./uwg_summit_2026_icebreaker.jpg){fig-alt='A whiteboard with red tape forming a triangle labeled “Curious” at the top, “Comfortable” at the lower left, and “Intimidated” at the lower right. Participants placed multicolored sticky notes across the triangle to indicate their feelings and reflections.' fig-align="center" width="60%"}
 :::
 
 There is such value in hackdays / hackweeks / co-creation time in general! We

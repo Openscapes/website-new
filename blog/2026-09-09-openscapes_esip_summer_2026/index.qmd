@@ -152,7 +152,7 @@ convened by Aimee Barciauskas (Development Seed).
 ![Slide from Luis Lopez' talk illustrating how virtualizing data enables people to stream data rather than downloading using  current non-ARCO file structures, with the ultimate goal of AI-Ready Data Cubes](./data_cubes.png){fig-alt="Left-to-right workflow showing fragmented NetCDF, HDF5, and GRIB files progressing through DGGS, Zarr, VirtualiZarr, Icechunk, STAC and earthaccess, and zarr-datafusion. These technologies provide spatially consistent grids, cloud-native chunking, zero-copy access, versioning, data discovery, and efficient querying, culminating in AI-ready data cubes that require minimal preprocessing." fig-align="center" width="60%"}
 :::
 
-## [**Facilitating Scientists' Learning While Stress Testing Open Science Principles via Openscapes**](https://2026julyesipmeeting.sched.com/event/2OZt1/facilitating-scientists-learning-while-stress-testing-open-science-principles-via-openscapes?linkback=grid)
+### [**Facilitating Scientists' Learning While Stress Testing Open Science Principles via Openscapes**](https://2026julyesipmeeting.sched.com/event/2OZt1/facilitating-scientists-learning-while-stress-testing-open-science-principles-via-openscapes?linkback=grid)
 
 For this session we had the NASA Openscapes and NOAA Fisheries Openscapes
 Mentors Alexis Hunzinger (GES DISC), Daniel Kaufman (ASDC), Eli Holmes (NOAA
@@ -200,7 +200,7 @@ successfully.
 ![Julie Lowndes, Alexis Hunzinger, Daniel Kaufman, Mike Liddel, and Eli Holmes sharing their stories and experiences from NASA and NOAA Fisheries.](./stress_testing.JPG){fig-alt="Presenters standing at the front of a conference room. Behind them, projected slides introduce a session on facilitating scientists’ learning while stress-testing open-science principles through Openscapes." fig-align="center" width="60%"}
 :::
 
-## [**Bridging Divides and Getting to Yes**](https://2026julyesipmeeting.sched.com/event/2OZtH/bridging-divides-and-getting-to-yes?linkback=grid)
+### [**Bridging Divides and Getting to Yes**](https://2026julyesipmeeting.sched.com/event/2OZtH/bridging-divides-and-getting-to-yes?linkback=grid)
 
 We asked Erin Robinson to develop and lead this session, and she also authored
 a summary blog post: [Making Change: What We Learned at the ESIP Session
@@ -224,7 +224,7 @@ clearer. Sometimes the path forward was a smaller and more concrete request:
 permission to test an idea, time to develop a pilot, access to IT support, or
 an introduction to a potential collaborator.
 
-## [**earthaccess: Five Years of Open Source Science Leadership at NASA**](https://2026julyesipmeeting.sched.com/event/2OZtQ/earthaccess-five-years-of-open-source-science-leadership-at-nasa?linkback=grid)
+### [**earthaccess: Five Years of Open Source Science Leadership at NASA**](https://2026julyesipmeeting.sched.com/event/2OZtQ/earthaccess-five-years-of-open-source-science-leadership-at-nasa?linkback=grid)
 
 Earthaccess is not only a python library – is a powerful model for open-source
 tool sustainability and user-driven development. It is now widely used not only

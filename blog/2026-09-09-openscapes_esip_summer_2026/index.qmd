@@ -114,7 +114,7 @@ discussions: better tools and data formats matter, but their adoption depends
 on people having the support, trust, and opportunities needed to use and
 sustain them.
 
-[Closing the ARCO Adoption Gap: Modernizing Data Analysis Workflows](https://2026julyesipmeeting.sched.com/event/2OZsm/closing-the-arco-adoption-gap-modernizing-data-analysis-workflows?linkback=grid)
+### [Closing the ARCO Adoption Gap: Modernizing Data Analysis Workflows](https://2026julyesipmeeting.sched.com/event/2OZsm/closing-the-arco-adoption-gap-modernizing-data-analysis-workflows?linkback=grid)
 
 One of the topics nowadays is about workflows in the cloud. Many datasets have
 been adapted or created as Analysis-Ready, Cloud-Optimized (ARCO) data. This

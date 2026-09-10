@@ -1,20 +1,17 @@
 ---
-title: ""
-description: ""
+title: "Collaboration and visioning at the 2026 ESIP Summer Meeting"
 author:
-  - name: Julie Lowndes
-    orcid: 0000-0003-1682-3872
-  - name: Stefanie Butland
-    orcid: 0000-0002-5427-8951
   - name: Ronny Hernández Mora
     orcid: 0000-0001-6225-7096
-  - name:
-    orcid:
+  - name: Julie Lowndes
+    orcid: 0000-0003-1682-3872
+  - name: Ileana Fenwick 
+    orcid: 0009-0002-2900-8236
 date: 2026-09-09
 citation: 
   url: https://openscapes.org/blog/2026-09-09-openscapes_esip_summer_2026
 categories: [blog, ESIP, NASA, NOAA]
-image: .png
+image: ./cover.jpg
 ---
 
 *Openscapes participates in ESIP (Earth Science Information Partners) meetings
@@ -51,8 +48,6 @@ on Wednesday.*
 *Cross-posted at []() and [openscapes.org/blog](https://openscapes.org/blog).*
 
 ------------------------------------------------------------------------
-
-## 
 
 ## **“How was ESIP?”**
 

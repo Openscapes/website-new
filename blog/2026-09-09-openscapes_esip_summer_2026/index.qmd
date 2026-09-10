@@ -69,7 +69,8 @@ use to discover, access, and analyze Earth science data. The meeting left me
 thinking about how much work lies behind every tool and data product—not only
 technical development, but also metadata, documentation, governance,
 maintenance, and the relationships that make collaboration possible. I left
-feeling curious and excited to keep learning.
+feeling curious, excited to keep learning, and thinking in ways I can
+contribute to the efforts!
 
 **Ileana**: As a first time ESIP Summer Meeting attendee I came back excited to
 talk about just how different being at ESIP felt. As an academic researcher by
@@ -152,14 +153,51 @@ Sessions](https://2026julyesipmeeting.sched.com/event/2OZsM/virtual-stores-bridg
 convened by Aimee Barciauskas (Development Seed).
 
 
-::: blockquote-blue
-> *“Having a practice that allows research to continue being used after researchers leave the lab - this resonated with me a lot”* - a participant comment during Call 1
+::: {style="text-align:center;"}
+![Slide from Luis Lopez' talk illustrating how virtualizing data enables people to stream data rather than downloading using  current non-ARCO file structures, with the ultimate goal of AI-Ready Data Cubes](./data_cubes.png){fig-alt="Left-to-right workflow showing fragmented NetCDF, HDF5, and GRIB files progressing through DGGS, Zarr, VirtualiZarr, Icechunk, STAC and earthaccess, and zarr-datafusion. These technologies provide spatially consistent grids, cloud-native chunking, zero-copy access, versioning, data discovery, and efficient querying, culminating in AI-ready data cubes that require minimal preprocessing." fig-align="center" width="60%"}
 :::
+
+## [**Facilitating Scientists' Learning While Stress Testing Open Science Principles via Openscapes**](https://2026julyesipmeeting.sched.com/event/2OZt1/facilitating-scientists-learning-while-stress-testing-open-science-principles-via-openscapes?linkback=grid)
+
+For this session we had the NASA Openscapes and NOAA Fisheries Openscapes
+Mentors Alexis Hunzinger (GES DISC), Daniel Kaufman (ASDC), Eli Holmes (NOAA
+Fisheries), and Mike Liddel (NOAA Fisheries) shared stories and observations
+([slides](https://docs.google.com/presentation/d/1eGe2gRTeQjnWShkesSuj5FI3Gdi4urHVW6vPtyV8mDw/edit?usp=sharing))
+about the process they have been going through to make progress on open science
+activities within the requirements of government agencies. Themes included the
+need to make space for collaboration. The journey to enable this has many
+nuances, and is not always a straight path forward. 
 
 
 ::: {style="text-align:center;"}
-![Video conference screen shot of some researchers in the 2026 ESA Openscapes Champions Cohort.](Zoomie-OpenscapesChampions%20%5B%202026-esa%20%5D.png){fig-alt="video conference participants in a 4 by 4 grid. People are smiling and waving" fig-align="center" width="60%"}
+![New Openscapes art by Allison Horst illustrates an additional feedback loop happening at the same time as the tooling and people loop: innovation and maintenance have the same interplay where one is only possible because of the other, and they are reinforced and stronger because of it.](./openscapes_approach.png){fig-alt="Diagram titled “Openscapes approach—stabilizing infrastructure.” Tooling and people are connected by two-way blue arrows encircling trust, while innovation and maintenance are connected by two-way orange arrows, creating two overlapping and mutually reinforcing feedback loops." fig-align="center" width="60%"}
 :::
 
-## 
+Some of the key takeaways from these stories are that the tooling around open
+science is also social. You need to involve people in the loop. And you can
+involve people when there is trust. "Open Science runs on trust". Danny
+discussed how you have to make “space for serendipity”. Alexis described how
+there is trust and hesitation underlying the various URLs where NASA Earthdata
+tutorials have been available, and how this is a consideration going forward
+for the Cookbook. Eli shared about a listening session where they found that
+“making it possible” is still a big focus for folks, and relies on trust. Mike
+shared about including IT from the beginning on successful projects, since they
+are often experienced with open source work but can also be surprised by the
+open science outputs that researchers create. One key message is that learning
+does not happen in a vacuum\! which means that there are prerequisites such as
+staff time, tools and infrastructure, IT support, leadership and student
+buy-in. 
+
+::: {style="text-align:center;"}
+![Eli Holmes’s slide describing identifying and overcoming barriers to “Make it Possible” including institutional, policy, and end user barriers. Adoption can then develop in layers.](./make_it.png){fig-alt="Five-level pyramid showing the progression of open-data adoption: make it possible, make it easy, make it normative, make it rewarding, and make it required. The highlighted base asks about barriers to implementation, including institutional or organizational, policy, and end-user barriers." fig-align="center" width="60%"}
+:::
+
+The session reflected on how progress is possible because there is a loop on
+which trust is involved: trust in the people, trust in the time allocated,
+trust in the outputs produced, trust in the process and interactions that can
+happen here (sometimes is not planned and is serendipity!) This progression
+matters because simply requiring a new practice does not guarantee meaningful
+adoption. People first need the time, support, and opportunity to use it
+successfully.
+
 

@@ -201,3 +201,101 @@ adoption. People first need the time, support, and opportunity to use it
 successfully.
 
 
+::: {style="text-align:center;"}
+![Julie Lowndes, Alexis Hunzinger, Daniel Kaufman, Mike Liddel, and Eli Holmes sharing their stories and experiences from NASA and NOAA Fisheries.](./stress_testing.JPG){fig-alt="Presenters standing at the front of a conference room. Behind them, projected slides introduce a session on facilitating scientists’ learning while stress-testing open-science principles through Openscapes." fig-align="center" width="60%"}
+:::
+
+## [**Bridging Divides and Getting to Yes**](https://2026julyesipmeeting.sched.com/event/2OZtH/bridging-divides-and-getting-to-yes?linkback=grid)
+
+We asked Erin Robinson to develop and lead this session, and she also authored
+a summary blog post: [Making Change: What We Learned at the ESIP Session
+“Bridging Divides and Getting to
+Yes”](https://openscapes.org/blog/2026-09-03-getting_to_yes/). Speakers Michele
+Thornton, Eli Holmes, Michael Liddel, Julia Lowndes shared short stories of
+what it looked like to “get to yes”
+([slides](https://docs.google.com/presentation/d/1_IJYoaYZZ1AbqfJEjVmwIna_i-QEnuK7FlkywSm5mlc/edit?usp=sharing))
+regarding moving ideas forward. 
+
+A common pattern emerged: receiving a “no” did not necessarily mean that the
+idea had reached its end. Instead, it created an opportunity to step back and
+ask what was preventing others from saying yes. Was the request reaching the
+right person? Were the benefits clear? Did the proposal respond to the needs of
+the people who would use the tool, process, or data? Were concerns about time,
+resources, risk, or responsibility still unresolved? Getting to “yes,”
+therefore, was not simply about making the same request more forcefully. It
+involved understanding other perspectives, identifying the people whose support
+was needed, and reframing or adjusting the proposal so that its value became
+clearer. Sometimes the path forward was a smaller and more concrete request:
+permission to test an idea, time to develop a pilot, access to IT support, or
+an introduction to a potential collaborator.
+
+## [**earthaccess: Five Years of Open Source Science Leadership at NASA**](https://2026julyesipmeeting.sched.com/event/2OZtQ/earthaccess-five-years-of-open-source-science-leadership-at-nasa?linkback=grid)
+
+Earthaccess is not only a python library – is a powerful model for open-source
+tool sustainability and user-driven development. It is now widely used not only
+because it solves real user problems, but because it has been intentionally
+developed openly and amplified via storytelling. This session was a celebration
+of 5 years of open science leadership. We shared several short stories: What is
+earthaccess and current impact; Why is this so widely known?; How we work: open
+governance**;** Current focus: virtualizing, AI-preparation; and Untold
+enabling stories. earthaccess was born out of the necessity to simplify the
+process of accessing the data by reducing the need to deal with different
+workflows, data centers, cloud object storage, credentials and so on. This
+session was also followup from our 2025 ESIP FUNding Friday award.
+[Slides](https://docs.google.com/presentation/d/1zZv_Q8vGeZVNJ9xarnQveZwgvBcB39hyyW2-bE2jl0c/edit?usp=sharing)
+were presented by Ian Carroll, Amy Steiker, Danny Kaufman, Luis López, Joseph
+Kennedy, Julie Lowndes, Justin Rice.
+
+::: {style="text-align:center;"}
+![Ian Carroll, Amy Steiker, Danny Kaufman, Luis López, Joseph Kennedy, Julie Lowndes, Justin Rice shared their experiences with the library’s origins and development, its open governance and growing community, and the work shaping its future.](./earthaccess_presenters.jpg){fig-alt="pose together beneath a slide describing the earthaccess Python library as a technical and social bridge between NASA Earthdata and scientific research. pose together beneath a slide describing the earthaccess Python library as a technical and social bridge between NASA Earthdata and scientific research." fig-align="center" width="60%"}
+:::
+
+The future for `earthaccess v1.0` is expanding toward virtual data sources that
+allow people to work with cloud-hosted data through tools such as xarray
+without first copying entire datasets. Its roadmap toward version 1.0 includes
+a stable API, performance improvements, virtual data stores, STAC
+interoperability, and a plugin architecture. Together, these developments show
+that open-source science leadership involves more than creating useful
+software: it requires sustained outreach, shared governance, and continued
+adaptation to emerging scientific needs.
+
+Since ESIP, Andy Barrett also gave a live demo about earthaccess during an
+Earthdata Webinar short: [Using the earthaccess Python Library to Stream
+Data](https://www.earthdata.nasa.gov/events/using-earthaccess-python-library-stream-data)\!
+
+## **Making plans for next steps after ESIP**
+
+**On Thursday afternoon at ESIP, there was unconf time:** open time during the
+event to discuss or work on something that has come up during the meeting. This
+year, we pitched and then used this time to vision the Openscapes Mentor
+community going forward at NASA Earthdata. There is an upcoming NASA Townhall
+this Fall where we will learn more about NASA’s plans, stay tuned as we learn
+more\!
+
+**Winning ESIP FUNding Friday\!** This year our team member Ileana Fenwick won
+ESIP’s FUNding Friday mini-grant for $5,000 with a proposal entitled “Two
+stepping into student data fun\!” Ileana says: we aim for this funding to
+support exploring how novice users approach and use for the first time open
+access tools and resources. A highlight of the trip was watching the idea move
+from a series of Slack messages to a collaborative pitch from conversation and
+discussion around the concept of new user experiences. Specifically, we are
+collaborating with earthaccess developers to test with university students,
+with a path for feeding the feedback directly to their team. ESIP really does
+know how to put the FUN in FUNding, because in this mini-grant competition the
+encouragement to collaborate creates a fun evening of conversation, idea
+iteration, and of course illustration (and for us two-stepping\!) for the
+competition poster. We are looking forward to ESIP’s Summer Meeting in 2027 to
+report out\! 
+
+**One thought stayed with us after the meeting: no matter how much data we
+collect or how sophisticated our tools become, people remain at the center.**
+It is people who use these resources to make decisions, understand our world,
+adapt to change, and improve quality of life. It is people who connect the
+data, technologies, and ideas, that progress depends on our ability to
+communicate, build trust, create spaces for collaboration, and learn from and
+teach one another. To the question, How will people using AI interact with
+Earth science data products? There is no single answer, but several pieces need
+to come together to prevent data from becoming invisible for AI tools.
+Technology will continue to change, but working together is how we will move
+forward. 
+

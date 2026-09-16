@@ -6,8 +6,8 @@ author:
 date: 2026-09-16
 citation: 
   url: https://openscapes.org/blog/2026-09-16-federal_data_science_management
-categories: [blog, ]
-image: ./cover.jpg
+categories: [blog, how-we-work]
+image: ./thumbnail.png
 ---
 
 ## Turning over a new leaf {#new-leaf}

@@ -10,6 +10,25 @@ categories: [blog, how-we-work]
 image: ./thumbnail.png
 ---
 
+_I wrote this in December 2022, in my last weeks at the U.S. Geological Survey
+after ten years there, most of them spent building the water data science
+capability that became a branch in the Water Mission Area. It was written for
+whoever took the job next, and for anyone else trying to grow a technical team
+inside a large federal organization._
+
+_I'm now CEO of CUAHSI, a university consortium that supports water science with
+shared data infrastructure, training, and convening. Different setting, but I'm
+still focused on creating the conditions for other people to do great water
+science work together._
+
+_A few notes for 2026: The post describes the branch as existed in 2022, and a
+lot has changed at USGS since, so read it as a record rather than a current
+description. Some of the links point to pages that have moved or been retired,
+and I've noted those where they appear. The shared values in Box 1 were written
+by the whole group back in 2022 and are still useful to look back on._
+
+------------------------------------------------------------------------
+
 ## Turning over a new leaf {#new-leaf}
 
 ::: {style="text-align:center;"}

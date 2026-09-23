@@ -27,6 +27,8 @@ description. Some of the links point to pages that have moved or been retired,
 and I've noted those where they appear. The shared values in Box 1 were written
 by the whole group back in 2022 and are still useful to look back on._
 
+*Cross-posted at [nasa-openscapes.github.io/news](https://nasa-openscapes.github.io/news.html), [nmfs-openscapes.github.io/blog](https://nmfs-openscapes.github.io/blog.html) and [openscapes.org/blog](https://openscapes.org/blog).*
+
 ------------------------------------------------------------------------
 
 ## Turning over a new leaf {#new-leaf}
@@ -174,7 +176,7 @@ right had to be a priority. We completely reimagined hiring and what we came up
 with blossomed into a bit of a model for other parts of the organization (see
 blog on [data sci/ML
 hiring](https://waterdata.usgs.gov/blog/hiring-spring-2021) and [viz
-hiring](https://waterdata.usgs.gov/blog/viz-hires-2021)). Because our hiring
+hiring](https://waterdata.usgs.gov/blog/viz-hires-2021))[*](#shared-note). [*These blog posts are no longer available.]{#shared-note .aside}
 efforts are covered in other blogs, I won't say much more about it. But it is
 neat to reflect that we took something that many federal managers view as the
 low point of their work (navigating the hiring processes) and turned it into
@@ -247,7 +249,7 @@ exploration (too much oversight on each employee's time investments) could
 lead to less confidence in making smaller research leaps within the normal
 levels of uncertainty found in data science work.
 - ***Example:*** Our highly successful [Vizlab
-capability](https://labs.waterdata.usgs.gov/visualizations) was created after
+capability](https://labs.waterdata.usgs.gov/visualizations)[*](#shared-note). was created after
 we led a two-day hackathon for staff in 2014 and produced a [drought
 visualization](https://labs.waterdata.usgs.gov/visualizations/ca_drought/index.html)
 that was retweeted by John Podesta, who was a Senior Advisor to the White
@@ -293,7 +295,7 @@ that are higher graded and have a general position description, allowing
 their use for multiple employees doing different types of specialty work. We
 also created new team lead supervisors that are higher graded (read more
 about those positions
-[here](https://waterdata.usgs.gov/blog/supervisory-hires-fall-2022)). Each of
+[here](https://waterdata.usgs.gov/blog/supervisory-hires-fall-2022)[*](#shared-note).). Each of
 these required a 2+ year effort to establish.
 
 #### Craft an identity and scope that is narrow enough for excellence but wide enough to sustain work and funding {#scope}
@@ -357,7 +359,7 @@ materialize in the short-term. I'd recommend you go there as a team.
 - ***Example:*** New hiring efforts have distributed leadership within our
 data science branch and the larger division we operate in. Several staff have
 led these efforts ([Cee](https://www.usgs.gov/staff-profiles/cee-nell) and
-[Julie P](https://www.usgs.gov/staff-profiles/julie-padilla), for example)
+[Julie P](https://www.usgs.gov/staff-profiles/julie-padilla), for example)[*](#shared-note).
 and we co-developed the original approaches with other data-intensive
 managers ([Emily](https://www.usgs.gov/staff-profiles/emily-k-read) and
 [Julie K](https://www.usgs.gov/staff-profiles/julie-e-kiang)) and data
@@ -396,8 +398,6 @@ years and to the countless others that we've learned from. Remember to have fun
 along the way.
 
 ## Note
-
-This blog was edited on February 7, 2025
 
 *Any use of trade, firm, or product names is for descriptive purposes only and
 does not imply endorsement by the U.S. Government.*

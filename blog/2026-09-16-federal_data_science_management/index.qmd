@@ -174,7 +174,7 @@ shown the door back out. Since the success of our efforts depends on our
 ability to attract and hire people to do data science work, getting hiring
 right had to be a priority. We completely reimagined hiring and what we came up
 with blossomed into a bit of a model for other parts of the organization (see
-blog on _data sci/ML hiring_ and _viz hiring_ (*These blog
+blog on _data sci/ML hiring_ and _viz hiring_) (*These blog
 posts are no longer available*) efforts are covered in
 other blogs, I won't say much more about it. But it is neat to reflect that we
 took something that many federal managers view as the low point of their work
@@ -246,8 +246,8 @@ lead to a poor reputation from failing to deliver on time. Too little
 exploration (too much oversight on each employee's time investments) could lead
 to less confidence in making smaller research leaps within the normal levels of
 uncertainty found in data science work.
-- ***Example:*** Our highly successful _Vizlab capability_(This blogpost is no 
-longer available) was
+- ***Example:*** Our highly successful _Vizlab capability_ (*This blogpost is no 
+longer available*) was
 created after we led a two-day hackathon for staff in 2014 and produced a
 [drought visualization](https://labs.waterdata.usgs.gov/visualizations/ca_drought/index.html)
 that was retweeted by John Podesta, who was a Senior Advisor to the White House
@@ -292,7 +292,7 @@ classification.
 that are higher graded and have a general position description, allowing their
 use for multiple employees doing different types of specialty work. We also
 created new team lead supervisors that are higher graded (read more about those
-positions _here_(This blogpost is no longer available). Each of these required
+positions _here_ (*This blogpost is no longer available*). Each of these required
 a 2+ year effort to establish.
 
 #### Craft an identity and scope that is narrow enough for excellence but wide enough to sustain work and funding {#scope}
@@ -356,7 +356,7 @@ materialize in the short-term. I'd recommend you go there as a team.
 - ***Example:*** New hiring efforts have distributed leadership within our
 data science branch and the larger division we operate in. Several staff have
 led these efforts ([Cee](https://www.usgs.gov/staff-profiles/cee-nell) and
-_Julie P_ for example)(This webpage is no longer available).
+_Julie P_ for example) (*This webpage is no longer available*).
 and we co-developed the original approaches with other data-intensive
 managers ([Emily](https://www.usgs.gov/staff-profiles/emily-k-read) and
 [Julie K](https://www.usgs.gov/staff-profiles/julie-e-kiang)) and data

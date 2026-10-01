@@ -19,3 +19,7 @@ learn new skills and get hands-on help for your own work. Travel support is
 available! 
 
 See [details and registration](https://esa-earthcode.github.io/2026-earthcode-hackathon/registration.html)
+
+::: {style="text-align:center;"}
+![](https://esa-earthcode.github.io/2026-earthcode-hackathon/img/home-header.png){Three side-by-side maps showing surface elevation change as scattered colored points, ice sheet temperature profiles as purple-to-yellow raster patches, and ice speed as a purple, green, and yellow overlay highlighting branching flow patterns.}
+:::

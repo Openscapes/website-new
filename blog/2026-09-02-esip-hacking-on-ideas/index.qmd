@@ -161,7 +161,7 @@ As a group they determined their step to be drafting a new section/page for the 
 Within the virtual datasets group, they role-played a new user’s experience virtualizing NASA data to test for challenges and stopping points. To do so, they tested the virtualization of data from the Oak Ridge National Laboratory Distributed Active Archive Center (ORNL DAAC) where terrestrial biogeochemistry, ecology, and environmental information is stored. 
 
 ::: blockquote-blue
-> *Very quickly the group’s task was complicated and stalled. So they took a step back and asked: **What assumptions are we making about our users?***
+> *Very quickly the group’s task was complicated and stalled. So they took a step back and asked:* **What assumptions are we making about our users?**
 :::
 
 In doing so they determined that a key user assumption was “breaking” the workflow in a place they wanted to be more flexible. Another success was watching this group hit a snag that another researcher in the room, Tom Nicholas (Earthmover), was able to troubleshoot and advise on! They were given direct and actionable feedback that resulted in success that would have been stalled significantly without the improvisation of breakout group collaboration during the Hackday. As a result, by the end of the Hackday their group had determined the steps of a successful, local workflow. They concluded with identifying scalability as a primary challenge to address moving forward.

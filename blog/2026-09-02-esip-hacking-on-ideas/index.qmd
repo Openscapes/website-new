@@ -33,6 +33,7 @@ author:
   - name: Jimi Sanchez
     orcid: 0000-0003-0385-5891
   - name: Mathew Biddle
+    orcid: 0000-0003-4897-1669
   - name: Tim Goff
   - name: Katherine Pitts
     orcid: 0000-0001-6201-1467

@@ -6,7 +6,7 @@ author:
   - name: NASA Openscapes Mentors 
 #    url: {}
 date: "2025-11-13"
-categories: [event, champions, community-call, nasa-framework]
+categories: [event, champions, nasa-framework]
 image: nasa-openscapes-earthaccess-logos.png
 ---
 

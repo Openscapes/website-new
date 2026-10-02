@@ -19,7 +19,7 @@ image: elliot-lowndes-sierra-2S2A9772-HDR-small.jpg
 <!--- **Time**: 9:30 - 11:00 am PT ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Openscapes+Community+Call%3A+Open+Communities+in+the+age+of+AI&iso=20261001T0930&p1=256&ah=1&am=30))\
 **Register (free)** via [Zoom](https://zoom.us/meeting/register/pFm2iOW7QxiIuthx0PmbvQ) to get the meeting link.
 --->
-**View** [recording] (https://youtu.be/tc3oj8UEAPQ); blog post to come.
+**View** [recording](https://youtu.be/tc3oj8UEAPQ); [notes doc](https://docs.google.com/document/d/16xDtQnUcZl70_0NhiV5L7OQ5om3dpyXMz6mNiBp-5W4/); blog post to come.
 
 ### Speakers
 

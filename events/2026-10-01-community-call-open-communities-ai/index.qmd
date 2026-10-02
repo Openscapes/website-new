@@ -16,10 +16,10 @@ image: elliot-lowndes-sierra-2S2A9772-HDR-small.jpg
 **Join us for an Openscapes Community Call**, where we’ll hear speakers’ perspectives and have a facilitated discussion with panelists attendees about the changes communities are seeing, and what we can do to ensure they continue to grow and thrive and provide benefits to current and future community members.
 
 **Date**: Thursday, October 1, 2026\
-**Time**: 9:30 - 11:00 am PT ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Openscapes+Community+Call%3A+Open+Communities+in+the+age+of+AI&iso=20261001T0930&p1=256&ah=1&am=30))\
+<!--- **Time**: 9:30 - 11:00 am PT ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Openscapes+Community+Call%3A+Open+Communities+in+the+age+of+AI&iso=20261001T0930&p1=256&ah=1&am=30))\
 **Register (free)** via [Zoom](https://zoom.us/meeting/register/pFm2iOW7QxiIuthx0PmbvQ) to get the meeting link.
-
-<!--- **View** [recording] (https://youtu.be/t8gUSUlSqnc) and [summary] (/blog/LINK).--->
+--->
+**View** [recording] (https://youtu.be/tc3oj8UEAPQ); blog post to come.
 
 ### Speakers
 

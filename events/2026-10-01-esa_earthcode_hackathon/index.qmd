@@ -1,7 +1,6 @@
 ---
 title: "EarthCODE Hackathon 2026"
 author:
-    orcid: 0000-0003-1682-3872 
 date: 2026-11-30
 citation: 
   url: https://openscapes.org/blog/2026-10-01-esa_earthcode_hackthon

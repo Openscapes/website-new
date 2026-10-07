@@ -1,5 +1,6 @@
 ---
-title: "EarthCODE Hackathon 2026"
+title: "ESA EarthCODE Hackathon 2026"
+subtitle: "The European Space Agency supports open science skillbuilding with Openscapes"
 author: Openscapes
 date: 2026-11-30
 citation: 
@@ -9,12 +10,7 @@ image: https://esa-earthcode.github.io/2026-earthcode-hackathon/img/home-header.
 bibliography: references.bib
 ---
 
-Please join us at the 2026 EarthCODE Hackathon, which will be held from
-November 30 - December 4, 2026 at ESA ESRIN, Frascati, Italy. The event will
-provide an opportunity to bring the communities who are using EarthCODE tools
-and services as close as possible to the people who are building them. You will
-learn new skills and get hands-on help for your own work. Travel support is
-available! 
+Please join us at the 2026 European Space Agency (ESA) EarthCODE Hackathon, which will be held from November 30 - December 4, 2026 at ESA ESRIN, Frascati, Italy. The event will provide an opportunity to bring the communities who are using EarthCODE tools and services as close as possible to the people who are building them. You will learn new skills and get hands-on help for your own work. Travel support is available! 
 
 See [details and register](https://esa-earthcode.github.io/2026-earthcode-hackathon/registration.html)!
 

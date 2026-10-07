@@ -4,7 +4,7 @@ author:
 date: 2026-11-30
 citation: 
   url: https://openscapes.org/blog/2026-10-01-esa_earthcode_hackthon
-categories: [blog, esa]
+categories: [event, esa]
 image: https://esa-earthcode.github.io/2026-earthcode-hackathon/img/home-header.png
 bibliography: references.bib
 ---

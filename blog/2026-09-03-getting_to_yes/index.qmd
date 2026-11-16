@@ -14,7 +14,7 @@ author:
 date: 2026-09-03
 citation: 
   url: https://openscapes.org/blog/2026-09-03-getting_to_yes/
-categories: [blog, ESIP, NASA, NOAA]
+categories: [blog, conference, nasa-framework, noaa-fisheries]
 image: landscape_boxes.png
 ---
 

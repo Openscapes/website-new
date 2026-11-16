@@ -17,7 +17,7 @@ author:
 date: 2026-06-30
 citation: 
   url: https://openscapes.org/blog/2026-06-30-esa-champions-2026/
-categories: [blog, champions]
+categories: [blog, esa, champions]
 image: logos-openscapes-lampata-esa-earthcode.png
 ---
 

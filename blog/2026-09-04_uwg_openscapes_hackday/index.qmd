@@ -20,7 +20,7 @@ author:
 date: 2026-09-04
 citation: 
   url: https://openscapes.org/blog/2026-09-04_uwg_openscapes_hackday/
-categories: [blog, uwg, NASA]
+categories: [blog, nasa-framework]
 image: ./uwg_summit_2026_icebreaker.jpg
 ---
 

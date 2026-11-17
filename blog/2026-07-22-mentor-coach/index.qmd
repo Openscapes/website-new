@@ -16,7 +16,7 @@ author:
 date: 2026-07-22
 citation: 
   url: https://openscapes.org/blog/2026-07-22-mentor-coach/
-categories: [blog, noaa-fisheries, nasa-framework, water-boards]
+categories: [blog, noaa-fisheries, nasa-framework, water-boards, how-we-work]
 image: mrlowndes-bee.jpg
 ---
 

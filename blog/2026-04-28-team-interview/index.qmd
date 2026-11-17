@@ -7,7 +7,7 @@ author:
 date: 2026-04-28
 citation: 
   url: https://openscapes.org/news/2026-04-28-team-interview/
-categories: [blog, nasa-framework, noaa-fisheries]
+categories: [blog, nasa-framework, noaa-fisheries, how-we-work]
 image: team.png
 bibliography: references.bib
 ---

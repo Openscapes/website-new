@@ -10,7 +10,7 @@ author:
 date: 2026-09-09
 citation: 
   url: https://openscapes.org/blog/2026-09-09-openscapes_esip_summer_2026
-categories: [blog, ESIP, NASA, NOAA]
+categories: [blog, conference, noaa-fisheries, nasa-framework]
 image: ./cover.jpg
 ---
 

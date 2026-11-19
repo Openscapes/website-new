@@ -41,7 +41,9 @@ image: communities-give-you-people.png
 
 It has been just over a month since Openscapes hosted the [Community Call: Open Communities in the age of AI](https://openscapes.org/events/2026-10-01-community-call-open-communities-ai/). Why the long delay in this post? Because it was something *really* good. So good, in fact, that I (Mara) was reticent to recap it—not wanting to diminish what was said. However, the video and notes are available on the call page, so here is a synthesis, not of what was said, but where we (the four panelists) converged. The topic, as Openscapes described it, had a very specific aim:
 
+::: {.blockquote-blue}
 > “We want to talk about the impact of AI on the growth and maintenance of communities, and the people in those communities. There are discussions happening in many Open Source communities about how to manage and use AI effectively and responsibly \- discussions about increased burden on maintainers, policies for AI-written PRs, etc. Those are important conversations, however, **the conversations about impacts of AI on communities are rare**.”[^1]
+:::
 
 ## **How events like this happen**
 
